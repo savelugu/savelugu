@@ -28,6 +28,17 @@ cropped_logo =load_image(cropped)
 logo_base64 = load_image(logo_path)
 # Define a function to create a capacity-building training plan
 
+# Sidebar with custom logo and navigation menu
+with st.sidebar:
+    # Adding the logo with custom styling
+    st.markdown(
+        f'''
+        <div style="text-align: center; padding: 5px; background-color: black;">
+            <img src="data:image/png;base64,{cropped_logo}" alt="Logo" style="width: 100px;">
+        </div>
+        ''',
+        unsafe_allow_html=True,
+    )
 
 
 def create_card(title, value, image_path=None):
