@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import pydeck as pdk
 import base64
-
+import plotly.graph_objects as go
 
 st.set_page_config(
     page_title="Savelugu Municipal Report",
@@ -321,7 +321,67 @@ proj_df = pd.DataFrame({
     "Male Population": male_pop,
     "Female Population": female_pop
 })
-st.line_chart(proj_df.set_index("Year"))
+# Create frames for each year
+frames = []
+for i in range(len(proj_df)):
+    year = proj_df.loc[i, "Year"]
+    frame_data = [
+        go.Scatter(x=proj_df["Year"][:i+1], y=proj_df["Total Population"][:i+1], mode='lines+markers', name="Total Population"),
+        go.Scatter(x=proj_df["Year"][:i+1], y=proj_df["Male Population"][:i+1], mode='lines+markers', name="Male Population"),
+        go.Scatter(x=proj_df["Year"][:i+1], y=proj_df["Female Population"][:i+1], mode='lines+markers', name="Female Population"),
+    ]
+    frames.append(go.Frame(data=frame_data, name=year))
+
+# Initial figure
+fig_proj = go.Figure(
+    data=[
+        go.Scatter(x=[proj_df["Year"][0]], y=[proj_df["Total Population"][0]], mode='lines+markers', name="Total Population"),
+        go.Scatter(x=[proj_df["Year"][0]], y=[proj_df["Male Population"][0]], mode='lines+markers', name="Male Population"),
+        go.Scatter(x=[proj_df["Year"][0]], y=[proj_df["Female Population"][0]], mode='lines+markers', name="Female Population"),
+    ],
+    layout=go.Layout(
+        title="Population Projections (2021–2032)",
+        xaxis=dict(tickmode='linear'),
+        yaxis=dict(title="Population"),
+        updatemenus=[{
+            "buttons": [
+                {
+                    "args": [None, {"frame": {"duration": 500, "redraw": True}, "fromcurrent": True}],
+                    "label": "Play",
+                    "method": "animate"
+                },
+                {
+                    "args": [[None], {"frame": {"duration": 0, "redraw": True}, "mode": "immediate"}],
+                    "label": "Pause",
+                    "method": "animate"
+                }
+            ],
+            "direction": "left",
+            "pad": {"r": 10, "t": 87},
+            "showactive": False,
+            "type": "buttons",
+            "x": 0.1,
+            "xanchor": "right",
+            "y": 0,
+            "yanchor": "top"
+        }],
+        sliders=[{
+            "active": 0,
+            "steps": [
+                {
+                    "method": "animate",
+                    "label": str(year),
+                    "args": [[str(year)], {"frame": {"duration": 300, "redraw": True}, "mode": "immediate"}]
+                }
+                for year in proj_df["Year"]
+            ]
+        }]
+    ),
+    frames=frames
+)
+
+# Display in Streamlit
+st.plotly_chart(fig_proj, use_container_width=True)
 
 with st.expander("📋 View Raw Projection Table"):
     st.dataframe(proj_df, use_container_width=True)
@@ -333,14 +393,6 @@ st.success("🚽 **Address water, sanitation, and housing material** deficits")
 st.warning("👧 **Promote adult literacy and girl-child school retention** programs")
 st.error("🎯 **Target MPI indicators** for focused and measurable poverty reduction")
 
-# 15. Conclusion
-st.markdown("### 15. Conclusion")
-st.success("""
-Savelugu Municipal is experiencing rapid demographic change with strong urban growth, high youth population, 
-and persistent poverty challenges. With over 122,000 people and a density of 79.27/km², 
-targeted investments in education, sanitation, employment, and infrastructure are essential 
-to meet the needs of this growing population and reduce multidimensional poverty.
-""")
 
 
 st.subheader("📊 Poverty vs Key Infrastructure Indicators")
@@ -507,8 +559,6 @@ with col2:
 
 st.divider()
 
-
-<<<<<<< HEAD
 # Sidebar Filter for Poverty Breakdown Charts
 st.sidebar.markdown("### 📂 Filter Poverty Data")
 selected_chart = st.sidebar.selectbox(
@@ -614,5 +664,13 @@ fig.update_layout(
 )
 
 st.plotly_chart(fig, use_container_width=True)
-=======
->>>>>>> c36dc7ef43d3d45b2ca1509a52ea3449ce8f8cac
+
+
+# 15. Conclusion
+st.markdown("### 15. Conclusion")
+st.success("""
+Savelugu Municipal is experiencing rapid demographic change with strong urban growth, high youth population, 
+and persistent poverty challenges. With over 122,000 people and a density of 79.27/km², 
+targeted investments in education, sanitation, employment, and infrastructure are essential 
+to meet the needs of this growing population and reduce multidimensional poverty.
+""")
