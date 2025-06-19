@@ -508,46 +508,6 @@ with col2:
 st.divider()
 
 
-# Sample data from your chart
-data = {
-    "Indicator": [
-        "Mortality", "School", "Assets", "Electricity", "Cooking",
-        "Overcrowding", "Drinking", "Housing", "Toilet", "School lag",
-        "School (attendance)", "Health", "Employment"
-    ],
-    "Deprivation (%)": [
-        0.4, 1.2, 1.8, 2.0, 2.6, 2.8, 4.6, 5.8, 7.9, 9.1, 9.5, 19.3, 35.6
-    ],
-    "Domain": [
-        "attainment", "attainment", "fuel", "fuel", "fuel", 
-        "fuel", "water", "water", "water", "attendance insurance", 
-        "attendance insurance", "attendance insurance", "attendance insurance"
-    ]
-}
-
-# Create DataFrame
-df = pd.DataFrame(data)
-
-# Plotly bar chart
-fig = px.bar(
-    df,
-    x="Indicator",
-    y="Deprivation (%)",
-    color="Domain",
-    title="Deprivation in 13 indicators Multidimensional Deprivation by Indicator",
-    labels={"Indicator": "Indicator", "Deprivation (%)": "Deprivation (%)"},
-    text="Deprivation (%)",
-)
-
-fig.update_traces(texttemplate='%{text:.1f}', textposition='outside')
-fig.update_layout(xaxis_tickangle=-45, height=600)
-
-# Streamlit display
-st.plotly_chart(fig, use_container_width=True)
-
-
-#Filters--------------------------------------------------------------------------#
-
 # Sidebar Filter for Poverty Breakdown Charts
 st.sidebar.markdown("### 📂 Filter Poverty Data")
 selected_chart = st.sidebar.selectbox(
@@ -653,4 +613,3 @@ fig.update_layout(
 )
 
 st.plotly_chart(fig, use_container_width=True)
-
