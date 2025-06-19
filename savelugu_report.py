@@ -19,7 +19,7 @@ def load_image(image_path):
         return base64.b64encode(image_file.read()).decode()
 # Define your logo and animation paths
 logo_path = "./Images/combo.gif"
-cropped = "./Images/cropped.png"
+cropped = "./Images/coat.png"
 animation_home_path = "./Animations/home.json"
 animation_employee_path = "./Animations/employee.json"
 image_path = "./Images/login.png"
@@ -506,3 +506,151 @@ with col2:
     st.plotly_chart(fig_head_dist)
 
 st.divider()
+
+
+# Sample data from your chart
+data = {
+    "Indicator": [
+        "Mortality", "School", "Assets", "Electricity", "Cooking",
+        "Overcrowding", "Drinking", "Housing", "Toilet", "School lag",
+        "School (attendance)", "Health", "Employment"
+    ],
+    "Deprivation (%)": [
+        0.4, 1.2, 1.8, 2.0, 2.6, 2.8, 4.6, 5.8, 7.9, 9.1, 9.5, 19.3, 35.6
+    ],
+    "Domain": [
+        "attainment", "attainment", "fuel", "fuel", "fuel", 
+        "fuel", "water", "water", "water", "attendance insurance", 
+        "attendance insurance", "attendance insurance", "attendance insurance"
+    ]
+}
+
+# Create DataFrame
+df = pd.DataFrame(data)
+
+# Plotly bar chart
+fig = px.bar(
+    df,
+    x="Indicator",
+    y="Deprivation (%)",
+    color="Domain",
+    title="Deprivation in 13 indicators Multidimensional Deprivation by Indicator",
+    labels={"Indicator": "Indicator", "Deprivation (%)": "Deprivation (%)"},
+    text="Deprivation (%)",
+)
+
+fig.update_traces(texttemplate='%{text:.1f}', textposition='outside')
+fig.update_layout(xaxis_tickangle=-45, height=600)
+
+# Streamlit display
+st.plotly_chart(fig, use_container_width=True)
+
+
+#Filters--------------------------------------------------------------------------#
+
+# Sidebar Filter for Poverty Breakdown Charts
+st.sidebar.markdown("### 📂 Filter Poverty Data")
+selected_chart = st.sidebar.selectbox(
+    "Select Poverty Breakdown:",
+    (
+        "By Sex of Head of Household",
+        "By Household Size",
+        "By Educational Level",
+        "By Sector of Employment",
+        "By Economic Sector"
+    )
+)
+
+# Chart: Multidimensional Poverty Breakdown
+if selected_chart == "By Sex of Head of Household":
+    data = {
+        "Sex of Head": ["Savelugu Municipal", "Female", "Male"],
+        "Poverty Rate (%)": [41.1, 56.6, 37.7]
+    }
+    df = pd.DataFrame(data)
+    title = "Multidimensional Poverty by Sex of Head of Household - Savelugu Municipal"
+    y_col = "Sex of Head"
+
+elif selected_chart == "By Household Size":
+    data = {
+        "Household Size": [
+            "Savelugu Municipal",
+            "One to four members",
+            "Five to nine members",
+            "Ten or more members"
+        ],
+        "Poverty Rate (%)": [41.1, 38.4, 40.7, 44.3]
+    }
+    df = pd.DataFrame(data)
+    title = "Multidimensional Poverty by Household Size - Savelugu Municipal"
+    y_col = "Household Size"
+
+elif selected_chart == "By Educational Level":
+    data = {
+        "Education Level": [
+            "Savelugu Municipal",
+            "No education",
+            "Basic",
+            "Secondary",
+            "Post secondary",
+            "Tertiary",
+            "Other"
+        ],
+        "Poverty Rate (%)": [41.1, 45.7, 30.9, 29.3, 22.7, 15.3, 16.7]
+    }
+    df = pd.DataFrame(data)
+    title = "Multidimensional Poverty by Educational Level of Head of Household - Savelugu Municipal"
+    y_col = "Education Level"
+
+elif selected_chart == "By Sector of Employment":
+    data = {
+        "Sector of Employment": [
+            "Savelugu Municipal",
+            "Private Informal",
+            "Private Formal",
+            "Public",
+            "Other",
+            "Not Working"
+        ],
+        "Poverty Rate (%)": [41.1, 34.2, 18.8, 7.6, 3.6, 71.1]
+    }
+    df = pd.DataFrame(data)
+    title = "Multidimensional Poverty by Sector of Employment of Head of Household - Savelugu Municipal"
+    y_col = "Sector of Employment"
+
+elif selected_chart == "By Economic Sector":
+    data = {
+        "Economic Sector": [
+            "Savelugu Municipal",
+            "Agriculture",
+            "Industry",
+            "Service"
+        ],
+        "Poverty Rate (%)": [41.1, 37.0, 17.9, 14.3]
+    }
+    df = pd.DataFrame(data)
+    title = "Multidimensional Poverty by Economic Sector of Employment of Head of Household - Savelugu Municipal"
+    y_col = "Economic Sector"
+
+# Plotting the selected chart
+fig = px.bar(
+    df,
+    y=y_col,
+    x="Poverty Rate (%)",
+    color=y_col,
+    text="Poverty Rate (%)",
+    orientation="h",
+    title=title,
+    color_discrete_sequence=px.colors.qualitative.Set3
+)
+
+fig.update_traces(texttemplate='%{text:.1f}%', textposition='outside')
+fig.update_layout(
+    yaxis_title=None,
+    xaxis_title="Poverty Rate (%)",
+    showlegend=False,
+    height=500
+)
+
+st.plotly_chart(fig, use_container_width=True)
+
