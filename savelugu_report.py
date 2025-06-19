@@ -508,6 +508,7 @@ with col2:
 st.divider()
 
 
+<<<<<<< HEAD
 # Sidebar Filter for Poverty Breakdown Charts
 st.sidebar.markdown("### 📂 Filter Poverty Data")
 selected_chart = st.sidebar.selectbox(
@@ -613,3 +614,5 @@ fig.update_layout(
 )
 
 st.plotly_chart(fig, use_container_width=True)
+=======
+>>>>>>> c36dc7ef43d3d45b2ca1509a52ea3449ce8f8cac
