@@ -128,12 +128,16 @@ def create_card(title, value, image_path=None):
 
 # 1. Introduction
 st.markdown("### 1. Introduction")
-st.write("""
+
+st.markdown("""
+<div style='text-align: justify;'>
 Savelugu Municipal is located in the Northern Region of Ghana. 
 The municipality covers a total land area of 1,550 square kilometers and had a population 
 of 122,888 according to the 2021 Census. This report presents the demographic characteristics, 
 population structure, and development indicators of Savelugu Municipal.
-""")
+</div>
+""", unsafe_allow_html=True)
+
 
 # 2. Geographic & Administrative Context
 st.markdown("### 2. Geographic & Administrative Context")
@@ -169,47 +173,134 @@ st.pydeck_chart(pdk.Deck(
     ],
 ))
 
-# 3. Key Development Metrics
 st.markdown("### 3. Key Development Metrics")
-col1, col2, col3, col4 = st.columns(4)
-col1.metric("Total Population", "122,888")
-col2.metric("Land Area", "1,550 km²")
-col3.metric("Population Density", "79.27/km²")
-col4.metric("Annual Growth Rate", "2.6%")
 
-# 4. Demographic Profile
-st.markdown("### 4. Demographic Profile")
-st.write("""
-- **Rapid population growth**: From 92,717 in 2010 to 122,888 in 2021 (≈ 2.6% p.a.)  
-- **Youthful population**: 54% are under 20 years  
-- **Slightly more females** (50.9%) — sex ratio 96.6  
-- **Urbanisation**: 63%, driven by Savelugu township expansion
-""")
+st.markdown("""
+<style>
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    gap: 20px;
+    margin-top: 10px;
+}
+.card {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 12px;
+    flex: 1;
+    min-width: 200px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    text-align: center;
+    color: white;
+    font-family: "Segoe UI", sans-serif;
+}
+.card-title {
+    font-size: 14px;
+    color: #bbbbbb;
+}
+.card-value {
+    font-size: 28px;
+    font-weight: bold;
+    color: #f1f1f1;
+}
+</style>
 
-# 5. Households & Housing
-st.markdown("### 5. Households & Housing")
-st.write("""
-- **Avg. household size**: 5.2 vs 3.6 national  
-- **Housing deprivation**: 62.6% in poor housing  
-- **Toilets**: 94.3% lack improved toilets  
-- **Urban infrastructure**: Slightly better electricity & water access
-""")
+<div class="card-container">
+  <div class="card">
+    <div class="card-title">Total Population</div>
+    <div class="card-value">122,888</div>
+  </div>
+  <div class="card">
+    <div class="card-title">Land Area</div>
+    <div class="card-value">1,550 km²</div>
+  </div>
+  <div class="card">
+    <div class="card-title">Population Density</div>
+    <div class="card-value">79.27/km²</div>
+  </div>
+  <div class="card">
+    <div class="card-title">Annual Growth Rate</div>
+    <div class="card-value">2.6%</div>
+  </div>
+</div>
+""", unsafe_allow_html=True)
 
-# 6. Education & Literacy
-st.markdown("### 6. Education & Literacy")
-st.write("""
-- **60,689 persons aged 6+** cannot read or write  
-- **57% of the illiterate are female**  
-- 5th highest illiteracy count in Northern Region
-""")
 
-# 7. Economic Activity
-st.markdown("### 7. Economic Activity")
-st.write("""
-- **Agriculture** employs ≈70% (maize, rice, soy, livestock)  
-- **Trade & transport** growing along the N10 corridor  
-- **Youth unemployment** is high (16–18%)
-""")
+st.markdown("### 📊 Demographic & Socioeconomic Snapshot")
+
+st.markdown("""
+<style>
+.card-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-top: 20px;
+}
+.card {
+    background-color: #1e1e1e;
+    color: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    font-family: "Segoe UI", sans-serif;
+}
+.card-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #1E90FF;
+}
+.card-body {
+    font-size: 15px;
+    line-height: 1.6;
+    text-align: justify;
+}
+</style>
+
+<div class="card-grid">
+
+  <div class="card">
+    <div class="card-title">4. Demographic Profile</div>
+    <div class="card-body">
+      • <b>Rapid population growth</b>: From 92,717 in 2010 to 122,888 in 2021 (≈ 2.6% p.a.)<br>
+      • <b>Youthful population</b>: 54% are under 20 years<br>
+      • <b>Slightly more females</b> (50.9%) — sex ratio 96.6<br>
+      • <b>Urbanisation</b>: 63%, driven by Savelugu township expansion
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">5. Households & Housing</div>
+    <div class="card-body">
+      • <b>Avg. household size</b>: 5.2 vs 3.6 national<br>
+      • <b>Housing deprivation</b>: 62.6% in poor housing<br>
+      • <b>Toilets</b>: 94.3% lack improved toilets<br>
+      • <b>Urban infrastructure</b>: Slightly better electricity & water access
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">6. Education & Literacy</div>
+    <div class="card-body">
+      • <b>60,689 persons aged 6+</b> cannot read or write<br>
+      • <b>57% of the illiterate are female</b><br>
+      • 5th highest illiteracy count in Northern Region
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">7. Economic Activity</div>
+    <div class="card-body">
+      • <b>Agriculture</b> employs ≈70% (maize, rice, soy, livestock)<br>
+      • <b>Trade & transport</b> growing along the N10 corridor<br>
+      • <b>Youth unemployment</b> is high (16–18%)
+    </div>
+  </div>
+
+</div>
+""", unsafe_allow_html=True)
+
 
 st.title("📄 Multidimensional Poverty Fact Sheet - Savelugu Municipal")
 
@@ -256,10 +347,56 @@ st.markdown("""
 
 # 8. Multidimensional Poverty Index (MPI)
 st.markdown("### 8. Multidimensional Poverty Index (MPI)")
+
+# Add card-style formatting via HTML & CSS
+st.markdown("""
+    <style>
+        .metric-card {
+            background-color: #1e1e1e;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            color: white;
+            box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+        }
+        .metric-label {
+            font-size: 14px;
+            color: #87CEFA; /* Light Blue */
+            margin-bottom: 8px;
+        }
+        .metric-value {
+            font-size: 28px;
+            font-weight: bold;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
 col1, col2, col3 = st.columns(3)
-col1.metric("MPI Value", "0.187")
-col2.metric("Incidence", "41.1%")
-col3.metric("Intensity", "45.5%")
+
+with col1:
+    st.markdown("""
+        <div class="metric-card">
+            <div class="metric-label">MPI Value</div>
+            <div class="metric-value">0.187</div>
+        </div>
+    """, unsafe_allow_html=True)
+
+with col2:
+    st.markdown("""
+        <div class="metric-card">
+            <div class="metric-label">Incidence</div>
+            <div class="metric-value">41.1%</div>
+        </div>
+    """, unsafe_allow_html=True)
+
+with col3:
+    st.markdown("""
+        <div class="metric-card">
+            <div class="metric-label">Intensity</div>
+            <div class="metric-value">45.5%</div>
+        </div>
+    """, unsafe_allow_html=True)
+
 
 st.subheader("🌡️ Heatmap of MPI by Sub-District (Demo)")
 
@@ -291,13 +428,65 @@ view_state = pdk.ViewState(
 st.pydeck_chart(pdk.Deck(layers=[layer], initial_view_state=view_state))
 
 
-st.write("""
-- **Living standards**: 62.6% deprived (housing material)  
-- **Sanitation**: 94.3% lack improved toilets  
-- **Health insurance**: 59.3% not insured  
-- **Education**: 40%+ adults have no formal schooling
-""")
-st.success("📌 Over 41% of the population are multidimensionally poor; average deprivation intensity is 45.5%.")
+st.markdown("### Key Deprivation Indicators")
+
+# CSS Styling for Cards
+st.markdown("""
+    <style>
+        .info-card {
+            background-color: #1e1e1e;
+            padding: 18px;
+            border-radius: 12px;
+            color: white;
+            text-align: center;
+            box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+            font-size: 14px;
+        }
+        .info-card-title {
+            font-weight: bold;
+            color: #87CEFA;  /* Light Blue */
+            margin-bottom: 6px;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
+# Create 2 rows of 2 cards each
+row1_col1, row1_col2 = st.columns(2)
+row2_col1, row2_col2 = st.columns(2)
+
+with row1_col1:
+    st.markdown("""
+        <div class="info-card">
+            <div class="info-card-title">Living Standards</div>
+            62.6% deprived (housing material)
+        </div>
+    """, unsafe_allow_html=True)
+
+with row1_col2:
+    st.markdown("""
+        <div class="info-card">
+            <div class="info-card-title">Sanitation</div>
+            94.3% lack improved toilets
+        </div>
+    """, unsafe_allow_html=True)
+
+with row2_col1:
+    st.markdown("""
+        <div class="info-card">
+            <div class="info-card-title">Health Insurance</div>
+            59.3% not insured
+        </div>
+    """, unsafe_allow_html=True)
+
+with row2_col2:
+    st.markdown("""
+        <div class="info-card">
+            <div class="info-card-title">Education</div>
+            Over 40% adults have no formal schooling
+        </div>
+    """, unsafe_allow_html=True)
+
+
 
 # 9. Population Structure
 st.markdown("### 9. Population Structure")
@@ -1770,4 +1959,145 @@ fig.update_layout(
 st.plotly_chart(fig, use_container_width=True)
 
 
+st.title("Educational Attainment Breakdown (Age 5-14) – Savelugu Municipal")
+
+# ------------------------------
+# Raw Data
+data = [
+    # Not economically active
+    {"Econ": "Not economically active", "Area": "Rural", "Gender": "Male", "Age": "5-9", "Never attended": 1072, "Nursery": 133, "Kindergarten": 564, "Primary": 2006, "JSS/JHS": 0, "SSS/SHS": 0, "Secondary": 0, "Voc/technical/commercial": 0},
+    {"Econ": "Not economically active", "Area": "Rural", "Gender": "Male", "Age": "10-14", "Never attended": 564, "Nursery": 1, "Kindergarten": 2, "Primary": 1799, "JSS/JHS": 322, "SSS/SHS": 4, "Secondary": 0, "Voc/technical/commercial": 0},
+    {"Econ": "Not economically active", "Area": "Rural", "Gender": "Female", "Age": "5-9", "Never attended": 1224, "Nursery": 115, "Kindergarten": 500, "Primary": 1681, "JSS/JHS": 0, "SSS/SHS": 0, "Secondary": 0, "Voc/technical/commercial": 0},
+    {"Econ": "Not economically active", "Area": "Rural", "Gender": "Female", "Age": "10-14", "Never attended": 769, "Nursery": 1, "Kindergarten": 1, "Primary": 1394, "JSS/JHS": 229, "SSS/SHS": 3, "Secondary": 0, "Voc/technical/commercial": 0},
+    {"Econ": "Not economically active", "Area": "Urban", "Gender": "Male", "Age": "5-9", "Never attended": 751, "Nursery": 261, "Kindergarten": 1174, "Primary": 3794, "JSS/JHS": 0, "SSS/SHS": 0, "Secondary": 0, "Voc/technical/commercial": 0},
+    {"Econ": "Not economically active", "Area": "Urban", "Gender": "Male", "Age": "10-14", "Never attended": 321, "Nursery": 1, "Kindergarten": 1, "Primary": 3220, "JSS/JHS": 727, "SSS/SHS": 9, "Secondary": 3, "Voc/technical/commercial": 0},
+    {"Econ": "Not economically active", "Area": "Urban", "Gender": "Female", "Age": "5-9", "Never attended": 962, "Nursery": 248, "Kindergarten": 1061, "Primary": 3506, "JSS/JHS": 0, "SSS/SHS": 0, "Secondary": 0, "Voc/technical/commercial": 0},
+    {"Econ": "Not economically active", "Area": "Urban", "Gender": "Female", "Age": "10-14", "Never attended": 488, "Nursery": 1, "Kindergarten": 0, "Primary": 2829, "JSS/JHS": 668, "SSS/SHS": 5, "Secondary": 0, "Voc/technical/commercial": 0},
+    # Economically active
+    {"Econ": "Economically active", "Area": "Rural", "Gender": "Male", "Age": "5-9", "Never attended": 56, "Nursery": 1, "Kindergarten": 4, "Primary": 28, "JSS/JHS": 0, "SSS/SHS": 0, "Secondary": 0, "Voc/technical/commercial": 0},
+    {"Econ": "Economically active", "Area": "Rural", "Gender": "Male", "Age": "10-14", "Never attended": 126, "Nursery": 0, "Kindergarten": 0, "Primary": 76, "JSS/JHS": 16, "SSS/SHS": 0, "Secondary": 0, "Voc/technical/commercial": 0},
+    {"Econ": "Economically active", "Area": "Rural", "Gender": "Female", "Age": "5-9", "Never attended": 21, "Nursery": 0, "Kindergarten": 2, "Primary": 8, "JSS/JHS": 0, "SSS/SHS": 0, "Secondary": 0, "Voc/technical/commercial": 0},
+    {"Econ": "Economically active", "Area": "Rural", "Gender": "Female", "Age": "10-14", "Never attended": 58, "Nursery": 0, "Kindergarten": 0, "Primary": 36, "JSS/JHS": 7, "SSS/SHS": 0, "Secondary": 0, "Voc/technical/commercial": 0},
+    {"Econ": "Economically active", "Area": "Urban", "Gender": "Male", "Age": "5-9", "Never attended": 29, "Nursery": 1, "Kindergarten": 9, "Primary": 14, "JSS/JHS": 0, "SSS/SHS": 0, "Secondary": 0, "Voc/technical/commercial": 0},
+    {"Econ": "Economically active", "Area": "Urban", "Gender": "Male", "Age": "10-14", "Never attended": 55, "Nursery": 0, "Kindergarten": 0, "Primary": 82, "JSS/JHS": 15, "SSS/SHS": 1, "Secondary": 0, "Voc/technical/commercial": 0},
+    {"Econ": "Economically active", "Area": "Urban", "Gender": "Female", "Age": "5-9", "Never attended": 18, "Nursery": 0, "Kindergarten": 3, "Primary": 9, "JSS/JHS": 0, "SSS/SHS": 0, "Secondary": 0, "Voc/technical/commercial": 0},
+    {"Econ": "Economically active", "Area": "Urban", "Gender": "Female", "Age": "10-14", "Never attended": 40, "Nursery": 0, "Kindergarten": 0, "Primary": 37, "JSS/JHS": 9, "SSS/SHS": 0, "Secondary": 0, "Voc/technical/commercial": 0},
+]
+
+# ------------------------------
+# Raw Data
+df = pd.DataFrame(data)  # Assuming `data` is defined as you've posted
+
+# ------------------------------
+# Sidebar Filters
+st.sidebar.header("📊 Filter Options")
+econ_filter = st.sidebar.multiselect("Economic Status", df["Econ"].unique(), default=df["Econ"].unique())
+area_filter = st.sidebar.multiselect("Area", df["Area"].unique(), default=df["Area"].unique())
+gender_filter = st.sidebar.multiselect("Gender", df["Gender"].unique(), default=df["Gender"].unique())
+age_filter = st.sidebar.multiselect("Age Group", df["Age"].unique(), default=df["Age"].unique())
+
+# ------------------------------
+# Filtered Data
+filtered_df = df[
+    (df["Econ"].isin(econ_filter)) &
+    (df["Area"].isin(area_filter)) &
+    (df["Gender"].isin(gender_filter)) &
+    (df["Age"].isin(age_filter))
+]
+
+# ------------------------------
+# Melt the data for animation (retain Age)
+edu_cols = ["Never attended", "Nursery", "Kindergarten", "Primary", "JSS/JHS", "SSS/SHS", "Secondary", "Voc/technical/commercial"]
+df_melted = filtered_df.melt(
+    id_vars=["Age", "Gender", "Area"], 
+    value_vars=edu_cols,
+    var_name="Education Level",
+    value_name="Population"
+)
+
+# ------------------------------
+# Animated Horizontal Bar Chart by Age
+fig = px.bar(
+    df_melted,
+    x="Population",
+    y="Education Level",
+    orientation='h',
+    title="Animated Educational Levels by Age Group",
+    color="Population",
+    color_continuous_scale="Viridis",
+    animation_frame="Age",
+    animation_group="Education Level"
+)
+
+fig.update_layout(
+    plot_bgcolor="black",
+    paper_bgcolor="black",
+    font_color="white",
+    xaxis=dict(title="Number of People", color="white", gridcolor="gray"),
+    yaxis=dict(color="white"),
+    height=550,
+    margin=dict(l=80, r=40, t=60, b=40)
+)
+
+st.plotly_chart(fig, use_container_width=True)
+
+st.title("Educational Attainment by Industry (Age 5-14) – Savelugu Municipal")
+
+# Sample cleaned dataset
+data = [
+    {"Industry": "Agriculture", "Education": "Never attended", "Area": "Rural", "Gender": "Male", "Age": "5-9", "Count": 54},
+    {"Industry": "Agriculture", "Education": "Never attended", "Area": "Rural", "Gender": "Male", "Age": "10-14", "Count": 123},
+    {"Industry": "Agriculture", "Education": "Never attended", "Area": "Rural", "Gender": "Female", "Age": "5-9", "Count": 17},
+    {"Industry": "Agriculture", "Education": "Never attended", "Area": "Rural", "Gender": "Female", "Age": "10-14", "Count": 50},
+    {"Industry": "Manufacturing", "Education": "Primary", "Area": "Urban", "Gender": "Male", "Age": "10-14", "Count": 6},
+    {"Industry": "Wholesale", "Education": "Primary", "Area": "Urban", "Gender": "Female", "Age": "10-14", "Count": 3},
+    {"Industry": "Construction", "Education": "Primary", "Area": "Urban", "Gender": "Male", "Age": "10-14", "Count": 7},
+    {"Industry": "Accommodation", "Education": "JSS/JHS", "Area": "Urban", "Gender": "Female", "Age": "10-14", "Count": 2},
+    {"Industry": "Other services", "Education": "Primary", "Area": "Urban", "Gender": "Male", "Age": "10-14", "Count": 8},
+]
+
+df = pd.DataFrame(data)
+
+# Sidebar filters
+st.sidebar.header("🔎 Filter Options")
+industry = st.sidebar.multiselect("Select Industry", df["Industry"].unique(), default=df["Industry"].unique(), key="industry_filter")
+education = st.sidebar.multiselect("Select Education Level", df["Education"].unique(), default=df["Education"].unique(), key="education_filter")
+area = st.sidebar.multiselect("Select Area", df["Area"].unique(), default=df["Area"].unique(), key="area_filter")
+gender = st.sidebar.multiselect("Select Gender", df["Gender"].unique(), default=df["Gender"].unique(), key="gender_filter")
+age = st.sidebar.multiselect("Select Age Group", df["Age"].unique(), default=df["Age"].unique(), key="age_filter")
+
+
+# Filter data
+filtered_df = df[
+    (df["Industry"].isin(industry)) &
+    (df["Education"].isin(education)) &
+    (df["Area"].isin(area)) &
+    (df["Gender"].isin(gender)) &
+    (df["Age"].isin(age))
+]
+
+# Summarize for chart
+summary = filtered_df.groupby("Education")["Count"].sum().reset_index().sort_values("Count")
+
+# Plot
+fig = px.bar(
+    summary,
+    x="Count",
+    y="Education",
+    orientation="h",
+    title="Filtered Educational Distribution by Industry",
+    color="Count",
+    color_continuous_scale="Inferno"
+)
+
+fig.update_layout(
+    plot_bgcolor="black",
+    paper_bgcolor="black",
+    font_color="white",
+    xaxis=dict(title="Number of People", color="white", gridcolor="gray"),
+    yaxis=dict(title="Education Level", color="white"),
+    height=550
+)
+
+st.plotly_chart(fig, use_container_width=True)
 
