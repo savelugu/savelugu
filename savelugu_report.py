@@ -1625,17 +1625,6 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-st.markdown("### 15. Conclusion")
-st.markdown("""
-<div class="dark-card dark-info">
-    <span class="emoji">👧</span> <strong>Savelugu Municipal is experiencing rapid demographic change with strong urban growth, high youth population, 
-and persistent poverty challenges. With over 122,000 people and a density of 79.27/km², 
-targeted investments in education, sanitation, employment, and infrastructure are essential 
-to meet the needs of this growing population and reduce multidimensional poverty.</strong>
-</div>
-""", unsafe_allow_html=True)
-
-
 
 st.title("Incidence of multidimensional poverty of 1km by 1km grid")
 
@@ -2100,4 +2089,15 @@ fig.update_layout(
 )
 
 st.plotly_chart(fig, use_container_width=True)
+
+
+st.markdown("### 15. Conclusion")
+st.markdown("""
+<div class="dark-card dark-info">
+    <span class="emoji">👧</span> <strong>Savelugu Municipal is experiencing rapid demographic change with strong urban growth, high youth population, 
+and persistent poverty challenges. With over 122,000 people and a density of 79.27/km², 
+targeted investments in education, sanitation, employment, and infrastructure are essential 
+to meet the needs of this growing population and reduce multidimensional poverty.</strong>
+</div>
+""", unsafe_allow_html=True)
 
