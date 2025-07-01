@@ -1,0 +1,4217 @@
+Age,Locality,Education,Male,Female
+0 years to 14 years,Rural,Never attended,5192,5613
+0 years to 14 years,Rural,Nursery,421,388
+0 years to 14 years,Rural,Kindergarten,967,889
+0 years to 14 years,Rural,Primary,3909,3119
+0 years to 14 years,Rural,JSS/JHS,338,236
+0 years to 14 years,Rural,Middle,0,0
+0 years to 14 years,Rural,SSS/SHS,4,3
+0 years to 14 years,Rural,Secondary,0,0
+0 years to 14 years,Rural,Voc/technical/commercial,0,0
+0 years to 14 years,Rural,Post middle/secondary Certificate,0,0
+0 years to 14 years,Rural,Post middle/secondary Diploma,0,0
+0 years to 14 years,Rural,Tertiary/HND,0,0
+0 years to 14 years,Rural,Tertiary - Bachelor's Degree,0,0
+0 years to 14 years,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+0 years to 14 years,Rural,Tertiary - Master's Degree,0,0
+0 years to 14 years,Rural,Tertiary - PhD,0,0
+0 years to 14 years,Rural,Other (specify),0,0
+0 years to 14 years,Urban,Never attended,5918,6222
+0 years to 14 years,Urban,Nursery,965,960
+0 years to 14 years,Urban,Kindergarten,2019,1868
+0 years to 14 years,Urban,Primary,7112,6381
+0 years to 14 years,Urban,JSS/JHS,743,678
+0 years to 14 years,Urban,Middle,0,0
+0 years to 14 years,Urban,SSS/SHS,10,5
+0 years to 14 years,Urban,Secondary,3,0
+0 years to 14 years,Urban,Voc/technical/commercial,0,0
+0 years to 14 years,Urban,Post middle/secondary Certificate,0,0
+0 years to 14 years,Urban,Post middle/secondary Diploma,0,0
+0 years to 14 years,Urban,Tertiary/HND,0,0
+0 years to 14 years,Urban,Tertiary - Bachelor's Degree,0,0
+0 years to 14 years,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+0 years to 14 years,Urban,Tertiary - Master's Degree,0,0
+0 years to 14 years,Urban,Tertiary - PhD,0,0
+0 years to 14 years,Urban,Other (specify),0,0
+0-4,Rural,Never attended,3374,3541
+0-4,Rural,Nursery,286,272
+0-4,Rural,Kindergarten,397,386
+0-4,Rural,Primary,0,0
+0-4,Rural,JSS/JHS,0,0
+0-4,Rural,Middle,0,0
+0-4,Rural,SSS/SHS,0,0
+0-4,Rural,Secondary,0,0
+0-4,Rural,Voc/technical/commercial,0,0
+0-4,Rural,Post middle/secondary Certificate,0,0
+0-4,Rural,Post middle/secondary Diploma,0,0
+0-4,Rural,Tertiary/HND,0,0
+0-4,Rural,Tertiary - Bachelor's Degree,0,0
+0-4,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+0-4,Rural,Tertiary - Master's Degree,0,0
+0-4,Rural,Tertiary - PhD,0,0
+0-4,Rural,Other (specify),0,0
+0-4,Urban,Never attended,4762,4714
+0-4,Urban,Nursery,702,711
+0-4,Urban,Kindergarten,833,804
+0-4,Urban,Primary,0,0
+0-4,Urban,JSS/JHS,0,0
+0-4,Urban,Middle,0,0
+0-4,Urban,SSS/SHS,0,0
+0-4,Urban,Secondary,0,0
+0-4,Urban,Voc/technical/commercial,0,0
+0-4,Urban,Post middle/secondary Certificate,0,0
+0-4,Urban,Post middle/secondary Diploma,0,0
+0-4,Urban,Tertiary/HND,0,0
+0-4,Urban,Tertiary - Bachelor's Degree,0,0
+0-4,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+0-4,Urban,Tertiary - Master's Degree,0,0
+0-4,Urban,Tertiary - PhD,0,0
+0-4,Urban,Other (specify),0,0
+0,Rural,Never attended,714,754
+0,Rural,Nursery,0,0
+0,Rural,Kindergarten,0,0
+0,Rural,Primary,0,0
+0,Rural,JSS/JHS,0,0
+0,Rural,Middle,0,0
+0,Rural,SSS/SHS,0,0
+0,Rural,Secondary,0,0
+0,Rural,Voc/technical/commercial,0,0
+0,Rural,Post middle/secondary Certificate,0,0
+0,Rural,Post middle/secondary Diploma,0,0
+0,Rural,Tertiary/HND,0,0
+0,Rural,Tertiary - Bachelor's Degree,0,0
+0,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+0,Rural,Tertiary - Master's Degree,0,0
+0,Rural,Tertiary - PhD,0,0
+0,Rural,Other (specify),0,0
+0,Urban,Never attended,1144,1073
+0,Urban,Nursery,0,0
+0,Urban,Kindergarten,0,0
+0,Urban,Primary,0,0
+0,Urban,JSS/JHS,0,0
+0,Urban,Middle,0,0
+0,Urban,SSS/SHS,0,0
+0,Urban,Secondary,0,0
+0,Urban,Voc/technical/commercial,0,0
+0,Urban,Post middle/secondary Certificate,0,0
+0,Urban,Post middle/secondary Diploma,0,0
+0,Urban,Tertiary/HND,0,0
+0,Urban,Tertiary - Bachelor's Degree,0,0
+0,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+0,Urban,Tertiary - Master's Degree,0,0
+0,Urban,Tertiary - PhD,0,0
+0,Urban,Other (specify),0,0
+1,Rural,Never attended,774,807
+1,Rural,Nursery,0,0
+1,Rural,Kindergarten,0,0
+1,Rural,Primary,0,0
+1,Rural,JSS/JHS,0,0
+1,Rural,Middle,0,0
+1,Rural,SSS/SHS,0,0
+1,Rural,Secondary,0,0
+1,Rural,Voc/technical/commercial,0,0
+1,Rural,Post middle/secondary Certificate,0,0
+1,Rural,Post middle/secondary Diploma,0,0
+1,Rural,Tertiary/HND,0,0
+1,Rural,Tertiary - Bachelor's Degree,0,0
+1,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+1,Rural,Tertiary - Master's Degree,0,0
+1,Rural,Tertiary - PhD,0,0
+1,Rural,Other (specify),0,0
+1,Urban,Never attended,1207,1203
+1,Urban,Nursery,0,0
+1,Urban,Kindergarten,0,0
+1,Urban,Primary,0,0
+1,Urban,JSS/JHS,0,0
+1,Urban,Middle,0,0
+1,Urban,SSS/SHS,0,0
+1,Urban,Secondary,0,0
+1,Urban,Voc/technical/commercial,0,0
+1,Urban,Post middle/secondary Certificate,0,0
+1,Urban,Post middle/secondary Diploma,0,0
+1,Urban,Tertiary/HND,0,0
+1,Urban,Tertiary - Bachelor's Degree,0,0
+1,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+1,Urban,Tertiary - Master's Degree,0,0
+1,Urban,Tertiary - PhD,0,0
+1,Urban,Other (specify),0,0
+2,Rural,Never attended,795,833
+2,Rural,Nursery,0,0
+2,Rural,Kindergarten,0,0
+2,Rural,Primary,0,0
+2,Rural,JSS/JHS,0,0
+2,Rural,Middle,0,0
+2,Rural,SSS/SHS,0,0
+2,Rural,Secondary,0,0
+2,Rural,Voc/technical/commercial,0,0
+2,Rural,Post middle/secondary Certificate,0,0
+2,Rural,Post middle/secondary Diploma,0,0
+2,Rural,Tertiary/HND,0,0
+2,Rural,Tertiary - Bachelor's Degree,0,0
+2,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+2,Rural,Tertiary - Master's Degree,0,0
+2,Rural,Tertiary - PhD,0,0
+2,Rural,Other (specify),0,0
+2,Urban,Never attended,1249,1193
+2,Urban,Nursery,0,0
+2,Urban,Kindergarten,0,0
+2,Urban,Primary,0,0
+2,Urban,JSS/JHS,0,0
+2,Urban,Middle,0,0
+2,Urban,SSS/SHS,0,0
+2,Urban,Secondary,0,0
+2,Urban,Voc/technical/commercial,0,0
+2,Urban,Post middle/secondary Certificate,0,0
+2,Urban,Post middle/secondary Diploma,0,0
+2,Urban,Tertiary/HND,0,0
+2,Urban,Tertiary - Bachelor's Degree,0,0
+2,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+2,Urban,Tertiary - Master's Degree,0,0
+2,Urban,Tertiary - PhD,0,0
+2,Urban,Other (specify),0,0
+3,Rural,Never attended,631,682
+3,Rural,Nursery,103,105
+3,Rural,Kindergarten,121,121
+3,Rural,Primary,0,0
+3,Rural,JSS/JHS,0,0
+3,Rural,Middle,0,0
+3,Rural,SSS/SHS,0,0
+3,Rural,Secondary,0,0
+3,Rural,Voc/technical/commercial,0,0
+3,Rural,Post middle/secondary Certificate,0,0
+3,Rural,Post middle/secondary Diploma,0,0
+3,Rural,Tertiary/HND,0,0
+3,Rural,Tertiary - Bachelor's Degree,0,0
+3,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+3,Rural,Tertiary - Master's Degree,0,0
+3,Rural,Tertiary - PhD,0,0
+3,Rural,Other (specify),0,0
+3,Urban,Never attended,709,761
+3,Urban,Nursery,333,346
+3,Urban,Kindergarten,230,253
+3,Urban,Primary,0,0
+3,Urban,JSS/JHS,0,0
+3,Urban,Middle,0,0
+3,Urban,SSS/SHS,0,0
+3,Urban,Secondary,0,0
+3,Urban,Voc/technical/commercial,0,0
+3,Urban,Post middle/secondary Certificate,0,0
+3,Urban,Post middle/secondary Diploma,0,0
+3,Urban,Tertiary/HND,0,0
+3,Urban,Tertiary - Bachelor's Degree,0,0
+3,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+3,Urban,Tertiary - Master's Degree,0,0
+3,Urban,Tertiary - PhD,0,0
+3,Urban,Other (specify),0,0
+4,Rural,Never attended,460,465
+4,Rural,Nursery,183,167
+4,Rural,Kindergarten,276,265
+4,Rural,Primary,0,0
+4,Rural,JSS/JHS,0,0
+4,Rural,Middle,0,0
+4,Rural,SSS/SHS,0,0
+4,Rural,Secondary,0,0
+4,Rural,Voc/technical/commercial,0,0
+4,Rural,Post middle/secondary Certificate,0,0
+4,Rural,Post middle/secondary Diploma,0,0
+4,Rural,Tertiary/HND,0,0
+4,Rural,Tertiary - Bachelor's Degree,0,0
+4,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+4,Rural,Tertiary - Master's Degree,0,0
+4,Rural,Tertiary - PhD,0,0
+4,Rural,Other (specify),0,0
+4,Urban,Never attended,453,484
+4,Urban,Nursery,369,365
+4,Urban,Kindergarten,603,551
+4,Urban,Primary,0,0
+4,Urban,JSS/JHS,0,0
+4,Urban,Middle,0,0
+4,Urban,SSS/SHS,0,0
+4,Urban,Secondary,0,0
+4,Urban,Voc/technical/commercial,0,0
+4,Urban,Post middle/secondary Certificate,0,0
+4,Urban,Post middle/secondary Diploma,0,0
+4,Urban,Tertiary/HND,0,0
+4,Urban,Tertiary - Bachelor's Degree,0,0
+4,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+4,Urban,Tertiary - Master's Degree,0,0
+4,Urban,Tertiary - PhD,0,0
+4,Urban,Other (specify),0,0
+9-May,Rural,Never attended,1128,1245
+9-May,Rural,Nursery,134,115
+9-May,Rural,Kindergarten,568,502
+9-May,Rural,Primary,2034,1689
+9-May,Rural,JSS/JHS,0,0
+9-May,Rural,Middle,0,0
+9-May,Rural,SSS/SHS,0,0
+9-May,Rural,Secondary,0,0
+9-May,Rural,Voc/technical/commercial,0,0
+9-May,Rural,Post middle/secondary Certificate,0,0
+9-May,Rural,Post middle/secondary Diploma,0,0
+9-May,Rural,Tertiary/HND,0,0
+9-May,Rural,Tertiary - Bachelor's Degree,0,0
+9-May,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+9-May,Rural,Tertiary - Master's Degree,0,0
+9-May,Rural,Tertiary - PhD,0,0
+9-May,Rural,Other (specify),0,0
+9-May,Urban,Never attended,780,980
+9-May,Urban,Nursery,262,248
+9-May,Urban,Kindergarten,1185,1064
+9-May,Urban,Primary,3808,3515
+9-May,Urban,JSS/JHS,0,0
+9-May,Urban,Middle,0,0
+9-May,Urban,SSS/SHS,0,0
+9-May,Urban,Secondary,0,0
+9-May,Urban,Voc/technical/commercial,0,0
+9-May,Urban,Post middle/secondary Certificate,0,0
+9-May,Urban,Post middle/secondary Diploma,0,0
+9-May,Urban,Tertiary/HND,0,0
+9-May,Urban,Tertiary - Bachelor's Degree,0,0
+9-May,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+9-May,Urban,Tertiary - Master's Degree,0,0
+9-May,Urban,Tertiary - PhD,0,0
+9-May,Urban,Other (specify),0,0
+5,Rural,Never attended,306,329
+5,Rural,Nursery,133,114
+5,Rural,Kindergarten,239,250
+5,Rural,Primary,174,129
+5,Rural,JSS/JHS,0,0
+5,Rural,Middle,0,0
+5,Rural,SSS/SHS,0,0
+5,Rural,Secondary,0,0
+5,Rural,Voc/technical/commercial,0,0
+5,Rural,Post middle/secondary Certificate,0,0
+5,Rural,Post middle/secondary Diploma,0,0
+5,Rural,Tertiary/HND,0,0
+5,Rural,Tertiary - Bachelor's Degree,0,0
+5,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+5,Rural,Tertiary - Master's Degree,0,0
+5,Rural,Tertiary - PhD,0,0
+5,Rural,Other (specify),0,0
+5,Urban,Never attended,274,330
+5,Urban,Nursery,262,247
+5,Urban,Kindergarten,491,463
+5,Urban,Primary,308,301
+5,Urban,JSS/JHS,0,0
+5,Urban,Middle,0,0
+5,Urban,SSS/SHS,0,0
+5,Urban,Secondary,0,0
+5,Urban,Voc/technical/commercial,0,0
+5,Urban,Post middle/secondary Certificate,0,0
+5,Urban,Post middle/secondary Diploma,0,0
+5,Urban,Tertiary/HND,0,0
+5,Urban,Tertiary - Bachelor's Degree,0,0
+5,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+5,Urban,Tertiary - Master's Degree,0,0
+5,Urban,Tertiary - PhD,0,0
+5,Urban,Other (specify),0,0
+6,Rural,Never attended,263,279
+6,Rural,Nursery,0,0
+6,Rural,Kindergarten,191,154
+6,Rural,Primary,365,336
+6,Rural,JSS/JHS,0,0
+6,Rural,Middle,0,0
+6,Rural,SSS/SHS,0,0
+6,Rural,Secondary,0,0
+6,Rural,Voc/technical/commercial,0,0
+6,Rural,Post middle/secondary Certificate,0,0
+6,Rural,Post middle/secondary Diploma,0,0
+6,Rural,Tertiary/HND,0,0
+6,Rural,Tertiary - Bachelor's Degree,0,0
+6,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+6,Rural,Tertiary - Master's Degree,0,0
+6,Rural,Tertiary - PhD,0,0
+6,Rural,Other (specify),0,0
+6,Urban,Never attended,183,200
+6,Urban,Nursery,0,0
+6,Urban,Kindergarten,421,368
+6,Urban,Primary,712,633
+6,Urban,JSS/JHS,0,0
+6,Urban,Middle,0,0
+6,Urban,SSS/SHS,0,0
+6,Urban,Secondary,0,0
+6,Urban,Voc/technical/commercial,0,0
+6,Urban,Post middle/secondary Certificate,0,0
+6,Urban,Post middle/secondary Diploma,0,0
+6,Urban,Tertiary/HND,0,0
+6,Urban,Tertiary - Bachelor's Degree,0,0
+6,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+6,Urban,Tertiary - Master's Degree,0,0
+6,Urban,Tertiary - PhD,0,0
+6,Urban,Other (specify),0,0
+7,Rural,Never attended,213,226
+7,Rural,Nursery,0,0
+7,Rural,Kindergarten,135,96
+7,Rural,Primary,445,352
+7,Rural,JSS/JHS,0,0
+7,Rural,Middle,0,0
+7,Rural,SSS/SHS,0,0
+7,Rural,Secondary,0,0
+7,Rural,Voc/technical/commercial,0,0
+7,Rural,Post middle/secondary Certificate,0,0
+7,Rural,Post middle/secondary Diploma,0,0
+7,Rural,Tertiary/HND,0,0
+7,Rural,Tertiary - Bachelor's Degree,0,0
+7,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+7,Rural,Tertiary - Master's Degree,0,0
+7,Rural,Tertiary - PhD,0,0
+7,Rural,Other (specify),0,0
+7,Urban,Never attended,114,171
+7,Urban,Nursery,0,0
+7,Urban,Kindergarten,271,230
+7,Urban,Primary,792,779
+7,Urban,JSS/JHS,0,0
+7,Urban,Middle,0,0
+7,Urban,SSS/SHS,0,0
+7,Urban,Secondary,0,0
+7,Urban,Voc/technical/commercial,0,0
+7,Urban,Post middle/secondary Certificate,0,0
+7,Urban,Post middle/secondary Diploma,0,0
+7,Urban,Tertiary/HND,0,0
+7,Urban,Tertiary - Bachelor's Degree,0,0
+7,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+7,Urban,Tertiary - Master's Degree,0,0
+7,Urban,Tertiary - PhD,0,0
+7,Urban,Other (specify),0,0
+8,Rural,Never attended,192,214
+8,Rural,Nursery,1,1
+8,Rural,Kindergarten,2,1
+8,Rural,Primary,540,468
+8,Rural,JSS/JHS,0,0
+8,Rural,Middle,0,0
+8,Rural,SSS/SHS,0,0
+8,Rural,Secondary,0,0
+8,Rural,Voc/technical/commercial,0,0
+8,Rural,Post middle/secondary Certificate,0,0
+8,Rural,Post middle/secondary Diploma,0,0
+8,Rural,Tertiary/HND,0,0
+8,Rural,Tertiary - Bachelor's Degree,0,0
+8,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+8,Rural,Tertiary - Master's Degree,0,0
+8,Rural,Tertiary - PhD,0,0
+8,Rural,Other (specify),0,0
+8,Urban,Never attended,109,124
+8,Urban,Nursery,0,1
+8,Urban,Kindergarten,0,2
+8,Urban,Primary,1020,909
+8,Urban,JSS/JHS,0,0
+8,Urban,Middle,0,0
+8,Urban,SSS/SHS,0,0
+8,Urban,Secondary,0,0
+8,Urban,Voc/technical/commercial,0,0
+8,Urban,Post middle/secondary Certificate,0,0
+8,Urban,Post middle/secondary Diploma,0,0
+8,Urban,Tertiary/HND,0,0
+8,Urban,Tertiary - Bachelor's Degree,0,0
+8,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+8,Urban,Tertiary - Master's Degree,0,0
+8,Urban,Tertiary - PhD,0,0
+8,Urban,Other (specify),0,0
+9,Rural,Never attended,154,197
+9,Rural,Nursery,0,0
+9,Rural,Kindergarten,1,1
+9,Rural,Primary,510,404
+9,Rural,JSS/JHS,0,0
+9,Rural,Middle,0,0
+9,Rural,SSS/SHS,0,0
+9,Rural,Secondary,0,0
+9,Rural,Voc/technical/commercial,0,0
+9,Rural,Post middle/secondary Certificate,0,0
+9,Rural,Post middle/secondary Diploma,0,0
+9,Rural,Tertiary/HND,0,0
+9,Rural,Tertiary - Bachelor's Degree,0,0
+9,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+9,Rural,Tertiary - Master's Degree,0,0
+9,Rural,Tertiary - PhD,0,0
+9,Rural,Other (specify),0,0
+9,Urban,Never attended,100,155
+9,Urban,Nursery,0,0
+9,Urban,Kindergarten,2,1
+9,Urban,Primary,976,893
+9,Urban,JSS/JHS,0,0
+9,Urban,Middle,0,0
+9,Urban,SSS/SHS,0,0
+9,Urban,Secondary,0,0
+9,Urban,Voc/technical/commercial,0,0
+9,Urban,Post middle/secondary Certificate,0,0
+9,Urban,Post middle/secondary Diploma,0,0
+9,Urban,Tertiary/HND,0,0
+9,Urban,Tertiary - Bachelor's Degree,0,0
+9,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+9,Urban,Tertiary - Master's Degree,0,0
+9,Urban,Tertiary - PhD,0,0
+9,Urban,Other (specify),0,0
+14-Oct,Rural,Never attended,690,827
+14-Oct,Rural,Nursery,1,1
+14-Oct,Rural,Kindergarten,2,1
+14-Oct,Rural,Primary,1875,1430
+14-Oct,Rural,JSS/JHS,338,236
+14-Oct,Rural,Middle,0,0
+14-Oct,Rural,SSS/SHS,4,3
+14-Oct,Rural,Secondary,0,0
+14-Oct,Rural,Voc/technical/commercial,0,0
+14-Oct,Rural,Post middle/secondary Certificate,0,0
+14-Oct,Rural,Post middle/secondary Diploma,0,0
+14-Oct,Rural,Tertiary/HND,0,0
+14-Oct,Rural,Tertiary - Bachelor's Degree,0,0
+14-Oct,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+14-Oct,Rural,Tertiary - Master's Degree,0,0
+14-Oct,Rural,Tertiary - PhD,0,0
+14-Oct,Rural,Other (specify),0,0
+14-Oct,Urban,Never attended,376,528
+14-Oct,Urban,Nursery,1,1
+14-Oct,Urban,Kindergarten,1,0
+14-Oct,Urban,Primary,3304,2866
+14-Oct,Urban,JSS/JHS,743,678
+14-Oct,Urban,Middle,0,0
+14-Oct,Urban,SSS/SHS,10,5
+14-Oct,Urban,Secondary,3,0
+14-Oct,Urban,Voc/technical/commercial,0,0
+14-Oct,Urban,Post middle/secondary Certificate,0,0
+14-Oct,Urban,Post middle/secondary Diploma,0,0
+14-Oct,Urban,Tertiary/HND,0,0
+14-Oct,Urban,Tertiary - Bachelor's Degree,0,0
+14-Oct,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+14-Oct,Urban,Tertiary - Master's Degree,0,0
+14-Oct,Urban,Tertiary - PhD,0,0
+14-Oct,Urban,Other (specify),0,0
+10,Rural,Never attended,183,208
+10,Rural,Nursery,0,0
+10,Rural,Kindergarten,1,0
+10,Rural,Primary,517,377
+10,Rural,JSS/JHS,17,5
+10,Rural,Middle,0,0
+10,Rural,SSS/SHS,0,0
+10,Rural,Secondary,0,0
+10,Rural,Voc/technical/commercial,0,0
+10,Rural,Post middle/secondary Certificate,0,0
+10,Rural,Post middle/secondary Diploma,0,0
+10,Rural,Tertiary/HND,0,0
+10,Rural,Tertiary - Bachelor's Degree,0,0
+10,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+10,Rural,Tertiary - Master's Degree,0,0
+10,Rural,Tertiary - PhD,0,0
+10,Rural,Other (specify),0,0
+10,Urban,Never attended,94,105
+10,Urban,Nursery,1,0
+10,Urban,Kindergarten,0,0
+10,Urban,Primary,963,796
+10,Urban,JSS/JHS,40,31
+10,Urban,Middle,0,0
+10,Urban,SSS/SHS,0,0
+10,Urban,Secondary,0,0
+10,Urban,Voc/technical/commercial,0,0
+10,Urban,Post middle/secondary Certificate,0,0
+10,Urban,Post middle/secondary Diploma,0,0
+10,Urban,Tertiary/HND,0,0
+10,Urban,Tertiary - Bachelor's Degree,0,0
+10,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+10,Urban,Tertiary - Master's Degree,0,0
+10,Urban,Tertiary - PhD,0,0
+10,Urban,Other (specify),0,0
+11,Rural,Never attended,109,158
+11,Rural,Nursery,0,0
+11,Rural,Kindergarten,1,1
+11,Rural,Primary,396,375
+11,Rural,JSS/JHS,18,20
+11,Rural,Middle,0,0
+11,Rural,SSS/SHS,0,0
+11,Rural,Secondary,0,0
+11,Rural,Voc/technical/commercial,0,0
+11,Rural,Post middle/secondary Certificate,0,0
+11,Rural,Post middle/secondary Diploma,0,0
+11,Rural,Tertiary/HND,0,0
+11,Rural,Tertiary - Bachelor's Degree,0,0
+11,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+11,Rural,Tertiary - Master's Degree,0,0
+11,Rural,Tertiary - PhD,0,0
+11,Rural,Other (specify),0,0
+11,Urban,Never attended,69,123
+11,Urban,Nursery,0,1
+11,Urban,Kindergarten,0,0
+11,Urban,Primary,719,671
+11,Urban,JSS/JHS,43,48
+11,Urban,Middle,0,0
+11,Urban,SSS/SHS,0,0
+11,Urban,Secondary,0,0
+11,Urban,Voc/technical/commercial,0,0
+11,Urban,Post middle/secondary Certificate,0,0
+11,Urban,Post middle/secondary Diploma,0,0
+11,Urban,Tertiary/HND,0,0
+11,Urban,Tertiary - Bachelor's Degree,0,0
+11,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+11,Urban,Tertiary - Master's Degree,0,0
+11,Urban,Tertiary - PhD,0,0
+11,Urban,Other (specify),0,0
+12,Rural,Never attended,147,158
+12,Rural,Nursery,0,0
+12,Rural,Kindergarten,0,0
+12,Rural,Primary,417,316
+12,Rural,JSS/JHS,61,38
+12,Rural,Middle,0,0
+12,Rural,SSS/SHS,0,0
+12,Rural,Secondary,0,0
+12,Rural,Voc/technical/commercial,0,0
+12,Rural,Post middle/secondary Certificate,0,0
+12,Rural,Post middle/secondary Diploma,0,0
+12,Rural,Tertiary/HND,0,0
+12,Rural,Tertiary - Bachelor's Degree,0,0
+12,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+12,Rural,Tertiary - Master's Degree,0,0
+12,Rural,Tertiary - PhD,0,0
+12,Rural,Other (specify),0,0
+12,Urban,Never attended,78,130
+12,Urban,Nursery,0,0
+12,Urban,Kindergarten,1,0
+12,Urban,Primary,706,611
+12,Urban,JSS/JHS,160,139
+12,Urban,Middle,0,0
+12,Urban,SSS/SHS,1,0
+12,Urban,Secondary,2,0
+12,Urban,Voc/technical/commercial,0,0
+12,Urban,Post middle/secondary Certificate,0,0
+12,Urban,Post middle/secondary Diploma,0,0
+12,Urban,Tertiary/HND,0,0
+12,Urban,Tertiary - Bachelor's Degree,0,0
+12,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+12,Urban,Tertiary - Master's Degree,0,0
+12,Urban,Tertiary - PhD,0,0
+12,Urban,Other (specify),0,0
+13,Rural,Never attended,143,152
+13,Rural,Nursery,0,1
+13,Rural,Kindergarten,0,0
+13,Rural,Primary,305,219
+13,Rural,JSS/JHS,94,73
+13,Rural,Middle,0,0
+13,Rural,SSS/SHS,2,1
+13,Rural,Secondary,0,0
+13,Rural,Voc/technical/commercial,0,0
+13,Rural,Post middle/secondary Certificate,0,0
+13,Rural,Post middle/secondary Diploma,0,0
+13,Rural,Tertiary/HND,0,0
+13,Rural,Tertiary - Bachelor's Degree,0,0
+13,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+13,Rural,Tertiary - Master's Degree,0,0
+13,Rural,Tertiary - PhD,0,0
+13,Rural,Other (specify),0,0
+13,Urban,Never attended,62,77
+13,Urban,Nursery,0,0
+13,Urban,Kindergarten,0,0
+13,Urban,Primary,561,473
+13,Urban,JSS/JHS,219,188
+13,Urban,Middle,0,0
+13,Urban,SSS/SHS,3,2
+13,Urban,Secondary,0,0
+13,Urban,Voc/technical/commercial,0,0
+13,Urban,Post middle/secondary Certificate,0,0
+13,Urban,Post middle/secondary Diploma,0,0
+13,Urban,Tertiary/HND,0,0
+13,Urban,Tertiary - Bachelor's Degree,0,0
+13,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+13,Urban,Tertiary - Master's Degree,0,0
+13,Urban,Tertiary - PhD,0,0
+13,Urban,Other (specify),0,0
+14,Rural,Never attended,108,151
+14,Rural,Nursery,1,0
+14,Rural,Kindergarten,0,0
+14,Rural,Primary,240,143
+14,Rural,JSS/JHS,148,100
+14,Rural,Middle,0,0
+14,Rural,SSS/SHS,2,2
+14,Rural,Secondary,0,0
+14,Rural,Voc/technical/commercial,0,0
+14,Rural,Post middle/secondary Certificate,0,0
+14,Rural,Post middle/secondary Diploma,0,0
+14,Rural,Tertiary/HND,0,0
+14,Rural,Tertiary - Bachelor's Degree,0,0
+14,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+14,Rural,Tertiary - Master's Degree,0,0
+14,Rural,Tertiary - PhD,0,0
+14,Rural,Other (specify),0,0
+14,Urban,Never attended,73,93
+14,Urban,Nursery,0,0
+14,Urban,Kindergarten,0,0
+14,Urban,Primary,355,315
+14,Urban,JSS/JHS,281,272
+14,Urban,Middle,0,0
+14,Urban,SSS/SHS,6,3
+14,Urban,Secondary,1,0
+14,Urban,Voc/technical/commercial,0,0
+14,Urban,Post middle/secondary Certificate,0,0
+14,Urban,Post middle/secondary Diploma,0,0
+14,Urban,Tertiary/HND,0,0
+14,Urban,Tertiary - Bachelor's Degree,0,0
+14,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+14,Urban,Tertiary - Master's Degree,0,0
+14,Urban,Tertiary - PhD,0,0
+14,Urban,Other (specify),0,0
+15 years to 64 years,Rural,Never attended,6454,9489
+15 years to 64 years,Rural,Nursery,6,2
+15 years to 64 years,Rural,Kindergarten,0,4
+15 years to 64 years,Rural,Primary,637,468
+15 years to 64 years,Rural,JSS/JHS,1761,1074
+15 years to 64 years,Rural,Middle,23,3
+15 years to 64 years,Rural,SSS/SHS,1452,685
+15 years to 64 years,Rural,Secondary,43,11
+15 years to 64 years,Rural,Voc/technical/commercial,39,8
+15 years to 64 years,Rural,Post middle/secondary Certificate,7,3
+15 years to 64 years,Rural,Post middle/secondary Diploma,55,10
+15 years to 64 years,Rural,Tertiary/HND,173,76
+15 years to 64 years,Rural,Tertiary - Bachelor's Degree,185,46
+15 years to 64 years,Rural,Tertiary - Post graduate Certificate/Diploma,89,10
+15 years to 64 years,Rural,Tertiary - Master's Degree,10,1
+15 years to 64 years,Rural,Tertiary - PhD,4,0
+15 years to 64 years,Rural,Other (specify),7,0
+15 years to 64 years,Urban,Never attended,7615,13564
+15 years to 64 years,Urban,Nursery,2,5
+15 years to 64 years,Urban,Kindergarten,5,6
+15 years to 64 years,Urban,Primary,962,799
+15 years to 64 years,Urban,JSS/JHS,3301,2672
+15 years to 64 years,Urban,Middle,64,27
+15 years to 64 years,Urban,SSS/SHS,4931,3564
+15 years to 64 years,Urban,Secondary,179,65
+15 years to 64 years,Urban,Voc/technical/commercial,116,59
+15 years to 64 years,Urban,Post middle/secondary Certificate,73,48
+15 years to 64 years,Urban,Post middle/secondary Diploma,278,144
+15 years to 64 years,Urban,Tertiary/HND,621,276
+15 years to 64 years,Urban,Tertiary - Bachelor's Degree,830,210
+15 years to 64 years,Urban,Tertiary - Post graduate Certificate/Diploma,764,312
+15 years to 64 years,Urban,Tertiary - Master's Degree,115,14
+15 years to 64 years,Urban,Tertiary - PhD,12,3
+15 years to 64 years,Urban,Other (specify),12,1
+15-19,Rural,Never attended,621,757
+15-19,Rural,Nursery,0,1
+15-19,Rural,Kindergarten,0,1
+15-19,Rural,Primary,163,121
+15-19,Rural,JSS/JHS,989,617
+15-19,Rural,Middle,0,0
+15-19,Rural,SSS/SHS,351,232
+15-19,Rural,Secondary,4,1
+15-19,Rural,Voc/technical/commercial,0,1
+15-19,Rural,Post middle/secondary Certificate,0,2
+15-19,Rural,Post middle/secondary Diploma,1,0
+15-19,Rural,Tertiary/HND,1,16
+15-19,Rural,Tertiary - Bachelor's Degree,47,22
+15-19,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+15-19,Rural,Tertiary - Master's Degree,0,0
+15-19,Rural,Tertiary - PhD,0,0
+15-19,Rural,Other (specify),0,0
+15-19,Urban,Never attended,557,629
+15-19,Urban,Nursery,0,2
+15-19,Urban,Kindergarten,0,1
+15-19,Urban,Primary,233,184
+15-19,Urban,JSS/JHS,1893,1586
+15-19,Urban,Middle,0,0
+15-19,Urban,SSS/SHS,1452,1268
+15-19,Urban,Secondary,3,3
+15-19,Urban,Voc/technical/commercial,3,0
+15-19,Urban,Post middle/secondary Certificate,1,4
+15-19,Urban,Post middle/secondary Diploma,0,16
+15-19,Urban,Tertiary/HND,17,29
+15-19,Urban,Tertiary - Bachelor's Degree,72,7
+15-19,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+15-19,Urban,Tertiary - Master's Degree,0,0
+15-19,Urban,Tertiary - PhD,0,0
+15-19,Urban,Other (specify),0,0
+15,Rural,Never attended,152,143
+15,Rural,Nursery,0,0
+15,Rural,Kindergarten,0,0
+15,Rural,Primary,29,24
+15,Rural,JSS/JHS,354,206
+15,Rural,Middle,0,0
+15,Rural,SSS/SHS,26,30
+15,Rural,Secondary,0,0
+15,Rural,Voc/technical/commercial,0,0
+15,Rural,Post middle/secondary Certificate,0,0
+15,Rural,Post middle/secondary Diploma,0,0
+15,Rural,Tertiary/HND,0,0
+15,Rural,Tertiary - Bachelor's Degree,0,0
+15,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+15,Rural,Tertiary - Master's Degree,0,0
+15,Rural,Tertiary - PhD,0,0
+15,Rural,Other (specify),0,0
+15,Urban,Never attended,128,115
+15,Urban,Nursery,0,0
+15,Urban,Kindergarten,0,0
+15,Urban,Primary,40,30
+15,Urban,JSS/JHS,647,524
+15,Urban,Middle,0,0
+15,Urban,SSS/SHS,97,77
+15,Urban,Secondary,0,0
+15,Urban,Voc/technical/commercial,0,0
+15,Urban,Post middle/secondary Certificate,0,0
+15,Urban,Post middle/secondary Diploma,0,0
+15,Urban,Tertiary/HND,0,0
+15,Urban,Tertiary - Bachelor's Degree,0,0
+15,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+15,Urban,Tertiary - Master's Degree,0,0
+15,Urban,Tertiary - PhD,0,0
+15,Urban,Other (specify),0,0
+16,Rural,Never attended,122,124
+16,Rural,Nursery,0,0
+16,Rural,Kindergarten,0,0
+16,Rural,Primary,32,33
+16,Rural,JSS/JHS,248,148
+16,Rural,Middle,0,0
+16,Rural,SSS/SHS,48,44
+16,Rural,Secondary,0,0
+16,Rural,Voc/technical/commercial,0,0
+16,Rural,Post middle/secondary Certificate,0,0
+16,Rural,Post middle/secondary Diploma,0,0
+16,Rural,Tertiary/HND,0,0
+16,Rural,Tertiary - Bachelor's Degree,0,0
+16,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+16,Rural,Tertiary - Master's Degree,0,0
+16,Rural,Tertiary - PhD,0,0
+16,Rural,Other (specify),0,0
+16,Urban,Never attended,95,108
+16,Urban,Nursery,0,1
+16,Urban,Kindergarten,0,0
+16,Urban,Primary,50,32
+16,Urban,JSS/JHS,476,419
+16,Urban,Middle,0,0
+16,Urban,SSS/SHS,171,145
+16,Urban,Secondary,0,0
+16,Urban,Voc/technical/commercial,0,0
+16,Urban,Post middle/secondary Certificate,0,0
+16,Urban,Post middle/secondary Diploma,0,0
+16,Urban,Tertiary/HND,1,0
+16,Urban,Tertiary - Bachelor's Degree,0,0
+16,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+16,Urban,Tertiary - Master's Degree,0,0
+16,Urban,Tertiary - PhD,0,0
+16,Urban,Other (specify),0,0
+17,Rural,Never attended,106,137
+17,Rural,Nursery,0,0
+17,Rural,Kindergarten,0,1
+17,Rural,Primary,30,13
+17,Rural,JSS/JHS,173,95
+17,Rural,Middle,0,0
+17,Rural,SSS/SHS,70,34
+17,Rural,Secondary,1,0
+17,Rural,Voc/technical/commercial,0,0
+17,Rural,Post middle/secondary Certificate,0,0
+17,Rural,Post middle/secondary Diploma,1,0
+17,Rural,Tertiary/HND,0,0
+17,Rural,Tertiary - Bachelor's Degree,0,0
+17,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+17,Rural,Tertiary - Master's Degree,0,0
+17,Rural,Tertiary - PhD,0,0
+17,Rural,Other (specify),0,0
+17,Urban,Never attended,108,111
+17,Urban,Nursery,0,0
+17,Urban,Kindergarten,0,0
+17,Urban,Primary,40,32
+17,Urban,JSS/JHS,355,279
+17,Urban,Middle,0,0
+17,Urban,SSS/SHS,272,288
+17,Urban,Secondary,0,0
+17,Urban,Voc/technical/commercial,0,0
+17,Urban,Post middle/secondary Certificate,0,0
+17,Urban,Post middle/secondary Diploma,0,0
+17,Urban,Tertiary/HND,1,0
+17,Urban,Tertiary - Bachelor's Degree,1,0
+17,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+17,Urban,Tertiary - Master's Degree,0,0
+17,Urban,Tertiary - PhD,0,0
+17,Urban,Other (specify),0,0
+18,Rural,Never attended,117,159
+18,Rural,Nursery,0,0
+18,Rural,Kindergarten,0,0
+18,Rural,Primary,33,23
+18,Rural,JSS/JHS,110,84
+18,Rural,Middle,0,0
+18,Rural,SSS/SHS,74,55
+18,Rural,Secondary,0,0
+18,Rural,Voc/technical/commercial,0,1
+18,Rural,Post middle/secondary Certificate,0,0
+18,Rural,Post middle/secondary Diploma,0,0
+18,Rural,Tertiary/HND,1,16
+18,Rural,Tertiary - Bachelor's Degree,27,0
+18,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+18,Rural,Tertiary - Master's Degree,0,0
+18,Rural,Tertiary - PhD,0,0
+18,Rural,Other (specify),0,0
+18,Urban,Never attended,119,123
+18,Urban,Nursery,0,1
+18,Urban,Kindergarten,0,0
+18,Urban,Primary,52,39
+18,Urban,JSS/JHS,244,207
+18,Urban,Middle,0,0
+18,Urban,SSS/SHS,414,365
+18,Urban,Secondary,3,1
+18,Urban,Voc/technical/commercial,2,0
+18,Urban,Post middle/secondary Certificate,0,0
+18,Urban,Post middle/secondary Diploma,0,0
+18,Urban,Tertiary/HND,0,29
+18,Urban,Tertiary - Bachelor's Degree,44,0
+18,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+18,Urban,Tertiary - Master's Degree,0,0
+18,Urban,Tertiary - PhD,0,0
+18,Urban,Other (specify),0,0
+19,Rural,Never attended,124,194
+19,Rural,Nursery,0,1
+19,Rural,Kindergarten,0,0
+19,Rural,Primary,39,28
+19,Rural,JSS/JHS,104,84
+19,Rural,Middle,0,0
+19,Rural,SSS/SHS,133,69
+19,Rural,Secondary,3,1
+19,Rural,Voc/technical/commercial,0,0
+19,Rural,Post middle/secondary Certificate,0,2
+19,Rural,Post middle/secondary Diploma,0,0
+19,Rural,Tertiary/HND,0,0
+19,Rural,Tertiary - Bachelor's Degree,20,22
+19,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+19,Rural,Tertiary - Master's Degree,0,0
+19,Rural,Tertiary - PhD,0,0
+19,Rural,Other (specify),0,0
+19,Urban,Never attended,107,172
+19,Urban,Nursery,0,0
+19,Urban,Kindergarten,0,1
+19,Urban,Primary,51,51
+19,Urban,JSS/JHS,171,157
+19,Urban,Middle,0,0
+19,Urban,SSS/SHS,498,393
+19,Urban,Secondary,0,2
+19,Urban,Voc/technical/commercial,1,0
+19,Urban,Post middle/secondary Certificate,1,4
+19,Urban,Post middle/secondary Diploma,0,16
+19,Urban,Tertiary/HND,15,0
+19,Urban,Tertiary - Bachelor's Degree,27,7
+19,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+19,Urban,Tertiary - Master's Degree,0,0
+19,Urban,Tertiary - PhD,0,0
+19,Urban,Other (specify),0,0
+20-24,Rural,Never attended,784,1438
+20-24,Rural,Nursery,1,0
+20-24,Rural,Kindergarten,0,1
+20-24,Rural,Primary,134,153
+20-24,Rural,JSS/JHS,263,200
+20-24,Rural,Middle,0,0
+20-24,Rural,SSS/SHS,499,282
+20-24,Rural,Secondary,3,3
+20-24,Rural,Voc/technical/commercial,7,2
+20-24,Rural,Post middle/secondary Certificate,0,0
+20-24,Rural,Post middle/secondary Diploma,13,4
+20-24,Rural,Tertiary/HND,96,37
+20-24,Rural,Tertiary - Bachelor's Degree,36,6
+20-24,Rural,Tertiary - Post graduate Certificate/Diploma,26,3
+20-24,Rural,Tertiary - Master's Degree,0,0
+20-24,Rural,Tertiary - PhD,0,0
+20-24,Rural,Other (specify),0,0
+20-24,Urban,Never attended,709,1505
+20-24,Urban,Nursery,0,0
+20-24,Urban,Kindergarten,2,2
+20-24,Urban,Primary,195,192
+20-24,Urban,JSS/JHS,440,446
+20-24,Urban,Middle,0,0
+20-24,Urban,SSS/SHS,1958,1464
+20-24,Urban,Secondary,15,15
+20-24,Urban,Voc/technical/commercial,4,4
+20-24,Urban,Post middle/secondary Certificate,13,6
+20-24,Urban,Post middle/secondary Diploma,27,35
+20-24,Urban,Tertiary/HND,204,124
+20-24,Urban,Tertiary - Bachelor's Degree,68,39
+20-24,Urban,Tertiary - Post graduate Certificate/Diploma,293,103
+20-24,Urban,Tertiary - Master's Degree,4,0
+20-24,Urban,Tertiary - PhD,0,1
+20-24,Urban,Other (specify),3,0
+20,Rural,Never attended,186,333
+20,Rural,Nursery,0,0
+20,Rural,Kindergarten,0,1
+20,Rural,Primary,47,34
+20,Rural,JSS/JHS,103,65
+20,Rural,Middle,0,0
+20,Rural,SSS/SHS,138,91
+20,Rural,Secondary,0,0
+20,Rural,Voc/technical/commercial,2,0
+20,Rural,Post middle/secondary Certificate,0,0
+20,Rural,Post middle/secondary Diploma,0,0
+20,Rural,Tertiary/HND,7,0
+20,Rural,Tertiary - Bachelor's Degree,5,4
+20,Rural,Tertiary - Post graduate Certificate/Diploma,13,1
+20,Rural,Tertiary - Master's Degree,0,0
+20,Rural,Tertiary - PhD,0,0
+20,Rural,Other (specify),0,0
+20,Urban,Never attended,182,329
+20,Urban,Nursery,0,0
+20,Urban,Kindergarten,0,1
+20,Urban,Primary,66,40
+20,Urban,JSS/JHS,148,162
+20,Urban,Middle,0,0
+20,Urban,SSS/SHS,659,472
+20,Urban,Secondary,4,4
+20,Urban,Voc/technical/commercial,0,0
+20,Urban,Post middle/secondary Certificate,3,0
+20,Urban,Post middle/secondary Diploma,3,9
+20,Urban,Tertiary/HND,15,15
+20,Urban,Tertiary - Bachelor's Degree,5,7
+20,Urban,Tertiary - Post graduate Certificate/Diploma,46,14
+20,Urban,Tertiary - Master's Degree,0,0
+20,Urban,Tertiary - PhD,0,0
+20,Urban,Other (specify),0,0
+21,Rural,Never attended,240,408
+21,Rural,Nursery,1,0
+21,Rural,Kindergarten,0,0
+21,Rural,Primary,33,53
+21,Rural,JSS/JHS,53,44
+21,Rural,Middle,0,0
+21,Rural,SSS/SHS,114,67
+21,Rural,Secondary,1,2
+21,Rural,Voc/technical/commercial,3,0
+21,Rural,Post middle/secondary Certificate,0,0
+21,Rural,Post middle/secondary Diploma,0,0
+21,Rural,Tertiary/HND,45,18
+21,Rural,Tertiary - Bachelor's Degree,4,0
+21,Rural,Tertiary - Post graduate Certificate/Diploma,3,1
+21,Rural,Tertiary - Master's Degree,0,0
+21,Rural,Tertiary - PhD,0,0
+21,Rural,Other (specify),0,0
+21,Urban,Never attended,184,387
+21,Urban,Nursery,0,0
+21,Urban,Kindergarten,0,1
+21,Urban,Primary,57,54
+21,Urban,JSS/JHS,88,81
+21,Urban,Middle,0,0
+21,Urban,SSS/SHS,628,514
+21,Urban,Secondary,5,6
+21,Urban,Voc/technical/commercial,1,1
+21,Urban,Post middle/secondary Certificate,4,2
+21,Urban,Post middle/secondary Diploma,5,3
+21,Urban,Tertiary/HND,92,50
+21,Urban,Tertiary - Bachelor's Degree,10,6
+21,Urban,Tertiary - Post graduate Certificate/Diploma,45,20
+21,Urban,Tertiary - Master's Degree,0,0
+21,Urban,Tertiary - PhD,0,0
+21,Urban,Other (specify),0,0
+22,Rural,Never attended,134,231
+22,Rural,Nursery,0,0
+22,Rural,Kindergarten,0,0
+22,Rural,Primary,19,22
+22,Rural,JSS/JHS,35,19
+22,Rural,Middle,0,0
+22,Rural,SSS/SHS,102,53
+22,Rural,Secondary,0,0
+22,Rural,Voc/technical/commercial,2,1
+22,Rural,Post middle/secondary Certificate,0,0
+22,Rural,Post middle/secondary Diploma,2,1
+22,Rural,Tertiary/HND,23,10
+22,Rural,Tertiary - Bachelor's Degree,13,0
+22,Rural,Tertiary - Post graduate Certificate/Diploma,1,0
+22,Rural,Tertiary - Master's Degree,0,0
+22,Rural,Tertiary - PhD,0,0
+22,Rural,Other (specify),0,0
+22,Urban,Never attended,129,284
+22,Urban,Nursery,0,0
+22,Urban,Kindergarten,0,0
+22,Urban,Primary,29,36
+22,Urban,JSS/JHS,80,84
+22,Urban,Middle,0,0
+22,Urban,SSS/SHS,308,202
+22,Urban,Secondary,2,5
+22,Urban,Voc/technical/commercial,1,1
+22,Urban,Post middle/secondary Certificate,1,0
+22,Urban,Post middle/secondary Diploma,6,7
+22,Urban,Tertiary/HND,53,25
+22,Urban,Tertiary - Bachelor's Degree,9,3
+22,Urban,Tertiary - Post graduate Certificate/Diploma,57,21
+22,Urban,Tertiary - Master's Degree,0,0
+22,Urban,Tertiary - PhD,0,1
+22,Urban,Other (specify),2,0
+23,Rural,Never attended,121,270
+23,Rural,Nursery,0,0
+23,Rural,Kindergarten,0,0
+23,Rural,Primary,17,26
+23,Rural,JSS/JHS,35,31
+23,Rural,Middle,0,0
+23,Rural,SSS/SHS,78,33
+23,Rural,Secondary,1,1
+23,Rural,Voc/technical/commercial,0,1
+23,Rural,Post middle/secondary Certificate,0,0
+23,Rural,Post middle/secondary Diploma,9,2
+23,Rural,Tertiary/HND,13,6
+23,Rural,Tertiary - Bachelor's Degree,0,2
+23,Rural,Tertiary - Post graduate Certificate/Diploma,6,1
+23,Rural,Tertiary - Master's Degree,0,0
+23,Rural,Tertiary - PhD,0,0
+23,Rural,Other (specify),0,0
+23,Urban,Never attended,115,266
+23,Urban,Nursery,0,0
+23,Urban,Kindergarten,0,0
+23,Urban,Primary,23,33
+23,Urban,JSS/JHS,58,56
+23,Urban,Middle,0,0
+23,Urban,SSS/SHS,220,160
+23,Urban,Secondary,3,0
+23,Urban,Voc/technical/commercial,2,1
+23,Urban,Post middle/secondary Certificate,2,2
+23,Urban,Post middle/secondary Diploma,9,8
+23,Urban,Tertiary/HND,36,15
+23,Urban,Tertiary - Bachelor's Degree,15,13
+23,Urban,Tertiary - Post graduate Certificate/Diploma,76,19
+23,Urban,Tertiary - Master's Degree,0,0
+23,Urban,Tertiary - PhD,0,0
+23,Urban,Other (specify),0,0
+24,Rural,Never attended,103,196
+24,Rural,Nursery,0,0
+24,Rural,Kindergarten,0,0
+24,Rural,Primary,18,18
+24,Rural,JSS/JHS,37,41
+24,Rural,Middle,0,0
+24,Rural,SSS/SHS,67,38
+24,Rural,Secondary,1,0
+24,Rural,Voc/technical/commercial,0,0
+24,Rural,Post middle/secondary Certificate,0,0
+24,Rural,Post middle/secondary Diploma,2,1
+24,Rural,Tertiary/HND,8,3
+24,Rural,Tertiary - Bachelor's Degree,14,0
+24,Rural,Tertiary - Post graduate Certificate/Diploma,3,0
+24,Rural,Tertiary - Master's Degree,0,0
+24,Rural,Tertiary - PhD,0,0
+24,Rural,Other (specify),0,0
+24,Urban,Never attended,99,239
+24,Urban,Nursery,0,0
+24,Urban,Kindergarten,2,0
+24,Urban,Primary,20,29
+24,Urban,JSS/JHS,66,63
+24,Urban,Middle,0,0
+24,Urban,SSS/SHS,143,116
+24,Urban,Secondary,1,0
+24,Urban,Voc/technical/commercial,0,1
+24,Urban,Post middle/secondary Certificate,3,2
+24,Urban,Post middle/secondary Diploma,4,8
+24,Urban,Tertiary/HND,8,19
+24,Urban,Tertiary - Bachelor's Degree,29,10
+24,Urban,Tertiary - Post graduate Certificate/Diploma,69,29
+24,Urban,Tertiary - Master's Degree,4,0
+24,Urban,Tertiary - PhD,0,0
+24,Urban,Other (specify),1,0
+25-29,Rural,Never attended,803,1428
+25-29,Rural,Nursery,0,1
+25-29,Rural,Kindergarten,0,1
+25-29,Rural,Primary,114,87
+25-29,Rural,JSS/JHS,166,137
+25-29,Rural,Middle,0,0
+25-29,Rural,SSS/SHS,301,118
+25-29,Rural,Secondary,4,4
+25-29,Rural,Voc/technical/commercial,14,4
+25-29,Rural,Post middle/secondary Certificate,1,0
+25-29,Rural,Post middle/secondary Diploma,12,5
+25-29,Rural,Tertiary/HND,40,17
+25-29,Rural,Tertiary - Bachelor's Degree,28,8
+25-29,Rural,Tertiary - Post graduate Certificate/Diploma,33,4
+25-29,Rural,Tertiary - Master's Degree,1,0
+25-29,Rural,Tertiary - PhD,4,0
+25-29,Rural,Other (specify),0,0
+25-29,Urban,Never attended,740,1994
+25-29,Urban,Nursery,1,0
+25-29,Urban,Kindergarten,1,0
+25-29,Urban,Primary,127,166
+25-29,Urban,JSS/JHS,282,324
+25-29,Urban,Middle,0,0
+25-29,Urban,SSS/SHS,587,507
+25-29,Urban,Secondary,10,9
+25-29,Urban,Voc/technical/commercial,68,35
+25-29,Urban,Post middle/secondary Certificate,15,8
+25-29,Urban,Post middle/secondary Diploma,91,39
+25-29,Urban,Tertiary/HND,125,55
+25-29,Urban,Tertiary - Bachelor's Degree,146,52
+25-29,Urban,Tertiary - Post graduate Certificate/Diploma,246,128
+25-29,Urban,Tertiary - Master's Degree,8,1
+25-29,Urban,Tertiary - PhD,1,0
+25-29,Urban,Other (specify),1,0
+25,Rural,Never attended,190,393
+25,Rural,Nursery,0,1
+25,Rural,Kindergarten,0,1
+25,Rural,Primary,37,20
+25,Rural,JSS/JHS,42,38
+25,Rural,Middle,0,0
+25,Rural,SSS/SHS,92,32
+25,Rural,Secondary,2,0
+25,Rural,Voc/technical/commercial,1,0
+25,Rural,Post middle/secondary Certificate,0,0
+25,Rural,Post middle/secondary Diploma,4,1
+25,Rural,Tertiary/HND,11,6
+25,Rural,Tertiary - Bachelor's Degree,9,5
+25,Rural,Tertiary - Post graduate Certificate/Diploma,4,3
+25,Rural,Tertiary - Master's Degree,0,0
+25,Rural,Tertiary - PhD,2,0
+25,Rural,Other (specify),0,0
+25,Urban,Never attended,159,450
+25,Urban,Nursery,0,0
+25,Urban,Kindergarten,0,0
+25,Urban,Primary,43,55
+25,Urban,JSS/JHS,81,77
+25,Urban,Middle,0,0
+25,Urban,SSS/SHS,178,151
+25,Urban,Secondary,1,2
+25,Urban,Voc/technical/commercial,4,3
+25,Urban,Post middle/secondary Certificate,4,1
+25,Urban,Post middle/secondary Diploma,24,7
+25,Urban,Tertiary/HND,30,16
+25,Urban,Tertiary - Bachelor's Degree,24,4
+25,Urban,Tertiary - Post graduate Certificate/Diploma,80,31
+25,Urban,Tertiary - Master's Degree,1,0
+25,Urban,Tertiary - PhD,0,0
+25,Urban,Other (specify),0,0
+26,Rural,Never attended,180,344
+26,Rural,Nursery,0,0
+26,Rural,Kindergarten,0,0
+26,Rural,Primary,18,31
+26,Rural,JSS/JHS,43,37
+26,Rural,Middle,0,0
+26,Rural,SSS/SHS,75,31
+26,Rural,Secondary,0,1
+26,Rural,Voc/technical/commercial,7,2
+26,Rural,Post middle/secondary Certificate,1,0
+26,Rural,Post middle/secondary Diploma,0,0
+26,Rural,Tertiary/HND,13,2
+26,Rural,Tertiary - Bachelor's Degree,2,0
+26,Rural,Tertiary - Post graduate Certificate/Diploma,8,0
+26,Rural,Tertiary - Master's Degree,0,0
+26,Rural,Tertiary - PhD,0,0
+26,Rural,Other (specify),0,0
+26,Urban,Never attended,184,433
+26,Urban,Nursery,0,0
+26,Urban,Kindergarten,0,0
+26,Urban,Primary,21,37
+26,Urban,JSS/JHS,46,70
+26,Urban,Middle,0,0
+26,Urban,SSS/SHS,101,108
+26,Urban,Secondary,5,1
+26,Urban,Voc/technical/commercial,28,14
+26,Urban,Post middle/secondary Certificate,3,3
+26,Urban,Post middle/secondary Diploma,19,5
+26,Urban,Tertiary/HND,27,12
+26,Urban,Tertiary - Bachelor's Degree,22,9
+26,Urban,Tertiary - Post graduate Certificate/Diploma,49,28
+26,Urban,Tertiary - Master's Degree,3,0
+26,Urban,Tertiary - PhD,1,0
+26,Urban,Other (specify),0,0
+27,Rural,Never attended,148,207
+27,Rural,Nursery,0,0
+27,Rural,Kindergarten,0,0
+27,Rural,Primary,20,17
+27,Rural,JSS/JHS,26,29
+27,Rural,Middle,0,0
+27,Rural,SSS/SHS,43,20
+27,Rural,Secondary,0,1
+27,Rural,Voc/technical/commercial,3,0
+27,Rural,Post middle/secondary Certificate,0,0
+27,Rural,Post middle/secondary Diploma,7,1
+27,Rural,Tertiary/HND,7,2
+27,Rural,Tertiary - Bachelor's Degree,10,0
+27,Rural,Tertiary - Post graduate Certificate/Diploma,6,0
+27,Rural,Tertiary - Master's Degree,1,0
+27,Rural,Tertiary - PhD,0,0
+27,Rural,Other (specify),0,0
+27,Urban,Never attended,118,350
+27,Urban,Nursery,0,0
+27,Urban,Kindergarten,1,0
+27,Urban,Primary,18,26
+27,Urban,JSS/JHS,41,68
+27,Urban,Middle,0,0
+27,Urban,SSS/SHS,118,92
+27,Urban,Secondary,0,2
+27,Urban,Voc/technical/commercial,12,3
+27,Urban,Post middle/secondary Certificate,4,0
+27,Urban,Post middle/secondary Diploma,11,11
+27,Urban,Tertiary/HND,23,11
+27,Urban,Tertiary - Bachelor's Degree,33,7
+27,Urban,Tertiary - Post graduate Certificate/Diploma,46,29
+27,Urban,Tertiary - Master's Degree,1,0
+27,Urban,Tertiary - PhD,0,0
+27,Urban,Other (specify),1,0
+28,Rural,Never attended,133,257
+28,Rural,Nursery,0,0
+28,Rural,Kindergarten,0,0
+28,Rural,Primary,20,13
+28,Rural,JSS/JHS,41,14
+28,Rural,Middle,0,0
+28,Rural,SSS/SHS,57,22
+28,Rural,Secondary,1,1
+28,Rural,Voc/technical/commercial,2,1
+28,Rural,Post middle/secondary Certificate,0,0
+28,Rural,Post middle/secondary Diploma,0,3
+28,Rural,Tertiary/HND,3,4
+28,Rural,Tertiary - Bachelor's Degree,4,1
+28,Rural,Tertiary - Post graduate Certificate/Diploma,6,1
+28,Rural,Tertiary - Master's Degree,0,0
+28,Rural,Tertiary - PhD,2,0
+28,Rural,Other (specify),0,0
+28,Urban,Never attended,135,386
+28,Urban,Nursery,0,0
+28,Urban,Kindergarten,0,0
+28,Urban,Primary,28,21
+28,Urban,JSS/JHS,57,69
+28,Urban,Middle,0,0
+28,Urban,SSS/SHS,108,74
+28,Urban,Secondary,2,2
+28,Urban,Voc/technical/commercial,9,8
+28,Urban,Post middle/secondary Certificate,2,3
+28,Urban,Post middle/secondary Diploma,22,6
+28,Urban,Tertiary/HND,30,7
+28,Urban,Tertiary - Bachelor's Degree,33,11
+28,Urban,Tertiary - Post graduate Certificate/Diploma,43,21
+28,Urban,Tertiary - Master's Degree,2,1
+28,Urban,Tertiary - PhD,0,0
+28,Urban,Other (specify),0,0
+29,Rural,Never attended,152,227
+29,Rural,Nursery,0,0
+29,Rural,Kindergarten,0,0
+29,Rural,Primary,19,6
+29,Rural,JSS/JHS,14,19
+29,Rural,Middle,0,0
+29,Rural,SSS/SHS,34,13
+29,Rural,Secondary,1,1
+29,Rural,Voc/technical/commercial,1,1
+29,Rural,Post middle/secondary Certificate,0,0
+29,Rural,Post middle/secondary Diploma,1,0
+29,Rural,Tertiary/HND,6,3
+29,Rural,Tertiary - Bachelor's Degree,3,2
+29,Rural,Tertiary - Post graduate Certificate/Diploma,9,0
+29,Rural,Tertiary - Master's Degree,0,0
+29,Rural,Tertiary - PhD,0,0
+29,Rural,Other (specify),0,0
+29,Urban,Never attended,144,375
+29,Urban,Nursery,1,0
+29,Urban,Kindergarten,0,0
+29,Urban,Primary,17,27
+29,Urban,JSS/JHS,57,40
+29,Urban,Middle,0,0
+29,Urban,SSS/SHS,82,82
+29,Urban,Secondary,2,2
+29,Urban,Voc/technical/commercial,15,7
+29,Urban,Post middle/secondary Certificate,2,1
+29,Urban,Post middle/secondary Diploma,15,10
+29,Urban,Tertiary/HND,15,9
+29,Urban,Tertiary - Bachelor's Degree,34,21
+29,Urban,Tertiary - Post graduate Certificate/Diploma,28,19
+29,Urban,Tertiary - Master's Degree,1,0
+29,Urban,Tertiary - PhD,0,0
+29,Urban,Other (specify),0,0
+30-34,Rural,Never attended,923,1535
+30-34,Rural,Nursery,3,0
+30-34,Rural,Kindergarten,0,0
+30-34,Rural,Primary,68,57
+30-34,Rural,JSS/JHS,148,76
+30-34,Rural,Middle,0,0
+30-34,Rural,SSS/SHS,158,33
+30-34,Rural,Secondary,2,0
+30-34,Rural,Voc/technical/commercial,7,1
+30-34,Rural,Post middle/secondary Certificate,1,1
+30-34,Rural,Post middle/secondary Diploma,17,0
+30-34,Rural,Tertiary/HND,25,6
+30-34,Rural,Tertiary - Bachelor's Degree,32,4
+30-34,Rural,Tertiary - Post graduate Certificate/Diploma,22,2
+30-34,Rural,Tertiary - Master's Degree,3,1
+30-34,Rural,Tertiary - PhD,0,0
+30-34,Rural,Other (specify),3,0
+30-34,Urban,Never attended,1072,2442
+30-34,Urban,Nursery,0,0
+30-34,Urban,Kindergarten,1,1
+30-34,Urban,Primary,137,115
+30-34,Urban,JSS/JHS,290,188
+30-34,Urban,Middle,0,0
+30-34,Urban,SSS/SHS,391,199
+30-34,Urban,Secondary,20,10
+30-34,Urban,Voc/technical/commercial,18,11
+30-34,Urban,Post middle/secondary Certificate,17,17
+30-34,Urban,Post middle/secondary Diploma,76,29
+30-34,Urban,Tertiary/HND,113,41
+30-34,Urban,Tertiary - Bachelor's Degree,217,64
+30-34,Urban,Tertiary - Post graduate Certificate/Diploma,126,51
+30-34,Urban,Tertiary - Master's Degree,22,2
+30-34,Urban,Tertiary - PhD,1,0
+30-34,Urban,Other (specify),2,0
+30,Rural,Never attended,253,423
+30,Rural,Nursery,1,0
+30,Rural,Kindergarten,0,0
+30,Rural,Primary,25,21
+30,Rural,JSS/JHS,46,21
+30,Rural,Middle,0,0
+30,Rural,SSS/SHS,52,13
+30,Rural,Secondary,0,0
+30,Rural,Voc/technical/commercial,6,0
+30,Rural,Post middle/secondary Certificate,0,0
+30,Rural,Post middle/secondary Diploma,5,0
+30,Rural,Tertiary/HND,9,1
+30,Rural,Tertiary - Bachelor's Degree,11,2
+30,Rural,Tertiary - Post graduate Certificate/Diploma,4,1
+30,Rural,Tertiary - Master's Degree,1,0
+30,Rural,Tertiary - PhD,0,0
+30,Rural,Other (specify),3,0
+30,Urban,Never attended,309,597
+30,Urban,Nursery,0,0
+30,Urban,Kindergarten,0,0
+30,Urban,Primary,31,41
+30,Urban,JSS/JHS,93,57
+30,Urban,Middle,0,0
+30,Urban,SSS/SHS,128,59
+30,Urban,Secondary,4,1
+30,Urban,Voc/technical/commercial,9,8
+30,Urban,Post middle/secondary Certificate,4,4
+30,Urban,Post middle/secondary Diploma,20,8
+30,Urban,Tertiary/HND,33,10
+30,Urban,Tertiary - Bachelor's Degree,38,18
+30,Urban,Tertiary - Post graduate Certificate/Diploma,40,16
+30,Urban,Tertiary - Master's Degree,7,0
+30,Urban,Tertiary - PhD,0,0
+30,Urban,Other (specify),0,0
+31,Rural,Never attended,274,438
+31,Rural,Nursery,0,0
+31,Rural,Kindergarten,0,0
+31,Rural,Primary,21,17
+31,Rural,JSS/JHS,39,22
+31,Rural,Middle,0,0
+31,Rural,SSS/SHS,47,8
+31,Rural,Secondary,1,0
+31,Rural,Voc/technical/commercial,1,0
+31,Rural,Post middle/secondary Certificate,0,0
+31,Rural,Post middle/secondary Diploma,4,0
+31,Rural,Tertiary/HND,11,1
+31,Rural,Tertiary - Bachelor's Degree,9,2
+31,Rural,Tertiary - Post graduate Certificate/Diploma,6,0
+31,Rural,Tertiary - Master's Degree,1,0
+31,Rural,Tertiary - PhD,0,0
+31,Rural,Other (specify),0,0
+31,Urban,Never attended,318,693
+31,Urban,Nursery,0,0
+31,Urban,Kindergarten,0,0
+31,Urban,Primary,40,27
+31,Urban,JSS/JHS,88,62
+31,Urban,Middle,0,0
+31,Urban,SSS/SHS,101,54
+31,Urban,Secondary,7,3
+31,Urban,Voc/technical/commercial,2,1
+31,Urban,Post middle/secondary Certificate,7,7
+31,Urban,Post middle/secondary Diploma,21,12
+31,Urban,Tertiary/HND,31,11
+31,Urban,Tertiary - Bachelor's Degree,54,14
+31,Urban,Tertiary - Post graduate Certificate/Diploma,30,12
+31,Urban,Tertiary - Master's Degree,2,1
+31,Urban,Tertiary - PhD,1,0
+31,Urban,Other (specify),1,0
+32,Rural,Never attended,142,247
+32,Rural,Nursery,2,0
+32,Rural,Kindergarten,0,0
+32,Rural,Primary,5,5
+32,Rural,JSS/JHS,25,11
+32,Rural,Middle,0,0
+32,Rural,SSS/SHS,23,6
+32,Rural,Secondary,1,0
+32,Rural,Voc/technical/commercial,0,1
+32,Rural,Post middle/secondary Certificate,0,0
+32,Rural,Post middle/secondary Diploma,4,0
+32,Rural,Tertiary/HND,1,2
+32,Rural,Tertiary - Bachelor's Degree,5,0
+32,Rural,Tertiary - Post graduate Certificate/Diploma,4,0
+32,Rural,Tertiary - Master's Degree,0,1
+32,Rural,Tertiary - PhD,0,0
+32,Rural,Other (specify),0,0
+32,Urban,Never attended,166,435
+32,Urban,Nursery,0,0
+32,Urban,Kindergarten,0,1
+32,Urban,Primary,35,17
+32,Urban,JSS/JHS,39,29
+32,Urban,Middle,0,0
+32,Urban,SSS/SHS,65,32
+32,Urban,Secondary,2,1
+32,Urban,Voc/technical/commercial,1,2
+32,Urban,Post middle/secondary Certificate,2,4
+32,Urban,Post middle/secondary Diploma,8,4
+32,Urban,Tertiary/HND,12,7
+32,Urban,Tertiary - Bachelor's Degree,45,13
+32,Urban,Tertiary - Post graduate Certificate/Diploma,30,5
+32,Urban,Tertiary - Master's Degree,1,0
+32,Urban,Tertiary - PhD,0,0
+32,Urban,Other (specify),0,0
+33,Rural,Never attended,126,257
+33,Rural,Nursery,0,0
+33,Rural,Kindergarten,0,0
+33,Rural,Primary,12,5
+33,Rural,JSS/JHS,27,15
+33,Rural,Middle,0,0
+33,Rural,SSS/SHS,15,5
+33,Rural,Secondary,0,0
+33,Rural,Voc/technical/commercial,0,0
+33,Rural,Post middle/secondary Certificate,1,0
+33,Rural,Post middle/secondary Diploma,3,0
+33,Rural,Tertiary/HND,3,1
+33,Rural,Tertiary - Bachelor's Degree,4,0
+33,Rural,Tertiary - Post graduate Certificate/Diploma,3,0
+33,Rural,Tertiary - Master's Degree,0,0
+33,Rural,Tertiary - PhD,0,0
+33,Rural,Other (specify),0,0
+33,Urban,Never attended,158,393
+33,Urban,Nursery,0,0
+33,Urban,Kindergarten,0,0
+33,Urban,Primary,23,12
+33,Urban,JSS/JHS,32,25
+33,Urban,Middle,0,0
+33,Urban,SSS/SHS,55,31
+33,Urban,Secondary,4,2
+33,Urban,Voc/technical/commercial,2,0
+33,Urban,Post middle/secondary Certificate,2,1
+33,Urban,Post middle/secondary Diploma,12,2
+33,Urban,Tertiary/HND,21,8
+33,Urban,Tertiary - Bachelor's Degree,43,9
+33,Urban,Tertiary - Post graduate Certificate/Diploma,15,12
+33,Urban,Tertiary - Master's Degree,7,1
+33,Urban,Tertiary - PhD,0,0
+33,Urban,Other (specify),0,0
+34,Rural,Never attended,128,170
+34,Rural,Nursery,0,0
+34,Rural,Kindergarten,0,0
+34,Rural,Primary,5,9
+34,Rural,JSS/JHS,11,7
+34,Rural,Middle,0,0
+34,Rural,SSS/SHS,21,1
+34,Rural,Secondary,0,0
+34,Rural,Voc/technical/commercial,0,0
+34,Rural,Post middle/secondary Certificate,0,1
+34,Rural,Post middle/secondary Diploma,1,0
+34,Rural,Tertiary/HND,1,1
+34,Rural,Tertiary - Bachelor's Degree,3,0
+34,Rural,Tertiary - Post graduate Certificate/Diploma,5,1
+34,Rural,Tertiary - Master's Degree,1,0
+34,Rural,Tertiary - PhD,0,0
+34,Rural,Other (specify),0,0
+34,Urban,Never attended,121,324
+34,Urban,Nursery,0,0
+34,Urban,Kindergarten,1,0
+34,Urban,Primary,8,18
+34,Urban,JSS/JHS,38,15
+34,Urban,Middle,0,0
+34,Urban,SSS/SHS,42,23
+34,Urban,Secondary,3,3
+34,Urban,Voc/technical/commercial,4,0
+34,Urban,Post middle/secondary Certificate,2,1
+34,Urban,Post middle/secondary Diploma,15,3
+34,Urban,Tertiary/HND,16,5
+34,Urban,Tertiary - Bachelor's Degree,37,10
+34,Urban,Tertiary - Post graduate Certificate/Diploma,11,6
+34,Urban,Tertiary - Master's Degree,5,0
+34,Urban,Tertiary - PhD,0,0
+34,Urban,Other (specify),1,0
+35-39,Rural,Never attended,732,1240
+35-39,Rural,Nursery,0,0
+35-39,Rural,Kindergarten,0,1
+35-39,Rural,Primary,66,27
+35-39,Rural,JSS/JHS,96,27
+35-39,Rural,Middle,0,0
+35-39,Rural,SSS/SHS,64,11
+35-39,Rural,Secondary,1,2
+35-39,Rural,Voc/technical/commercial,6,0
+35-39,Rural,Post middle/secondary Certificate,2,0
+35-39,Rural,Post middle/secondary Diploma,5,1
+35-39,Rural,Tertiary/HND,7,0
+35-39,Rural,Tertiary - Bachelor's Degree,20,2
+35-39,Rural,Tertiary - Post graduate Certificate/Diploma,2,1
+35-39,Rural,Tertiary - Master's Degree,4,0
+35-39,Rural,Tertiary - PhD,0,0
+35-39,Rural,Other (specify),2,0
+35-39,Urban,Never attended,986,1938
+35-39,Urban,Nursery,0,0
+35-39,Urban,Kindergarten,1,2
+35-39,Urban,Primary,90,66
+35-39,Urban,JSS/JHS,174,66
+35-39,Urban,Middle,0,0
+35-39,Urban,SSS/SHS,237,72
+35-39,Urban,Secondary,16,3
+35-39,Urban,Voc/technical/commercial,5,7
+35-39,Urban,Post middle/secondary Certificate,9,1
+35-39,Urban,Post middle/secondary Diploma,39,9
+35-39,Urban,Tertiary/HND,84,17
+35-39,Urban,Tertiary - Bachelor's Degree,114,29
+35-39,Urban,Tertiary - Post graduate Certificate/Diploma,41,16
+35-39,Urban,Tertiary - Master's Degree,26,8
+35-39,Urban,Tertiary - PhD,2,1
+35-39,Urban,Other (specify),1,1
+35,Rural,Never attended,205,332
+35,Rural,Nursery,0,0
+35,Rural,Kindergarten,0,0
+35,Rural,Primary,27,10
+35,Rural,JSS/JHS,29,11
+35,Rural,Middle,0,0
+35,Rural,SSS/SHS,26,4
+35,Rural,Secondary,0,0
+35,Rural,Voc/technical/commercial,0,0
+35,Rural,Post middle/secondary Certificate,0,0
+35,Rural,Post middle/secondary Diploma,3,0
+35,Rural,Tertiary/HND,0,0
+35,Rural,Tertiary - Bachelor's Degree,5,0
+35,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+35,Rural,Tertiary - Master's Degree,1,0
+35,Rural,Tertiary - PhD,0,0
+35,Rural,Other (specify),0,0
+35,Urban,Never attended,274,531
+35,Urban,Nursery,0,0
+35,Urban,Kindergarten,0,1
+35,Urban,Primary,31,24
+35,Urban,JSS/JHS,46,20
+35,Urban,Middle,0,0
+35,Urban,SSS/SHS,77,23
+35,Urban,Secondary,5,3
+35,Urban,Voc/technical/commercial,3,2
+35,Urban,Post middle/secondary Certificate,4,0
+35,Urban,Post middle/secondary Diploma,14,2
+35,Urban,Tertiary/HND,31,7
+35,Urban,Tertiary - Bachelor's Degree,35,8
+35,Urban,Tertiary - Post graduate Certificate/Diploma,10,10
+35,Urban,Tertiary - Master's Degree,5,2
+35,Urban,Tertiary - PhD,1,0
+35,Urban,Other (specify),1,0
+36,Rural,Never attended,194,354
+36,Rural,Nursery,0,0
+36,Rural,Kindergarten,0,1
+36,Rural,Primary,6,7
+36,Rural,JSS/JHS,19,5
+36,Rural,Middle,0,0
+36,Rural,SSS/SHS,14,1
+36,Rural,Secondary,0,1
+36,Rural,Voc/technical/commercial,4,0
+36,Rural,Post middle/secondary Certificate,0,0
+36,Rural,Post middle/secondary Diploma,1,0
+36,Rural,Tertiary/HND,4,0
+36,Rural,Tertiary - Bachelor's Degree,7,0
+36,Rural,Tertiary - Post graduate Certificate/Diploma,2,0
+36,Rural,Tertiary - Master's Degree,2,0
+36,Rural,Tertiary - PhD,0,0
+36,Rural,Other (specify),0,0
+36,Urban,Never attended,282,487
+36,Urban,Nursery,0,0
+36,Urban,Kindergarten,0,0
+36,Urban,Primary,24,14
+36,Urban,JSS/JHS,43,17
+36,Urban,Middle,0,0
+36,Urban,SSS/SHS,57,18
+36,Urban,Secondary,2,0
+36,Urban,Voc/technical/commercial,2,2
+36,Urban,Post middle/secondary Certificate,3,1
+36,Urban,Post middle/secondary Diploma,9,3
+36,Urban,Tertiary/HND,25,3
+36,Urban,Tertiary - Bachelor's Degree,29,6
+36,Urban,Tertiary - Post graduate Certificate/Diploma,11,2
+36,Urban,Tertiary - Master's Degree,7,2
+36,Urban,Tertiary - PhD,0,0
+36,Urban,Other (specify),0,0
+37,Rural,Never attended,101,173
+37,Rural,Nursery,0,0
+37,Rural,Kindergarten,0,0
+37,Rural,Primary,9,5
+37,Rural,JSS/JHS,12,4
+37,Rural,Middle,0,0
+37,Rural,SSS/SHS,3,2
+37,Rural,Secondary,0,1
+37,Rural,Voc/technical/commercial,1,0
+37,Rural,Post middle/secondary Certificate,0,0
+37,Rural,Post middle/secondary Diploma,0,0
+37,Rural,Tertiary/HND,3,0
+37,Rural,Tertiary - Bachelor's Degree,6,1
+37,Rural,Tertiary - Post graduate Certificate/Diploma,0,1
+37,Rural,Tertiary - Master's Degree,0,0
+37,Rural,Tertiary - PhD,0,0
+37,Rural,Other (specify),1,0
+37,Urban,Never attended,143,282
+37,Urban,Nursery,0,0
+37,Urban,Kindergarten,0,0
+37,Urban,Primary,9,12
+37,Urban,JSS/JHS,21,7
+37,Urban,Middle,0,0
+37,Urban,SSS/SHS,41,14
+37,Urban,Secondary,3,0
+37,Urban,Voc/technical/commercial,0,0
+37,Urban,Post middle/secondary Certificate,1,0
+37,Urban,Post middle/secondary Diploma,5,2
+37,Urban,Tertiary/HND,9,2
+37,Urban,Tertiary - Bachelor's Degree,15,5
+37,Urban,Tertiary - Post graduate Certificate/Diploma,10,4
+37,Urban,Tertiary - Master's Degree,6,1
+37,Urban,Tertiary - PhD,1,0
+37,Urban,Other (specify),0,0
+38,Rural,Never attended,127,198
+38,Rural,Nursery,0,0
+38,Rural,Kindergarten,0,0
+38,Rural,Primary,11,3
+38,Rural,JSS/JHS,19,4
+38,Rural,Middle,0,0
+38,Rural,SSS/SHS,10,3
+38,Rural,Secondary,1,0
+38,Rural,Voc/technical/commercial,1,0
+38,Rural,Post middle/secondary Certificate,2,0
+38,Rural,Post middle/secondary Diploma,0,1
+38,Rural,Tertiary/HND,0,0
+38,Rural,Tertiary - Bachelor's Degree,0,0
+38,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+38,Rural,Tertiary - Master's Degree,0,0
+38,Rural,Tertiary - PhD,0,0
+38,Rural,Other (specify),1,0
+38,Urban,Never attended,141,323
+38,Urban,Nursery,0,0
+38,Urban,Kindergarten,1,0
+38,Urban,Primary,19,8
+38,Urban,JSS/JHS,36,15
+38,Urban,Middle,0,0
+38,Urban,SSS/SHS,27,11
+38,Urban,Secondary,3,0
+38,Urban,Voc/technical/commercial,0,1
+38,Urban,Post middle/secondary Certificate,1,0
+38,Urban,Post middle/secondary Diploma,5,1
+38,Urban,Tertiary/HND,9,2
+38,Urban,Tertiary - Bachelor's Degree,18,4
+38,Urban,Tertiary - Post graduate Certificate/Diploma,5,0
+38,Urban,Tertiary - Master's Degree,5,2
+38,Urban,Tertiary - PhD,0,1
+38,Urban,Other (specify),0,1
+39,Rural,Never attended,105,183
+39,Rural,Nursery,0,0
+39,Rural,Kindergarten,0,0
+39,Rural,Primary,13,2
+39,Rural,JSS/JHS,17,3
+39,Rural,Middle,0,0
+39,Rural,SSS/SHS,11,1
+39,Rural,Secondary,0,0
+39,Rural,Voc/technical/commercial,0,0
+39,Rural,Post middle/secondary Certificate,0,0
+39,Rural,Post middle/secondary Diploma,1,0
+39,Rural,Tertiary/HND,0,0
+39,Rural,Tertiary - Bachelor's Degree,2,1
+39,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+39,Rural,Tertiary - Master's Degree,1,0
+39,Rural,Tertiary - PhD,0,0
+39,Rural,Other (specify),0,0
+39,Urban,Never attended,146,315
+39,Urban,Nursery,0,0
+39,Urban,Kindergarten,0,1
+39,Urban,Primary,7,8
+39,Urban,JSS/JHS,28,7
+39,Urban,Middle,0,0
+39,Urban,SSS/SHS,35,6
+39,Urban,Secondary,3,0
+39,Urban,Voc/technical/commercial,0,2
+39,Urban,Post middle/secondary Certificate,0,0
+39,Urban,Post middle/secondary Diploma,6,1
+39,Urban,Tertiary/HND,10,3
+39,Urban,Tertiary - Bachelor's Degree,17,6
+39,Urban,Tertiary - Post graduate Certificate/Diploma,5,0
+39,Urban,Tertiary - Master's Degree,3,1
+39,Urban,Tertiary - PhD,0,0
+39,Urban,Other (specify),0,0
+40-44,Rural,Never attended,851,1127
+40-44,Rural,Nursery,1,0
+40-44,Rural,Kindergarten,0,0
+40-44,Rural,Primary,38,12
+40-44,Rural,JSS/JHS,54,8
+40-44,Rural,Middle,0,0
+40-44,Rural,SSS/SHS,45,4
+40-44,Rural,Secondary,4,1
+40-44,Rural,Voc/technical/commercial,3,0
+40-44,Rural,Post middle/secondary Certificate,1,0
+40-44,Rural,Post middle/secondary Diploma,3,0
+40-44,Rural,Tertiary/HND,3,0
+40-44,Rural,Tertiary - Bachelor's Degree,12,3
+40-44,Rural,Tertiary - Post graduate Certificate/Diploma,2,0
+40-44,Rural,Tertiary - Master's Degree,1,0
+40-44,Rural,Tertiary - PhD,0,0
+40-44,Rural,Other (specify),0,0
+40-44,Urban,Never attended,1116,1916
+40-44,Urban,Nursery,1,1
+40-44,Urban,Kindergarten,0,0
+40-44,Urban,Primary,74,36
+40-44,Urban,JSS/JHS,113,40
+40-44,Urban,Middle,0,0
+40-44,Urban,SSS/SHS,175,37
+40-44,Urban,Secondary,20,6
+40-44,Urban,Voc/technical/commercial,8,0
+40-44,Urban,Post middle/secondary Certificate,4,3
+40-44,Urban,Post middle/secondary Diploma,21,4
+40-44,Urban,Tertiary/HND,37,5
+40-44,Urban,Tertiary - Bachelor's Degree,111,5
+40-44,Urban,Tertiary - Post graduate Certificate/Diploma,24,4
+40-44,Urban,Tertiary - Master's Degree,24,0
+40-44,Urban,Tertiary - PhD,3,1
+40-44,Urban,Other (specify),0,0
+40,Rural,Never attended,238,338
+40,Rural,Nursery,1,0
+40,Rural,Kindergarten,0,0
+40,Rural,Primary,6,4
+40,Rural,JSS/JHS,22,3
+40,Rural,Middle,0,0
+40,Rural,SSS/SHS,12,0
+40,Rural,Secondary,1,0
+40,Rural,Voc/technical/commercial,0,0
+40,Rural,Post middle/secondary Certificate,0,0
+40,Rural,Post middle/secondary Diploma,1,0
+40,Rural,Tertiary/HND,1,0
+40,Rural,Tertiary - Bachelor's Degree,4,0
+40,Rural,Tertiary - Post graduate Certificate/Diploma,1,0
+40,Rural,Tertiary - Master's Degree,0,0
+40,Rural,Tertiary - PhD,0,0
+40,Rural,Other (specify),0,0
+40,Urban,Never attended,317,507
+40,Urban,Nursery,1,1
+40,Urban,Kindergarten,0,0
+40,Urban,Primary,27,9
+40,Urban,JSS/JHS,36,10
+40,Urban,Middle,0,0
+40,Urban,SSS/SHS,50,14
+40,Urban,Secondary,7,1
+40,Urban,Voc/technical/commercial,2,0
+40,Urban,Post middle/secondary Certificate,0,0
+40,Urban,Post middle/secondary Diploma,6,1
+40,Urban,Tertiary/HND,8,2
+40,Urban,Tertiary - Bachelor's Degree,22,0
+40,Urban,Tertiary - Post graduate Certificate/Diploma,5,2
+40,Urban,Tertiary - Master's Degree,4,0
+40,Urban,Tertiary - PhD,1,1
+40,Urban,Other (specify),0,0
+41,Rural,Never attended,304,393
+41,Rural,Nursery,0,0
+41,Rural,Kindergarten,0,0
+41,Rural,Primary,16,3
+41,Rural,JSS/JHS,13,3
+41,Rural,Middle,0,0
+41,Rural,SSS/SHS,19,2
+41,Rural,Secondary,1,1
+41,Rural,Voc/technical/commercial,2,0
+41,Rural,Post middle/secondary Certificate,1,0
+41,Rural,Post middle/secondary Diploma,1,0
+41,Rural,Tertiary/HND,0,0
+41,Rural,Tertiary - Bachelor's Degree,2,1
+41,Rural,Tertiary - Post graduate Certificate/Diploma,1,0
+41,Rural,Tertiary - Master's Degree,0,0
+41,Rural,Tertiary - PhD,0,0
+41,Rural,Other (specify),0,0
+41,Urban,Never attended,345,634
+41,Urban,Nursery,0,0
+41,Urban,Kindergarten,0,0
+41,Urban,Primary,19,10
+41,Urban,JSS/JHS,31,11
+41,Urban,Middle,0,0
+41,Urban,SSS/SHS,47,8
+41,Urban,Secondary,4,0
+41,Urban,Voc/technical/commercial,2,0
+41,Urban,Post middle/secondary Certificate,1,1
+41,Urban,Post middle/secondary Diploma,6,1
+41,Urban,Tertiary/HND,12,0
+41,Urban,Tertiary - Bachelor's Degree,24,1
+41,Urban,Tertiary - Post graduate Certificate/Diploma,4,0
+41,Urban,Tertiary - Master's Degree,9,0
+41,Urban,Tertiary - PhD,0,0
+41,Urban,Other (specify),0,0
+42,Rural,Never attended,117,149
+42,Rural,Nursery,0,0
+42,Rural,Kindergarten,0,0
+42,Rural,Primary,6,4
+42,Rural,JSS/JHS,7,0
+42,Rural,Middle,0,0
+42,Rural,SSS/SHS,4,2
+42,Rural,Secondary,0,0
+42,Rural,Voc/technical/commercial,1,0
+42,Rural,Post middle/secondary Certificate,0,0
+42,Rural,Post middle/secondary Diploma,0,0
+42,Rural,Tertiary/HND,1,0
+42,Rural,Tertiary - Bachelor's Degree,4,1
+42,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+42,Rural,Tertiary - Master's Degree,1,0
+42,Rural,Tertiary - PhD,0,0
+42,Rural,Other (specify),0,0
+42,Urban,Never attended,188,293
+42,Urban,Nursery,0,0
+42,Urban,Kindergarten,0,0
+42,Urban,Primary,13,6
+42,Urban,JSS/JHS,17,11
+42,Urban,Middle,0,0
+42,Urban,SSS/SHS,24,6
+42,Urban,Secondary,1,1
+42,Urban,Voc/technical/commercial,0,0
+42,Urban,Post middle/secondary Certificate,0,1
+42,Urban,Post middle/secondary Diploma,5,1
+42,Urban,Tertiary/HND,6,2
+42,Urban,Tertiary - Bachelor's Degree,32,1
+42,Urban,Tertiary - Post graduate Certificate/Diploma,4,1
+42,Urban,Tertiary - Master's Degree,5,0
+42,Urban,Tertiary - PhD,0,0
+42,Urban,Other (specify),0,0
+43,Rural,Never attended,113,149
+43,Rural,Nursery,0,0
+43,Rural,Kindergarten,0,0
+43,Rural,Primary,7,1
+43,Rural,JSS/JHS,11,1
+43,Rural,Middle,0,0
+43,Rural,SSS/SHS,6,0
+43,Rural,Secondary,1,0
+43,Rural,Voc/technical/commercial,0,0
+43,Rural,Post middle/secondary Certificate,0,0
+43,Rural,Post middle/secondary Diploma,1,0
+43,Rural,Tertiary/HND,1,0
+43,Rural,Tertiary - Bachelor's Degree,1,0
+43,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+43,Rural,Tertiary - Master's Degree,0,0
+43,Rural,Tertiary - PhD,0,0
+43,Rural,Other (specify),0,0
+43,Urban,Never attended,170,281
+43,Urban,Nursery,0,0
+43,Urban,Kindergarten,0,0
+43,Urban,Primary,6,5
+43,Urban,JSS/JHS,19,4
+43,Urban,Middle,0,0
+43,Urban,SSS/SHS,24,5
+43,Urban,Secondary,5,3
+43,Urban,Voc/technical/commercial,2,0
+43,Urban,Post middle/secondary Certificate,1,1
+43,Urban,Post middle/secondary Diploma,1,0
+43,Urban,Tertiary/HND,4,0
+43,Urban,Tertiary - Bachelor's Degree,21,0
+43,Urban,Tertiary - Post graduate Certificate/Diploma,7,0
+43,Urban,Tertiary - Master's Degree,4,0
+43,Urban,Tertiary - PhD,1,0
+43,Urban,Other (specify),0,0
+44,Rural,Never attended,79,98
+44,Rural,Nursery,0,0
+44,Rural,Kindergarten,0,0
+44,Rural,Primary,3,0
+44,Rural,JSS/JHS,1,1
+44,Rural,Middle,0,0
+44,Rural,SSS/SHS,4,0
+44,Rural,Secondary,1,0
+44,Rural,Voc/technical/commercial,0,0
+44,Rural,Post middle/secondary Certificate,0,0
+44,Rural,Post middle/secondary Diploma,0,0
+44,Rural,Tertiary/HND,0,0
+44,Rural,Tertiary - Bachelor's Degree,1,1
+44,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+44,Rural,Tertiary - Master's Degree,0,0
+44,Rural,Tertiary - PhD,0,0
+44,Rural,Other (specify),0,0
+44,Urban,Never attended,96,201
+44,Urban,Nursery,0,0
+44,Urban,Kindergarten,0,0
+44,Urban,Primary,9,6
+44,Urban,JSS/JHS,10,4
+44,Urban,Middle,0,0
+44,Urban,SSS/SHS,30,4
+44,Urban,Secondary,3,1
+44,Urban,Voc/technical/commercial,2,0
+44,Urban,Post middle/secondary Certificate,2,0
+44,Urban,Post middle/secondary Diploma,3,1
+44,Urban,Tertiary/HND,7,1
+44,Urban,Tertiary - Bachelor's Degree,12,3
+44,Urban,Tertiary - Post graduate Certificate/Diploma,4,1
+44,Urban,Tertiary - Master's Degree,2,0
+44,Urban,Tertiary - PhD,1,0
+44,Urban,Other (specify),0,0
+45-49,Rural,Never attended,568,716
+45-49,Rural,Nursery,0,0
+45-49,Rural,Kindergarten,0,0
+45-49,Rural,Primary,23,4
+45-49,Rural,JSS/JHS,27,6
+45-49,Rural,Middle,5,1
+45-49,Rural,SSS/SHS,31,4
+45-49,Rural,Secondary,4,0
+45-49,Rural,Voc/technical/commercial,2,0
+45-49,Rural,Post middle/secondary Certificate,0,0
+45-49,Rural,Post middle/secondary Diploma,1,0
+45-49,Rural,Tertiary/HND,0,0
+45-49,Rural,Tertiary - Bachelor's Degree,4,1
+45-49,Rural,Tertiary - Post graduate Certificate/Diploma,1,0
+45-49,Rural,Tertiary - Master's Degree,0,0
+45-49,Rural,Tertiary - PhD,0,0
+45-49,Rural,Other (specify),1,0
+45-49,Urban,Never attended,889,1149
+45-49,Urban,Nursery,0,0
+45-49,Urban,Kindergarten,0,0
+45-49,Urban,Primary,41,17
+45-49,Urban,JSS/JHS,74,14
+45-49,Urban,Middle,6,2
+45-49,Urban,SSS/SHS,115,15
+45-49,Urban,Secondary,15,8
+45-49,Urban,Voc/technical/commercial,5,0
+45-49,Urban,Post middle/secondary Certificate,3,3
+45-49,Urban,Post middle/secondary Diploma,8,2
+45-49,Urban,Tertiary/HND,18,2
+45-49,Urban,Tertiary - Bachelor's Degree,44,4
+45-49,Urban,Tertiary - Post graduate Certificate/Diploma,10,3
+45-49,Urban,Tertiary - Master's Degree,14,0
+45-49,Urban,Tertiary - PhD,1,0
+45-49,Urban,Other (specify),2,0
+45,Rural,Never attended,173,210
+45,Rural,Nursery,0,0
+45,Rural,Kindergarten,0,0
+45,Rural,Primary,8,0
+45,Rural,JSS/JHS,5,2
+45,Rural,Middle,0,0
+45,Rural,SSS/SHS,7,2
+45,Rural,Secondary,4,0
+45,Rural,Voc/technical/commercial,0,0
+45,Rural,Post middle/secondary Certificate,0,0
+45,Rural,Post middle/secondary Diploma,0,0
+45,Rural,Tertiary/HND,0,0
+45,Rural,Tertiary - Bachelor's Degree,2,0
+45,Rural,Tertiary - Post graduate Certificate/Diploma,1,0
+45,Rural,Tertiary - Master's Degree,0,0
+45,Rural,Tertiary - PhD,0,0
+45,Rural,Other (specify),1,0
+45,Urban,Never attended,253,318
+45,Urban,Nursery,0,0
+45,Urban,Kindergarten,0,0
+45,Urban,Primary,10,10
+45,Urban,JSS/JHS,20,6
+45,Urban,Middle,0,0
+45,Urban,SSS/SHS,33,7
+45,Urban,Secondary,7,3
+45,Urban,Voc/technical/commercial,0,0
+45,Urban,Post middle/secondary Certificate,0,0
+45,Urban,Post middle/secondary Diploma,2,1
+45,Urban,Tertiary/HND,4,0
+45,Urban,Tertiary - Bachelor's Degree,12,1
+45,Urban,Tertiary - Post graduate Certificate/Diploma,2,2
+45,Urban,Tertiary - Master's Degree,3,0
+45,Urban,Tertiary - PhD,0,0
+45,Urban,Other (specify),1,0
+46,Rural,Never attended,162,228
+46,Rural,Nursery,0,0
+46,Rural,Kindergarten,0,0
+46,Rural,Primary,8,3
+46,Rural,JSS/JHS,8,2
+46,Rural,Middle,0,0
+46,Rural,SSS/SHS,7,0
+46,Rural,Secondary,0,0
+46,Rural,Voc/technical/commercial,0,0
+46,Rural,Post middle/secondary Certificate,0,0
+46,Rural,Post middle/secondary Diploma,1,0
+46,Rural,Tertiary/HND,0,0
+46,Rural,Tertiary - Bachelor's Degree,1,0
+46,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+46,Rural,Tertiary - Master's Degree,0,0
+46,Rural,Tertiary - PhD,0,0
+46,Rural,Other (specify),0,0
+46,Urban,Never attended,258,334
+46,Urban,Nursery,0,0
+46,Urban,Kindergarten,0,0
+46,Urban,Primary,10,3
+46,Urban,JSS/JHS,22,4
+46,Urban,Middle,0,0
+46,Urban,SSS/SHS,28,3
+46,Urban,Secondary,1,4
+46,Urban,Voc/technical/commercial,1,0
+46,Urban,Post middle/secondary Certificate,0,0
+46,Urban,Post middle/secondary Diploma,4,0
+46,Urban,Tertiary/HND,5,1
+46,Urban,Tertiary - Bachelor's Degree,8,1
+46,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+46,Urban,Tertiary - Master's Degree,4,0
+46,Urban,Tertiary - PhD,1,0
+46,Urban,Other (specify),1,0
+47,Rural,Never attended,61,82
+47,Rural,Nursery,0,0
+47,Rural,Kindergarten,0,0
+47,Rural,Primary,3,1
+47,Rural,JSS/JHS,4,0
+47,Rural,Middle,2,0
+47,Rural,SSS/SHS,3,1
+47,Rural,Secondary,0,0
+47,Rural,Voc/technical/commercial,0,0
+47,Rural,Post middle/secondary Certificate,0,0
+47,Rural,Post middle/secondary Diploma,0,0
+47,Rural,Tertiary/HND,0,0
+47,Rural,Tertiary - Bachelor's Degree,0,1
+47,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+47,Rural,Tertiary - Master's Degree,0,0
+47,Rural,Tertiary - PhD,0,0
+47,Rural,Other (specify),0,0
+47,Urban,Never attended,140,168
+47,Urban,Nursery,0,0
+47,Urban,Kindergarten,0,0
+47,Urban,Primary,12,0
+47,Urban,JSS/JHS,13,1
+47,Urban,Middle,1,0
+47,Urban,SSS/SHS,25,2
+47,Urban,Secondary,1,1
+47,Urban,Voc/technical/commercial,2,0
+47,Urban,Post middle/secondary Certificate,2,1
+47,Urban,Post middle/secondary Diploma,0,0
+47,Urban,Tertiary/HND,4,1
+47,Urban,Tertiary - Bachelor's Degree,9,1
+47,Urban,Tertiary - Post graduate Certificate/Diploma,2,1
+47,Urban,Tertiary - Master's Degree,3,0
+47,Urban,Tertiary - PhD,0,0
+47,Urban,Other (specify),0,0
+48,Rural,Never attended,85,96
+48,Rural,Nursery,0,0
+48,Rural,Kindergarten,0,0
+48,Rural,Primary,2,0
+48,Rural,JSS/JHS,6,2
+48,Rural,Middle,1,0
+48,Rural,SSS/SHS,8,1
+48,Rural,Secondary,0,0
+48,Rural,Voc/technical/commercial,0,0
+48,Rural,Post middle/secondary Certificate,0,0
+48,Rural,Post middle/secondary Diploma,0,0
+48,Rural,Tertiary/HND,0,0
+48,Rural,Tertiary - Bachelor's Degree,1,0
+48,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+48,Rural,Tertiary - Master's Degree,0,0
+48,Rural,Tertiary - PhD,0,0
+48,Rural,Other (specify),0,0
+48,Urban,Never attended,131,165
+48,Urban,Nursery,0,0
+48,Urban,Kindergarten,0,0
+48,Urban,Primary,5,2
+48,Urban,JSS/JHS,15,1
+48,Urban,Middle,3,2
+48,Urban,SSS/SHS,14,3
+48,Urban,Secondary,3,0
+48,Urban,Voc/technical/commercial,1,0
+48,Urban,Post middle/secondary Certificate,1,1
+48,Urban,Post middle/secondary Diploma,1,0
+48,Urban,Tertiary/HND,3,0
+48,Urban,Tertiary - Bachelor's Degree,7,1
+48,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+48,Urban,Tertiary - Master's Degree,4,0
+48,Urban,Tertiary - PhD,0,0
+48,Urban,Other (specify),0,0
+49,Rural,Never attended,87,100
+49,Rural,Nursery,0,0
+49,Rural,Kindergarten,0,0
+49,Rural,Primary,2,0
+49,Rural,JSS/JHS,4,0
+49,Rural,Middle,2,1
+49,Rural,SSS/SHS,6,0
+49,Rural,Secondary,0,0
+49,Rural,Voc/technical/commercial,2,0
+49,Rural,Post middle/secondary Certificate,0,0
+49,Rural,Post middle/secondary Diploma,0,0
+49,Rural,Tertiary/HND,0,0
+49,Rural,Tertiary - Bachelor's Degree,0,0
+49,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+49,Rural,Tertiary - Master's Degree,0,0
+49,Rural,Tertiary - PhD,0,0
+49,Rural,Other (specify),0,0
+49,Urban,Never attended,107,164
+49,Urban,Nursery,0,0
+49,Urban,Kindergarten,0,0
+49,Urban,Primary,4,2
+49,Urban,JSS/JHS,4,2
+49,Urban,Middle,2,0
+49,Urban,SSS/SHS,15,0
+49,Urban,Secondary,3,0
+49,Urban,Voc/technical/commercial,1,0
+49,Urban,Post middle/secondary Certificate,0,1
+49,Urban,Post middle/secondary Diploma,1,1
+49,Urban,Tertiary/HND,2,0
+49,Urban,Tertiary - Bachelor's Degree,8,0
+49,Urban,Tertiary - Post graduate Certificate/Diploma,6,0
+49,Urban,Tertiary - Master's Degree,0,0
+49,Urban,Tertiary - PhD,0,0
+49,Urban,Other (specify),0,0
+50-54,Rural,Never attended,529,569
+50-54,Rural,Nursery,0,0
+50-54,Rural,Kindergarten,0,0
+50-54,Rural,Primary,16,6
+50-54,Rural,JSS/JHS,16,3
+50-54,Rural,Middle,6,1
+50-54,Rural,SSS/SHS,3,1
+50-54,Rural,Secondary,10,0
+50-54,Rural,Voc/technical/commercial,0,0
+50-54,Rural,Post middle/secondary Certificate,1,0
+50-54,Rural,Post middle/secondary Diploma,1,0
+50-54,Rural,Tertiary/HND,0,0
+50-54,Rural,Tertiary - Bachelor's Degree,4,0
+50-54,Rural,Tertiary - Post graduate Certificate/Diploma,2,0
+50-54,Rural,Tertiary - Master's Degree,1,0
+50-54,Rural,Tertiary - PhD,0,0
+50-54,Rural,Other (specify),0,0
+50-54,Urban,Never attended,742,924
+50-54,Urban,Nursery,0,2
+50-54,Urban,Kindergarten,0,0
+50-54,Urban,Primary,29,14
+50-54,Urban,JSS/JHS,22,4
+50-54,Urban,Middle,20,3
+50-54,Urban,SSS/SHS,16,2
+50-54,Urban,Secondary,39,6
+50-54,Urban,Voc/technical/commercial,1,1
+50-54,Urban,Post middle/secondary Certificate,1,1
+50-54,Urban,Post middle/secondary Diploma,5,3
+50-54,Urban,Tertiary/HND,17,1
+50-54,Urban,Tertiary - Bachelor's Degree,27,7
+50-54,Urban,Tertiary - Post graduate Certificate/Diploma,7,1
+50-54,Urban,Tertiary - Master's Degree,8,1
+50-54,Urban,Tertiary - PhD,2,0
+50-54,Urban,Other (specify),3,0
+50,Rural,Never attended,178,170
+50,Rural,Nursery,0,0
+50,Rural,Kindergarten,0,0
+50,Rural,Primary,4,1
+50,Rural,JSS/JHS,6,1
+50,Rural,Middle,1,0
+50,Rural,SSS/SHS,3,1
+50,Rural,Secondary,2,0
+50,Rural,Voc/technical/commercial,0,0
+50,Rural,Post middle/secondary Certificate,0,0
+50,Rural,Post middle/secondary Diploma,0,0
+50,Rural,Tertiary/HND,0,0
+50,Rural,Tertiary - Bachelor's Degree,2,0
+50,Rural,Tertiary - Post graduate Certificate/Diploma,1,0
+50,Rural,Tertiary - Master's Degree,0,0
+50,Rural,Tertiary - PhD,0,0
+50,Rural,Other (specify),0,0
+50,Urban,Never attended,241,295
+50,Urban,Nursery,0,1
+50,Urban,Kindergarten,0,0
+50,Urban,Primary,7,4
+50,Urban,JSS/JHS,6,2
+50,Urban,Middle,3,0
+50,Urban,SSS/SHS,16,2
+50,Urban,Secondary,2,0
+50,Urban,Voc/technical/commercial,0,0
+50,Urban,Post middle/secondary Certificate,1,0
+50,Urban,Post middle/secondary Diploma,2,0
+50,Urban,Tertiary/HND,5,0
+50,Urban,Tertiary - Bachelor's Degree,4,3
+50,Urban,Tertiary - Post graduate Certificate/Diploma,4,0
+50,Urban,Tertiary - Master's Degree,2,0
+50,Urban,Tertiary - PhD,0,0
+50,Urban,Other (specify),1,0
+51,Rural,Never attended,183,204
+51,Rural,Nursery,0,0
+51,Rural,Kindergarten,0,0
+51,Rural,Primary,5,3
+51,Rural,JSS/JHS,6,1
+51,Rural,Middle,0,0
+51,Rural,SSS/SHS,0,0
+51,Rural,Secondary,5,0
+51,Rural,Voc/technical/commercial,0,0
+51,Rural,Post middle/secondary Certificate,0,0
+51,Rural,Post middle/secondary Diploma,1,0
+51,Rural,Tertiary/HND,0,0
+51,Rural,Tertiary - Bachelor's Degree,1,0
+51,Rural,Tertiary - Post graduate Certificate/Diploma,1,0
+51,Rural,Tertiary - Master's Degree,0,0
+51,Rural,Tertiary - PhD,0,0
+51,Rural,Other (specify),0,0
+51,Urban,Never attended,253,334
+51,Urban,Nursery,0,0
+51,Urban,Kindergarten,0,0
+51,Urban,Primary,9,4
+51,Urban,JSS/JHS,9,1
+51,Urban,Middle,6,1
+51,Urban,SSS/SHS,0,0
+51,Urban,Secondary,18,2
+51,Urban,Voc/technical/commercial,1,1
+51,Urban,Post middle/secondary Certificate,0,0
+51,Urban,Post middle/secondary Diploma,1,1
+51,Urban,Tertiary/HND,6,1
+51,Urban,Tertiary - Bachelor's Degree,13,2
+51,Urban,Tertiary - Post graduate Certificate/Diploma,0,1
+51,Urban,Tertiary - Master's Degree,1,1
+51,Urban,Tertiary - PhD,0,0
+51,Urban,Other (specify),0,0
+52,Rural,Never attended,70,76
+52,Rural,Nursery,0,0
+52,Rural,Kindergarten,0,0
+52,Rural,Primary,0,0
+52,Rural,JSS/JHS,2,0
+52,Rural,Middle,3,0
+52,Rural,SSS/SHS,0,0
+52,Rural,Secondary,1,0
+52,Rural,Voc/technical/commercial,0,0
+52,Rural,Post middle/secondary Certificate,1,0
+52,Rural,Post middle/secondary Diploma,0,0
+52,Rural,Tertiary/HND,0,0
+52,Rural,Tertiary - Bachelor's Degree,1,0
+52,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+52,Rural,Tertiary - Master's Degree,1,0
+52,Rural,Tertiary - PhD,0,0
+52,Rural,Other (specify),0,0
+52,Urban,Never attended,90,114
+52,Urban,Nursery,0,1
+52,Urban,Kindergarten,0,0
+52,Urban,Primary,3,1
+52,Urban,JSS/JHS,3,1
+52,Urban,Middle,6,1
+52,Urban,SSS/SHS,0,0
+52,Urban,Secondary,8,0
+52,Urban,Voc/technical/commercial,0,0
+52,Urban,Post middle/secondary Certificate,0,1
+52,Urban,Post middle/secondary Diploma,1,0
+52,Urban,Tertiary/HND,1,0
+52,Urban,Tertiary - Bachelor's Degree,2,1
+52,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+52,Urban,Tertiary - Master's Degree,3,0
+52,Urban,Tertiary - PhD,1,0
+52,Urban,Other (specify),0,0
+53,Rural,Never attended,58,76
+53,Rural,Nursery,0,0
+53,Rural,Kindergarten,0,0
+53,Rural,Primary,6,2
+53,Rural,JSS/JHS,2,1
+53,Rural,Middle,1,0
+53,Rural,SSS/SHS,0,0
+53,Rural,Secondary,0,0
+53,Rural,Voc/technical/commercial,0,0
+53,Rural,Post middle/secondary Certificate,0,0
+53,Rural,Post middle/secondary Diploma,0,0
+53,Rural,Tertiary/HND,0,0
+53,Rural,Tertiary - Bachelor's Degree,0,0
+53,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+53,Rural,Tertiary - Master's Degree,0,0
+53,Rural,Tertiary - PhD,0,0
+53,Rural,Other (specify),0,0
+53,Urban,Never attended,101,111
+53,Urban,Nursery,0,0
+53,Urban,Kindergarten,0,0
+53,Urban,Primary,2,3
+53,Urban,JSS/JHS,2,0
+53,Urban,Middle,3,0
+53,Urban,SSS/SHS,0,0
+53,Urban,Secondary,7,2
+53,Urban,Voc/technical/commercial,0,0
+53,Urban,Post middle/secondary Certificate,0,0
+53,Urban,Post middle/secondary Diploma,1,1
+53,Urban,Tertiary/HND,2,0
+53,Urban,Tertiary - Bachelor's Degree,3,0
+53,Urban,Tertiary - Post graduate Certificate/Diploma,2,0
+53,Urban,Tertiary - Master's Degree,2,0
+53,Urban,Tertiary - PhD,0,0
+53,Urban,Other (specify),1,0
+54,Rural,Never attended,40,43
+54,Rural,Nursery,0,0
+54,Rural,Kindergarten,0,0
+54,Rural,Primary,1,0
+54,Rural,JSS/JHS,0,0
+54,Rural,Middle,1,1
+54,Rural,SSS/SHS,0,0
+54,Rural,Secondary,2,0
+54,Rural,Voc/technical/commercial,0,0
+54,Rural,Post middle/secondary Certificate,0,0
+54,Rural,Post middle/secondary Diploma,0,0
+54,Rural,Tertiary/HND,0,0
+54,Rural,Tertiary - Bachelor's Degree,0,0
+54,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+54,Rural,Tertiary - Master's Degree,0,0
+54,Rural,Tertiary - PhD,0,0
+54,Rural,Other (specify),0,0
+54,Urban,Never attended,57,70
+54,Urban,Nursery,0,0
+54,Urban,Kindergarten,0,0
+54,Urban,Primary,8,2
+54,Urban,JSS/JHS,2,0
+54,Urban,Middle,2,1
+54,Urban,SSS/SHS,0,0
+54,Urban,Secondary,4,2
+54,Urban,Voc/technical/commercial,0,0
+54,Urban,Post middle/secondary Certificate,0,0
+54,Urban,Post middle/secondary Diploma,0,1
+54,Urban,Tertiary/HND,3,0
+54,Urban,Tertiary - Bachelor's Degree,5,1
+54,Urban,Tertiary - Post graduate Certificate/Diploma,1,0
+54,Urban,Tertiary - Master's Degree,0,0
+54,Urban,Tertiary - PhD,1,0
+54,Urban,Other (specify),1,0
+55-59,Rural,Never attended,298,305
+55-59,Rural,Nursery,1,0
+55-59,Rural,Kindergarten,0,0
+55-59,Rural,Primary,8,0
+55-59,Rural,JSS/JHS,2,0
+55-59,Rural,Middle,7,0
+55-59,Rural,SSS/SHS,0,0
+55-59,Rural,Secondary,4,0
+55-59,Rural,Voc/technical/commercial,0,0
+55-59,Rural,Post middle/secondary Certificate,0,0
+55-59,Rural,Post middle/secondary Diploma,1,0
+55-59,Rural,Tertiary/HND,0,0
+55-59,Rural,Tertiary - Bachelor's Degree,1,0
+55-59,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+55-59,Rural,Tertiary - Master's Degree,0,0
+55-59,Rural,Tertiary - PhD,0,0
+55-59,Rural,Other (specify),1,0
+55-59,Urban,Never attended,361,463
+55-59,Urban,Nursery,0,0
+55-59,Urban,Kindergarten,0,0
+55-59,Urban,Primary,20,5
+55-59,Urban,JSS/JHS,13,4
+55-59,Urban,Middle,19,12
+55-59,Urban,SSS/SHS,0,0
+55-59,Urban,Secondary,22,5
+55-59,Urban,Voc/technical/commercial,2,0
+55-59,Urban,Post middle/secondary Certificate,7,2
+55-59,Urban,Post middle/secondary Diploma,6,5
+55-59,Urban,Tertiary/HND,4,0
+55-59,Urban,Tertiary - Bachelor's Degree,14,3
+55-59,Urban,Tertiary - Post graduate Certificate/Diploma,8,5
+55-59,Urban,Tertiary - Master's Degree,5,2
+55-59,Urban,Tertiary - PhD,1,0
+55-59,Urban,Other (specify),0,0
+55,Rural,Never attended,71,72
+55,Rural,Nursery,0,0
+55,Rural,Kindergarten,0,0
+55,Rural,Primary,1,0
+55,Rural,JSS/JHS,0,0
+55,Rural,Middle,2,0
+55,Rural,SSS/SHS,0,0
+55,Rural,Secondary,0,0
+55,Rural,Voc/technical/commercial,0,0
+55,Rural,Post middle/secondary Certificate,0,0
+55,Rural,Post middle/secondary Diploma,0,0
+55,Rural,Tertiary/HND,0,0
+55,Rural,Tertiary - Bachelor's Degree,1,0
+55,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+55,Rural,Tertiary - Master's Degree,0,0
+55,Rural,Tertiary - PhD,0,0
+55,Rural,Other (specify),0,0
+55,Urban,Never attended,81,136
+55,Urban,Nursery,0,0
+55,Urban,Kindergarten,0,0
+55,Urban,Primary,4,1
+55,Urban,JSS/JHS,4,3
+55,Urban,Middle,4,4
+55,Urban,SSS/SHS,0,0
+55,Urban,Secondary,9,0
+55,Urban,Voc/technical/commercial,1,0
+55,Urban,Post middle/secondary Certificate,1,0
+55,Urban,Post middle/secondary Diploma,3,2
+55,Urban,Tertiary/HND,0,0
+55,Urban,Tertiary - Bachelor's Degree,6,1
+55,Urban,Tertiary - Post graduate Certificate/Diploma,2,1
+55,Urban,Tertiary - Master's Degree,2,1
+55,Urban,Tertiary - PhD,0,0
+55,Urban,Other (specify),0,0
+56,Rural,Never attended,95,94
+56,Rural,Nursery,0,0
+56,Rural,Kindergarten,0,0
+56,Rural,Primary,3,0
+56,Rural,JSS/JHS,0,0
+56,Rural,Middle,1,0
+56,Rural,SSS/SHS,0,0
+56,Rural,Secondary,1,0
+56,Rural,Voc/technical/commercial,0,0
+56,Rural,Post middle/secondary Certificate,0,0
+56,Rural,Post middle/secondary Diploma,0,0
+56,Rural,Tertiary/HND,0,0
+56,Rural,Tertiary - Bachelor's Degree,0,0
+56,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+56,Rural,Tertiary - Master's Degree,0,0
+56,Rural,Tertiary - PhD,0,0
+56,Rural,Other (specify),1,0
+56,Urban,Never attended,108,126
+56,Urban,Nursery,0,0
+56,Urban,Kindergarten,0,0
+56,Urban,Primary,5,2
+56,Urban,JSS/JHS,2,1
+56,Urban,Middle,3,2
+56,Urban,SSS/SHS,0,0
+56,Urban,Secondary,7,0
+56,Urban,Voc/technical/commercial,1,0
+56,Urban,Post middle/secondary Certificate,3,0
+56,Urban,Post middle/secondary Diploma,1,0
+56,Urban,Tertiary/HND,1,0
+56,Urban,Tertiary - Bachelor's Degree,0,0
+56,Urban,Tertiary - Post graduate Certificate/Diploma,3,1
+56,Urban,Tertiary - Master's Degree,1,0
+56,Urban,Tertiary - PhD,1,0
+56,Urban,Other (specify),0,0
+57,Rural,Never attended,62,51
+57,Rural,Nursery,0,0
+57,Rural,Kindergarten,0,0
+57,Rural,Primary,2,0
+57,Rural,JSS/JHS,0,0
+57,Rural,Middle,2,0
+57,Rural,SSS/SHS,0,0
+57,Rural,Secondary,0,0
+57,Rural,Voc/technical/commercial,0,0
+57,Rural,Post middle/secondary Certificate,0,0
+57,Rural,Post middle/secondary Diploma,0,0
+57,Rural,Tertiary/HND,0,0
+57,Rural,Tertiary - Bachelor's Degree,0,0
+57,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+57,Rural,Tertiary - Master's Degree,0,0
+57,Rural,Tertiary - PhD,0,0
+57,Rural,Other (specify),0,0
+57,Urban,Never attended,54,69
+57,Urban,Nursery,0,0
+57,Urban,Kindergarten,0,0
+57,Urban,Primary,4,1
+57,Urban,JSS/JHS,0,0
+57,Urban,Middle,6,2
+57,Urban,SSS/SHS,0,0
+57,Urban,Secondary,4,2
+57,Urban,Voc/technical/commercial,0,0
+57,Urban,Post middle/secondary Certificate,0,1
+57,Urban,Post middle/secondary Diploma,1,1
+57,Urban,Tertiary/HND,1,0
+57,Urban,Tertiary - Bachelor's Degree,1,2
+57,Urban,Tertiary - Post graduate Certificate/Diploma,1,1
+57,Urban,Tertiary - Master's Degree,2,0
+57,Urban,Tertiary - PhD,0,0
+57,Urban,Other (specify),0,0
+58,Rural,Never attended,29,36
+58,Rural,Nursery,1,0
+58,Rural,Kindergarten,0,0
+58,Rural,Primary,1,0
+58,Rural,JSS/JHS,1,0
+58,Rural,Middle,1,0
+58,Rural,SSS/SHS,0,0
+58,Rural,Secondary,1,0
+58,Rural,Voc/technical/commercial,0,0
+58,Rural,Post middle/secondary Certificate,0,0
+58,Rural,Post middle/secondary Diploma,0,0
+58,Rural,Tertiary/HND,0,0
+58,Rural,Tertiary - Bachelor's Degree,0,0
+58,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+58,Rural,Tertiary - Master's Degree,0,0
+58,Rural,Tertiary - PhD,0,0
+58,Rural,Other (specify),0,0
+58,Urban,Never attended,65,68
+58,Urban,Nursery,0,0
+58,Urban,Kindergarten,0,0
+58,Urban,Primary,6,0
+58,Urban,JSS/JHS,2,0
+58,Urban,Middle,3,3
+58,Urban,SSS/SHS,0,0
+58,Urban,Secondary,2,2
+58,Urban,Voc/technical/commercial,0,0
+58,Urban,Post middle/secondary Certificate,2,0
+58,Urban,Post middle/secondary Diploma,1,2
+58,Urban,Tertiary/HND,2,0
+58,Urban,Tertiary - Bachelor's Degree,3,0
+58,Urban,Tertiary - Post graduate Certificate/Diploma,2,2
+58,Urban,Tertiary - Master's Degree,0,1
+58,Urban,Tertiary - PhD,0,0
+58,Urban,Other (specify),0,0
+59,Rural,Never attended,41,52
+59,Rural,Nursery,0,0
+59,Rural,Kindergarten,0,0
+59,Rural,Primary,1,0
+59,Rural,JSS/JHS,1,0
+59,Rural,Middle,1,0
+59,Rural,SSS/SHS,0,0
+59,Rural,Secondary,2,0
+59,Rural,Voc/technical/commercial,0,0
+59,Rural,Post middle/secondary Certificate,0,0
+59,Rural,Post middle/secondary Diploma,1,0
+59,Rural,Tertiary/HND,0,0
+59,Rural,Tertiary - Bachelor's Degree,0,0
+59,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+59,Rural,Tertiary - Master's Degree,0,0
+59,Rural,Tertiary - PhD,0,0
+59,Rural,Other (specify),0,0
+59,Urban,Never attended,53,64
+59,Urban,Nursery,0,0
+59,Urban,Kindergarten,0,0
+59,Urban,Primary,1,1
+59,Urban,JSS/JHS,5,0
+59,Urban,Middle,3,1
+59,Urban,SSS/SHS,0,0
+59,Urban,Secondary,0,1
+59,Urban,Voc/technical/commercial,0,0
+59,Urban,Post middle/secondary Certificate,1,1
+59,Urban,Post middle/secondary Diploma,0,0
+59,Urban,Tertiary/HND,0,0
+59,Urban,Tertiary - Bachelor's Degree,4,0
+59,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+59,Urban,Tertiary - Master's Degree,0,0
+59,Urban,Tertiary - PhD,0,0
+59,Urban,Other (specify),0,0
+60-64,Rural,Never attended,345,374
+60-64,Rural,Nursery,0,0
+60-64,Rural,Kindergarten,0,0
+60-64,Rural,Primary,7,1
+60-64,Rural,JSS/JHS,0,0
+60-64,Rural,Middle,5,1
+60-64,Rural,SSS/SHS,0,0
+60-64,Rural,Secondary,7,0
+60-64,Rural,Voc/technical/commercial,0,0
+60-64,Rural,Post middle/secondary Certificate,1,0
+60-64,Rural,Post middle/secondary Diploma,1,0
+60-64,Rural,Tertiary/HND,1,0
+60-64,Rural,Tertiary - Bachelor's Degree,1,0
+60-64,Rural,Tertiary - Post graduate Certificate/Diploma,1,0
+60-64,Rural,Tertiary - Master's Degree,0,0
+60-64,Rural,Tertiary - PhD,0,0
+60-64,Rural,Other (specify),0,0
+60-64,Urban,Never attended,443,604
+60-64,Urban,Nursery,0,0
+60-64,Urban,Kindergarten,0,0
+60-64,Urban,Primary,16,4
+60-64,Urban,JSS/JHS,0,0
+60-64,Urban,Middle,19,10
+60-64,Urban,SSS/SHS,0,0
+60-64,Urban,Secondary,19,0
+60-64,Urban,Voc/technical/commercial,2,1
+60-64,Urban,Post middle/secondary Certificate,3,3
+60-64,Urban,Post middle/secondary Diploma,5,2
+60-64,Urban,Tertiary/HND,2,2
+60-64,Urban,Tertiary - Bachelor's Degree,17,0
+60-64,Urban,Tertiary - Post graduate Certificate/Diploma,9,1
+60-64,Urban,Tertiary - Master's Degree,4,0
+60-64,Urban,Tertiary - PhD,1,0
+60-64,Urban,Other (specify),0,0
+60,Rural,Never attended,108,125
+60,Rural,Nursery,0,0
+60,Rural,Kindergarten,0,0
+60,Rural,Primary,1,0
+60,Rural,JSS/JHS,0,0
+60,Rural,Middle,2,0
+60,Rural,SSS/SHS,0,0
+60,Rural,Secondary,2,0
+60,Rural,Voc/technical/commercial,0,0
+60,Rural,Post middle/secondary Certificate,0,0
+60,Rural,Post middle/secondary Diploma,0,0
+60,Rural,Tertiary/HND,0,0
+60,Rural,Tertiary - Bachelor's Degree,0,0
+60,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+60,Rural,Tertiary - Master's Degree,0,0
+60,Rural,Tertiary - PhD,0,0
+60,Rural,Other (specify),0,0
+60,Urban,Never attended,127,179
+60,Urban,Nursery,0,0
+60,Urban,Kindergarten,0,0
+60,Urban,Primary,1,1
+60,Urban,JSS/JHS,0,0
+60,Urban,Middle,4,0
+60,Urban,SSS/SHS,0,0
+60,Urban,Secondary,4,0
+60,Urban,Voc/technical/commercial,0,1
+60,Urban,Post middle/secondary Certificate,0,0
+60,Urban,Post middle/secondary Diploma,3,0
+60,Urban,Tertiary/HND,1,0
+60,Urban,Tertiary - Bachelor's Degree,3,0
+60,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+60,Urban,Tertiary - Master's Degree,2,0
+60,Urban,Tertiary - PhD,0,0
+60,Urban,Other (specify),0,0
+61,Rural,Never attended,118,137
+61,Rural,Nursery,0,0
+61,Rural,Kindergarten,0,0
+61,Rural,Primary,4,0
+61,Rural,JSS/JHS,0,0
+61,Rural,Middle,2,1
+61,Rural,SSS/SHS,0,0
+61,Rural,Secondary,4,0
+61,Rural,Voc/technical/commercial,0,0
+61,Rural,Post middle/secondary Certificate,0,0
+61,Rural,Post middle/secondary Diploma,1,0
+61,Rural,Tertiary/HND,0,0
+61,Rural,Tertiary - Bachelor's Degree,1,0
+61,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+61,Rural,Tertiary - Master's Degree,0,0
+61,Rural,Tertiary - PhD,0,0
+61,Rural,Other (specify),0,0
+61,Urban,Never attended,151,212
+61,Urban,Nursery,0,0
+61,Urban,Kindergarten,0,0
+61,Urban,Primary,6,1
+61,Urban,JSS/JHS,0,0
+61,Urban,Middle,6,3
+61,Urban,SSS/SHS,0,0
+61,Urban,Secondary,4,0
+61,Urban,Voc/technical/commercial,1,0
+61,Urban,Post middle/secondary Certificate,1,2
+61,Urban,Post middle/secondary Diploma,0,0
+61,Urban,Tertiary/HND,0,1
+61,Urban,Tertiary - Bachelor's Degree,4,0
+61,Urban,Tertiary - Post graduate Certificate/Diploma,3,1
+61,Urban,Tertiary - Master's Degree,1,0
+61,Urban,Tertiary - PhD,1,0
+61,Urban,Other (specify),0,0
+62,Rural,Never attended,47,43
+62,Rural,Nursery,0,0
+62,Rural,Kindergarten,0,0
+62,Rural,Primary,1,0
+62,Rural,JSS/JHS,0,0
+62,Rural,Middle,1,0
+62,Rural,SSS/SHS,0,0
+62,Rural,Secondary,0,0
+62,Rural,Voc/technical/commercial,0,0
+62,Rural,Post middle/secondary Certificate,0,0
+62,Rural,Post middle/secondary Diploma,0,0
+62,Rural,Tertiary/HND,0,0
+62,Rural,Tertiary - Bachelor's Degree,0,0
+62,Rural,Tertiary - Post graduate Certificate/Diploma,1,0
+62,Rural,Tertiary - Master's Degree,0,0
+62,Rural,Tertiary - PhD,0,0
+62,Rural,Other (specify),0,0
+62,Urban,Never attended,51,73
+62,Urban,Nursery,0,0
+62,Urban,Kindergarten,0,0
+62,Urban,Primary,2,0
+62,Urban,JSS/JHS,0,0
+62,Urban,Middle,3,1
+62,Urban,SSS/SHS,0,0
+62,Urban,Secondary,2,0
+62,Urban,Voc/technical/commercial,0,0
+62,Urban,Post middle/secondary Certificate,1,0
+62,Urban,Post middle/secondary Diploma,0,1
+62,Urban,Tertiary/HND,0,0
+62,Urban,Tertiary - Bachelor's Degree,4,0
+62,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+62,Urban,Tertiary - Master's Degree,0,0
+62,Urban,Tertiary - PhD,0,0
+62,Urban,Other (specify),0,0
+63,Rural,Never attended,35,43
+63,Rural,Nursery,0,0
+63,Rural,Kindergarten,0,0
+63,Rural,Primary,0,1
+63,Rural,JSS/JHS,0,0
+63,Rural,Middle,0,0
+63,Rural,SSS/SHS,0,0
+63,Rural,Secondary,0,0
+63,Rural,Voc/technical/commercial,0,0
+63,Rural,Post middle/secondary Certificate,0,0
+63,Rural,Post middle/secondary Diploma,0,0
+63,Rural,Tertiary/HND,0,0
+63,Rural,Tertiary - Bachelor's Degree,0,0
+63,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+63,Rural,Tertiary - Master's Degree,0,0
+63,Rural,Tertiary - PhD,0,0
+63,Rural,Other (specify),0,0
+63,Urban,Never attended,56,76
+63,Urban,Nursery,0,0
+63,Urban,Kindergarten,0,0
+63,Urban,Primary,4,2
+63,Urban,JSS/JHS,0,0
+63,Urban,Middle,6,5
+63,Urban,SSS/SHS,0,0
+63,Urban,Secondary,4,0
+63,Urban,Voc/technical/commercial,0,0
+63,Urban,Post middle/secondary Certificate,1,1
+63,Urban,Post middle/secondary Diploma,0,1
+63,Urban,Tertiary/HND,0,1
+63,Urban,Tertiary - Bachelor's Degree,2,0
+63,Urban,Tertiary - Post graduate Certificate/Diploma,1,0
+63,Urban,Tertiary - Master's Degree,0,0
+63,Urban,Tertiary - PhD,0,0
+63,Urban,Other (specify),0,0
+64,Rural,Never attended,37,26
+64,Rural,Nursery,0,0
+64,Rural,Kindergarten,0,0
+64,Rural,Primary,1,0
+64,Rural,JSS/JHS,0,0
+64,Rural,Middle,0,0
+64,Rural,SSS/SHS,0,0
+64,Rural,Secondary,1,0
+64,Rural,Voc/technical/commercial,0,0
+64,Rural,Post middle/secondary Certificate,1,0
+64,Rural,Post middle/secondary Diploma,0,0
+64,Rural,Tertiary/HND,1,0
+64,Rural,Tertiary - Bachelor's Degree,0,0
+64,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+64,Rural,Tertiary - Master's Degree,0,0
+64,Rural,Tertiary - PhD,0,0
+64,Rural,Other (specify),0,0
+64,Urban,Never attended,58,64
+64,Urban,Nursery,0,0
+64,Urban,Kindergarten,0,0
+64,Urban,Primary,3,0
+64,Urban,JSS/JHS,0,0
+64,Urban,Middle,0,1
+64,Urban,SSS/SHS,0,0
+64,Urban,Secondary,5,0
+64,Urban,Voc/technical/commercial,1,0
+64,Urban,Post middle/secondary Certificate,0,0
+64,Urban,Post middle/secondary Diploma,2,0
+64,Urban,Tertiary/HND,1,0
+64,Urban,Tertiary - Bachelor's Degree,4,0
+64,Urban,Tertiary - Post graduate Certificate/Diploma,5,0
+64,Urban,Tertiary - Master's Degree,1,0
+64,Urban,Tertiary - PhD,0,0
+64,Urban,Other (specify),0,0
+65 years and older,Rural,Never attended,773,831
+65 years and older,Rural,Nursery,0,0
+65 years and older,Rural,Kindergarten,0,0
+65 years and older,Rural,Primary,12,1
+65 years and older,Rural,JSS/JHS,0,0
+65 years and older,Rural,Middle,8,0
+65 years and older,Rural,SSS/SHS,0,0
+65 years and older,Rural,Secondary,9,0
+65 years and older,Rural,Voc/technical/commercial,0,0
+65 years and older,Rural,Post middle/secondary Certificate,2,0
+65 years and older,Rural,Post middle/secondary Diploma,3,0
+65 years and older,Rural,Tertiary/HND,1,0
+65 years and older,Rural,Tertiary - Bachelor's Degree,8,1
+65 years and older,Rural,Tertiary - Post graduate Certificate/Diploma,3,0
+65 years and older,Rural,Tertiary - Master's Degree,1,0
+65 years and older,Rural,Tertiary - PhD,0,0
+65 years and older,Rural,Other (specify),0,0
+65 years and older,Urban,Never attended,993,1618
+65 years and older,Urban,Nursery,0,0
+65 years and older,Urban,Kindergarten,0,0
+65 years and older,Urban,Primary,24,12
+65 years and older,Urban,JSS/JHS,0,0
+65 years and older,Urban,Middle,49,5
+65 years and older,Urban,SSS/SHS,0,0
+65 years and older,Urban,Secondary,32,6
+65 years and older,Urban,Voc/technical/commercial,2,0
+65 years and older,Urban,Post middle/secondary Certificate,8,0
+65 years and older,Urban,Post middle/secondary Diploma,7,2
+65 years and older,Urban,Tertiary/HND,5,0
+65 years and older,Urban,Tertiary - Bachelor's Degree,15,0
+65 years and older,Urban,Tertiary - Post graduate Certificate/Diploma,4,1
+65 years and older,Urban,Tertiary - Master's Degree,4,0
+65 years and older,Urban,Tertiary - PhD,1,0
+65 years and older,Urban,Other (specify),0,0
+65-69,Rural,Never attended,190,157
+65-69,Rural,Nursery,0,0
+65-69,Rural,Kindergarten,0,0
+65-69,Rural,Primary,5,1
+65-69,Rural,JSS/JHS,0,0
+65-69,Rural,Middle,5,0
+65-69,Rural,SSS/SHS,0,0
+65-69,Rural,Secondary,6,0
+65-69,Rural,Voc/technical/commercial,0,0
+65-69,Rural,Post middle/secondary Certificate,1,0
+65-69,Rural,Post middle/secondary Diploma,1,0
+65-69,Rural,Tertiary/HND,1,0
+65-69,Rural,Tertiary - Bachelor's Degree,7,1
+65-69,Rural,Tertiary - Post graduate Certificate/Diploma,1,0
+65-69,Rural,Tertiary - Master's Degree,0,0
+65-69,Rural,Tertiary - PhD,0,0
+65-69,Rural,Other (specify),0,0
+65-69,Urban,Never attended,249,344
+65-69,Urban,Nursery,0,0
+65-69,Urban,Kindergarten,0,0
+65-69,Urban,Primary,11,3
+65-69,Urban,JSS/JHS,0,0
+65-69,Urban,Middle,21,2
+65-69,Urban,SSS/SHS,0,0
+65-69,Urban,Secondary,16,1
+65-69,Urban,Voc/technical/commercial,2,0
+65-69,Urban,Post middle/secondary Certificate,5,0
+65-69,Urban,Post middle/secondary Diploma,4,0
+65-69,Urban,Tertiary/HND,3,0
+65-69,Urban,Tertiary - Bachelor's Degree,11,0
+65-69,Urban,Tertiary - Post graduate Certificate/Diploma,2,1
+65-69,Urban,Tertiary - Master's Degree,3,0
+65-69,Urban,Tertiary - PhD,0,0
+65-69,Urban,Other (specify),0,0
+65,Rural,Never attended,52,47
+65,Rural,Nursery,0,0
+65,Rural,Kindergarten,0,0
+65,Rural,Primary,1,0
+65,Rural,JSS/JHS,0,0
+65,Rural,Middle,2,0
+65,Rural,SSS/SHS,0,0
+65,Rural,Secondary,1,0
+65,Rural,Voc/technical/commercial,0,0
+65,Rural,Post middle/secondary Certificate,0,0
+65,Rural,Post middle/secondary Diploma,0,0
+65,Rural,Tertiary/HND,0,0
+65,Rural,Tertiary - Bachelor's Degree,3,0
+65,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+65,Rural,Tertiary - Master's Degree,0,0
+65,Rural,Tertiary - PhD,0,0
+65,Rural,Other (specify),0,0
+65,Urban,Never attended,80,96
+65,Urban,Nursery,0,0
+65,Urban,Kindergarten,0,0
+65,Urban,Primary,1,0
+65,Urban,JSS/JHS,0,0
+65,Urban,Middle,5,1
+65,Urban,SSS/SHS,0,0
+65,Urban,Secondary,4,1
+65,Urban,Voc/technical/commercial,1,0
+65,Urban,Post middle/secondary Certificate,4,0
+65,Urban,Post middle/secondary Diploma,0,0
+65,Urban,Tertiary/HND,2,0
+65,Urban,Tertiary - Bachelor's Degree,2,0
+65,Urban,Tertiary - Post graduate Certificate/Diploma,1,1
+65,Urban,Tertiary - Master's Degree,1,0
+65,Urban,Tertiary - PhD,0,0
+65,Urban,Other (specify),0,0
+66,Rural,Never attended,43,44
+66,Rural,Nursery,0,0
+66,Rural,Kindergarten,0,0
+66,Rural,Primary,2,1
+66,Rural,JSS/JHS,0,0
+66,Rural,Middle,2,0
+66,Rural,SSS/SHS,0,0
+66,Rural,Secondary,1,0
+66,Rural,Voc/technical/commercial,0,0
+66,Rural,Post middle/secondary Certificate,1,0
+66,Rural,Post middle/secondary Diploma,1,0
+66,Rural,Tertiary/HND,0,0
+66,Rural,Tertiary - Bachelor's Degree,1,0
+66,Rural,Tertiary - Post graduate Certificate/Diploma,1,0
+66,Rural,Tertiary - Master's Degree,0,0
+66,Rural,Tertiary - PhD,0,0
+66,Rural,Other (specify),0,0
+66,Urban,Never attended,58,90
+66,Urban,Nursery,0,0
+66,Urban,Kindergarten,0,0
+66,Urban,Primary,4,3
+66,Urban,JSS/JHS,0,0
+66,Urban,Middle,5,0
+66,Urban,SSS/SHS,0,0
+66,Urban,Secondary,4,0
+66,Urban,Voc/technical/commercial,0,0
+66,Urban,Post middle/secondary Certificate,0,0
+66,Urban,Post middle/secondary Diploma,1,0
+66,Urban,Tertiary/HND,0,0
+66,Urban,Tertiary - Bachelor's Degree,6,0
+66,Urban,Tertiary - Post graduate Certificate/Diploma,1,0
+66,Urban,Tertiary - Master's Degree,0,0
+66,Urban,Tertiary - PhD,0,0
+66,Urban,Other (specify),0,0
+67,Rural,Never attended,20,15
+67,Rural,Nursery,0,0
+67,Rural,Kindergarten,0,0
+67,Rural,Primary,1,0
+67,Rural,JSS/JHS,0,0
+67,Rural,Middle,1,0
+67,Rural,SSS/SHS,0,0
+67,Rural,Secondary,2,0
+67,Rural,Voc/technical/commercial,0,0
+67,Rural,Post middle/secondary Certificate,0,0
+67,Rural,Post middle/secondary Diploma,0,0
+67,Rural,Tertiary/HND,1,0
+67,Rural,Tertiary - Bachelor's Degree,2,1
+67,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+67,Rural,Tertiary - Master's Degree,0,0
+67,Rural,Tertiary - PhD,0,0
+67,Rural,Other (specify),0,0
+67,Urban,Never attended,48,42
+67,Urban,Nursery,0,0
+67,Urban,Kindergarten,0,0
+67,Urban,Primary,3,0
+67,Urban,JSS/JHS,0,0
+67,Urban,Middle,3,0
+67,Urban,SSS/SHS,0,0
+67,Urban,Secondary,4,0
+67,Urban,Voc/technical/commercial,0,0
+67,Urban,Post middle/secondary Certificate,0,0
+67,Urban,Post middle/secondary Diploma,1,0
+67,Urban,Tertiary/HND,0,0
+67,Urban,Tertiary - Bachelor's Degree,0,0
+67,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+67,Urban,Tertiary - Master's Degree,1,0
+67,Urban,Tertiary - PhD,0,0
+67,Urban,Other (specify),0,0
+68,Rural,Never attended,36,28
+68,Rural,Nursery,0,0
+68,Rural,Kindergarten,0,0
+68,Rural,Primary,1,0
+68,Rural,JSS/JHS,0,0
+68,Rural,Middle,0,0
+68,Rural,SSS/SHS,0,0
+68,Rural,Secondary,1,0
+68,Rural,Voc/technical/commercial,0,0
+68,Rural,Post middle/secondary Certificate,0,0
+68,Rural,Post middle/secondary Diploma,0,0
+68,Rural,Tertiary/HND,0,0
+68,Rural,Tertiary - Bachelor's Degree,1,0
+68,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+68,Rural,Tertiary - Master's Degree,0,0
+68,Rural,Tertiary - PhD,0,0
+68,Rural,Other (specify),0,0
+68,Urban,Never attended,28,48
+68,Urban,Nursery,0,0
+68,Urban,Kindergarten,0,0
+68,Urban,Primary,2,0
+68,Urban,JSS/JHS,0,0
+68,Urban,Middle,5,0
+68,Urban,SSS/SHS,0,0
+68,Urban,Secondary,2,0
+68,Urban,Voc/technical/commercial,1,0
+68,Urban,Post middle/secondary Certificate,0,0
+68,Urban,Post middle/secondary Diploma,1,0
+68,Urban,Tertiary/HND,1,0
+68,Urban,Tertiary - Bachelor's Degree,0,0
+68,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+68,Urban,Tertiary - Master's Degree,0,0
+68,Urban,Tertiary - PhD,0,0
+68,Urban,Other (specify),0,0
+69,Rural,Never attended,39,23
+69,Rural,Nursery,0,0
+69,Rural,Kindergarten,0,0
+69,Rural,Primary,0,0
+69,Rural,JSS/JHS,0,0
+69,Rural,Middle,0,0
+69,Rural,SSS/SHS,0,0
+69,Rural,Secondary,1,0
+69,Rural,Voc/technical/commercial,0,0
+69,Rural,Post middle/secondary Certificate,0,0
+69,Rural,Post middle/secondary Diploma,0,0
+69,Rural,Tertiary/HND,0,0
+69,Rural,Tertiary - Bachelor's Degree,0,0
+69,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+69,Rural,Tertiary - Master's Degree,0,0
+69,Rural,Tertiary - PhD,0,0
+69,Rural,Other (specify),0,0
+69,Urban,Never attended,35,68
+69,Urban,Nursery,0,0
+69,Urban,Kindergarten,0,0
+69,Urban,Primary,1,0
+69,Urban,JSS/JHS,0,0
+69,Urban,Middle,3,1
+69,Urban,SSS/SHS,0,0
+69,Urban,Secondary,2,0
+69,Urban,Voc/technical/commercial,0,0
+69,Urban,Post middle/secondary Certificate,1,0
+69,Urban,Post middle/secondary Diploma,1,0
+69,Urban,Tertiary/HND,0,0
+69,Urban,Tertiary - Bachelor's Degree,3,0
+69,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+69,Urban,Tertiary - Master's Degree,1,0
+69,Urban,Tertiary - PhD,0,0
+69,Urban,Other (specify),0,0
+70-74,Rural,Never attended,216,234
+70-74,Rural,Nursery,0,0
+70-74,Rural,Kindergarten,0,0
+70-74,Rural,Primary,1,0
+70-74,Rural,JSS/JHS,0,0
+70-74,Rural,Middle,2,0
+70-74,Rural,SSS/SHS,0,0
+70-74,Rural,Secondary,3,0
+70-74,Rural,Voc/technical/commercial,0,0
+70-74,Rural,Post middle/secondary Certificate,0,0
+70-74,Rural,Post middle/secondary Diploma,1,0
+70-74,Rural,Tertiary/HND,0,0
+70-74,Rural,Tertiary - Bachelor's Degree,1,0
+70-74,Rural,Tertiary - Post graduate Certificate/Diploma,1,0
+70-74,Rural,Tertiary - Master's Degree,1,0
+70-74,Rural,Tertiary - PhD,0,0
+70-74,Rural,Other (specify),0,0
+70-74,Urban,Never attended,302,459
+70-74,Urban,Nursery,0,0
+70-74,Urban,Kindergarten,0,0
+70-74,Urban,Primary,5,6
+70-74,Urban,JSS/JHS,0,0
+70-74,Urban,Middle,16,2
+70-74,Urban,SSS/SHS,0,0
+70-74,Urban,Secondary,6,2
+70-74,Urban,Voc/technical/commercial,0,0
+70-74,Urban,Post middle/secondary Certificate,2,0
+70-74,Urban,Post middle/secondary Diploma,2,0
+70-74,Urban,Tertiary/HND,1,0
+70-74,Urban,Tertiary - Bachelor's Degree,2,0
+70-74,Urban,Tertiary - Post graduate Certificate/Diploma,2,0
+70-74,Urban,Tertiary - Master's Degree,1,0
+70-74,Urban,Tertiary - PhD,0,0
+70-74,Urban,Other (specify),0,0
+70,Rural,Never attended,66,76
+70,Rural,Nursery,0,0
+70,Rural,Kindergarten,0,0
+70,Rural,Primary,0,0
+70,Rural,JSS/JHS,0,0
+70,Rural,Middle,1,0
+70,Rural,SSS/SHS,0,0
+70,Rural,Secondary,0,0
+70,Rural,Voc/technical/commercial,0,0
+70,Rural,Post middle/secondary Certificate,0,0
+70,Rural,Post middle/secondary Diploma,1,0
+70,Rural,Tertiary/HND,0,0
+70,Rural,Tertiary - Bachelor's Degree,1,0
+70,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+70,Rural,Tertiary - Master's Degree,0,0
+70,Rural,Tertiary - PhD,0,0
+70,Rural,Other (specify),0,0
+70,Urban,Never attended,101,140
+70,Urban,Nursery,0,0
+70,Urban,Kindergarten,0,0
+70,Urban,Primary,0,1
+70,Urban,JSS/JHS,0,0
+70,Urban,Middle,4,1
+70,Urban,SSS/SHS,0,0
+70,Urban,Secondary,0,1
+70,Urban,Voc/technical/commercial,0,0
+70,Urban,Post middle/secondary Certificate,0,0
+70,Urban,Post middle/secondary Diploma,1,0
+70,Urban,Tertiary/HND,1,0
+70,Urban,Tertiary - Bachelor's Degree,0,0
+70,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+70,Urban,Tertiary - Master's Degree,0,0
+70,Urban,Tertiary - PhD,0,0
+70,Urban,Other (specify),0,0
+71,Rural,Never attended,85,86
+71,Rural,Nursery,0,0
+71,Rural,Kindergarten,0,0
+71,Rural,Primary,1,0
+71,Rural,JSS/JHS,0,0
+71,Rural,Middle,0,0
+71,Rural,SSS/SHS,0,0
+71,Rural,Secondary,3,0
+71,Rural,Voc/technical/commercial,0,0
+71,Rural,Post middle/secondary Certificate,0,0
+71,Rural,Post middle/secondary Diploma,0,0
+71,Rural,Tertiary/HND,0,0
+71,Rural,Tertiary - Bachelor's Degree,0,0
+71,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+71,Rural,Tertiary - Master's Degree,1,0
+71,Rural,Tertiary - PhD,0,0
+71,Rural,Other (specify),0,0
+71,Urban,Never attended,101,165
+71,Urban,Nursery,0,0
+71,Urban,Kindergarten,0,0
+71,Urban,Primary,2,1
+71,Urban,JSS/JHS,0,0
+71,Urban,Middle,4,0
+71,Urban,SSS/SHS,0,0
+71,Urban,Secondary,4,0
+71,Urban,Voc/technical/commercial,0,0
+71,Urban,Post middle/secondary Certificate,0,0
+71,Urban,Post middle/secondary Diploma,1,0
+71,Urban,Tertiary/HND,0,0
+71,Urban,Tertiary - Bachelor's Degree,2,0
+71,Urban,Tertiary - Post graduate Certificate/Diploma,1,0
+71,Urban,Tertiary - Master's Degree,0,0
+71,Urban,Tertiary - PhD,0,0
+71,Urban,Other (specify),0,0
+72,Rural,Never attended,17,27
+72,Rural,Nursery,0,0
+72,Rural,Kindergarten,0,0
+72,Rural,Primary,0,0
+72,Rural,JSS/JHS,0,0
+72,Rural,Middle,0,0
+72,Rural,SSS/SHS,0,0
+72,Rural,Secondary,0,0
+72,Rural,Voc/technical/commercial,0,0
+72,Rural,Post middle/secondary Certificate,0,0
+72,Rural,Post middle/secondary Diploma,0,0
+72,Rural,Tertiary/HND,0,0
+72,Rural,Tertiary - Bachelor's Degree,0,0
+72,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+72,Rural,Tertiary - Master's Degree,0,0
+72,Rural,Tertiary - PhD,0,0
+72,Rural,Other (specify),0,0
+72,Urban,Never attended,36,53
+72,Urban,Nursery,0,0
+72,Urban,Kindergarten,0,0
+72,Urban,Primary,2,1
+72,Urban,JSS/JHS,0,0
+72,Urban,Middle,5,1
+72,Urban,SSS/SHS,0,0
+72,Urban,Secondary,1,0
+72,Urban,Voc/technical/commercial,0,0
+72,Urban,Post middle/secondary Certificate,2,0
+72,Urban,Post middle/secondary Diploma,0,0
+72,Urban,Tertiary/HND,0,0
+72,Urban,Tertiary - Bachelor's Degree,0,0
+72,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+72,Urban,Tertiary - Master's Degree,0,0
+72,Urban,Tertiary - PhD,0,0
+72,Urban,Other (specify),0,0
+73,Rural,Never attended,28,23
+73,Rural,Nursery,0,0
+73,Rural,Kindergarten,0,0
+73,Rural,Primary,0,0
+73,Rural,JSS/JHS,0,0
+73,Rural,Middle,1,0
+73,Rural,SSS/SHS,0,0
+73,Rural,Secondary,0,0
+73,Rural,Voc/technical/commercial,0,0
+73,Rural,Post middle/secondary Certificate,0,0
+73,Rural,Post middle/secondary Diploma,0,0
+73,Rural,Tertiary/HND,0,0
+73,Rural,Tertiary - Bachelor's Degree,0,0
+73,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+73,Rural,Tertiary - Master's Degree,0,0
+73,Rural,Tertiary - PhD,0,0
+73,Rural,Other (specify),0,0
+73,Urban,Never attended,39,63
+73,Urban,Nursery,0,0
+73,Urban,Kindergarten,0,0
+73,Urban,Primary,1,2
+73,Urban,JSS/JHS,0,0
+73,Urban,Middle,2,0
+73,Urban,SSS/SHS,0,0
+73,Urban,Secondary,1,0
+73,Urban,Voc/technical/commercial,0,0
+73,Urban,Post middle/secondary Certificate,0,0
+73,Urban,Post middle/secondary Diploma,0,0
+73,Urban,Tertiary/HND,0,0
+73,Urban,Tertiary - Bachelor's Degree,0,0
+73,Urban,Tertiary - Post graduate Certificate/Diploma,1,0
+73,Urban,Tertiary - Master's Degree,1,0
+73,Urban,Tertiary - PhD,0,0
+73,Urban,Other (specify),0,0
+74,Rural,Never attended,20,22
+74,Rural,Nursery,0,0
+74,Rural,Kindergarten,0,0
+74,Rural,Primary,0,0
+74,Rural,JSS/JHS,0,0
+74,Rural,Middle,0,0
+74,Rural,SSS/SHS,0,0
+74,Rural,Secondary,0,0
+74,Rural,Voc/technical/commercial,0,0
+74,Rural,Post middle/secondary Certificate,0,0
+74,Rural,Post middle/secondary Diploma,0,0
+74,Rural,Tertiary/HND,0,0
+74,Rural,Tertiary - Bachelor's Degree,0,0
+74,Rural,Tertiary - Post graduate Certificate/Diploma,1,0
+74,Rural,Tertiary - Master's Degree,0,0
+74,Rural,Tertiary - PhD,0,0
+74,Rural,Other (specify),0,0
+74,Urban,Never attended,25,38
+74,Urban,Nursery,0,0
+74,Urban,Kindergarten,0,0
+74,Urban,Primary,0,1
+74,Urban,JSS/JHS,0,0
+74,Urban,Middle,1,0
+74,Urban,SSS/SHS,0,0
+74,Urban,Secondary,0,1
+74,Urban,Voc/technical/commercial,0,0
+74,Urban,Post middle/secondary Certificate,0,0
+74,Urban,Post middle/secondary Diploma,0,0
+74,Urban,Tertiary/HND,0,0
+74,Urban,Tertiary - Bachelor's Degree,0,0
+74,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+74,Urban,Tertiary - Master's Degree,0,0
+74,Urban,Tertiary - PhD,0,0
+74,Urban,Other (specify),0,0
+75-79,Rural,Never attended,146,169
+75-79,Rural,Nursery,0,0
+75-79,Rural,Kindergarten,0,0
+75-79,Rural,Primary,3,0
+75-79,Rural,JSS/JHS,0,0
+75-79,Rural,Middle,0,0
+75-79,Rural,SSS/SHS,0,0
+75-79,Rural,Secondary,0,0
+75-79,Rural,Voc/technical/commercial,0,0
+75-79,Rural,Post middle/secondary Certificate,0,0
+75-79,Rural,Post middle/secondary Diploma,1,0
+75-79,Rural,Tertiary/HND,0,0
+75-79,Rural,Tertiary - Bachelor's Degree,0,0
+75-79,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+75-79,Rural,Tertiary - Master's Degree,0,0
+75-79,Rural,Tertiary - PhD,0,0
+75-79,Rural,Other (specify),0,0
+75-79,Urban,Never attended,182,304
+75-79,Urban,Nursery,0,0
+75-79,Urban,Kindergarten,0,0
+75-79,Urban,Primary,3,1
+75-79,Urban,JSS/JHS,0,0
+75-79,Urban,Middle,6,0
+75-79,Urban,SSS/SHS,0,0
+75-79,Urban,Secondary,5,0
+75-79,Urban,Voc/technical/commercial,0,0
+75-79,Urban,Post middle/secondary Certificate,1,0
+75-79,Urban,Post middle/secondary Diploma,1,2
+75-79,Urban,Tertiary/HND,1,0
+75-79,Urban,Tertiary - Bachelor's Degree,2,0
+75-79,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+75-79,Urban,Tertiary - Master's Degree,0,0
+75-79,Urban,Tertiary - PhD,1,0
+75-79,Urban,Other (specify),0,0
+75,Rural,Never attended,34,59
+75,Rural,Nursery,0,0
+75,Rural,Kindergarten,0,0
+75,Rural,Primary,2,0
+75,Rural,JSS/JHS,0,0
+75,Rural,Middle,0,0
+75,Rural,SSS/SHS,0,0
+75,Rural,Secondary,0,0
+75,Rural,Voc/technical/commercial,0,0
+75,Rural,Post middle/secondary Certificate,0,0
+75,Rural,Post middle/secondary Diploma,1,0
+75,Rural,Tertiary/HND,0,0
+75,Rural,Tertiary - Bachelor's Degree,0,0
+75,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+75,Rural,Tertiary - Master's Degree,0,0
+75,Rural,Tertiary - PhD,0,0
+75,Rural,Other (specify),0,0
+75,Urban,Never attended,59,88
+75,Urban,Nursery,0,0
+75,Urban,Kindergarten,0,0
+75,Urban,Primary,1,0
+75,Urban,JSS/JHS,0,0
+75,Urban,Middle,1,0
+75,Urban,SSS/SHS,0,0
+75,Urban,Secondary,0,0
+75,Urban,Voc/technical/commercial,0,0
+75,Urban,Post middle/secondary Certificate,1,0
+75,Urban,Post middle/secondary Diploma,1,0
+75,Urban,Tertiary/HND,0,0
+75,Urban,Tertiary - Bachelor's Degree,0,0
+75,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+75,Urban,Tertiary - Master's Degree,0,0
+75,Urban,Tertiary - PhD,0,0
+75,Urban,Other (specify),0,0
+76,Rural,Never attended,46,45
+76,Rural,Nursery,0,0
+76,Rural,Kindergarten,0,0
+76,Rural,Primary,0,0
+76,Rural,JSS/JHS,0,0
+76,Rural,Middle,0,0
+76,Rural,SSS/SHS,0,0
+76,Rural,Secondary,0,0
+76,Rural,Voc/technical/commercial,0,0
+76,Rural,Post middle/secondary Certificate,0,0
+76,Rural,Post middle/secondary Diploma,0,0
+76,Rural,Tertiary/HND,0,0
+76,Rural,Tertiary - Bachelor's Degree,0,0
+76,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+76,Rural,Tertiary - Master's Degree,0,0
+76,Rural,Tertiary - PhD,0,0
+76,Rural,Other (specify),0,0
+76,Urban,Never attended,53,93
+76,Urban,Nursery,0,0
+76,Urban,Kindergarten,0,0
+76,Urban,Primary,1,0
+76,Urban,JSS/JHS,0,0
+76,Urban,Middle,1,0
+76,Urban,SSS/SHS,0,0
+76,Urban,Secondary,4,0
+76,Urban,Voc/technical/commercial,0,0
+76,Urban,Post middle/secondary Certificate,0,0
+76,Urban,Post middle/secondary Diploma,0,1
+76,Urban,Tertiary/HND,0,0
+76,Urban,Tertiary - Bachelor's Degree,2,0
+76,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+76,Urban,Tertiary - Master's Degree,0,0
+76,Urban,Tertiary - PhD,0,0
+76,Urban,Other (specify),0,0
+77,Rural,Never attended,19,15
+77,Rural,Nursery,0,0
+77,Rural,Kindergarten,0,0
+77,Rural,Primary,0,0
+77,Rural,JSS/JHS,0,0
+77,Rural,Middle,0,0
+77,Rural,SSS/SHS,0,0
+77,Rural,Secondary,0,0
+77,Rural,Voc/technical/commercial,0,0
+77,Rural,Post middle/secondary Certificate,0,0
+77,Rural,Post middle/secondary Diploma,0,0
+77,Rural,Tertiary/HND,0,0
+77,Rural,Tertiary - Bachelor's Degree,0,0
+77,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+77,Rural,Tertiary - Master's Degree,0,0
+77,Rural,Tertiary - PhD,0,0
+77,Rural,Other (specify),0,0
+77,Urban,Never attended,21,31
+77,Urban,Nursery,0,0
+77,Urban,Kindergarten,0,0
+77,Urban,Primary,0,1
+77,Urban,JSS/JHS,0,0
+77,Urban,Middle,0,0
+77,Urban,SSS/SHS,0,0
+77,Urban,Secondary,0,0
+77,Urban,Voc/technical/commercial,0,0
+77,Urban,Post middle/secondary Certificate,0,0
+77,Urban,Post middle/secondary Diploma,0,1
+77,Urban,Tertiary/HND,1,0
+77,Urban,Tertiary - Bachelor's Degree,0,0
+77,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+77,Urban,Tertiary - Master's Degree,0,0
+77,Urban,Tertiary - PhD,0,0
+77,Urban,Other (specify),0,0
+78,Rural,Never attended,17,25
+78,Rural,Nursery,0,0
+78,Rural,Kindergarten,0,0
+78,Rural,Primary,0,0
+78,Rural,JSS/JHS,0,0
+78,Rural,Middle,0,0
+78,Rural,SSS/SHS,0,0
+78,Rural,Secondary,0,0
+78,Rural,Voc/technical/commercial,0,0
+78,Rural,Post middle/secondary Certificate,0,0
+78,Rural,Post middle/secondary Diploma,0,0
+78,Rural,Tertiary/HND,0,0
+78,Rural,Tertiary - Bachelor's Degree,0,0
+78,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+78,Rural,Tertiary - Master's Degree,0,0
+78,Rural,Tertiary - PhD,0,0
+78,Rural,Other (specify),0,0
+78,Urban,Never attended,22,36
+78,Urban,Nursery,0,0
+78,Urban,Kindergarten,0,0
+78,Urban,Primary,1,0
+78,Urban,JSS/JHS,0,0
+78,Urban,Middle,2,0
+78,Urban,SSS/SHS,0,0
+78,Urban,Secondary,0,0
+78,Urban,Voc/technical/commercial,0,0
+78,Urban,Post middle/secondary Certificate,0,0
+78,Urban,Post middle/secondary Diploma,0,0
+78,Urban,Tertiary/HND,0,0
+78,Urban,Tertiary - Bachelor's Degree,0,0
+78,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+78,Urban,Tertiary - Master's Degree,0,0
+78,Urban,Tertiary - PhD,0,0
+78,Urban,Other (specify),0,0
+79,Rural,Never attended,30,25
+79,Rural,Nursery,0,0
+79,Rural,Kindergarten,0,0
+79,Rural,Primary,1,0
+79,Rural,JSS/JHS,0,0
+79,Rural,Middle,0,0
+79,Rural,SSS/SHS,0,0
+79,Rural,Secondary,0,0
+79,Rural,Voc/technical/commercial,0,0
+79,Rural,Post middle/secondary Certificate,0,0
+79,Rural,Post middle/secondary Diploma,0,0
+79,Rural,Tertiary/HND,0,0
+79,Rural,Tertiary - Bachelor's Degree,0,0
+79,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+79,Rural,Tertiary - Master's Degree,0,0
+79,Rural,Tertiary - PhD,0,0
+79,Rural,Other (specify),0,0
+79,Urban,Never attended,27,56
+79,Urban,Nursery,0,0
+79,Urban,Kindergarten,0,0
+79,Urban,Primary,0,0
+79,Urban,JSS/JHS,0,0
+79,Urban,Middle,2,0
+79,Urban,SSS/SHS,0,0
+79,Urban,Secondary,1,0
+79,Urban,Voc/technical/commercial,0,0
+79,Urban,Post middle/secondary Certificate,0,0
+79,Urban,Post middle/secondary Diploma,0,0
+79,Urban,Tertiary/HND,0,0
+79,Urban,Tertiary - Bachelor's Degree,0,0
+79,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+79,Urban,Tertiary - Master's Degree,0,0
+79,Urban,Tertiary - PhD,1,0
+79,Urban,Other (specify),0,0
+80-84,Rural,Never attended,129,187
+80-84,Rural,Nursery,0,0
+80-84,Rural,Kindergarten,0,0
+80-84,Rural,Primary,3,0
+80-84,Rural,JSS/JHS,0,0
+80-84,Rural,Middle,1,0
+80-84,Rural,SSS/SHS,0,0
+80-84,Rural,Secondary,0,0
+80-84,Rural,Voc/technical/commercial,0,0
+80-84,Rural,Post middle/secondary Certificate,1,0
+80-84,Rural,Post middle/secondary Diploma,0,0
+80-84,Rural,Tertiary/HND,0,0
+80-84,Rural,Tertiary - Bachelor's Degree,0,0
+80-84,Rural,Tertiary - Post graduate Certificate/Diploma,1,0
+80-84,Rural,Tertiary - Master's Degree,0,0
+80-84,Rural,Tertiary - PhD,0,0
+80-84,Rural,Other (specify),0,0
+80-84,Urban,Never attended,165,335
+80-84,Urban,Nursery,0,0
+80-84,Urban,Kindergarten,0,0
+80-84,Urban,Primary,2,1
+80-84,Urban,JSS/JHS,0,0
+80-84,Urban,Middle,5,1
+80-84,Urban,SSS/SHS,0,0
+80-84,Urban,Secondary,3,2
+80-84,Urban,Voc/technical/commercial,0,0
+80-84,Urban,Post middle/secondary Certificate,0,0
+80-84,Urban,Post middle/secondary Diploma,0,0
+80-84,Urban,Tertiary/HND,0,0
+80-84,Urban,Tertiary - Bachelor's Degree,0,0
+80-84,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+80-84,Urban,Tertiary - Master's Degree,0,0
+80-84,Urban,Tertiary - PhD,0,0
+80-84,Urban,Other (specify),0,0
+80,Rural,Never attended,43,47
+80,Rural,Nursery,0,0
+80,Rural,Kindergarten,0,0
+80,Rural,Primary,1,0
+80,Rural,JSS/JHS,0,0
+80,Rural,Middle,1,0
+80,Rural,SSS/SHS,0,0
+80,Rural,Secondary,0,0
+80,Rural,Voc/technical/commercial,0,0
+80,Rural,Post middle/secondary Certificate,0,0
+80,Rural,Post middle/secondary Diploma,0,0
+80,Rural,Tertiary/HND,0,0
+80,Rural,Tertiary - Bachelor's Degree,0,0
+80,Rural,Tertiary - Post graduate Certificate/Diploma,1,0
+80,Rural,Tertiary - Master's Degree,0,0
+80,Rural,Tertiary - PhD,0,0
+80,Rural,Other (specify),0,0
+80,Urban,Never attended,40,98
+80,Urban,Nursery,0,0
+80,Urban,Kindergarten,0,0
+80,Urban,Primary,1,0
+80,Urban,JSS/JHS,0,0
+80,Urban,Middle,2,0
+80,Urban,SSS/SHS,0,0
+80,Urban,Secondary,0,0
+80,Urban,Voc/technical/commercial,0,0
+80,Urban,Post middle/secondary Certificate,0,0
+80,Urban,Post middle/secondary Diploma,0,0
+80,Urban,Tertiary/HND,0,0
+80,Urban,Tertiary - Bachelor's Degree,0,0
+80,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+80,Urban,Tertiary - Master's Degree,0,0
+80,Urban,Tertiary - PhD,0,0
+80,Urban,Other (specify),0,0
+81,Rural,Never attended,43,57
+81,Rural,Nursery,0,0
+81,Rural,Kindergarten,0,0
+81,Rural,Primary,2,0
+81,Rural,JSS/JHS,0,0
+81,Rural,Middle,0,0
+81,Rural,SSS/SHS,0,0
+81,Rural,Secondary,0,0
+81,Rural,Voc/technical/commercial,0,0
+81,Rural,Post middle/secondary Certificate,1,0
+81,Rural,Post middle/secondary Diploma,0,0
+81,Rural,Tertiary/HND,0,0
+81,Rural,Tertiary - Bachelor's Degree,0,0
+81,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+81,Rural,Tertiary - Master's Degree,0,0
+81,Rural,Tertiary - PhD,0,0
+81,Rural,Other (specify),0,0
+81,Urban,Never attended,81,98
+81,Urban,Nursery,0,0
+81,Urban,Kindergarten,0,0
+81,Urban,Primary,0,1
+81,Urban,JSS/JHS,0,0
+81,Urban,Middle,2,0
+81,Urban,SSS/SHS,0,0
+81,Urban,Secondary,3,2
+81,Urban,Voc/technical/commercial,0,0
+81,Urban,Post middle/secondary Certificate,0,0
+81,Urban,Post middle/secondary Diploma,0,0
+81,Urban,Tertiary/HND,0,0
+81,Urban,Tertiary - Bachelor's Degree,0,0
+81,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+81,Urban,Tertiary - Master's Degree,0,0
+81,Urban,Tertiary - PhD,0,0
+81,Urban,Other (specify),0,0
+82,Rural,Never attended,16,39
+82,Rural,Nursery,0,0
+82,Rural,Kindergarten,0,0
+82,Rural,Primary,0,0
+82,Rural,JSS/JHS,0,0
+82,Rural,Middle,0,0
+82,Rural,SSS/SHS,0,0
+82,Rural,Secondary,0,0
+82,Rural,Voc/technical/commercial,0,0
+82,Rural,Post middle/secondary Certificate,0,0
+82,Rural,Post middle/secondary Diploma,0,0
+82,Rural,Tertiary/HND,0,0
+82,Rural,Tertiary - Bachelor's Degree,0,0
+82,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+82,Rural,Tertiary - Master's Degree,0,0
+82,Rural,Tertiary - PhD,0,0
+82,Rural,Other (specify),0,0
+82,Urban,Never attended,19,41
+82,Urban,Nursery,0,0
+82,Urban,Kindergarten,0,0
+82,Urban,Primary,0,0
+82,Urban,JSS/JHS,0,0
+82,Urban,Middle,1,0
+82,Urban,SSS/SHS,0,0
+82,Urban,Secondary,0,0
+82,Urban,Voc/technical/commercial,0,0
+82,Urban,Post middle/secondary Certificate,0,0
+82,Urban,Post middle/secondary Diploma,0,0
+82,Urban,Tertiary/HND,0,0
+82,Urban,Tertiary - Bachelor's Degree,0,0
+82,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+82,Urban,Tertiary - Master's Degree,0,0
+82,Urban,Tertiary - PhD,0,0
+82,Urban,Other (specify),0,0
+83,Rural,Never attended,19,21
+83,Rural,Nursery,0,0
+83,Rural,Kindergarten,0,0
+83,Rural,Primary,0,0
+83,Rural,JSS/JHS,0,0
+83,Rural,Middle,0,0
+83,Rural,SSS/SHS,0,0
+83,Rural,Secondary,0,0
+83,Rural,Voc/technical/commercial,0,0
+83,Rural,Post middle/secondary Certificate,0,0
+83,Rural,Post middle/secondary Diploma,0,0
+83,Rural,Tertiary/HND,0,0
+83,Rural,Tertiary - Bachelor's Degree,0,0
+83,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+83,Rural,Tertiary - Master's Degree,0,0
+83,Rural,Tertiary - PhD,0,0
+83,Rural,Other (specify),0,0
+83,Urban,Never attended,20,61
+83,Urban,Nursery,0,0
+83,Urban,Kindergarten,0,0
+83,Urban,Primary,1,0
+83,Urban,JSS/JHS,0,0
+83,Urban,Middle,0,1
+83,Urban,SSS/SHS,0,0
+83,Urban,Secondary,0,0
+83,Urban,Voc/technical/commercial,0,0
+83,Urban,Post middle/secondary Certificate,0,0
+83,Urban,Post middle/secondary Diploma,0,0
+83,Urban,Tertiary/HND,0,0
+83,Urban,Tertiary - Bachelor's Degree,0,0
+83,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+83,Urban,Tertiary - Master's Degree,0,0
+83,Urban,Tertiary - PhD,0,0
+83,Urban,Other (specify),0,0
+84,Rural,Never attended,8,23
+84,Rural,Nursery,0,0
+84,Rural,Kindergarten,0,0
+84,Rural,Primary,0,0
+84,Rural,JSS/JHS,0,0
+84,Rural,Middle,0,0
+84,Rural,SSS/SHS,0,0
+84,Rural,Secondary,0,0
+84,Rural,Voc/technical/commercial,0,0
+84,Rural,Post middle/secondary Certificate,0,0
+84,Rural,Post middle/secondary Diploma,0,0
+84,Rural,Tertiary/HND,0,0
+84,Rural,Tertiary - Bachelor's Degree,0,0
+84,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+84,Rural,Tertiary - Master's Degree,0,0
+84,Rural,Tertiary - PhD,0,0
+84,Rural,Other (specify),0,0
+84,Urban,Never attended,5,37
+84,Urban,Nursery,0,0
+84,Urban,Kindergarten,0,0
+84,Urban,Primary,0,0
+84,Urban,JSS/JHS,0,0
+84,Urban,Middle,0,0
+84,Urban,SSS/SHS,0,0
+84,Urban,Secondary,0,0
+84,Urban,Voc/technical/commercial,0,0
+84,Urban,Post middle/secondary Certificate,0,0
+84,Urban,Post middle/secondary Diploma,0,0
+84,Urban,Tertiary/HND,0,0
+84,Urban,Tertiary - Bachelor's Degree,0,0
+84,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+84,Urban,Tertiary - Master's Degree,0,0
+84,Urban,Tertiary - PhD,0,0
+84,Urban,Other (specify),0,0
+85-89,Rural,Never attended,57,51
+85-89,Rural,Nursery,0,0
+85-89,Rural,Kindergarten,0,0
+85-89,Rural,Primary,0,0
+85-89,Rural,JSS/JHS,0,0
+85-89,Rural,Middle,0,0
+85-89,Rural,SSS/SHS,0,0
+85-89,Rural,Secondary,0,0
+85-89,Rural,Voc/technical/commercial,0,0
+85-89,Rural,Post middle/secondary Certificate,0,0
+85-89,Rural,Post middle/secondary Diploma,0,0
+85-89,Rural,Tertiary/HND,0,0
+85-89,Rural,Tertiary - Bachelor's Degree,0,0
+85-89,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+85-89,Rural,Tertiary - Master's Degree,0,0
+85-89,Rural,Tertiary - PhD,0,0
+85-89,Rural,Other (specify),0,0
+85-89,Urban,Never attended,60,118
+85-89,Urban,Nursery,0,0
+85-89,Urban,Kindergarten,0,0
+85-89,Urban,Primary,0,0
+85-89,Urban,JSS/JHS,0,0
+85-89,Urban,Middle,1,0
+85-89,Urban,SSS/SHS,0,0
+85-89,Urban,Secondary,2,1
+85-89,Urban,Voc/technical/commercial,0,0
+85-89,Urban,Post middle/secondary Certificate,0,0
+85-89,Urban,Post middle/secondary Diploma,0,0
+85-89,Urban,Tertiary/HND,0,0
+85-89,Urban,Tertiary - Bachelor's Degree,0,0
+85-89,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+85-89,Urban,Tertiary - Master's Degree,0,0
+85-89,Urban,Tertiary - PhD,0,0
+85-89,Urban,Other (specify),0,0
+85,Rural,Never attended,18,26
+85,Rural,Nursery,0,0
+85,Rural,Kindergarten,0,0
+85,Rural,Primary,0,0
+85,Rural,JSS/JHS,0,0
+85,Rural,Middle,0,0
+85,Rural,SSS/SHS,0,0
+85,Rural,Secondary,0,0
+85,Rural,Voc/technical/commercial,0,0
+85,Rural,Post middle/secondary Certificate,0,0
+85,Rural,Post middle/secondary Diploma,0,0
+85,Rural,Tertiary/HND,0,0
+85,Rural,Tertiary - Bachelor's Degree,0,0
+85,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+85,Rural,Tertiary - Master's Degree,0,0
+85,Rural,Tertiary - PhD,0,0
+85,Rural,Other (specify),0,0
+85,Urban,Never attended,15,38
+85,Urban,Nursery,0,0
+85,Urban,Kindergarten,0,0
+85,Urban,Primary,0,0
+85,Urban,JSS/JHS,0,0
+85,Urban,Middle,0,0
+85,Urban,SSS/SHS,0,0
+85,Urban,Secondary,2,0
+85,Urban,Voc/technical/commercial,0,0
+85,Urban,Post middle/secondary Certificate,0,0
+85,Urban,Post middle/secondary Diploma,0,0
+85,Urban,Tertiary/HND,0,0
+85,Urban,Tertiary - Bachelor's Degree,0,0
+85,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+85,Urban,Tertiary - Master's Degree,0,0
+85,Urban,Tertiary - PhD,0,0
+85,Urban,Other (specify),0,0
+86,Rural,Never attended,23,17
+86,Rural,Nursery,0,0
+86,Rural,Kindergarten,0,0
+86,Rural,Primary,0,0
+86,Rural,JSS/JHS,0,0
+86,Rural,Middle,0,0
+86,Rural,SSS/SHS,0,0
+86,Rural,Secondary,0,0
+86,Rural,Voc/technical/commercial,0,0
+86,Rural,Post middle/secondary Certificate,0,0
+86,Rural,Post middle/secondary Diploma,0,0
+86,Rural,Tertiary/HND,0,0
+86,Rural,Tertiary - Bachelor's Degree,0,0
+86,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+86,Rural,Tertiary - Master's Degree,0,0
+86,Rural,Tertiary - PhD,0,0
+86,Rural,Other (specify),0,0
+86,Urban,Never attended,24,42
+86,Urban,Nursery,0,0
+86,Urban,Kindergarten,0,0
+86,Urban,Primary,0,0
+86,Urban,JSS/JHS,0,0
+86,Urban,Middle,0,0
+86,Urban,SSS/SHS,0,0
+86,Urban,Secondary,0,0
+86,Urban,Voc/technical/commercial,0,0
+86,Urban,Post middle/secondary Certificate,0,0
+86,Urban,Post middle/secondary Diploma,0,0
+86,Urban,Tertiary/HND,0,0
+86,Urban,Tertiary - Bachelor's Degree,0,0
+86,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+86,Urban,Tertiary - Master's Degree,0,0
+86,Urban,Tertiary - PhD,0,0
+86,Urban,Other (specify),0,0
+87,Rural,Never attended,5,3
+87,Rural,Nursery,0,0
+87,Rural,Kindergarten,0,0
+87,Rural,Primary,0,0
+87,Rural,JSS/JHS,0,0
+87,Rural,Middle,0,0
+87,Rural,SSS/SHS,0,0
+87,Rural,Secondary,0,0
+87,Rural,Voc/technical/commercial,0,0
+87,Rural,Post middle/secondary Certificate,0,0
+87,Rural,Post middle/secondary Diploma,0,0
+87,Rural,Tertiary/HND,0,0
+87,Rural,Tertiary - Bachelor's Degree,0,0
+87,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+87,Rural,Tertiary - Master's Degree,0,0
+87,Rural,Tertiary - PhD,0,0
+87,Rural,Other (specify),0,0
+87,Urban,Never attended,7,19
+87,Urban,Nursery,0,0
+87,Urban,Kindergarten,0,0
+87,Urban,Primary,0,0
+87,Urban,JSS/JHS,0,0
+87,Urban,Middle,1,0
+87,Urban,SSS/SHS,0,0
+87,Urban,Secondary,0,1
+87,Urban,Voc/technical/commercial,0,0
+87,Urban,Post middle/secondary Certificate,0,0
+87,Urban,Post middle/secondary Diploma,0,0
+87,Urban,Tertiary/HND,0,0
+87,Urban,Tertiary - Bachelor's Degree,0,0
+87,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+87,Urban,Tertiary - Master's Degree,0,0
+87,Urban,Tertiary - PhD,0,0
+87,Urban,Other (specify),0,0
+88,Rural,Never attended,7,0
+88,Rural,Nursery,0,0
+88,Rural,Kindergarten,0,0
+88,Rural,Primary,0,0
+88,Rural,JSS/JHS,0,0
+88,Rural,Middle,0,0
+88,Rural,SSS/SHS,0,0
+88,Rural,Secondary,0,0
+88,Rural,Voc/technical/commercial,0,0
+88,Rural,Post middle/secondary Certificate,0,0
+88,Rural,Post middle/secondary Diploma,0,0
+88,Rural,Tertiary/HND,0,0
+88,Rural,Tertiary - Bachelor's Degree,0,0
+88,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+88,Rural,Tertiary - Master's Degree,0,0
+88,Rural,Tertiary - PhD,0,0
+88,Rural,Other (specify),0,0
+88,Urban,Never attended,7,3
+88,Urban,Nursery,0,0
+88,Urban,Kindergarten,0,0
+88,Urban,Primary,0,0
+88,Urban,JSS/JHS,0,0
+88,Urban,Middle,0,0
+88,Urban,SSS/SHS,0,0
+88,Urban,Secondary,0,0
+88,Urban,Voc/technical/commercial,0,0
+88,Urban,Post middle/secondary Certificate,0,0
+88,Urban,Post middle/secondary Diploma,0,0
+88,Urban,Tertiary/HND,0,0
+88,Urban,Tertiary - Bachelor's Degree,0,0
+88,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+88,Urban,Tertiary - Master's Degree,0,0
+88,Urban,Tertiary - PhD,0,0
+88,Urban,Other (specify),0,0
+89,Rural,Never attended,4,5
+89,Rural,Nursery,0,0
+89,Rural,Kindergarten,0,0
+89,Rural,Primary,0,0
+89,Rural,JSS/JHS,0,0
+89,Rural,Middle,0,0
+89,Rural,SSS/SHS,0,0
+89,Rural,Secondary,0,0
+89,Rural,Voc/technical/commercial,0,0
+89,Rural,Post middle/secondary Certificate,0,0
+89,Rural,Post middle/secondary Diploma,0,0
+89,Rural,Tertiary/HND,0,0
+89,Rural,Tertiary - Bachelor's Degree,0,0
+89,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+89,Rural,Tertiary - Master's Degree,0,0
+89,Rural,Tertiary - PhD,0,0
+89,Rural,Other (specify),0,0
+89,Urban,Never attended,7,16
+89,Urban,Nursery,0,0
+89,Urban,Kindergarten,0,0
+89,Urban,Primary,0,0
+89,Urban,JSS/JHS,0,0
+89,Urban,Middle,0,0
+89,Urban,SSS/SHS,0,0
+89,Urban,Secondary,0,0
+89,Urban,Voc/technical/commercial,0,0
+89,Urban,Post middle/secondary Certificate,0,0
+89,Urban,Post middle/secondary Diploma,0,0
+89,Urban,Tertiary/HND,0,0
+89,Urban,Tertiary - Bachelor's Degree,0,0
+89,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+89,Urban,Tertiary - Master's Degree,0,0
+89,Urban,Tertiary - PhD,0,0
+89,Urban,Other (specify),0,0
+90-94,Rural,Never attended,25,25
+90-94,Rural,Nursery,0,0
+90-94,Rural,Kindergarten,0,0
+90-94,Rural,Primary,0,0
+90-94,Rural,JSS/JHS,0,0
+90-94,Rural,Middle,0,0
+90-94,Rural,SSS/SHS,0,0
+90-94,Rural,Secondary,0,0
+90-94,Rural,Voc/technical/commercial,0,0
+90-94,Rural,Post middle/secondary Certificate,0,0
+90-94,Rural,Post middle/secondary Diploma,0,0
+90-94,Rural,Tertiary/HND,0,0
+90-94,Rural,Tertiary - Bachelor's Degree,0,0
+90-94,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+90-94,Rural,Tertiary - Master's Degree,0,0
+90-94,Rural,Tertiary - PhD,0,0
+90-94,Rural,Other (specify),0,0
+90-94,Urban,Never attended,26,40
+90-94,Urban,Nursery,0,0
+90-94,Urban,Kindergarten,0,0
+90-94,Urban,Primary,3,1
+90-94,Urban,JSS/JHS,0,0
+90-94,Urban,Middle,0,0
+90-94,Urban,SSS/SHS,0,0
+90-94,Urban,Secondary,0,0
+90-94,Urban,Voc/technical/commercial,0,0
+90-94,Urban,Post middle/secondary Certificate,0,0
+90-94,Urban,Post middle/secondary Diploma,0,0
+90-94,Urban,Tertiary/HND,0,0
+90-94,Urban,Tertiary - Bachelor's Degree,0,0
+90-94,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+90-94,Urban,Tertiary - Master's Degree,0,0
+90-94,Urban,Tertiary - PhD,0,0
+90-94,Urban,Other (specify),0,0
+90,Rural,Never attended,9,8
+90,Rural,Nursery,0,0
+90,Rural,Kindergarten,0,0
+90,Rural,Primary,0,0
+90,Rural,JSS/JHS,0,0
+90,Rural,Middle,0,0
+90,Rural,SSS/SHS,0,0
+90,Rural,Secondary,0,0
+90,Rural,Voc/technical/commercial,0,0
+90,Rural,Post middle/secondary Certificate,0,0
+90,Rural,Post middle/secondary Diploma,0,0
+90,Rural,Tertiary/HND,0,0
+90,Rural,Tertiary - Bachelor's Degree,0,0
+90,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+90,Rural,Tertiary - Master's Degree,0,0
+90,Rural,Tertiary - PhD,0,0
+90,Rural,Other (specify),0,0
+90,Urban,Never attended,8,17
+90,Urban,Nursery,0,0
+90,Urban,Kindergarten,0,0
+90,Urban,Primary,0,1
+90,Urban,JSS/JHS,0,0
+90,Urban,Middle,0,0
+90,Urban,SSS/SHS,0,0
+90,Urban,Secondary,0,0
+90,Urban,Voc/technical/commercial,0,0
+90,Urban,Post middle/secondary Certificate,0,0
+90,Urban,Post middle/secondary Diploma,0,0
+90,Urban,Tertiary/HND,0,0
+90,Urban,Tertiary - Bachelor's Degree,0,0
+90,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+90,Urban,Tertiary - Master's Degree,0,0
+90,Urban,Tertiary - PhD,0,0
+90,Urban,Other (specify),0,0
+91,Rural,Never attended,12,10
+91,Rural,Nursery,0,0
+91,Rural,Kindergarten,0,0
+91,Rural,Primary,0,0
+91,Rural,JSS/JHS,0,0
+91,Rural,Middle,0,0
+91,Rural,SSS/SHS,0,0
+91,Rural,Secondary,0,0
+91,Rural,Voc/technical/commercial,0,0
+91,Rural,Post middle/secondary Certificate,0,0
+91,Rural,Post middle/secondary Diploma,0,0
+91,Rural,Tertiary/HND,0,0
+91,Rural,Tertiary - Bachelor's Degree,0,0
+91,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+91,Rural,Tertiary - Master's Degree,0,0
+91,Rural,Tertiary - PhD,0,0
+91,Rural,Other (specify),0,0
+91,Urban,Never attended,13,15
+91,Urban,Nursery,0,0
+91,Urban,Kindergarten,0,0
+91,Urban,Primary,1,0
+91,Urban,JSS/JHS,0,0
+91,Urban,Middle,0,0
+91,Urban,SSS/SHS,0,0
+91,Urban,Secondary,0,0
+91,Urban,Voc/technical/commercial,0,0
+91,Urban,Post middle/secondary Certificate,0,0
+91,Urban,Post middle/secondary Diploma,0,0
+91,Urban,Tertiary/HND,0,0
+91,Urban,Tertiary - Bachelor's Degree,0,0
+91,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+91,Urban,Tertiary - Master's Degree,0,0
+91,Urban,Tertiary - PhD,0,0
+91,Urban,Other (specify),0,0
+92,Rural,Never attended,1,1
+92,Rural,Nursery,0,0
+92,Rural,Kindergarten,0,0
+92,Rural,Primary,0,0
+92,Rural,JSS/JHS,0,0
+92,Rural,Middle,0,0
+92,Rural,SSS/SHS,0,0
+92,Rural,Secondary,0,0
+92,Rural,Voc/technical/commercial,0,0
+92,Rural,Post middle/secondary Certificate,0,0
+92,Rural,Post middle/secondary Diploma,0,0
+92,Rural,Tertiary/HND,0,0
+92,Rural,Tertiary - Bachelor's Degree,0,0
+92,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+92,Rural,Tertiary - Master's Degree,0,0
+92,Rural,Tertiary - PhD,0,0
+92,Rural,Other (specify),0,0
+92,Urban,Never attended,1,2
+92,Urban,Nursery,0,0
+92,Urban,Kindergarten,0,0
+92,Urban,Primary,0,0
+92,Urban,JSS/JHS,0,0
+92,Urban,Middle,0,0
+92,Urban,SSS/SHS,0,0
+92,Urban,Secondary,0,0
+92,Urban,Voc/technical/commercial,0,0
+92,Urban,Post middle/secondary Certificate,0,0
+92,Urban,Post middle/secondary Diploma,0,0
+92,Urban,Tertiary/HND,0,0
+92,Urban,Tertiary - Bachelor's Degree,0,0
+92,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+92,Urban,Tertiary - Master's Degree,0,0
+92,Urban,Tertiary - PhD,0,0
+92,Urban,Other (specify),0,0
+93,Rural,Never attended,0,1
+93,Rural,Nursery,0,0
+93,Rural,Kindergarten,0,0
+93,Rural,Primary,0,0
+93,Rural,JSS/JHS,0,0
+93,Rural,Middle,0,0
+93,Rural,SSS/SHS,0,0
+93,Rural,Secondary,0,0
+93,Rural,Voc/technical/commercial,0,0
+93,Rural,Post middle/secondary Certificate,0,0
+93,Rural,Post middle/secondary Diploma,0,0
+93,Rural,Tertiary/HND,0,0
+93,Rural,Tertiary - Bachelor's Degree,0,0
+93,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+93,Rural,Tertiary - Master's Degree,0,0
+93,Rural,Tertiary - PhD,0,0
+93,Rural,Other (specify),0,0
+93,Urban,Never attended,4,5
+93,Urban,Nursery,0,0
+93,Urban,Kindergarten,0,0
+93,Urban,Primary,1,0
+93,Urban,JSS/JHS,0,0
+93,Urban,Middle,0,0
+93,Urban,SSS/SHS,0,0
+93,Urban,Secondary,0,0
+93,Urban,Voc/technical/commercial,0,0
+93,Urban,Post middle/secondary Certificate,0,0
+93,Urban,Post middle/secondary Diploma,0,0
+93,Urban,Tertiary/HND,0,0
+93,Urban,Tertiary - Bachelor's Degree,0,0
+93,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+93,Urban,Tertiary - Master's Degree,0,0
+93,Urban,Tertiary - PhD,0,0
+93,Urban,Other (specify),0,0
+94,Rural,Never attended,3,5
+94,Rural,Nursery,0,0
+94,Rural,Kindergarten,0,0
+94,Rural,Primary,0,0
+94,Rural,JSS/JHS,0,0
+94,Rural,Middle,0,0
+94,Rural,SSS/SHS,0,0
+94,Rural,Secondary,0,0
+94,Rural,Voc/technical/commercial,0,0
+94,Rural,Post middle/secondary Certificate,0,0
+94,Rural,Post middle/secondary Diploma,0,0
+94,Rural,Tertiary/HND,0,0
+94,Rural,Tertiary - Bachelor's Degree,0,0
+94,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+94,Rural,Tertiary - Master's Degree,0,0
+94,Rural,Tertiary - PhD,0,0
+94,Rural,Other (specify),0,0
+94,Urban,Never attended,0,1
+94,Urban,Nursery,0,0
+94,Urban,Kindergarten,0,0
+94,Urban,Primary,1,0
+94,Urban,JSS/JHS,0,0
+94,Urban,Middle,0,0
+94,Urban,SSS/SHS,0,0
+94,Urban,Secondary,0,0
+94,Urban,Voc/technical/commercial,0,0
+94,Urban,Post middle/secondary Certificate,0,0
+94,Urban,Post middle/secondary Diploma,0,0
+94,Urban,Tertiary/HND,0,0
+94,Urban,Tertiary - Bachelor's Degree,0,0
+94,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+94,Urban,Tertiary - Master's Degree,0,0
+94,Urban,Tertiary - PhD,0,0
+94,Urban,Other (specify),0,0
+95-99,Rural,Never attended,7,2
+95-99,Rural,Nursery,0,0
+95-99,Rural,Kindergarten,0,0
+95-99,Rural,Primary,0,0
+95-99,Rural,JSS/JHS,0,0
+95-99,Rural,Middle,0,0
+95-99,Rural,SSS/SHS,0,0
+95-99,Rural,Secondary,0,0
+95-99,Rural,Voc/technical/commercial,0,0
+95-99,Rural,Post middle/secondary Certificate,0,0
+95-99,Rural,Post middle/secondary Diploma,0,0
+95-99,Rural,Tertiary/HND,0,0
+95-99,Rural,Tertiary - Bachelor's Degree,0,0
+95-99,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+95-99,Rural,Tertiary - Master's Degree,0,0
+95-99,Rural,Tertiary - PhD,0,0
+95-99,Rural,Other (specify),0,0
+95-99,Urban,Never attended,3,8
+95-99,Urban,Nursery,0,0
+95-99,Urban,Kindergarten,0,0
+95-99,Urban,Primary,0,0
+95-99,Urban,JSS/JHS,0,0
+95-99,Urban,Middle,0,0
+95-99,Urban,SSS/SHS,0,0
+95-99,Urban,Secondary,0,0
+95-99,Urban,Voc/technical/commercial,0,0
+95-99,Urban,Post middle/secondary Certificate,0,0
+95-99,Urban,Post middle/secondary Diploma,0,0
+95-99,Urban,Tertiary/HND,0,0
+95-99,Urban,Tertiary - Bachelor's Degree,0,0
+95-99,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+95-99,Urban,Tertiary - Master's Degree,0,0
+95-99,Urban,Tertiary - PhD,0,0
+95-99,Urban,Other (specify),0,0
+95,Rural,Never attended,0,1
+95,Rural,Nursery,0,0
+95,Rural,Kindergarten,0,0
+95,Rural,Primary,0,0
+95,Rural,JSS/JHS,0,0
+95,Rural,Middle,0,0
+95,Rural,SSS/SHS,0,0
+95,Rural,Secondary,0,0
+95,Rural,Voc/technical/commercial,0,0
+95,Rural,Post middle/secondary Certificate,0,0
+95,Rural,Post middle/secondary Diploma,0,0
+95,Rural,Tertiary/HND,0,0
+95,Rural,Tertiary - Bachelor's Degree,0,0
+95,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+95,Rural,Tertiary - Master's Degree,0,0
+95,Rural,Tertiary - PhD,0,0
+95,Rural,Other (specify),0,0
+95,Urban,Never attended,1,2
+95,Urban,Nursery,0,0
+95,Urban,Kindergarten,0,0
+95,Urban,Primary,0,0
+95,Urban,JSS/JHS,0,0
+95,Urban,Middle,0,0
+95,Urban,SSS/SHS,0,0
+95,Urban,Secondary,0,0
+95,Urban,Voc/technical/commercial,0,0
+95,Urban,Post middle/secondary Certificate,0,0
+95,Urban,Post middle/secondary Diploma,0,0
+95,Urban,Tertiary/HND,0,0
+95,Urban,Tertiary - Bachelor's Degree,0,0
+95,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+95,Urban,Tertiary - Master's Degree,0,0
+95,Urban,Tertiary - PhD,0,0
+95,Urban,Other (specify),0,0
+96,Rural,Never attended,3,0
+96,Rural,Nursery,0,0
+96,Rural,Kindergarten,0,0
+96,Rural,Primary,0,0
+96,Rural,JSS/JHS,0,0
+96,Rural,Middle,0,0
+96,Rural,SSS/SHS,0,0
+96,Rural,Secondary,0,0
+96,Rural,Voc/technical/commercial,0,0
+96,Rural,Post middle/secondary Certificate,0,0
+96,Rural,Post middle/secondary Diploma,0,0
+96,Rural,Tertiary/HND,0,0
+96,Rural,Tertiary - Bachelor's Degree,0,0
+96,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+96,Rural,Tertiary - Master's Degree,0,0
+96,Rural,Tertiary - PhD,0,0
+96,Rural,Other (specify),0,0
+96,Urban,Never attended,1,2
+96,Urban,Nursery,0,0
+96,Urban,Kindergarten,0,0
+96,Urban,Primary,0,0
+96,Urban,JSS/JHS,0,0
+96,Urban,Middle,0,0
+96,Urban,SSS/SHS,0,0
+96,Urban,Secondary,0,0
+96,Urban,Voc/technical/commercial,0,0
+96,Urban,Post middle/secondary Certificate,0,0
+96,Urban,Post middle/secondary Diploma,0,0
+96,Urban,Tertiary/HND,0,0
+96,Urban,Tertiary - Bachelor's Degree,0,0
+96,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+96,Urban,Tertiary - Master's Degree,0,0
+96,Urban,Tertiary - PhD,0,0
+96,Urban,Other (specify),0,0
+97,Rural,Never attended,0,1
+97,Rural,Nursery,0,0
+97,Rural,Kindergarten,0,0
+97,Rural,Primary,0,0
+97,Rural,JSS/JHS,0,0
+97,Rural,Middle,0,0
+97,Rural,SSS/SHS,0,0
+97,Rural,Secondary,0,0
+97,Rural,Voc/technical/commercial,0,0
+97,Rural,Post middle/secondary Certificate,0,0
+97,Rural,Post middle/secondary Diploma,0,0
+97,Rural,Tertiary/HND,0,0
+97,Rural,Tertiary - Bachelor's Degree,0,0
+97,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+97,Rural,Tertiary - Master's Degree,0,0
+97,Rural,Tertiary - PhD,0,0
+97,Rural,Other (specify),0,0
+97,Urban,Never attended,1,1
+97,Urban,Nursery,0,0
+97,Urban,Kindergarten,0,0
+97,Urban,Primary,0,0
+97,Urban,JSS/JHS,0,0
+97,Urban,Middle,0,0
+97,Urban,SSS/SHS,0,0
+97,Urban,Secondary,0,0
+97,Urban,Voc/technical/commercial,0,0
+97,Urban,Post middle/secondary Certificate,0,0
+97,Urban,Post middle/secondary Diploma,0,0
+97,Urban,Tertiary/HND,0,0
+97,Urban,Tertiary - Bachelor's Degree,0,0
+97,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+97,Urban,Tertiary - Master's Degree,0,0
+97,Urban,Tertiary - PhD,0,0
+97,Urban,Other (specify),0,0
+98,Rural,Never attended,4,0
+98,Rural,Nursery,0,0
+98,Rural,Kindergarten,0,0
+98,Rural,Primary,0,0
+98,Rural,JSS/JHS,0,0
+98,Rural,Middle,0,0
+98,Rural,SSS/SHS,0,0
+98,Rural,Secondary,0,0
+98,Rural,Voc/technical/commercial,0,0
+98,Rural,Post middle/secondary Certificate,0,0
+98,Rural,Post middle/secondary Diploma,0,0
+98,Rural,Tertiary/HND,0,0
+98,Rural,Tertiary - Bachelor's Degree,0,0
+98,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+98,Rural,Tertiary - Master's Degree,0,0
+98,Rural,Tertiary - PhD,0,0
+98,Rural,Other (specify),0,0
+98,Urban,Never attended,0,2
+98,Urban,Nursery,0,0
+98,Urban,Kindergarten,0,0
+98,Urban,Primary,0,0
+98,Urban,JSS/JHS,0,0
+98,Urban,Middle,0,0
+98,Urban,SSS/SHS,0,0
+98,Urban,Secondary,0,0
+98,Urban,Voc/technical/commercial,0,0
+98,Urban,Post middle/secondary Certificate,0,0
+98,Urban,Post middle/secondary Diploma,0,0
+98,Urban,Tertiary/HND,0,0
+98,Urban,Tertiary - Bachelor's Degree,0,0
+98,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+98,Urban,Tertiary - Master's Degree,0,0
+98,Urban,Tertiary - PhD,0,0
+98,Urban,Other (specify),0,0
+99,Rural,Never attended,0,0
+99,Rural,Nursery,0,0
+99,Rural,Kindergarten,0,0
+99,Rural,Primary,0,0
+99,Rural,JSS/JHS,0,0
+99,Rural,Middle,0,0
+99,Rural,SSS/SHS,0,0
+99,Rural,Secondary,0,0
+99,Rural,Voc/technical/commercial,0,0
+99,Rural,Post middle/secondary Certificate,0,0
+99,Rural,Post middle/secondary Diploma,0,0
+99,Rural,Tertiary/HND,0,0
+99,Rural,Tertiary - Bachelor's Degree,0,0
+99,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+99,Rural,Tertiary - Master's Degree,0,0
+99,Rural,Tertiary - PhD,0,0
+99,Rural,Other (specify),0,0
+99,Urban,Never attended,0,1
+99,Urban,Nursery,0,0
+99,Urban,Kindergarten,0,0
+99,Urban,Primary,0,0
+99,Urban,JSS/JHS,0,0
+99,Urban,Middle,0,0
+99,Urban,SSS/SHS,0,0
+99,Urban,Secondary,0,0
+99,Urban,Voc/technical/commercial,0,0
+99,Urban,Post middle/secondary Certificate,0,0
+99,Urban,Post middle/secondary Diploma,0,0
+99,Urban,Tertiary/HND,0,0
+99,Urban,Tertiary - Bachelor's Degree,0,0
+99,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+99,Urban,Tertiary - Master's Degree,0,0
+99,Urban,Tertiary - PhD,0,0
+99,Urban,Other (specify),0,0
+100+,Rural,Never attended,3,6
+100+,Rural,Nursery,0,0
+100+,Rural,Kindergarten,0,0
+100+,Rural,Primary,0,0
+100+,Rural,JSS/JHS,0,0
+100+,Rural,Middle,0,0
+100+,Rural,SSS/SHS,0,0
+100+,Rural,Secondary,0,0
+100+,Rural,Voc/technical/commercial,0,0
+100+,Rural,Post middle/secondary Certificate,0,0
+100+,Rural,Post middle/secondary Diploma,0,0
+100+,Rural,Tertiary/HND,0,0
+100+,Rural,Tertiary - Bachelor's Degree,0,0
+100+,Rural,Tertiary - Post graduate Certificate/Diploma,0,0
+100+,Rural,Tertiary - Master's Degree,0,0
+100+,Rural,Tertiary - PhD,0,0
+100+,Rural,Other (specify),0,0
+100+,Urban,Never attended,6,10
+100+,Urban,Nursery,0,0
+100+,Urban,Kindergarten,0,0
+100+,Urban,Primary,0,0
+100+,Urban,JSS/JHS,0,0
+100+,Urban,Middle,0,0
+100+,Urban,SSS/SHS,0,0
+100+,Urban,Secondary,0,0
+100+,Urban,Voc/technical/commercial,0,0
+100+,Urban,Post middle/secondary Certificate,0,0
+100+,Urban,Post middle/secondary Diploma,0,0
+100+,Urban,Tertiary/HND,0,0
+100+,Urban,Tertiary - Bachelor's Degree,0,0
+100+,Urban,Tertiary - Post graduate Certificate/Diploma,0,0
+100+,Urban,Tertiary - Master's Degree,0,0
+100+,Urban,Tertiary - PhD,0,0
+100+,Urban,Other (specify),0,0

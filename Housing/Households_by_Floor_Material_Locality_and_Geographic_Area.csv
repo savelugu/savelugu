@@ -1,0 +1,19 @@
+Floor_Material,Locality,Savelugu Municipal
+Earth/Mud,Rural,1380
+Earth/Mud,Urban,708
+Cement/Concrete,Rural,6879
+Cement/Concrete,Urban,13315
+Stone,Rural,60
+Stone,Urban,97
+Burnt bricks,Rural,2
+Burnt bricks,Urban,1
+Wood,Rural,72
+Wood,Urban,6
+Vinyl tiles,Rural,4
+Vinyl tiles,Urban,296
+Ceramic/Porcelain/Granite/Marble tiles,Rural,16
+Ceramic/Porcelain/Granite/Marble tiles,Urban,176
+Terrazzo/Terrazzo tiles,Rural,4
+Terrazzo/Terrazzo tiles,Urban,29
+Other,Rural,1
+Other,Urban,36

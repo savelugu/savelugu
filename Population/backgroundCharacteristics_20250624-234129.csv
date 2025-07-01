@@ -1,0 +1,1293 @@
+Nationality,Education,Locality,Geographic_Area,Sex,0 years to 14 years,0-4,9-May,14-Oct,15 years to 64 years,15-19,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65 years and older,65-69,70-74,75-79,80-84,85-89,90-94,95-99,100+
+Ghanaian by birth,Never attended,Rural,Savelugu Municipal,Male,5126,3345,1110,671,6270,605,756,779,900,714,826,551,514,289,336,746,180,212,138,128,53,25,7,3
+Ghanaian by birth,Never attended,Rural,Savelugu Municipal,Female,5547,3517,1217,813,9253,732,1390,1379,1502,1215,1107,705,558,299,366,804,154,227,162,182,49,22,2,6
+Ghanaian by birth,Never attended,Urban,Savelugu Municipal,Male,5910,4757,778,375,7563,549,697,732,1064,984,1110,886,739,360,442,990,248,301,182,164,60,26,3,6
+Ghanaian by birth,Never attended,Urban,Savelugu Municipal,Female,6214,4711,976,527,13539,626,1500,1990,2438,1936,1913,1147,924,462,603,1616,344,458,304,334,118,40,8,10
+Ghanaian by birth,Nursery,Rural,Savelugu Municipal,Male,420,285,134,1,6,0,1,0,3,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Nursery,Rural,Savelugu Municipal,Female,388,272,115,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Nursery,Urban,Savelugu Municipal,Male,964,701,262,1,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Nursery,Urban,Savelugu Municipal,Female,960,711,248,1,5,2,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Kindergarten,Rural,Savelugu Municipal,Male,966,397,567,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Kindergarten,Rural,Savelugu Municipal,Female,886,385,500,1,4,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Kindergarten,Urban,Savelugu Municipal,Male,2019,833,1185,1,5,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Kindergarten,Urban,Savelugu Municipal,Female,1867,803,1064,0,6,1,2,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Primary,Rural,Savelugu Municipal,Male,3901,0,2030,1871,633,162,132,114,67,66,38,23,16,8,7,12,5,1,3,3,0,0,0,0
+Ghanaian by birth,Primary,Rural,Savelugu Municipal,Female,3114,0,1685,1429,467,121,152,87,57,27,12,4,6,0,1,1,1,0,0,0,0,0,0,0
+Ghanaian by birth,Primary,Urban,Savelugu Municipal,Male,7111,0,3808,3303,961,233,195,127,137,89,74,41,29,20,16,24,11,5,3,2,0,3,0,0
+Ghanaian by birth,Primary,Urban,Savelugu Municipal,Female,6378,0,3514,2864,798,184,191,166,115,66,36,17,14,5,4,12,3,6,1,1,0,1,0,0
+Ghanaian by birth,JSS/JHS,Rural,Savelugu Municipal,Male,337,0,0,337,1759,987,263,166,148,96,54,27,16,2,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,JSS/JHS,Rural,Savelugu Municipal,Female,236,0,0,236,1073,616,200,137,76,27,8,6,3,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,JSS/JHS,Urban,Savelugu Municipal,Male,742,0,0,742,3295,1891,439,281,288,174,113,74,22,13,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,JSS/JHS,Urban,Savelugu Municipal,Female,677,0,0,677,2670,1584,446,324,188,66,40,14,4,4,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,22,0,0,0,0,0,0,5,5,7,5,8,5,2,0,1,0,0,0,0
+Ghanaian by birth,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,3,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,64,0,0,0,0,0,0,6,20,19,19,49,21,16,6,5,1,0,0,0
+Ghanaian by birth,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,27,0,0,0,0,0,0,2,3,12,10,5,2,2,0,1,0,0,0,0
+Ghanaian by birth,SSS/SHS,Rural,Savelugu Municipal,Male,4,0,0,4,1450,350,499,300,158,64,45,31,3,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,SSS/SHS,Rural,Savelugu Municipal,Female,3,0,0,3,684,232,281,118,33,11,4,4,1,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,SSS/SHS,Urban,Savelugu Municipal,Male,10,0,0,10,4918,1452,1951,585,388,236,175,115,16,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,SSS/SHS,Urban,Savelugu Municipal,Female,5,0,0,5,3558,1265,1463,506,199,71,37,15,2,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,43,4,3,4,2,1,4,4,10,4,7,9,6,3,0,0,0,0,0,0
+Ghanaian by birth,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,11,1,3,4,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Secondary,Urban,Savelugu Municipal,Male,3,0,0,3,179,3,15,10,20,16,20,15,39,22,19,32,16,6,5,3,2,0,0,0
+Ghanaian by birth,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,65,3,15,9,10,3,6,8,6,5,0,6,1,2,0,2,1,0,0,0
+Ghanaian by birth,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,39,0,7,14,7,6,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,8,1,2,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,115,3,4,67,18,5,8,5,1,2,2,2,2,0,0,0,0,0,0,0
+Ghanaian by birth,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,59,0,4,35,11,7,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,7,0,0,1,1,2,1,0,1,0,1,2,1,0,0,1,0,0,0,0
+Ghanaian by birth,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,3,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,73,1,13,15,17,9,4,3,1,7,3,8,5,2,1,0,0,0,0,0
+Ghanaian by birth,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,48,4,6,8,17,1,3,3,1,2,3,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,54,1,12,12,17,5,3,1,1,1,1,3,1,1,1,0,0,0,0,0
+Ghanaian by birth,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,10,0,4,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,277,0,27,91,76,39,20,8,5,6,5,7,4,2,1,0,0,0,0,0
+Ghanaian by birth,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,143,16,35,38,29,9,4,2,3,5,2,2,0,0,2,0,0,0,0,0
+Ghanaian by birth,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,171,1,94,40,25,7,3,0,0,0,1,1,1,0,0,0,0,0,0,0
+Ghanaian by birth,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,76,16,37,17,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,620,17,204,125,113,83,37,18,17,4,2,5,3,1,1,0,0,0,0,0
+Ghanaian by birth,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,276,29,124,55,41,17,5,2,1,0,2,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,182,47,36,28,32,20,11,3,3,1,1,7,6,1,0,0,0,0,0,0
+Ghanaian by birth,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,44,22,6,8,4,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,824,72,68,144,215,113,110,44,27,14,17,15,11,2,2,0,0,0,0,0
+Ghanaian by birth,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,210,7,39,52,64,29,5,4,7,3,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,89,0,26,33,22,2,2,1,2,0,1,3,1,1,0,1,0,0,0,0
+Ghanaian by birth,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,10,0,3,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,762,0,293,245,126,40,24,10,7,8,9,4,2,2,0,0,0,0,0,0
+Ghanaian by birth,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,312,0,103,128,51,16,4,3,1,5,1,1,1,0,0,0,0,0,0,0
+Ghanaian by birth,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,10,0,0,1,3,4,1,0,1,0,0,1,0,1,0,0,0,0,0,0
+Ghanaian by birth,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,115,0,4,8,22,26,24,14,8,5,4,4,3,1,0,0,0,0,0,0
+Ghanaian by birth,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,14,0,0,1,2,8,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,12,0,0,1,1,2,3,1,2,1,1,1,0,0,1,0,0,0,0,0
+Ghanaian by birth,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,3,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,7,0,0,0,3,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,12,0,3,1,2,1,0,2,3,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by birth,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Never attended,Rural,Savelugu Municipal,Male,0,0,0,0,9,2,2,0,2,0,2,0,1,0,0,3,2,0,0,1,0,0,0,0
+Dual Nationality (Ghanaian & other),Never attended,Rural,Savelugu Municipal,Female,0,0,0,0,11,3,0,3,1,2,1,1,0,0,0,1,0,0,0,0,0,1,0,0
+Dual Nationality (Ghanaian & other),Never attended,Urban,Savelugu Municipal,Male,0,0,0,0,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Never attended,Urban,Savelugu Municipal,Female,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Nursery,Urban,Savelugu Municipal,Male,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Primary,Rural,Savelugu Municipal,Male,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Primary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Primary,Urban,Savelugu Municipal,Male,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),JSS/JHS,Urban,Savelugu Municipal,Male,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),JSS/JHS,Urban,Savelugu Municipal,Female,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Nationality (Ghanaian & other),Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Never attended,Rural,Savelugu Municipal,Male,7,5,0,2,27,0,3,1,4,1,2,6,5,1,4,6,2,1,3,0,0,0,0,0
+Ghanaian by naturalisation,Never attended,Rural,Savelugu Municipal,Female,4,0,2,2,35,3,2,5,8,5,4,2,3,1,2,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Never attended,Urban,Savelugu Municipal,Male,4,3,1,0,10,4,1,1,2,0,0,0,2,0,0,2,1,0,0,1,0,0,0,0
+Ghanaian by naturalisation,Never attended,Urban,Savelugu Municipal,Female,2,0,2,0,11,2,1,2,3,1,0,2,0,0,0,1,0,1,0,0,0,0,0,0
+Ghanaian by naturalisation,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Kindergarten,Rural,Savelugu Municipal,Female,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Kindergarten,Urban,Savelugu Municipal,Female,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Primary,Rural,Savelugu Municipal,Male,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Primary,Rural,Savelugu Municipal,Female,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Primary,Urban,Savelugu Municipal,Male,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Primary,Urban,Savelugu Municipal,Female,3,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghanaian by naturalisation,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Never attended,Rural,Savelugu Municipal,Male,59,24,18,17,148,14,23,23,17,17,21,11,9,8,5,18,6,3,5,0,4,0,0,0
+Outside Ghana,Never attended,Rural,Savelugu Municipal,Female,62,24,26,12,190,19,46,41,24,18,15,8,8,5,6,26,3,7,7,5,2,2,0,0
+Outside Ghana,Never attended,Urban,Savelugu Municipal,Male,4,2,1,1,40,4,11,6,6,2,6,3,0,1,1,1,0,1,0,0,0,0,0,0
+Outside Ghana,Never attended,Urban,Savelugu Municipal,Female,6,3,2,1,13,1,4,2,1,1,2,0,0,1,1,1,0,0,0,1,0,0,0,0
+Outside Ghana,Nursery,Rural,Savelugu Municipal,Male,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Kindergarten,Rural,Savelugu Municipal,Male,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Kindergarten,Rural,Savelugu Municipal,Female,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Primary,Rural,Savelugu Municipal,Male,7,0,3,4,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Primary,Rural,Savelugu Municipal,Female,3,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,JSS/JHS,Rural,Savelugu Municipal,Male,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,4,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,13,0,7,2,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,5,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,3,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,6,0,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outside Ghana,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Never attended,Rural,Savelugu Municipal,Male,59,24,18,17,142,13,23,21,16,15,21,11,9,8,5,15,5,2,4,0,4,0,0,0
+ECOWAS Countries,Never attended,Rural,Savelugu Municipal,Female,61,24,26,11,185,18,45,41,24,16,14,8,8,5,6,24,3,6,6,5,2,2,0,0
+ECOWAS Countries,Never attended,Urban,Savelugu Municipal,Male,4,2,1,1,17,4,4,3,2,0,3,0,0,0,1,1,0,1,0,0,0,0,0,0
+ECOWAS Countries,Never attended,Urban,Savelugu Municipal,Female,6,3,2,1,12,1,4,1,1,1,2,0,0,1,1,1,0,0,0,1,0,0,0,0
+ECOWAS Countries,Nursery,Rural,Savelugu Municipal,Male,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Kindergarten,Rural,Savelugu Municipal,Male,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Kindergarten,Rural,Savelugu Municipal,Female,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Primary,Rural,Savelugu Municipal,Male,7,0,3,4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Primary,Rural,Savelugu Municipal,Female,3,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,JSS/JHS,Rural,Savelugu Municipal,Male,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,3,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,11,0,6,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,4,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ECOWAS Countries,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Never attended,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Never attended,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Never attended,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Never attended,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Primary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Primary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cote d'Ivoire,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Never attended,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Never attended,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Never attended,Urban,Savelugu Municipal,Male,2,1,0,1,10,3,4,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Never attended,Urban,Savelugu Municipal,Female,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Primary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Primary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,10,0,6,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,3,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nigeria,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Never attended,Rural,Savelugu Municipal,Male,2,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Togo,Never attended,Rural,Savelugu Municipal,Female,0,0,0,0,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Togo,Never attended,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Never attended,Urban,Savelugu Municipal,Female,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Togo,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Primary,Rural,Savelugu Municipal,Male,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Primary,Rural,Savelugu Municipal,Female,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Togo,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Never attended,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Never attended,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Never attended,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Never attended,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Primary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Primary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberia,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Never attended,Rural,Savelugu Municipal,Male,57,22,18,17,141,13,23,21,16,15,21,11,9,7,5,15,5,2,4,0,4,0,0,0
+Burkina Faso,Never attended,Rural,Savelugu Municipal,Female,61,24,26,11,183,18,45,41,24,15,14,8,7,5,6,24,3,6,6,5,2,2,0,0
+Burkina Faso,Never attended,Urban,Savelugu Municipal,Male,2,1,1,0,7,1,0,2,0,0,3,0,0,0,1,1,0,1,0,0,0,0,0,0
+Burkina Faso,Never attended,Urban,Savelugu Municipal,Female,5,2,2,1,11,1,4,1,1,1,2,0,0,0,1,1,0,0,0,1,0,0,0,0
+Burkina Faso,Nursery,Rural,Savelugu Municipal,Male,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Kindergarten,Rural,Savelugu Municipal,Male,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Kindergarten,Rural,Savelugu Municipal,Female,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Primary,Rural,Savelugu Municipal,Male,7,0,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Primary,Rural,Savelugu Municipal,Female,3,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,JSS/JHS,Rural,Savelugu Municipal,Male,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Never attended,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Never attended,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Never attended,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Never attended,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Primary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Primary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Never attended,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Never attended,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Never attended,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Never attended,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Primary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Primary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gambia,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Never attended,Rural,Savelugu Municipal,Male,0,0,0,0,6,1,0,2,1,2,0,0,0,0,0,3,1,1,1,0,0,0,0,0
+Other ECOWAS Countries,Never attended,Rural,Savelugu Municipal,Female,1,0,0,1,5,1,1,0,0,2,1,0,0,0,0,2,0,1,1,0,0,0,0,0
+Other ECOWAS Countries,Never attended,Urban,Savelugu Municipal,Male,0,0,0,0,23,0,7,3,4,2,3,3,0,1,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Never attended,Urban,Savelugu Municipal,Female,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Primary,Rural,Savelugu Municipal,Male,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Primary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other ECOWAS Countries,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Never attended,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Never attended,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Never attended,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Never attended,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Primary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Primary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,3,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Africa, other than ECOWAS",Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Never attended,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Never attended,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Never attended,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Never attended,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Primary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Primary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"America (North, South/Caribbean)",Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Never attended,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Never attended,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Never attended,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Never attended,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Primary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Primary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,3,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Never attended,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Never attended,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Never attended,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Never attended,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Primary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Primary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Europe,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Never attended,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Never attended,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Never attended,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Never attended,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Primary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Primary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Never attended,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Never attended,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Never attended,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Never attended,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Primary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Primary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stateless,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

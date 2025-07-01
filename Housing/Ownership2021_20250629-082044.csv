@@ -1,0 +1,21 @@
+"Households by Ownership, Locality and Geographic_Area"
+
+"Ownership","Locality","Savelugu Municipal"
+"Owner occupied","Rural",7964
+"Owner occupied","Urban",12000
+"Other private individual","Rural",60
+"Other private individual","Urban",859
+"Family property","Rural",342
+"Family property","Urban",1308
+"Relative not household member","Rural",23
+"Relative not household member","Urban",158
+"Private employer","Rural",5
+"Private employer","Urban",76
+"Other private agency","Rural",0
+"Other private agency","Urban",88
+"Other","Rural",0
+"Other","Urban",21
+"Public/Government","Rural",24
+"Public/Government","Urban",154
+"Estate developer","Rural",0
+"Estate developer","Urban",0

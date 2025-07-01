@@ -1,0 +1,29 @@
+Light,Locality,Savelugu Municipal
+non-electric,Rural,1720
+non-electric,Urban,1105
+Flashlight/Torchlight,Rural,1460
+Flashlight/Torchlight,Urban,766
+Solar lamp,Rural,56
+Solar lamp,Urban,61
+None,Rural,127
+None,Urban,179
+Candle,Rural,9
+Candle,Urban,9
+Gas lamp,Rural,1
+Gas lamp,Urban,0
+Kerosene lamp,Rural,67
+Kerosene lamp,Urban,90
+Other,Rural,0
+Other,Urban,0
+electric,Rural,6698
+electric,Urban,13559
+Electricity (private generator),Rural,0
+Electricity (private generator),Urban,2
+Electricity (solar panel/invertor),Rural,8
+Electricity (solar panel/invertor),Urban,3
+Electricity (mains),Rural,6549
+Electricity (mains),Urban,12762
+Electricity (community-based Grid),Rural,131
+Electricity (community-based Grid),Urban,792
+Electricity (wind energy),Rural,10
+Electricity (wind energy),Urban,0

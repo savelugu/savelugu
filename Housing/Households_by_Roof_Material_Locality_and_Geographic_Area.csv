@@ -1,0 +1,21 @@
+Roof_Material,Locality,Savelugu Municipal
+Tarpaulin/ fabric/ canvas,Rural,0
+Tarpaulin/ fabric/ canvas,Urban,0
+Mud/Mud bricks/Earth,Rural,230
+Mud/Mud bricks/Earth,Urban,210
+Wood,Rural,50
+Wood,Urban,94
+Metal sheet,Rural,6663
+Metal sheet,Urban,15006
+Slate/Asbestos,Rural,82
+Slate/Asbestos,Urban,79
+Cement/Concrete,Rural,93
+Cement/Concrete,Urban,219
+Roofing Tiles,Rural,1
+Roofing Tiles,Urban,7
+Bamboo,Rural,1
+Bamboo,Urban,2
+Thatch/Palm leaves or Raffia,Rural,2056
+Thatch/Palm leaves or Raffia,Urban,411
+Other,Rural,23
+Other,Urban,55

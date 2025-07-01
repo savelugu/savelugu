@@ -1,0 +1,29 @@
+Domesticwater,Locality,Savelugu Municipal
+Pipe-borne inside dwelling,Rural,36
+Pipe-borne inside dwelling,Urban,1656
+Pipe-borne outside dwelling but on compound,Rural,126
+Pipe-borne outside dwelling but on compound,Urban,1047
+Pipe-borne outside dwelling but in neighbour's house/compound,Rural,224
+Pipe-borne outside dwelling but in neighbour's house/compound,Urban,661
+Public tap/Stand pipe,Rural,920
+Public tap/Stand pipe,Urban,5618
+Borehole/Tube well,Rural,3576
+Borehole/Tube well,Urban,1999
+Protected well,Rural,90
+Protected well,Urban,785
+Rain water,Rural,101
+Rain water,Urban,932
+Protected spring,Rural,36
+Protected spring,Urban,6
+Tanker supplied/Vendor provided,Rural,50
+Tanker supplied/Vendor provided,Urban,722
+Unprotected well,Rural,16
+Unprotected well,Urban,97
+Unprotected spring,Rural,1
+Unprotected spring,Urban,8
+River/Stream,Rural,1911
+River/Stream,Urban,620
+Dugout/Pond/Lake/Dam/Canal,Rural,1330
+Dugout/Pond/Lake/Dam/Canal,Urban,505
+Other,Rural,1
+Other,Urban,8

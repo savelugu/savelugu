@@ -1,0 +1,615 @@
+"population major ethnic group by Ethnicity, Education, Locality, Geographic_Area, Sex and Age"
+
+"Ethnicity","Education","Locality","Geographic_Area","Sex","0 years to 14 years","0-4","5-9","10-14","15 years to 64 years","15-19","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65 years and older","65-69","70-74","75-79","80-84","85-89","90-94","95-99","100+"
+"Akan","Never attended","Rural","Savelugu Municipal","Male",39,31,4,4,5,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Never attended","Rural","Savelugu Municipal","Female",27,18,6,3,48,7,7,22,5,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Never attended","Urban","Savelugu Municipal","Male",84,67,10,7,58,15,19,6,9,5,1,1,2,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Never attended","Urban","Savelugu Municipal","Female",89,67,10,12,188,16,38,56,33,24,16,3,1,0,1,0,0,0,0,0,0,0,0,0
+"Akan","Nursery","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Nursery","Rural","Savelugu Municipal","Female",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Nursery","Urban","Savelugu Municipal","Male",6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Nursery","Urban","Savelugu Municipal","Female",10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Kindergarten","Rural","Savelugu Municipal","Male",7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Kindergarten","Rural","Savelugu Municipal","Female",8,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Kindergarten","Urban","Savelugu Municipal","Male",33,17,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Kindergarten","Urban","Savelugu Municipal","Female",25,14,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Primary","Rural","Savelugu Municipal","Male",17,0,12,5,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Primary","Rural","Savelugu Municipal","Female",14,0,9,5,5,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Primary","Urban","Savelugu Municipal","Male",71,0,44,27,6,1,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Primary","Urban","Savelugu Municipal","Female",76,0,51,25,5,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","JSS/JHS","Rural","Savelugu Municipal","Male",4,0,0,4,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","JSS/JHS","Rural","Savelugu Municipal","Female",4,0,0,4,4,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","JSS/JHS","Urban","Savelugu Municipal","Male",24,0,0,24,27,6,7,2,7,2,0,2,0,1,0,0,0,0,0,0,0,0,0,0
+"Akan","JSS/JHS","Urban","Savelugu Municipal","Female",19,0,0,19,27,7,6,8,0,3,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+"Akan","Middle","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Middle","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Middle","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Akan","Middle","Urban","Savelugu Municipal","Female",0,0,0,0,3,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0
+"Akan","SSS/SHS","Rural","Savelugu Municipal","Male",0,0,0,0,11,2,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","SSS/SHS","Rural","Savelugu Municipal","Female",0,0,0,0,11,4,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","SSS/SHS","Urban","Savelugu Municipal","Male",0,0,0,0,72,27,12,19,8,2,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","SSS/SHS","Urban","Savelugu Municipal","Female",0,0,0,0,59,28,15,13,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Secondary","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Secondary","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Secondary","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Secondary","Urban","Savelugu Municipal","Female",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Voc/technical/commercial","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Voc/technical/commercial","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Voc/technical/commercial","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Akan","Voc/technical/commercial","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Post middle/secondary Certificate","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Post middle/secondary Certificate","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Post middle/secondary Certificate","Urban","Savelugu Municipal","Male",0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Post middle/secondary Certificate","Urban","Savelugu Municipal","Female",0,0,0,0,8,1,1,2,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Post middle/secondary Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Post middle/secondary Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Post middle/secondary Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,4,0,1,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+"Akan","Post middle/secondary Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,13,2,4,2,3,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary/HND","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary/HND","Rural","Savelugu Municipal","Female",0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary/HND","Urban","Savelugu Municipal","Male",0,0,0,0,19,2,10,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary/HND","Urban","Savelugu Municipal","Female",0,0,0,0,12,2,5,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,3,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,53,18,4,8,13,8,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,17,2,4,8,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,3,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,65,0,38,16,8,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,46,0,21,22,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary - Master's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+"Akan","Tertiary - Master's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary - Master's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,6,0,1,1,1,1,0,1,0,0,1,2,1,1,0,0,0,0,0,0
+"Akan","Tertiary - Master's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary - PhD","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary - PhD","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Tertiary - PhD","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+"Akan","Tertiary - PhD","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Other (specify)","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Other (specify)","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Other (specify)","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akan","Other (specify)","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Never attended","Rural","Savelugu Municipal","Male",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"Ga-Dangme","Never attended","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Never attended","Urban","Savelugu Municipal","Male",2,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Never attended","Urban","Savelugu Municipal","Female",2,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Nursery","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Nursery","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Nursery","Urban","Savelugu Municipal","Male",2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Nursery","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Kindergarten","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Kindergarten","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Kindergarten","Urban","Savelugu Municipal","Male",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Kindergarten","Urban","Savelugu Municipal","Female",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Primary","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Primary","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Primary","Urban","Savelugu Municipal","Male",3,0,1,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Primary","Urban","Savelugu Municipal","Female",4,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","JSS/JHS","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","JSS/JHS","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","JSS/JHS","Urban","Savelugu Municipal","Male",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","JSS/JHS","Urban","Savelugu Municipal","Female",0,0,0,0,3,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Middle","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Middle","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Middle","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Middle","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","SSS/SHS","Rural","Savelugu Municipal","Male",0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","SSS/SHS","Rural","Savelugu Municipal","Female",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","SSS/SHS","Urban","Savelugu Municipal","Male",0,0,0,0,8,3,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","SSS/SHS","Urban","Savelugu Municipal","Female",0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Secondary","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Secondary","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Secondary","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Secondary","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Voc/technical/commercial","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Voc/technical/commercial","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Voc/technical/commercial","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Voc/technical/commercial","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Post middle/secondary Certificate","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Post middle/secondary Certificate","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Post middle/secondary Certificate","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Post middle/secondary Certificate","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Post middle/secondary Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Post middle/secondary Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Post middle/secondary Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Post middle/secondary Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary/HND","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary/HND","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary/HND","Urban","Savelugu Municipal","Male",0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary/HND","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,6,0,0,0,3,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,3,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,5,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,3,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - Master's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - Master's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - Master's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,3,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - Master's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - PhD","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - PhD","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - PhD","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Tertiary - PhD","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Other (specify)","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Other (specify)","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Other (specify)","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ga-Dangme","Other (specify)","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Never attended","Rural","Savelugu Municipal","Male",64,41,15,8,89,15,9,11,6,12,9,14,9,1,3,16,8,6,2,0,0,0,0,0
+"Ewe","Never attended","Rural","Savelugu Municipal","Female",52,24,15,13,110,5,14,15,11,20,17,14,8,1,5,4,1,2,0,1,0,0,0,0
+"Ewe","Never attended","Urban","Savelugu Municipal","Male",7,7,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Ewe","Never attended","Urban","Savelugu Municipal","Female",10,10,0,0,6,0,0,1,1,0,3,1,0,0,0,2,1,0,1,0,0,0,0,0
+"Ewe","Nursery","Rural","Savelugu Municipal","Male",2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Nursery","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Nursery","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Nursery","Urban","Savelugu Municipal","Female",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Kindergarten","Rural","Savelugu Municipal","Male",17,9,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Kindergarten","Rural","Savelugu Municipal","Female",13,4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Kindergarten","Urban","Savelugu Municipal","Male",4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Kindergarten","Urban","Savelugu Municipal","Female",4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Primary","Rural","Savelugu Municipal","Male",54,0,27,27,13,2,1,2,0,4,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+"Ewe","Primary","Rural","Savelugu Municipal","Female",35,0,11,24,10,4,1,2,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Primary","Urban","Savelugu Municipal","Male",15,0,12,3,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+"Ewe","Primary","Urban","Savelugu Municipal","Female",12,0,8,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","JSS/JHS","Rural","Savelugu Municipal","Male",5,0,0,5,53,20,8,6,11,2,3,3,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","JSS/JHS","Rural","Savelugu Municipal","Female",5,0,0,5,34,16,3,7,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","JSS/JHS","Urban","Savelugu Municipal","Male",2,0,0,2,6,3,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","JSS/JHS","Urban","Savelugu Municipal","Female",2,0,0,2,9,3,1,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Middle","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Middle","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Middle","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+"Ewe","Middle","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","SSS/SHS","Rural","Savelugu Municipal","Male",0,0,0,0,23,5,4,3,8,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","SSS/SHS","Rural","Savelugu Municipal","Female",0,0,0,0,10,3,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","SSS/SHS","Urban","Savelugu Municipal","Male",0,0,0,0,15,4,4,3,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","SSS/SHS","Urban","Savelugu Municipal","Female",0,0,0,0,10,3,3,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Secondary","Rural","Savelugu Municipal","Male",0,0,0,0,2,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+"Ewe","Secondary","Rural","Savelugu Municipal","Female",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Secondary","Urban","Savelugu Municipal","Male",0,0,0,0,3,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Secondary","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Voc/technical/commercial","Rural","Savelugu Municipal","Male",0,0,0,0,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Voc/technical/commercial","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Voc/technical/commercial","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Voc/technical/commercial","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Post middle/secondary Certificate","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Post middle/secondary Certificate","Rural","Savelugu Municipal","Female",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Post middle/secondary Certificate","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Post middle/secondary Certificate","Urban","Savelugu Municipal","Female",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Post middle/secondary Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+"Ewe","Post middle/secondary Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Post middle/secondary Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Post middle/secondary Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary/HND","Rural","Savelugu Municipal","Male",0,0,0,0,4,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary/HND","Rural","Savelugu Municipal","Female",0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary/HND","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary/HND","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,14,0,0,0,8,1,2,1,0,2,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,6,0,0,1,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,12,0,8,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,13,0,6,2,2,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - Master's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - Master's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - Master's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,5,0,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - Master's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - PhD","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - PhD","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - PhD","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Tertiary - PhD","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Other (specify)","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Other (specify)","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Other (specify)","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewe","Other (specify)","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Never attended","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Never attended","Rural","Savelugu Municipal","Female",1,0,0,1,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Never attended","Urban","Savelugu Municipal","Male",4,3,0,1,9,0,1,0,3,1,2,0,2,0,0,1,1,0,0,0,0,0,0,0
+"Guan","Never attended","Urban","Savelugu Municipal","Female",8,7,0,1,6,0,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Nursery","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Nursery","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Nursery","Urban","Savelugu Municipal","Male",5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Nursery","Urban","Savelugu Municipal","Female",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Kindergarten","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Kindergarten","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Kindergarten","Urban","Savelugu Municipal","Male",3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Kindergarten","Urban","Savelugu Municipal","Female",2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Primary","Rural","Savelugu Municipal","Male",2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Primary","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Primary","Urban","Savelugu Municipal","Male",9,0,6,3,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Primary","Urban","Savelugu Municipal","Female",8,0,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","JSS/JHS","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","JSS/JHS","Rural","Savelugu Municipal","Female",1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","JSS/JHS","Urban","Savelugu Municipal","Male",1,0,0,1,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","JSS/JHS","Urban","Savelugu Municipal","Female",0,0,0,0,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Middle","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Middle","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Middle","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Middle","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","SSS/SHS","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","SSS/SHS","Rural","Savelugu Municipal","Female",0,0,0,0,3,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","SSS/SHS","Urban","Savelugu Municipal","Male",0,0,0,0,27,13,11,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","SSS/SHS","Urban","Savelugu Municipal","Female",0,0,0,0,32,13,13,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Secondary","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Secondary","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Secondary","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Secondary","Urban","Savelugu Municipal","Female",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Voc/technical/commercial","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Voc/technical/commercial","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Voc/technical/commercial","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Voc/technical/commercial","Urban","Savelugu Municipal","Female",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Post middle/secondary Certificate","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Post middle/secondary Certificate","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Post middle/secondary Certificate","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Post middle/secondary Certificate","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Post middle/secondary Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Post middle/secondary Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Post middle/secondary Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Post middle/secondary Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"Guan","Tertiary/HND","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary/HND","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary/HND","Urban","Savelugu Municipal","Male",0,0,0,0,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary/HND","Urban","Savelugu Municipal","Female",0,0,0,0,7,1,0,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,14,0,1,1,6,2,3,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,5,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,29,0,15,11,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,3,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - Master's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - Master's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - Master's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - Master's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - PhD","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - PhD","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - PhD","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Tertiary - PhD","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Other (specify)","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Other (specify)","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Other (specify)","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Guan","Other (specify)","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Never attended","Rural","Savelugu Municipal","Male",45,25,16,4,57,5,14,16,5,7,2,1,4,0,3,2,0,1,0,1,0,0,0,0
+"Gurma","Never attended","Rural","Savelugu Municipal","Female",43,30,7,6,40,8,13,6,3,3,1,4,0,2,0,1,0,1,0,0,0,0,0,0
+"Gurma","Never attended","Urban","Savelugu Municipal","Male",8,8,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Never attended","Urban","Savelugu Municipal","Female",5,4,1,0,5,0,0,1,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0
+"Gurma","Nursery","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Nursery","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Nursery","Urban","Savelugu Municipal","Male",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Nursery","Urban","Savelugu Municipal","Female",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Kindergarten","Rural","Savelugu Municipal","Male",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Kindergarten","Rural","Savelugu Municipal","Female",3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Kindergarten","Urban","Savelugu Municipal","Male",3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Kindergarten","Urban","Savelugu Municipal","Female",2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Primary","Rural","Savelugu Municipal","Male",8,0,1,7,2,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Primary","Rural","Savelugu Municipal","Female",2,0,1,1,3,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Primary","Urban","Savelugu Municipal","Male",9,0,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Primary","Urban","Savelugu Municipal","Female",11,0,2,9,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","JSS/JHS","Rural","Savelugu Municipal","Male",1,0,0,1,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","JSS/JHS","Rural","Savelugu Municipal","Female",1,0,0,1,7,4,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","JSS/JHS","Urban","Savelugu Municipal","Male",1,0,0,1,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","JSS/JHS","Urban","Savelugu Municipal","Female",0,0,0,0,10,6,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Middle","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Middle","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Middle","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Middle","Urban","Savelugu Municipal","Female",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Gurma","SSS/SHS","Rural","Savelugu Municipal","Male",0,0,0,0,8,1,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","SSS/SHS","Rural","Savelugu Municipal","Female",0,0,0,0,7,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","SSS/SHS","Urban","Savelugu Municipal","Male",0,0,0,0,75,41,32,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","SSS/SHS","Urban","Savelugu Municipal","Female",0,0,0,0,96,53,38,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Secondary","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Secondary","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Secondary","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Secondary","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Voc/technical/commercial","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Voc/technical/commercial","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Voc/technical/commercial","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Voc/technical/commercial","Urban","Savelugu Municipal","Female",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Post middle/secondary Certificate","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Post middle/secondary Certificate","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Post middle/secondary Certificate","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Post middle/secondary Certificate","Urban","Savelugu Municipal","Female",0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Post middle/secondary Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Post middle/secondary Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Post middle/secondary Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Post middle/secondary Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,3,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary/HND","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary/HND","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary/HND","Urban","Savelugu Municipal","Male",0,0,0,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary/HND","Urban","Savelugu Municipal","Female",0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,9,1,0,3,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,53,0,28,16,7,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,11,0,4,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - Master's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - Master's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - Master's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,5,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - Master's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - PhD","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - PhD","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - PhD","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Tertiary - PhD","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Other (specify)","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Other (specify)","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Other (specify)","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gurma","Other (specify)","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Never attended","Rural","Savelugu Municipal","Male",4152,2876,794,482,5458,452,576,665,810,630,760,510,474,265,316,703,162,201,129,125,51,25,7,3
+"Mole-Dagbani","Never attended","Rural","Savelugu Municipal","Female",4664,3078,942,644,8306,567,1175,1221,1388,1120,1028,648,528,281,350,770,148,218,156,173,46,22,2,5
+"Mole-Dagbani","Never attended","Urban","Savelugu Municipal","Male",5685,4584,744,357,7377,516,667,717,1038,964,1092,871,725,352,435,971,243,296,179,160,58,26,3,6
+"Mole-Dagbani","Never attended","Urban","Savelugu Municipal","Female",5994,4547,947,500,13153,595,1434,1910,2375,1889,1873,1122,905,457,593,1586,336,450,299,328,117,38,8,10
+"Mole-Dagbani","Nursery","Rural","Savelugu Municipal","Male",407,275,131,1,5,0,1,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Nursery","Rural","Savelugu Municipal","Female",376,261,115,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Nursery","Urban","Savelugu Municipal","Male",943,682,260,1,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Nursery","Urban","Savelugu Municipal","Female",932,690,241,1,5,2,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Kindergarten","Rural","Savelugu Municipal","Male",916,370,544,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Kindergarten","Rural","Savelugu Municipal","Female",838,361,476,1,4,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Kindergarten","Urban","Savelugu Municipal","Male",1942,794,1147,1,5,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Kindergarten","Urban","Savelugu Municipal","Female",1808,771,1037,0,6,1,2,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Primary","Rural","Savelugu Municipal","Male",3708,0,1942,1766,588,150,119,110,67,58,35,23,14,6,6,12,5,1,3,3,0,0,0,0
+"Mole-Dagbani","Primary","Rural","Savelugu Municipal","Female",2953,0,1609,1344,426,109,143,78,55,22,10,3,5,0,1,1,1,0,0,0,0,0,0,0
+"Mole-Dagbani","Primary","Urban","Savelugu Municipal","Male",6899,0,3692,3207,933,227,191,120,134,87,70,41,28,20,15,23,11,4,3,2,0,3,0,0
+"Mole-Dagbani","Primary","Urban","Savelugu Municipal","Female",6162,0,3398,2764,772,182,190,156,110,62,34,17,13,5,3,12,3,6,1,1,0,1,0,0
+"Mole-Dagbani","JSS/JHS","Rural","Savelugu Municipal","Male",318,0,0,318,1653,933,247,154,136,93,48,24,16,2,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","JSS/JHS","Rural","Savelugu Municipal","Female",213,0,0,213,996,572,189,127,70,24,6,5,3,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","JSS/JHS","Urban","Savelugu Municipal","Male",704,0,0,704,3196,1839,424,276,276,168,110,70,21,12,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","JSS/JHS","Urban","Savelugu Municipal","Female",645,0,0,645,2559,1525,432,305,182,57,39,13,4,2,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Middle","Rural","Savelugu Municipal","Male",0,0,0,0,22,0,0,0,0,0,0,5,5,7,5,7,4,2,0,1,0,0,0,0
+"Mole-Dagbani","Middle","Rural","Savelugu Municipal","Female",0,0,0,0,3,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Middle","Urban","Savelugu Municipal","Male",0,0,0,0,59,0,0,0,0,0,0,6,19,16,18,46,19,15,6,5,1,0,0,0
+"Mole-Dagbani","Middle","Urban","Savelugu Municipal","Female",0,0,0,0,17,0,0,0,0,0,0,1,0,9,7,4,2,1,0,1,0,0,0,0
+"Mole-Dagbani","SSS/SHS","Rural","Savelugu Municipal","Male",4,0,0,4,1369,333,475,282,144,61,42,30,2,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","SSS/SHS","Rural","Savelugu Municipal","Female",3,0,0,3,623,215,263,97,29,10,4,4,1,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","SSS/SHS","Urban","Savelugu Municipal","Male",10,0,0,10,4628,1339,1848,551,368,226,170,112,14,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","SSS/SHS","Urban","Savelugu Municipal","Female",5,0,0,5,3264,1145,1345,474,186,63,36,13,2,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Secondary","Rural","Savelugu Municipal","Male",0,0,0,0,33,4,3,4,1,1,2,4,7,3,4,8,6,2,0,0,0,0,0,0
+"Mole-Dagbani","Secondary","Rural","Savelugu Municipal","Female",0,0,0,0,9,1,3,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Secondary","Urban","Savelugu Municipal","Male",3,0,0,3,169,3,15,10,18,15,17,14,36,22,19,32,16,6,5,3,2,0,0,0
+"Mole-Dagbani","Secondary","Urban","Savelugu Municipal","Female",0,0,0,0,59,3,15,9,9,3,6,4,6,4,0,6,1,2,0,2,1,0,0,0
+"Mole-Dagbani","Voc/technical/commercial","Rural","Savelugu Municipal","Male",0,0,0,0,36,0,7,14,6,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Voc/technical/commercial","Rural","Savelugu Municipal","Female",0,0,0,0,8,1,2,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Voc/technical/commercial","Urban","Savelugu Municipal","Male",0,0,0,0,112,3,4,66,18,4,8,5,1,2,1,2,2,0,0,0,0,0,0,0
+"Mole-Dagbani","Voc/technical/commercial","Urban","Savelugu Municipal","Female",0,0,0,0,56,0,3,35,10,6,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Post middle/secondary Certificate","Rural","Savelugu Municipal","Male",0,0,0,0,7,0,0,1,1,2,1,0,1,0,1,2,1,0,0,1,0,0,0,0
+"Mole-Dagbani","Post middle/secondary Certificate","Rural","Savelugu Municipal","Female",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Post middle/secondary Certificate","Urban","Savelugu Municipal","Male",0,0,0,0,67,1,11,13,15,9,4,3,1,7,3,8,5,2,1,0,0,0,0,0
+"Mole-Dagbani","Post middle/secondary Certificate","Urban","Savelugu Municipal","Female",0,0,0,0,37,3,5,5,13,0,3,3,0,2,3,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Post middle/secondary Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,51,1,12,10,17,5,3,1,1,1,0,2,0,1,1,0,0,0,0,0
+"Mole-Dagbani","Post middle/secondary Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,8,0,3,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Post middle/secondary Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,262,0,26,87,71,36,19,8,5,6,4,6,3,2,1,0,0,0,0,0
+"Mole-Dagbani","Post middle/secondary Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,116,14,29,34,22,7,1,2,2,3,2,1,0,0,1,0,0,0,0,0
+"Mole-Dagbani","Tertiary/HND","Rural","Savelugu Municipal","Male",0,0,0,0,159,1,86,39,23,7,2,0,0,0,1,1,1,0,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary/HND","Rural","Savelugu Municipal","Female",0,0,0,0,69,13,35,15,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary/HND","Urban","Savelugu Municipal","Male",0,0,0,0,583,15,191,120,107,78,33,17,16,4,2,5,3,1,1,0,0,0,0,0
+"Mole-Dagbani","Tertiary/HND","Urban","Savelugu Municipal","Female",0,0,0,0,240,24,112,45,36,15,4,2,1,0,1,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,165,43,30,25,31,20,10,1,3,1,1,7,6,1,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,36,18,5,6,4,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,691,51,62,126,176,94,90,42,24,11,15,15,11,2,2,0,0,0,0,0
+"Mole-Dagbani","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,161,5,30,38,50,24,3,3,5,3,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,83,0,24,31,21,2,2,1,2,0,0,3,1,1,0,1,0,0,0,0
+"Mole-Dagbani","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,6,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,548,0,176,182,105,37,23,8,6,6,5,3,2,1,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,209,0,63,85,39,13,2,3,0,3,1,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary - Master's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,10,0,0,1,3,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary - Master's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary - Master's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,90,0,3,4,16,20,21,11,7,5,3,1,1,0,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary - Master's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,10,0,0,1,2,4,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary - PhD","Rural","Savelugu Municipal","Male",0,0,0,0,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary - PhD","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary - PhD","Urban","Savelugu Municipal","Male",0,0,0,0,9,0,0,1,1,2,1,1,2,1,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Tertiary - PhD","Urban","Savelugu Municipal","Female",0,0,0,0,3,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Other (specify)","Rural","Savelugu Municipal","Male",0,0,0,0,6,0,0,0,2,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Other (specify)","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Other (specify)","Urban","Savelugu Municipal","Male",0,0,0,0,10,0,2,1,1,1,0,2,3,0,0,0,0,0,0,0,0,0,0,0
+"Mole-Dagbani","Other (specify)","Urban","Savelugu Municipal","Female",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Never attended","Rural","Savelugu Municipal","Male",46,27,9,10,58,5,0,10,9,6,10,5,7,2,4,7,6,0,1,0,0,0,0,0
+"Grusi","Never attended","Rural","Savelugu Municipal","Female",44,29,10,5,100,12,15,11,13,16,10,9,4,3,7,10,2,4,1,2,0,0,0,1
+"Grusi","Never attended","Urban","Savelugu Municipal","Male",25,24,1,0,32,2,0,1,7,4,4,6,3,3,2,3,1,1,0,0,1,0,0,0
+"Grusi","Never attended","Urban","Savelugu Municipal","Female",25,25,0,0,60,1,3,4,11,7,10,9,9,2,4,15,3,4,1,5,1,1,0,0
+"Grusi","Nursery","Rural","Savelugu Municipal","Male",5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Nursery","Rural","Savelugu Municipal","Female",4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Nursery","Urban","Savelugu Municipal","Male",3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Nursery","Urban","Savelugu Municipal","Female",4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Kindergarten","Rural","Savelugu Municipal","Male",8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Kindergarten","Rural","Savelugu Municipal","Female",6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Kindergarten","Urban","Savelugu Municipal","Male",14,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Kindergarten","Urban","Savelugu Municipal","Female",10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Primary","Rural","Savelugu Municipal","Male",34,0,18,16,14,4,5,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Grusi","Primary","Rural","Savelugu Municipal","Female",34,0,15,19,13,3,0,4,1,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Primary","Urban","Savelugu Municipal","Male",43,0,16,27,11,4,3,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Grusi","Primary","Urban","Savelugu Municipal","Female",50,0,27,23,11,1,0,2,3,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+"Grusi","JSS/JHS","Rural","Savelugu Municipal","Male",4,0,0,4,16,8,1,3,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","JSS/JHS","Rural","Savelugu Municipal","Female",6,0,0,6,10,7,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","JSS/JHS","Urban","Savelugu Municipal","Male",5,0,0,5,26,15,4,2,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","JSS/JHS","Urban","Savelugu Municipal","Female",7,0,0,7,29,15,2,5,2,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Middle","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+"Grusi","Middle","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Middle","Urban","Savelugu Municipal","Male",0,0,0,0,3,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0
+"Grusi","Middle","Urban","Savelugu Municipal","Female",0,0,0,0,6,0,0,0,0,0,0,1,1,1,3,1,0,1,0,0,0,0,0,0
+"Grusi","SSS/SHS","Rural","Savelugu Municipal","Male",0,0,0,0,17,5,6,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","SSS/SHS","Rural","Savelugu Municipal","Female",0,0,0,0,10,1,4,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","SSS/SHS","Urban","Savelugu Municipal","Male",0,0,0,0,46,11,18,5,5,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","SSS/SHS","Urban","Savelugu Municipal","Female",0,0,0,0,51,10,26,7,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Secondary","Rural","Savelugu Municipal","Male",0,0,0,0,4,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+"Grusi","Secondary","Rural","Savelugu Municipal","Female",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Secondary","Urban","Savelugu Municipal","Male",0,0,0,0,5,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Secondary","Urban","Savelugu Municipal","Female",0,0,0,0,4,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0
+"Grusi","Voc/technical/commercial","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Voc/technical/commercial","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Voc/technical/commercial","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Voc/technical/commercial","Urban","Savelugu Municipal","Female",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Post middle/secondary Certificate","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Post middle/secondary Certificate","Rural","Savelugu Municipal","Female",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Post middle/secondary Certificate","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Post middle/secondary Certificate","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Post middle/secondary Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Grusi","Post middle/secondary Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Post middle/secondary Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,6,0,0,2,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Grusi","Post middle/secondary Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,7,0,0,1,1,1,2,0,1,1,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary/HND","Rural","Savelugu Municipal","Male",0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary/HND","Rural","Savelugu Municipal","Female",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary/HND","Urban","Savelugu Municipal","Male",0,0,0,0,9,0,3,2,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary/HND","Urban","Savelugu Municipal","Female",0,0,0,0,13,1,6,2,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,8,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,26,1,1,5,3,5,9,0,1,0,1,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,8,0,3,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,39,0,20,15,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0
+"Grusi","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,22,0,6,6,7,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary - Master's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary - Master's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary - Master's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,3,0,0,1,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0
+"Grusi","Tertiary - Master's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary - PhD","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary - PhD","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary - PhD","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Tertiary - PhD","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Other (specify)","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Other (specify)","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Other (specify)","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Grusi","Other (specify)","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Never attended","Rural","Savelugu Municipal","Male",691,306,240,145,527,112,143,63,66,49,41,15,15,13,10,18,6,4,4,2,2,0,0,0
+"Mande","Never attended","Rural","Savelugu Municipal","Female",644,295,220,129,577,123,150,97,67,45,41,23,16,12,3,19,3,2,4,6,3,1,0,0
+"Mande","Never attended","Urban","Savelugu Municipal","Male",80,53,21,6,71,14,8,7,7,9,7,5,5,5,4,12,2,3,3,3,1,0,0,0
+"Mande","Never attended","Urban","Savelugu Municipal","Female",67,40,15,12,96,11,18,14,12,14,8,7,7,1,4,9,2,4,1,1,0,1,0,0
+"Mande","Nursery","Rural","Savelugu Municipal","Male",5,4,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Nursery","Rural","Savelugu Municipal","Female",3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Nursery","Urban","Savelugu Municipal","Male",2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Nursery","Urban","Savelugu Municipal","Female",5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Kindergarten","Rural","Savelugu Municipal","Male",13,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Kindergarten","Rural","Savelugu Municipal","Female",14,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Kindergarten","Urban","Savelugu Municipal","Male",14,5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Kindergarten","Urban","Savelugu Municipal","Female",10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Primary","Rural","Savelugu Municipal","Male",53,0,18,35,10,3,4,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Primary","Rural","Savelugu Municipal","Female",62,0,30,32,6,2,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Primary","Urban","Savelugu Municipal","Male",53,0,27,26,5,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Primary","Urban","Savelugu Municipal","Female",40,0,17,23,4,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","JSS/JHS","Rural","Savelugu Municipal","Male",2,0,0,2,20,15,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","JSS/JHS","Rural","Savelugu Municipal","Female",5,0,0,5,18,13,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","JSS/JHS","Urban","Savelugu Municipal","Male",5,0,0,5,21,15,2,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","JSS/JHS","Urban","Savelugu Municipal","Female",3,0,0,3,19,16,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Middle","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Middle","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Middle","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+"Mande","Middle","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","SSS/SHS","Rural","Savelugu Municipal","Male",0,0,0,0,12,3,6,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","SSS/SHS","Rural","Savelugu Municipal","Female",0,0,0,0,14,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","SSS/SHS","Urban","Savelugu Municipal","Male",0,0,0,0,28,6,18,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","SSS/SHS","Urban","Savelugu Municipal","Female",0,0,0,0,31,9,17,2,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Secondary","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Mande","Secondary","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Secondary","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Secondary","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Voc/technical/commercial","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Voc/technical/commercial","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Voc/technical/commercial","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Voc/technical/commercial","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Post middle/secondary Certificate","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Post middle/secondary Certificate","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Post middle/secondary Certificate","Urban","Savelugu Municipal","Male",0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Post middle/secondary Certificate","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Post middle/secondary Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Post middle/secondary Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Post middle/secondary Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Post middle/secondary Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary/HND","Rural","Savelugu Municipal","Male",0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary/HND","Rural","Savelugu Municipal","Female",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary/HND","Urban","Savelugu Municipal","Male",0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary/HND","Urban","Savelugu Municipal","Female",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,3,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,10,0,5,2,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,4,0,0,4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+"Mande","Tertiary - Master's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary - Master's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary - Master's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary - Master's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary - PhD","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary - PhD","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary - PhD","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Tertiary - PhD","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Other (specify)","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Other (specify)","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Other (specify)","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mande","Other (specify)","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Never attended","Rural","Savelugu Municipal","Male",88,38,32,18,84,17,15,12,6,10,5,5,6,8,0,2,0,0,1,1,0,0,0,0
+"Others","Never attended","Rural","Savelugu Municipal","Female",72,43,17,12,81,13,16,10,15,9,8,7,2,0,1,1,0,0,1,0,0,0,0,0
+"Others","Never attended","Urban","Savelugu Municipal","Male",15,9,2,4,14,2,2,2,0,1,3,3,1,0,0,3,1,1,0,1,0,0,0,0
+"Others","Never attended","Urban","Savelugu Municipal","Female",14,9,3,2,25,3,6,1,4,2,4,1,2,1,1,4,2,0,2,0,0,0,0,0
+"Others","Nursery","Rural","Savelugu Municipal","Male",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Nursery","Rural","Savelugu Municipal","Female",4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Nursery","Urban","Savelugu Municipal","Male",3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Nursery","Urban","Savelugu Municipal","Female",6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Kindergarten","Rural","Savelugu Municipal","Male",4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Kindergarten","Rural","Savelugu Municipal","Female",4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Kindergarten","Urban","Savelugu Municipal","Male",5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Kindergarten","Urban","Savelugu Municipal","Female",5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Primary","Rural","Savelugu Municipal","Male",25,0,11,14,5,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Primary","Rural","Savelugu Municipal","Female",14,0,10,4,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Primary","Urban","Savelugu Municipal","Male",9,0,4,5,4,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Primary","Urban","Savelugu Municipal","Female",15,0,7,8,4,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","JSS/JHS","Rural","Savelugu Municipal","Male",3,0,0,3,9,7,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","JSS/JHS","Rural","Savelugu Municipal","Female",1,0,0,1,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","JSS/JHS","Urban","Savelugu Municipal","Male",1,0,0,1,8,3,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","JSS/JHS","Urban","Savelugu Municipal","Female",2,0,0,2,10,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Middle","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Middle","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Middle","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Middle","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","SSS/SHS","Rural","Savelugu Municipal","Male",0,0,0,0,6,1,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","SSS/SHS","Rural","Savelugu Municipal","Female",0,0,0,0,5,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","SSS/SHS","Urban","Savelugu Municipal","Male",0,0,0,0,19,8,8,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","SSS/SHS","Urban","Savelugu Municipal","Female",0,0,0,0,13,3,6,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Secondary","Rural","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Others","Secondary","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Secondary","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Secondary","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Voc/technical/commercial","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Voc/technical/commercial","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Voc/technical/commercial","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Voc/technical/commercial","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Post middle/secondary Certificate","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Post middle/secondary Certificate","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Post middle/secondary Certificate","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Post middle/secondary Certificate","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Post middle/secondary Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Post middle/secondary Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Post middle/secondary Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Post middle/secondary Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary/HND","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary/HND","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary/HND","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary/HND","Urban","Savelugu Municipal","Female",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - Bachelor's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,8,1,0,1,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - Bachelor's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,6,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - Post graduate Certificate/Diploma","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - Post graduate Certificate/Diploma","Urban","Savelugu Municipal","Female",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - Master's Degree","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - Master's Degree","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - Master's Degree","Urban","Savelugu Municipal","Male",0,0,0,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - Master's Degree","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - PhD","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - PhD","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - PhD","Urban","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Tertiary - PhD","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Other (specify)","Rural","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Other (specify)","Rural","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Other (specify)","Urban","Savelugu Municipal","Male",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Others","Other (specify)","Urban","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

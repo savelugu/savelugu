@@ -1,0 +1,545 @@
+Marital_Status,Education,Locality,Geographic_Area,Sex,12-14,15-19,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65-69,70-74,75-79,80-84,85-89,90-94,95-99,100+
+Never married,Never attended,Rural,Savelugu Municipal,Male,330,517,432,199,92,29,24,8,6,5,3,3,3,3,1,1,0,0,0
+Never married,Never attended,Rural,Savelugu Municipal,Female,374,361,181,42,11,8,7,2,3,1,1,0,1,0,0,0,0,0,0
+Never married,Never attended,Urban,Savelugu Municipal,Male,190,476,483,256,168,86,44,16,23,10,8,8,6,4,2,0,1,0,0
+Never married,Never attended,Urban,Savelugu Municipal,Female,269,409,206,90,35,14,5,9,3,4,2,0,0,1,3,0,0,0,0
+Never married,Nursery,Rural,Savelugu Municipal,Male,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Nursery,Rural,Savelugu Municipal,Female,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Nursery,Urban,Savelugu Municipal,Female,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Kindergarten,Urban,Savelugu Municipal,Male,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Kindergarten,Urban,Savelugu Municipal,Female,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Primary,Rural,Savelugu Municipal,Male,796,140,90,43,13,4,1,1,0,0,0,0,0,0,0,0,0,0,0
+Never married,Primary,Rural,Savelugu Municipal,Female,576,85,30,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Primary,Urban,Savelugu Municipal,Male,1431,201,144,58,22,6,1,0,2,1,0,0,0,1,0,0,0,0,0
+Never married,Primary,Urban,Savelugu Municipal,Female,1232,136,42,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,JSS/JHS,Rural,Savelugu Municipal,Male,258,850,180,54,19,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,JSS/JHS,Rural,Savelugu Municipal,Female,193,503,48,8,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,JSS/JHS,Urban,Savelugu Municipal,Male,603,1665,305,111,59,10,8,1,0,0,0,0,0,0,0,0,0,0,0
+Never married,JSS/JHS,Urban,Savelugu Municipal,Female,541,1337,137,14,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Never married,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Never married,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,SSS/SHS,Rural,Savelugu Municipal,Male,4,313,377,144,48,5,1,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,SSS/SHS,Rural,Savelugu Municipal,Female,3,193,121,21,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,SSS/SHS,Urban,Savelugu Municipal,Male,8,1350,1713,304,93,19,7,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,SSS/SHS,Urban,Savelugu Municipal,Female,5,1153,1003,90,20,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Secondary,Rural,Savelugu Municipal,Male,0,3,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Secondary,Rural,Savelugu Municipal,Female,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Secondary,Urban,Savelugu Municipal,Male,3,1,15,6,5,0,3,0,1,1,1,1,0,0,0,0,0,0,0
+Never married,Secondary,Urban,Savelugu Municipal,Female,0,2,8,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,6,12,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,3,3,47,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,2,20,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,1,9,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,3,5,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,9,6,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,20,46,18,3,1,0,1,0,0,0,0,0,0,0,0,0,0
+Never married,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,14,22,12,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary/HND,Rural,Savelugu Municipal,Male,0,1,71,20,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary/HND,Rural,Savelugu Municipal,Female,0,12,24,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary/HND,Urban,Savelugu Municipal,Male,0,16,166,73,33,7,1,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary/HND,Urban,Savelugu Municipal,Female,0,20,89,20,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,44,31,16,9,2,1,2,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,17,5,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,60,60,81,48,7,5,1,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,5,28,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,19,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,278,167,27,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,88,55,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,3,5,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Other (specify),Urban,Savelugu Municipal,Male,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Never married,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Never attended,Rural,Savelugu Municipal,Male,0,0,1,2,1,2,0,1,0,0,0,3,0,0,0,0,0,0,0
+Informal/living together,Never attended,Rural,Savelugu Municipal,Female,0,3,2,7,1,1,1,0,0,1,2,0,0,1,0,0,0,0,0
+Informal/living together,Never attended,Urban,Savelugu Municipal,Male,0,4,4,2,6,7,5,4,4,1,3,0,0,0,0,0,0,0,0
+Informal/living together,Never attended,Urban,Savelugu Municipal,Female,0,7,16,11,11,10,11,2,5,2,0,0,1,0,0,0,0,0,0
+Informal/living together,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Primary,Rural,Savelugu Municipal,Male,1,0,2,2,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0
+Informal/living together,Primary,Rural,Savelugu Municipal,Female,0,2,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Primary,Urban,Savelugu Municipal,Male,19,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Primary,Urban,Savelugu Municipal,Female,9,1,5,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,JSS/JHS,Rural,Savelugu Municipal,Male,0,1,5,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,JSS/JHS,Rural,Savelugu Municipal,Female,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,JSS/JHS,Urban,Savelugu Municipal,Male,3,10,3,4,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,JSS/JHS,Urban,Savelugu Municipal,Female,7,20,7,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,2,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,SSS/SHS,Urban,Savelugu Municipal,Male,0,13,21,12,3,3,2,2,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,SSS/SHS,Urban,Savelugu Municipal,Female,0,10,13,2,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Informal/living together,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,1,3,3,2,3,0,3,1,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,2,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Informal/living together,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Never attended,Rural,Savelugu Municipal,Male,68,102,346,588,808,685,807,545,509,283,328,168,202,133,120,49,25,7,2
+Married,Never attended,Rural,Savelugu Municipal,Female,87,390,1243,1367,1489,1200,1055,643,463,244,247,91,119,92,89,18,11,0,2
+Married,Never attended,Urban,Savelugu Municipal,Male,23,75,213,470,875,871,1033,847,686,341,403,227,276,168,154,49,20,2,5
+Married,Never attended,Urban,Savelugu Municipal,Female,30,210,1266,1867,2353,1845,1753,994,721,325,372,211,213,124,127,33,12,2,0
+Married,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,3,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Married,Nursery,Rural,Savelugu Municipal,Female,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Nursery,Urban,Savelugu Municipal,Male,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Nursery,Urban,Savelugu Municipal,Female,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Married,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Kindergarten,Rural,Savelugu Municipal,Female,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Kindergarten,Urban,Savelugu Municipal,Male,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Kindergarten,Urban,Savelugu Municipal,Female,0,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Primary,Rural,Savelugu Municipal,Male,162,23,41,68,52,59,36,22,16,6,7,5,1,3,3,0,0,0,0
+Married,Primary,Rural,Savelugu Municipal,Female,101,33,120,82,56,24,12,3,4,0,1,0,0,0,0,0,0,0,0
+Married,Primary,Urban,Savelugu Municipal,Male,169,29,50,67,112,83,70,40,26,19,15,11,5,2,2,0,3,0,0
+Married,Primary,Urban,Savelugu Municipal,Female,155,45,143,153,106,63,34,12,10,4,2,2,3,0,1,0,0,0,0
+Married,JSS/JHS,Rural,Savelugu Municipal,Male,45,137,77,109,122,87,54,26,16,1,0,0,0,0,0,0,0,0,0
+Married,JSS/JHS,Rural,Savelugu Municipal,Female,18,110,146,127,73,25,8,6,3,0,0,0,0,0,0,0,0,0,0
+Married,JSS/JHS,Urban,Savelugu Municipal,Male,53,215,127,166,219,157,101,70,22,13,0,0,0,0,0,0,0,0,0
+Married,JSS/JHS,Urban,Savelugu Municipal,Female,50,224,296,295,172,59,36,13,2,2,0,0,0,0,0,0,0,0,0
+Married,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,5,5,7,4,3,2,0,1,0,0,0,0
+Married,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Married,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,5,17,16,18,17,15,5,5,1,0,0,0
+Married,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,2,1,7,6,2,1,0,0,0,0,0,0
+Married,SSS/SHS,Rural,Savelugu Municipal,Male,0,38,118,152,108,57,43,31,3,0,0,0,0,0,0,0,0,0,0
+Married,SSS/SHS,Rural,Savelugu Municipal,Female,0,39,155,92,29,11,4,3,0,0,0,0,0,0,0,0,0,0,0
+Married,SSS/SHS,Urban,Savelugu Municipal,Male,2,88,221,263,289,205,163,108,16,0,0,0,0,0,0,0,0,0,0
+Married,SSS/SHS,Urban,Savelugu Municipal,Female,0,105,437,409,169,66,32,11,1,0,0,0,0,0,0,0,0,0,0
+Married,Secondary,Rural,Savelugu Municipal,Male,0,1,1,2,2,1,4,4,9,4,6,5,3,0,0,0,0,0,0
+Married,Secondary,Rural,Savelugu Municipal,Female,0,1,2,4,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Secondary,Urban,Savelugu Municipal,Male,0,2,0,4,13,16,17,14,33,21,18,14,5,4,3,2,0,0,0
+Married,Secondary,Urban,Savelugu Municipal,Female,0,1,7,7,8,3,5,7,5,2,0,0,1,0,1,1,0,0,0
+Married,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,1,2,5,5,3,2,0,0,0,0,0,0,0,0,0,0,0
+Married,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,1,19,12,5,8,5,1,2,2,2,0,0,0,0,0,0,0
+Married,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,2,15,8,7,0,0,1,0,1,0,0,0,0,0,0,0,0
+Married,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,1,2,1,0,1,0,1,1,0,0,1,0,0,0,0
+Married,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,4,8,16,8,4,3,1,6,3,5,2,1,0,0,0,0,0
+Married,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,1,1,4,14,1,3,3,1,1,2,0,0,0,0,0,0,0,0
+Married,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,1,4,6,13,4,3,1,1,0,1,1,1,1,0,0,0,0,0
+Married,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,1,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,7,44,57,35,20,7,4,6,5,3,2,1,0,0,0,0,0
+Married,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,2,13,26,21,8,3,1,2,5,2,0,0,1,0,0,0,0,0
+Married,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,25,19,16,6,3,0,0,0,1,1,0,0,0,0,0,0,0
+Married,Tertiary/HND,Rural,Savelugu Municipal,Female,0,4,12,13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Tertiary/HND,Urban,Savelugu Municipal,Male,0,1,37,48,77,73,32,17,13,3,2,3,1,1,0,0,0,0,0
+Married,Tertiary/HND,Urban,Savelugu Municipal,Female,0,9,32,34,28,11,4,2,0,0,1,0,0,0,0,0,0,0,0
+Married,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,3,5,11,22,18,11,2,4,1,1,7,1,0,0,0,0,0,0
+Married,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,5,1,3,3,2,2,1,0,0,0,1,0,0,0,0,0,0,0
+Married,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,12,7,61,164,105,103,42,27,14,16,10,2,2,0,0,0,0,0
+Married,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,2,11,40,58,27,4,2,6,2,0,0,0,0,0,0,0,0,0
+Married,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,7,13,19,2,2,1,2,0,1,1,1,0,1,0,0,0,0
+Married,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,12,79,95,38,24,9,7,7,9,2,1,0,0,0,0,0,0
+Married,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,15,73,42,15,4,3,0,4,1,1,0,0,0,0,0,0,0
+Married,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,3,4,1,0,1,0,0,0,1,0,0,0,0,0,0
+Married,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,1,3,19,23,24,14,8,4,4,3,0,0,0,0,0,0,0
+Married,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,2,7,0,0,1,1,0,0,0,0,0,0,0,0,0
+Married,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,1,2,3,1,2,1,1,0,0,1,0,0,0,0,0
+Married,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Married,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,1,2,1,0,2,3,0,0,0,0,0,0,0,0,0,0
+Married,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Never attended,Rural,Savelugu Municipal,Male,68,102,346,588,808,684,803,539,507,281,327,168,201,131,120,49,25,7,2
+Married(Not registred),Never attended,Rural,Savelugu Municipal,Female,87,390,1238,1364,1481,1194,1050,638,460,244,246,91,119,90,89,18,11,0,2
+Married(Not registred),Never attended,Urban,Savelugu Municipal,Male,23,75,213,469,873,870,1030,846,682,340,400,227,276,167,154,48,20,2,5
+Married(Not registred),Never attended,Urban,Savelugu Municipal,Female,30,210,1265,1860,2347,1839,1746,987,718,322,370,210,213,123,124,33,12,2,0
+Married(Not registred),Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,3,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Married(Not registred),Nursery,Rural,Savelugu Municipal,Female,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Nursery,Urban,Savelugu Municipal,Male,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Nursery,Urban,Savelugu Municipal,Female,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Kindergarten,Rural,Savelugu Municipal,Female,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Kindergarten,Urban,Savelugu Municipal,Male,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Kindergarten,Urban,Savelugu Municipal,Female,0,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Primary,Rural,Savelugu Municipal,Male,162,23,40,68,52,58,36,22,16,6,6,5,1,3,3,0,0,0,0
+Married(Not registred),Primary,Rural,Savelugu Municipal,Female,101,33,120,80,55,24,11,3,4,0,1,0,0,0,0,0,0,0,0
+Married(Not registred),Primary,Urban,Savelugu Municipal,Male,169,29,50,67,112,83,70,39,26,19,15,11,5,2,2,0,3,0,0
+Married(Not registred),Primary,Urban,Savelugu Municipal,Female,155,45,143,149,105,62,34,12,10,4,2,2,2,0,1,0,0,0,0
+Married(Not registred),JSS/JHS,Rural,Savelugu Municipal,Male,45,136,76,109,120,85,52,25,16,1,0,0,0,0,0,0,0,0,0
+Married(Not registred),JSS/JHS,Rural,Savelugu Municipal,Female,18,109,145,124,72,24,8,6,2,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),JSS/JHS,Urban,Savelugu Municipal,Male,53,214,125,165,219,157,99,70,20,13,0,0,0,0,0,0,0,0,0
+Married(Not registred),JSS/JHS,Urban,Savelugu Municipal,Female,50,224,295,289,166,58,34,13,2,2,0,0,0,0,0,0,0,0,0
+Married(Not registred),Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,4,5,7,4,3,1,0,1,0,0,0,0
+Married(Not registred),Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Married(Not registred),Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,5,17,15,18,16,15,5,5,1,0,0,0
+Married(Not registred),Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,1,0,6,6,1,1,0,0,0,0,0,0
+Married(Not registred),SSS/SHS,Rural,Savelugu Municipal,Male,0,38,118,149,108,57,39,28,3,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),SSS/SHS,Rural,Savelugu Municipal,Female,0,39,149,91,29,11,4,2,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),SSS/SHS,Urban,Savelugu Municipal,Male,2,88,220,259,278,203,158,106,16,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),SSS/SHS,Urban,Savelugu Municipal,Female,0,105,434,396,158,64,29,9,1,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Secondary,Rural,Savelugu Municipal,Male,0,1,1,2,2,0,4,4,8,4,5,5,3,0,0,0,0,0,0
+Married(Not registred),Secondary,Rural,Savelugu Municipal,Female,0,1,2,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Secondary,Urban,Savelugu Municipal,Male,0,2,0,4,12,15,17,14,32,21,17,14,5,4,3,2,0,0,0
+Married(Not registred),Secondary,Urban,Savelugu Municipal,Female,0,1,7,7,7,3,3,7,5,1,0,0,1,0,1,1,0,0,0
+Married(Not registred),Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,1,2,5,5,2,2,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,1,19,12,5,7,5,1,2,1,2,0,0,0,0,0,0,0
+Married(Not registred),Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,1,15,8,6,0,0,1,0,1,0,0,0,0,0,0,0,0
+Married(Not registred),Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,1,2,1,0,1,0,1,1,0,0,1,0,0,0,0
+Married(Not registred),Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,4,8,16,8,4,3,1,6,2,5,2,1,0,0,0,0,0
+Married(Not registred),Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,1,1,4,12,0,3,3,1,1,2,0,0,0,0,0,0,0,0
+Married(Not registred),Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,1,4,6,13,4,3,1,1,0,1,1,1,1,0,0,0,0,0
+Married(Not registred),Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,1,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,7,43,55,34,20,7,4,6,5,3,2,1,0,0,0,0,0
+Married(Not registred),Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,2,13,22,17,7,2,1,2,5,2,0,0,1,0,0,0,0,0
+Married(Not registred),Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,25,19,16,6,2,0,0,0,1,1,0,0,0,0,0,0,0
+Married(Not registred),Tertiary/HND,Rural,Savelugu Municipal,Female,0,4,12,13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Tertiary/HND,Urban,Savelugu Municipal,Male,0,1,37,46,75,71,32,15,11,3,2,3,1,1,0,0,0,0,0
+Married(Not registred),Tertiary/HND,Urban,Savelugu Municipal,Female,0,9,31,32,27,9,4,2,0,0,1,0,0,0,0,0,0,0,0
+Married(Not registred),Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,3,5,10,21,15,8,1,2,1,1,6,1,0,0,0,0,0,0
+Married(Not registred),Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,5,1,3,2,1,1,1,0,0,0,1,0,0,0,0,0,0,0
+Married(Not registred),Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,12,6,58,145,97,91,37,25,10,16,10,2,2,0,0,0,0,0
+Married(Not registred),Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,2,10,37,47,23,3,2,5,2,0,0,0,0,0,0,0,0,0
+Married(Not registred),Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,7,13,18,2,2,1,2,0,1,1,1,0,1,0,0,0,0
+Married(Not registred),Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,12,78,92,32,21,7,7,7,8,2,1,0,0,0,0,0,0
+Married(Not registred),Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,14,63,35,14,3,3,0,4,1,1,0,0,0,0,0,0,0
+Married(Not registred),Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,3,4,1,0,1,0,0,0,1,0,0,0,0,0,0
+Married(Not registred),Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,1,3,18,21,21,9,8,4,4,2,0,0,0,0,0,0,0
+Married(Not registred),Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,2,2,0,0,1,1,0,0,0,0,0,0,0,0,0
+Married(Not registred),Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,1,2,2,1,1,1,1,0,0,1,0,0,0,0,0
+Married(Not registred),Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Married(Not registred),Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Other (specify),Urban,Savelugu Municipal,Male,0,0,0,1,2,1,0,2,3,0,0,0,0,0,0,0,0,0,0
+Married(Not registred),Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Never attended,Rural,Savelugu Municipal,Male,0,0,0,0,0,1,4,6,2,2,1,0,1,2,0,0,0,0,0
+Married(Registred),Never attended,Rural,Savelugu Municipal,Female,0,0,5,3,8,6,5,5,3,0,1,0,0,2,0,0,0,0,0
+Married(Registred),Never attended,Urban,Savelugu Municipal,Male,0,0,0,1,2,1,3,1,4,1,3,0,0,1,0,1,0,0,0
+Married(Registred),Never attended,Urban,Savelugu Municipal,Female,0,0,1,7,6,6,7,7,3,3,2,1,0,1,3,0,0,0,0
+Married(Registred),Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Primary,Rural,Savelugu Municipal,Male,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Married(Registred),Primary,Rural,Savelugu Municipal,Female,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Primary,Urban,Savelugu Municipal,Female,0,0,0,4,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Married(Registred),JSS/JHS,Rural,Savelugu Municipal,Male,0,1,1,0,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),JSS/JHS,Rural,Savelugu Municipal,Female,0,1,1,3,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Married(Registred),JSS/JHS,Urban,Savelugu Municipal,Male,0,1,2,1,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
+Married(Registred),JSS/JHS,Urban,Savelugu Municipal,Female,0,0,1,6,6,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Married(Registred),Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Married(Registred),Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0
+Married(Registred),SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,3,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),SSS/SHS,Rural,Savelugu Municipal,Female,0,0,6,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),SSS/SHS,Urban,Savelugu Municipal,Male,0,0,1,4,11,2,5,2,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),SSS/SHS,Urban,Savelugu Municipal,Female,0,0,3,13,11,2,3,2,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+Married(Registred),Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+Married(Registred),Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0
+Married(Registred),Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Married(Registred),Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Married(Registred),Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,4,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,2,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,1,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,1,1,3,3,1,2,0,0,1,0,0,0,0,0,0,0
+Married(Registred),Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,1,3,19,8,12,5,2,4,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,1,3,11,4,1,0,1,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,1,3,6,3,2,0,0,1,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,1,10,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,1,2,3,5,0,0,0,1,0,0,0,0,0,0,0
+Married(Registred),Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Married(Registred),Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Never attended,Rural,Savelugu Municipal,Male,0,0,2,6,5,3,8,4,4,3,5,2,2,1,0,2,0,0,0
+Separated,Never attended,Rural,Savelugu Municipal,Female,0,2,1,1,8,2,5,4,5,2,1,1,0,0,2,0,0,0,0
+Separated,Never attended,Urban,Savelugu Municipal,Male,0,0,3,5,8,5,14,7,4,4,6,4,3,3,3,1,1,0,0
+Separated,Never attended,Urban,Savelugu Municipal,Female,0,2,6,6,10,16,21,7,16,5,5,4,4,2,3,0,0,0,0
+Separated,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Primary,Rural,Savelugu Municipal,Male,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Primary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Primary,Urban,Savelugu Municipal,Female,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Separated,JSS/JHS,Rural,Savelugu Municipal,Male,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,3,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,4,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Separated,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0
+Separated,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,SSS/SHS,Urban,Savelugu Municipal,Male,0,1,0,3,5,2,1,2,0,0,0,0,0,0,0,0,0,0,0
+Separated,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,4,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Separated,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Separated,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Separated,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Separated,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Separated,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Separated,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Separated,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Separated,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Never attended,Rural,Savelugu Municipal,Male,0,1,1,3,16,13,6,6,6,3,7,5,5,1,1,0,0,0,1
+Divorced,Never attended,Rural,Savelugu Municipal,Female,0,1,4,5,10,8,17,7,8,3,3,2,5,2,2,0,0,0,0
+Divorced,Never attended,Urban,Savelugu Municipal,Male,0,0,4,4,13,12,12,12,10,0,7,6,8,4,2,6,2,0,0
+Divorced,Never attended,Urban,Savelugu Municipal,Female,0,1,4,7,14,25,36,34,27,13,6,3,6,6,2,1,0,0,0
+Divorced,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Kindergarten,Rural,Savelugu Municipal,Female,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Kindergarten,Urban,Savelugu Municipal,Male,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Primary,Rural,Savelugu Municipal,Male,0,0,1,0,2,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Divorced,Primary,Rural,Savelugu Municipal,Female,1,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+Divorced,Primary,Urban,Savelugu Municipal,Male,0,0,0,0,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0
+Divorced,Primary,Urban,Savelugu Municipal,Female,0,0,0,0,0,3,1,3,0,0,0,0,0,0,0,0,0,0,0
+Divorced,JSS/JHS,Rural,Savelugu Municipal,Male,0,0,1,2,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Divorced,JSS/JHS,Rural,Savelugu Municipal,Female,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,JSS/JHS,Urban,Savelugu Municipal,Male,0,0,0,1,5,4,2,1,0,0,0,0,0,0,0,0,0,0,0
+Divorced,JSS/JHS,Urban,Savelugu Municipal,Female,0,0,2,4,0,4,1,0,1,1,0,0,0,0,0,0,0,0,0
+Divorced,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Divorced,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0
+Divorced,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Divorced,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,0,4,1,7,1,3,0,0,0,0,0,0,0,0,0,0,0
+Divorced,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,2,2,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Divorced,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Divorced,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,3,0,0,1,1,1,0,0,0,0,0
+Divorced,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Divorced,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Divorced,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Divorced,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Never attended,Rural,Savelugu Municipal,Male,0,1,2,5,1,0,6,4,4,4,2,9,4,8,7,5,0,0,0
+Widowed,Never attended,Rural,Savelugu Municipal,Female,0,0,7,6,16,21,42,60,90,54,120,63,109,74,94,33,14,2,4
+Widowed,Never attended,Urban,Savelugu Municipal,Male,0,1,1,1,1,4,5,2,13,4,13,4,9,3,4,4,2,1,1
+Widowed,Never attended,Urban,Savelugu Municipal,Female,1,0,2,7,13,22,84,100,151,113,218,126,232,170,200,84,28,6,10
+Widowed,Nursery,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Nursery,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Nursery,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Nursery,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Widowed,Kindergarten,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Kindergarten,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Kindergarten,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Kindergarten,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Primary,Rural,Savelugu Municipal,Male,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Primary,Rural,Savelugu Municipal,Female,0,1,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0
+Widowed,Primary,Urban,Savelugu Municipal,Male,3,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Widowed,Primary,Urban,Savelugu Municipal,Female,3,1,0,0,0,0,0,2,3,1,2,1,3,1,0,0,1,0,0
+Widowed,JSS/JHS,Rural,Savelugu Municipal,Male,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Widowed,JSS/JHS,Rural,Savelugu Municipal,Female,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,JSS/JHS,Urban,Savelugu Municipal,Male,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,JSS/JHS,Urban,Savelugu Municipal,Female,0,3,0,0,0,0,3,1,1,1,0,0,0,0,0,0,0,0,0
+Widowed,Middle,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Widowed,Middle,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Middle,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Widowed,Middle,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,1,4,3,0,1,0,1,0,0,0,0
+Widowed,SSS/SHS,Rural,Savelugu Municipal,Male,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,SSS/SHS,Rural,Savelugu Municipal,Female,0,0,3,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Widowed,SSS/SHS,Urban,Savelugu Municipal,Male,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,SSS/SHS,Urban,Savelugu Municipal,Female,0,0,1,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Secondary,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Widowed,Secondary,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Secondary,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Secondary,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,1,0,0,2,0,1,1,0,1,0,0,0,0
+Widowed,Voc/technical/commercial,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Voc/technical/commercial,Rural,Savelugu Municipal,Female,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Voc/technical/commercial,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Voc/technical/commercial,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Post middle/secondary Certificate,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Post middle/secondary Certificate,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Post middle/secondary Certificate,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Post middle/secondary Certificate,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Widowed,Post middle/secondary Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Widowed,Post middle/secondary Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Post middle/secondary Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Post middle/secondary Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Widowed,Tertiary/HND,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary/HND,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary/HND,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary/HND,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Widowed,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary - Bachelor's Degree,Rural,Savelugu Municipal,Female,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Male,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Widowed,Tertiary - Bachelor's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary - Post graduate Certificate/Diploma,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary - Post graduate Certificate/Diploma,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary - Master's Degree,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary - Master's Degree,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary - Master's Degree,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary - Master's Degree,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary - PhD,Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary - PhD,Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary - PhD,Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Tertiary - PhD,Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Other (specify),Rural,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Other (specify),Rural,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Other (specify),Urban,Savelugu Municipal,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Widowed,Other (specify),Urban,Savelugu Municipal,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

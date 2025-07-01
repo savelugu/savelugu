@@ -1,0 +1,139 @@
+Health_Insurance,Education,Locality,Sex,0 years to 14 years,0-4,5-9,10-14,15 years to 64 years,15-19,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65 years and older,65-69,70-74,75-79,80-84,85-89,90-94,95-99,100+
+Not Covered,Never attended,Rural,Male,2461,1462,574,425,4107,389,498,513,574,488,540,354,334,192,225,441,108,125,85,65,36,16,4,2
+Not Covered,Never attended,Rural,Female,2769,1629,669,471,4598,391,649,627,681,569,587,384,324,161,225,424,77,133,80,90,27,10,2,5
+Not Covered,Never attended,Urban,Male,1577,1111,301,165,3621,262,337,344,485,475,511,452,371,178,206,393,115,115,70,60,23,7,2,1
+Not Covered,Never attended,Urban,Female,1758,1147,379,232,4042,205,404,511,627,601,602,407,322,175,188,497,104,135,87,106,43,15,2,5
+Not Covered,Nursery,Rural,Male,156,102,54,0,3,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Nursery,Rural,Female,153,106,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Nursery,Urban,Male,170,129,40,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Nursery,Urban,Female,184,130,54,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Kindergarten,Rural,Male,390,133,256,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Kindergarten,Rural,Female,348,130,217,1,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Kindergarten,Urban,Male,468,162,305,1,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Kindergarten,Urban,Female,419,148,271,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Primary,Rural,Male,1659,0,838,821,396,89,84,74,44,41,25,17,10,5,7,6,3,0,1,2,0,0,0,0
+Not Covered,Primary,Rural,Female,1362,0,698,664,185,64,59,30,19,6,6,0,1,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Primary,Urban,Male,1808,0,886,922,432,92,85,55,66,42,38,16,16,13,9,8,2,1,1,1,0,3,0,0
+Not Covered,Primary,Urban,Female,1592,0,824,768,240,68,47,37,25,26,19,12,2,3,1,5,2,2,1,0,0,0,0,0
+Not Covered,JSS/JHS,Rural,Male,144,0,0,144,899,478,132,97,87,55,27,14,8,1,0,0,0,0,0,0,0,0,0,0
+Not Covered,JSS/JHS,Rural,Female,104,0,0,104,447,290,70,48,21,8,6,1,3,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,JSS/JHS,Urban,Male,155,0,0,155,1033,537,168,106,89,60,45,17,8,3,0,0,0,0,0,0,0,0,0,0
+Not Covered,JSS/JHS,Urban,Female,136,0,0,136,537,350,98,49,17,12,8,1,1,1,0,0,0,0,0,0,0,0,0,0
+Not Covered,Middle,Rural,Male,0,0,0,0,10,0,0,0,0,0,0,0,4,3,3,3,2,1,0,0,0,0,0,0
+Not Covered,Middle,Rural,Female,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Not Covered,Middle,Urban,Male,0,0,0,0,20,0,0,0,0,0,0,5,10,4,1,13,5,5,3,0,0,0,0,0
+Not Covered,Middle,Urban,Female,0,0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Not Covered,SSS/SHS,Rural,Male,1,0,0,1,756,174,255,169,78,36,31,11,2,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,SSS/SHS,Rural,Female,1,0,0,1,228,89,84,38,9,5,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,SSS/SHS,Urban,Male,3,0,0,3,1243,263,508,196,99,57,59,52,9,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,SSS/SHS,Urban,Female,3,0,0,3,581,211,277,63,18,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Secondary,Rural,Male,0,0,0,0,20,2,2,1,2,0,1,1,5,1,5,1,1,0,0,0,0,0,0,0
+Not Covered,Secondary,Rural,Female,0,0,0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Secondary,Urban,Male,0,0,0,0,42,0,1,0,5,3,8,4,11,7,3,6,3,1,1,1,0,0,0,0
+Not Covered,Secondary,Urban,Female,0,0,0,0,6,0,2,1,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0
+Not Covered,Voc/technical/commercial,Rural,Male,0,0,0,0,22,0,4,5,5,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Voc/technical/commercial,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Voc/technical/commercial,Urban,Male,0,0,0,0,38,2,0,24,4,1,1,2,1,2,1,0,0,0,0,0,0,0,0,0
+Not Covered,Voc/technical/commercial,Urban,Female,0,0,0,0,12,0,0,5,4,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Post middle/secondary Certificate,Rural,Male,0,0,0,0,3,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Post middle/secondary Certificate,Rural,Female,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Post middle/secondary Certificate,Urban,Male,0,0,0,0,17,0,2,4,4,3,1,1,0,0,2,1,0,1,0,0,0,0,0,0
+Not Covered,Post middle/secondary Certificate,Urban,Female,0,0,0,0,4,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Post middle/secondary Diploma,Rural,Male,0,0,0,0,18,0,4,1,7,3,2,0,0,1,0,1,1,0,0,0,0,0,0,0
+Not Covered,Post middle/secondary Diploma,Rural,Female,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Post middle/secondary Diploma,Urban,Male,0,0,0,0,57,0,5,17,19,10,3,1,1,0,1,3,2,1,0,0,0,0,0,0
+Not Covered,Post middle/secondary Diploma,Urban,Female,0,0,0,0,14,4,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Tertiary/HND,Rural,Male,0,0,0,0,77,1,45,16,11,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Not Covered,Tertiary/HND,Rural,Female,0,0,0,0,41,10,20,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Tertiary/HND,Urban,Male,0,0,0,0,137,4,49,32,20,16,7,4,4,1,0,1,0,1,0,0,0,0,0,0
+Not Covered,Tertiary/HND,Urban,Female,0,0,0,0,47,8,22,10,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Tertiary - Bachelor's Degree,Rural,Male,0,0,0,0,89,31,23,8,14,4,5,2,1,1,0,4,4,0,0,0,0,0,0,0
+Not Covered,Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,17,10,0,4,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Tertiary - Bachelor's Degree,Urban,Male,0,0,0,0,150,11,17,37,39,17,16,6,3,2,2,2,2,0,0,0,0,0,0,0
+Not Covered,Tertiary - Bachelor's Degree,Urban,Female,0,0,0,0,17,1,2,9,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,28,0,14,3,8,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+Not Covered,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,3,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,0,86,0,28,29,19,4,1,1,1,1,2,1,1,0,0,0,0,0,0,0
+Not Covered,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,0,28,0,4,12,8,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Tertiary - Master's Degree,Rural,Male,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Tertiary - Master's Degree,Urban,Male,0,0,0,0,15,0,1,2,2,4,4,1,0,1,0,1,1,0,0,0,0,0,0,0
+Not Covered,Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Tertiary - PhD,Rural,Male,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Tertiary - PhD,Urban,Male,0,0,0,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Tertiary - PhD,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Other (specify),Rural,Male,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Other (specify),Urban,Male,0,0,0,0,6,0,1,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Not Covered,Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Never attended,Rural,Male,2731,1912,554,265,2347,232,286,290,349,244,311,214,195,106,120,332,82,91,61,64,21,9,3,1
+Covered,Never attended,Rural,Female,2844,1912,576,356,4891,366,789,801,854,671,540,332,245,144,149,407,80,101,89,97,24,15,0,1
+Covered,Never attended,Urban,Male,4331,3641,479,211,3978,294,371,394,586,510,602,436,369,182,234,600,134,187,112,105,37,19,1,5
+Covered,Never attended,Urban,Female,4446,3549,601,296,9487,424,1096,1477,1809,1331,1308,739,601,287,415,1117,240,321,216,229,75,25,6,5
+Covered,Nursery,Rural,Male,265,184,80,1,3,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Covered,Nursery,Rural,Female,235,166,68,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Nursery,Urban,Male,795,573,222,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Nursery,Urban,Female,776,581,194,1,3,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Covered,Kindergarten,Rural,Male,577,264,312,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Kindergarten,Rural,Female,541,256,285,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Kindergarten,Urban,Male,1548,670,878,0,3,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Kindergarten,Urban,Female,1447,654,793,0,5,1,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Primary,Rural,Male,2250,0,1196,1054,241,74,50,40,24,25,13,6,6,3,0,6,2,1,2,1,0,0,0,0
+Covered,Primary,Rural,Female,1757,0,991,766,283,57,94,57,38,21,6,4,5,0,1,1,1,0,0,0,0,0,0,0
+Covered,Primary,Urban,Male,5302,0,2922,2380,528,141,109,71,71,48,36,25,13,7,7,16,9,4,2,1,0,0,0,0
+Covered,Primary,Urban,Female,4789,0,2691,2098,552,116,143,129,85,40,17,5,12,2,3,7,1,4,0,1,0,1,0,0
+Covered,JSS/JHS,Rural,Male,194,0,0,194,862,511,131,69,61,41,27,13,8,1,0,0,0,0,0,0,0,0,0,0
+Covered,JSS/JHS,Rural,Female,132,0,0,132,627,327,130,89,55,19,2,5,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,JSS/JHS,Urban,Male,587,0,0,587,2263,1356,271,176,199,114,68,55,14,10,0,0,0,0,0,0,0,0,0,0
+Covered,JSS/JHS,Urban,Female,541,0,0,541,2127,1234,348,272,168,54,32,13,3,3,0,0,0,0,0,0,0,0,0,0
+Covered,Middle,Rural,Male,0,0,0,0,13,0,0,0,0,0,0,5,2,4,2,5,3,1,0,1,0,0,0,0
+Covered,Middle,Rural,Female,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Covered,Middle,Urban,Male,0,0,0,0,44,0,0,0,0,0,0,1,10,15,18,34,14,11,3,5,1,0,0,0
+Covered,Middle,Urban,Female,0,0,0,0,24,0,0,0,0,0,0,1,3,11,9,5,2,2,0,1,0,0,0,0
+Covered,SSS/SHS,Rural,Male,3,0,0,3,696,177,244,132,80,28,14,20,1,0,0,0,0,0,0,0,0,0,0,0
+Covered,SSS/SHS,Rural,Female,2,0,0,2,457,143,198,80,24,6,3,2,1,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Covered,SSS/SHS,Urban,Male,7,0,0,7,3685,1189,1449,391,292,179,115,63,7,0,0,0,0,0,0,0,0,0,0,0
+Covered,SSS/SHS,Urban,Female,2,0,0,2,2976,1057,1183,443,181,66,32,12,2,0,0,0,0,0,0,0,0,0,0,0
+Covered,Secondary,Rural,Male,0,0,0,0,23,2,1,3,0,1,3,3,5,3,2,8,5,3,0,0,0,0,0,0
+Covered,Secondary,Rural,Female,0,0,0,0,9,1,2,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Secondary,Urban,Male,3,0,0,3,137,3,14,10,15,13,12,11,28,15,16,26,13,5,4,2,2,0,0,0
+Covered,Secondary,Urban,Female,0,0,0,0,59,3,13,8,10,3,6,7,5,4,0,5,1,1,0,2,1,0,0,0
+Covered,Voc/technical/commercial,Rural,Male,0,0,0,0,17,0,3,9,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Voc/technical/commercial,Rural,Female,0,0,0,0,8,1,2,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Voc/technical/commercial,Urban,Male,0,0,0,0,78,1,4,44,14,4,7,3,0,0,1,2,2,0,0,0,0,0,0,0
+Covered,Voc/technical/commercial,Urban,Female,0,0,0,0,47,0,4,30,7,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Covered,Post middle/secondary Certificate,Rural,Male,0,0,0,0,4,0,0,0,1,1,0,0,1,0,1,2,1,0,0,1,0,0,0,0
+Covered,Post middle/secondary Certificate,Rural,Female,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Post middle/secondary Certificate,Urban,Male,0,0,0,0,56,1,11,11,13,6,3,2,1,7,1,7,5,1,1,0,0,0,0,0
+Covered,Post middle/secondary Certificate,Urban,Female,0,0,0,0,44,1,6,8,16,1,3,3,1,2,3,0,0,0,0,0,0,0,0,0
+Covered,Post middle/secondary Diploma,Rural,Male,0,0,0,0,37,1,9,11,10,2,1,1,1,0,1,2,0,1,1,0,0,0,0,0
+Covered,Post middle/secondary Diploma,Rural,Female,0,0,0,0,9,0,3,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Post middle/secondary Diploma,Urban,Male,0,0,0,0,221,0,22,74,57,29,18,7,4,6,4,4,2,1,1,0,0,0,0,0
+Covered,Post middle/secondary Diploma,Urban,Female,0,0,0,0,130,12,30,35,28,9,4,2,3,5,2,2,0,0,2,0,0,0,0,0
+Covered,Tertiary/HND,Rural,Male,0,0,0,0,94,0,51,23,14,4,2,0,0,0,0,1,1,0,0,0,0,0,0,0
+Covered,Tertiary/HND,Rural,Female,0,0,0,0,34,6,17,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Tertiary/HND,Urban,Male,0,0,0,0,484,13,155,93,93,68,30,14,13,3,2,4,3,0,1,0,0,0,0,0
+Covered,Tertiary/HND,Urban,Female,0,0,0,0,229,21,102,45,40,12,4,2,1,0,2,0,0,0,0,0,0,0,0,0
+Covered,Tertiary - Bachelor's Degree,Rural,Male,0,0,0,0,95,16,13,20,17,16,7,2,3,0,1,4,3,1,0,0,0,0,0,0
+Covered,Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,29,12,6,4,3,2,2,0,0,0,0,1,1,0,0,0,0,0,0,0
+Covered,Tertiary - Bachelor's Degree,Urban,Male,0,0,0,0,679,61,51,108,178,97,95,38,24,12,15,13,9,2,2,0,0,0,0,0
+Covered,Tertiary - Bachelor's Degree,Urban,Female,0,0,0,0,193,6,37,43,60,28,5,4,7,3,0,0,0,0,0,0,0,0,0,0
+Covered,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,61,0,12,30,14,1,1,1,2,0,0,2,0,1,0,1,0,0,0,0
+Covered,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,7,0,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,0,678,0,265,217,107,37,23,9,6,7,7,3,1,2,0,0,0,0,0,0
+Covered,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,0,284,0,99,116,43,14,3,2,1,5,1,1,1,0,0,0,0,0,0,0
+Covered,Tertiary - Master's Degree,Rural,Male,0,0,0,0,9,0,0,1,2,4,1,0,1,0,0,1,0,1,0,0,0,0,0,0
+Covered,Tertiary - Master's Degree,Rural,Female,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Tertiary - Master's Degree,Urban,Male,0,0,0,0,100,0,3,6,20,22,20,13,8,4,4,3,2,1,0,0,0,0,0,0
+Covered,Tertiary - Master's Degree,Urban,Female,0,0,0,0,14,0,0,1,2,8,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+Covered,Tertiary - PhD,Rural,Male,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Tertiary - PhD,Urban,Male,0,0,0,0,10,0,0,0,1,2,2,1,2,1,1,1,0,0,1,0,0,0,0,0
+Covered,Tertiary - PhD,Urban,Female,0,0,0,0,3,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Other (specify),Rural,Male,0,0,0,0,5,0,0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Covered,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covered,Other (specify),Urban,Male,0,0,0,0,6,0,2,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0
+Covered,Other (specify),Urban,Female,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
