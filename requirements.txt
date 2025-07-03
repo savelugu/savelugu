@@ -2,3 +2,6 @@ streamlit
 pandas
 plotly
 networkx 
+streamlit_option_menu
+matplotlib
+seaborn
