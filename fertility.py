@@ -10,9 +10,9 @@ import altair as alt
 def app():
 
     # Load datasets
-    fertility_age_group = pd.read_csv("./fertility/fertility1_age_group-183534.csv")  # Update path if needed
+    fertility_age_group = pd.read_csv("./Fertility/fertility1_age_group-183534.csv")  # Update path if needed
     ever_born = pd.read_csv("./Fertility/ever_born.csv")
-    survive = pd.read_csv("./fertility/children_surviving_12-19.csv")  # Update path as needed
+    survive = pd.read_csv("./Fertility/children_surviving_12-19.csv")  # Update path as needed
     
     
         # Sidebar filters
