@@ -1,0 +1,35 @@
+Education,Locality,15-19,20-24,25-29,30-34,35-39,40-44,45-49
+Never attended,Rural,184,1648,3191,5330,5205,5403,3535
+Never attended,Urban,116,1496,3864,7322,7152,7607,4734
+Nursery,Rural,0,0,4,0,0,0,0
+Nursery,Urban,1,0,0,0,0,4,0
+Kindergarten,Rural,0,0,3,0,0,0,0
+Kindergarten,Urban,0,1,0,3,14,0,0
+Primary,Rural,18,131,164,181,104,63,15
+Primary,Urban,28,144,299,285,231,166,66
+JSS/JHS,Rural,35,187,232,209,90,28,25
+JSS/JHS,Urban,46,322,510,509,226,157,66
+Middle,Rural,0,0,0,0,0,0,6
+Middle,Urban,0,0,0,0,0,0,4
+SSS/SHS,Rural,13,109,134,65,40,16,18
+SSS/SHS,Urban,28,285,543,396,191,129,37
+Secondary,Rural,1,3,5,0,8,3,0
+Secondary,Urban,1,6,14,9,10,22,29
+Voc/technical/commercial,Rural,0,0,5,4,0,0,0
+Voc/technical/commercial,Urban,0,0,21,17,15,0,0
+Post middle/secondary Certificate,Rural,0,0,0,1,0,0,0
+Post middle/secondary Certificate,Urban,0,0,2,26,4,16,13
+Post middle/secondary Diploma,Rural,0,1,5,0,5,0,0
+Post middle/secondary Diploma,Urban,0,7,46,35,18,8,5
+Tertiary/HND,Rural,0,7,21,9,0,0,0
+Tertiary/HND,Urban,0,16,34,72,38,17,7
+Tertiary - Bachelor's Degree,Rural,0,0,3,4,7,0,8
+Tertiary - Bachelor's Degree,Urban,0,1,50,99,75,12,9
+Tertiary - Post graduate Certificate/Diploma,Rural,0,0,1,6,0,0,0
+Tertiary - Post graduate Certificate/Diploma,Urban,0,16,77,86,28,9,9
+Tertiary - Master's Degree,Rural,0,0,0,1,0,0,0
+Tertiary - Master's Degree,Urban,0,0,0,8,18,0,0
+Tertiary - PhD,Rural,0,0,0,0,0,0,0
+Tertiary - PhD,Urban,0,0,0,0,0,1,0
+Other (specify),Rural,0,0,0,0,0,0,0
+Other (specify),Urban,0,0,0,0,5,0,0

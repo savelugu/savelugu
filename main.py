@@ -2,7 +2,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import os
 import base64
-import structures, mpi, sanitation, economic, population, savelugu, housing
+import structures, mpi, sanitation, economic, population, savelugu, housing, fertility, education
 
 # Page configuration
 st.set_page_config(
@@ -66,11 +66,11 @@ with st.sidebar:
         menu_title="Navigation",
         options=[
             "Savelugu Municipal", "Structures", "Savelugu MPI",
-            "Water & Sanitation", "Economic Activities", "Population","Housing"
+            "Water & Sanitation", "Economic Activities", "Population","Housing","Fertility","Education"
         ],
         icons=[
             "building", "columns-gap", "graph-up-arrow",
-            "droplet-half", "bar-chart-steps", "people-fill","people-fill"
+            "droplet-half", "bar-chart-steps", "people-fill","people-fill","people-fill","people-fill"
         ],
         menu_icon="list",
         default_index=0,
@@ -136,3 +136,7 @@ elif app == "Savelugu Municipal":
     
 elif app == "Housing":
     housing.app()
+elif app == "Fertility":
+    fertility.app()
+elif app == "Education":
+    education.app()

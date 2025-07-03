@@ -1,0 +1,37 @@
+"Number of Surviving Children Born in the last 12 months by Education, Locality, Geographic_Area and Age",,,,,,,,
+,,,,,,,,
+Education,Locality,15-19,20-24,25-29,30-34,35-39,40-44,45-49
+Never attended,Rural,49,276,291,295,166,67,28
+Never attended,Urban,36,270,401,406,235,109,20
+Nursery,Rural,0,0,0,0,0,0,0
+Nursery,Urban,0,0,0,0,0,0,0
+Kindergarten,Rural,0,0,0,0,0,0,0
+Kindergarten,Urban,0,1,0,0,1,0,0
+Primary,Rural,10,36,16,21,5,0,0
+Primary,Urban,14,39,36,21,13,3,0
+JSS/JHS,Rural,9,42,30,18,7,1,0
+JSS/JHS,Urban,19,77,64,31,15,3,0
+Middle,Rural,0,0,0,0,0,0,0
+Middle,Urban,0,0,0,0,0,0,0
+SSS/SHS,Rural,7,39,27,10,1,0,0
+SSS/SHS,Urban,14,94,99,31,7,1,2
+Secondary,Rural,0,1,0,0,0,0,0
+Secondary,Urban,1,2,2,1,0,0,0
+Voc/technical/commercial,Rural,0,0,0,0,0,0,0
+Voc/technical/commercial,Urban,0,0,3,2,2,0,0
+Post middle/secondary Certificate,Rural,0,0,0,0,0,0,0
+Post middle/secondary Certificate,Urban,0,0,1,2,0,1,0
+Post middle/secondary Diploma,Rural,0,1,0,0,0,0,0
+Post middle/secondary Diploma,Urban,0,1,12,8,2,1,0
+Tertiary/HND,Rural,0,2,4,1,0,0,0
+Tertiary/HND,Urban,0,4,5,8,1,0,0
+Tertiary - Bachelor's Degree,Rural,0,0,2,1,0,0,0
+Tertiary - Bachelor's Degree,Urban,0,1,12,16,2,0,0
+Tertiary - Post graduate Certificate/Diploma,Rural,0,0,0,1,0,0,0
+Tertiary - Post graduate Certificate/Diploma,Urban,0,4,16,10,2,0,0
+Tertiary - Master's Degree,Rural,0,0,0,0,0,0,0
+Tertiary - Master's Degree,Urban,0,0,0,1,2,0,0
+Tertiary - PhD,Rural,0,0,0,0,0,0,0
+Tertiary - PhD,Urban,0,0,0,0,0,0,0
+Other (specify),Rural,0,0,0,0,0,0,0
+Other (specify),Urban,0,0,0,0,0,0,0

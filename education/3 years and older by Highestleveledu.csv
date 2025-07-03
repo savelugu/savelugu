@@ -1,0 +1,65 @@
+Highestleveledu,Locality,Sex,3-5,6-10,11-14,15-19,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65-69,70-74,75-79,80-84,85-89,90-94,95-99,100+
+Nursery,Rural,Female,386,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nursery,Rural,Male,419,1,1,0,1,0,3,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Nursery,Urban,Female,958,1,1,2,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0
+Nursery,Urban,Male,964,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Kindergarten,Rural,Female,636,252,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kindergarten,Rural,Male,636,330,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kindergarten,Urban,Female,1267,601,0,1,2,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kindergarten,Urban,Male,1324,694,1,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Primary,Rural,Female,129,1937,1053,121,153,87,57,27,12,4,6,0,1,1,0,0,0,0,0,0,0
+Primary,Rural,Male,174,2377,1358,163,134,114,68,66,38,23,16,8,7,5,1,3,3,0,0,0,0
+Primary,Urban,Female,301,4010,2070,184,192,166,115,66,36,17,14,5,4,3,6,1,1,0,1,0,0
+Primary,Urban,Male,308,4463,2341,233,195,127,137,90,74,41,29,20,16,11,5,3,2,0,3,0,0
+JSS/JHS,Rural,Female,0,5,231,617,200,137,76,27,8,6,3,0,0,0,0,0,0,0,0,0,0
+JSS/JHS,Rural,Male,0,17,321,989,263,166,148,96,54,27,16,2,0,0,0,0,0,0,0,0,0
+JSS/JHS,Urban,Female,0,31,647,1586,446,324,188,66,40,14,4,4,0,0,0,0,0,0,0,0,0
+JSS/JHS,Urban,Male,0,40,703,1893,440,282,290,174,113,74,22,13,0,0,0,0,0,0,0,0,0
+Middle,Rural,Female,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Middle,Rural,Male,0,0,0,0,0,0,0,0,0,5,6,7,5,5,2,0,1,0,0,0,0
+Middle,Urban,Female,0,0,0,0,0,0,0,0,0,2,3,12,10,2,2,0,1,0,0,0,0
+Middle,Urban,Male,0,0,0,0,0,0,0,0,0,6,20,19,19,21,16,6,5,1,0,0,0
+SSS/SHS,Rural,Female,0,0,3,232,282,118,33,11,4,4,1,0,0,0,0,0,0,0,0,0,0
+SSS/SHS,Rural,Male,0,0,4,351,499,301,158,64,45,31,3,0,0,0,0,0,0,0,0,0,0
+SSS/SHS,Urban,Female,0,0,5,1268,1464,507,199,72,37,15,2,0,0,0,0,0,0,0,0,0,0
+SSS/SHS,Urban,Male,0,0,10,1452,1958,587,391,237,175,115,16,0,0,0,0,0,0,0,0,0,0
+Secondary,Rural,Female,0,0,0,1,3,4,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+Secondary,Rural,Male,0,0,0,4,3,4,2,1,4,4,10,4,7,6,3,0,0,0,0,0,0
+Secondary,Urban,Female,0,0,0,3,15,9,10,3,6,8,6,5,0,1,2,0,2,1,0,0,0
+Secondary,Urban,Male,0,0,3,3,15,10,20,16,20,15,39,22,19,16,6,5,3,2,0,0,0
+Voc/technical/commercial,Rural,Female,0,0,0,1,2,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Voc/technical/commercial,Rural,Male,0,0,0,0,7,14,7,6,3,2,0,0,0,0,0,0,0,0,0,0,0
+Voc/technical/commercial,Urban,Female,0,0,0,0,4,35,11,7,0,0,1,0,1,0,0,0,0,0,0,0,0
+Voc/technical/commercial,Urban,Male,0,0,0,3,4,68,18,5,8,5,1,2,2,2,0,0,0,0,0,0,0
+Post middle/secondary Certificate,Rural,Female,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,1,1,2,1,0,1,0,1,1,0,0,1,0,0,0,0
+Post middle/secondary Certificate,Urban,Female,0,0,0,4,6,8,17,1,3,3,1,2,3,0,0,0,0,0,0,0,0
+Post middle/secondary Certificate,Urban,Male,0,0,0,1,13,15,17,9,4,3,1,7,3,5,2,1,0,0,0,0,0
+Post middle/secondary Diploma,Rural,Female,0,0,0,0,4,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Post middle/secondary Diploma,Rural,Male,0,0,0,1,13,12,17,5,3,1,1,1,1,1,1,1,0,0,0,0,0
+Post middle/secondary Diploma,Urban,Female,0,0,0,16,35,39,29,9,4,2,3,5,2,0,0,2,0,0,0,0,0
+Post middle/secondary Diploma,Urban,Male,0,0,0,0,27,91,76,39,21,8,5,6,5,4,2,1,0,0,0,0,0
+Tertiary/HND,Rural,Female,0,0,0,16,37,17,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tertiary/HND,Rural,Male,0,0,0,1,96,40,25,7,3,0,0,0,1,1,0,0,0,0,0,0,0
+Tertiary/HND,Urban,Female,0,0,0,29,124,55,41,17,5,2,1,0,2,0,0,0,0,0,0,0,0
+Tertiary/HND,Urban,Male,0,0,0,17,204,125,113,84,37,18,17,4,2,3,1,1,0,0,0,0,0
+Tertiary - Bachelor's Degree,Rural,Female,0,0,0,22,6,8,4,2,3,1,0,0,0,1,0,0,0,0,0,0,0
+Tertiary - Bachelor's Degree,Rural,Male,0,0,0,47,36,28,32,20,12,4,4,1,1,7,1,0,0,0,0,0,0
+Tertiary - Bachelor's Degree,Urban,Female,0,0,0,7,39,52,64,29,5,4,7,3,0,0,0,0,0,0,0,0,0
+Tertiary - Bachelor's Degree,Urban,Male,0,0,0,72,68,146,217,114,111,44,27,14,17,11,2,2,0,0,0,0,0
+Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,3,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,26,33,22,2,2,1,2,0,1,1,1,0,1,0,0,0,0
+Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,0,103,128,51,16,4,3,1,5,1,1,0,0,0,0,0,0,0
+Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,0,293,246,126,41,24,10,7,8,9,2,2,0,0,0,0,0,0
+Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,1,3,4,1,0,1,0,0,0,1,0,0,0,0,0,0
+Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,1,2,8,0,0,1,2,0,0,0,0,0,0,0,0,0
+Tertiary - Master's Degree,Urban,Male,0,0,0,0,4,8,22,26,24,14,8,5,4,3,1,0,0,0,0,0,0
+Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tertiary - PhD,Rural,Male,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tertiary - PhD,Urban,Female,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Tertiary - PhD,Urban,Male,0,0,0,0,0,1,1,2,3,1,2,1,1,0,0,1,0,0,0,0,0
+Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other (specify),Rural,Male,0,0,0,0,0,0,3,2,0,1,0,1,0,0,0,0,0,0,0,0,0
+Other (specify),Urban,Female,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other (specify),Urban,Male,0,0,0,0,3,1,2,1,0,2,3,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,817 @@
+Language_of_Literacy,Education,Locality,Sex,6-11,12-14,15-19,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65-69,70-74,75-79,80-84,85-89,90-94,95-99,100+
+English,Never attended,Rural,Female,1,1,1,1,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+English,Never attended,Rural,Male,7,1,6,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+English,Never attended,Urban,Female,0,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+English,Never attended,Urban,Male,4,1,1,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+English,Nursery,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Nursery,Rural,Male,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Nursery,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Nursery,Urban,Male,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+English,Kindergarten,Rural,Female,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Kindergarten,Rural,Male,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Kindergarten,Urban,Female,118,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Kindergarten,Urban,Male,151,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Primary,Rural,Female,628,353,51,82,34,18,4,5,2,0,0,0,1,0,0,0,0,0,0,0
+English,Primary,Rural,Male,733,520,73,59,51,35,20,17,6,5,5,3,1,0,0,1,0,0,0,0
+English,Primary,Urban,Female,1991,890,82,88,72,39,27,9,5,3,2,0,2,3,0,0,0,1,0,0
+English,Primary,Urban,Male,2089,997,94,82,60,69,43,31,20,14,7,7,3,3,1,0,0,0,0,0
+English,JSS/JHS,Rural,Female,24,206,599,193,130,71,25,7,6,3,0,0,0,0,0,0,0,0,0,0
+English,JSS/JHS,Rural,Male,35,291,959,257,158,145,87,50,26,14,1,0,0,0,0,0,0,0,0,0
+English,JSS/JHS,Urban,Female,78,585,1549,436,315,178,63,39,13,4,4,0,0,0,0,0,0,0,0,0
+English,JSS/JHS,Urban,Male,82,637,1848,426,272,279,169,107,63,22,10,0,0,0,0,0,0,0,0,0
+English,Middle,Rural,Female,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+English,Middle,Rural,Male,0,0,0,0,0,0,0,0,5,4,7,5,4,2,0,1,0,0,0,0
+English,Middle,Urban,Female,0,0,0,0,0,0,0,0,2,3,11,10,2,2,0,1,0,0,0,0
+English,Middle,Urban,Male,0,0,0,0,0,0,0,0,6,18,17,17,19,15,6,5,1,0,0,0
+English,SSS/SHS,Rural,Female,0,3,229,282,115,33,11,4,4,1,0,0,0,0,0,0,0,0,0,0
+English,SSS/SHS,Rural,Male,0,4,349,498,301,158,64,45,31,3,0,0,0,0,0,0,0,0,0,0
+English,SSS/SHS,Urban,Female,0,5,1265,1456,506,199,71,36,13,2,0,0,0,0,0,0,0,0,0,0
+English,SSS/SHS,Urban,Male,0,10,1450,1956,583,391,234,168,111,16,0,0,0,0,0,0,0,0,0,0
+English,Secondary,Rural,Female,0,0,1,3,4,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+English,Secondary,Rural,Male,0,0,4,3,4,2,1,4,4,10,4,7,6,3,0,0,0,0,0,0
+English,Secondary,Urban,Female,0,0,3,15,9,10,3,6,8,6,5,0,1,2,0,2,1,0,0,0
+English,Secondary,Urban,Male,0,3,3,15,10,20,16,20,15,38,20,17,15,5,4,3,2,0,0,0
+English,Voc/technical/commercial,Rural,Female,0,0,1,2,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Voc/technical/commercial,Rural,Male,0,0,0,7,14,7,6,3,2,0,0,0,0,0,0,0,0,0,0,0
+English,Voc/technical/commercial,Urban,Female,0,0,0,4,35,11,7,0,0,1,0,1,0,0,0,0,0,0,0,0
+English,Voc/technical/commercial,Urban,Male,0,0,3,4,68,18,5,8,5,1,2,1,2,0,0,0,0,0,0,0
+English,Post middle/secondary Certificate,Rural,Female,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Post middle/secondary Certificate,Rural,Male,0,0,0,0,1,1,2,1,0,1,0,1,1,0,0,1,0,0,0,0
+English,Post middle/secondary Certificate,Urban,Female,0,0,4,6,8,17,1,3,3,1,2,3,0,0,0,0,0,0,0,0
+English,Post middle/secondary Certificate,Urban,Male,0,0,1,13,15,17,9,4,3,1,7,3,5,2,1,0,0,0,0,0
+English,Post middle/secondary Diploma,Rural,Female,0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Post middle/secondary Diploma,Rural,Male,0,0,1,13,12,17,5,3,1,1,1,1,1,1,1,0,0,0,0,0
+English,Post middle/secondary Diploma,Urban,Female,0,0,16,35,39,29,9,4,2,3,5,2,0,0,2,0,0,0,0,0
+English,Post middle/secondary Diploma,Urban,Male,0,0,0,27,90,76,39,21,8,5,6,5,4,2,1,0,0,0,0,0
+English,Tertiary/HND,Rural,Female,0,0,16,35,17,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Tertiary/HND,Rural,Male,0,0,1,94,38,24,6,3,0,0,0,1,1,0,0,0,0,0,0,0
+English,Tertiary/HND,Urban,Female,0,0,25,122,55,41,17,5,2,1,0,2,0,0,0,0,0,0,0,0
+English,Tertiary/HND,Urban,Male,0,0,17,202,125,113,83,37,18,16,4,2,3,1,1,0,0,0,0,0
+English,Tertiary - Bachelor's Degree,Rural,Female,0,0,21,6,8,4,2,2,1,0,0,0,1,0,0,0,0,0,0,0
+English,Tertiary - Bachelor's Degree,Rural,Male,0,0,46,36,28,31,20,11,3,3,0,1,6,1,0,0,0,0,0,0
+English,Tertiary - Bachelor's Degree,Urban,Female,0,0,7,39,52,64,29,5,4,7,3,0,0,0,0,0,0,0,0,0
+English,Tertiary - Bachelor's Degree,Urban,Male,0,0,72,68,145,216,114,110,43,27,13,17,11,2,2,0,0,0,0,0
+English,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,3,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,24,33,22,2,2,1,2,0,1,1,1,0,1,0,0,0,0
+English,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,103,128,51,16,4,3,1,5,1,1,0,0,0,0,0,0,0
+English,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,292,246,126,41,23,10,7,8,9,2,2,0,0,0,0,0,0
+English,Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Tertiary - Master's Degree,Rural,Male,0,0,0,0,1,3,4,1,0,1,0,0,0,1,0,0,0,0,0,0
+English,Tertiary - Master's Degree,Urban,Female,0,0,0,0,1,2,8,0,0,1,2,0,0,0,0,0,0,0,0,0
+English,Tertiary - Master's Degree,Urban,Male,0,0,0,4,8,22,26,24,14,8,5,4,3,1,0,0,0,0,0,0
+English,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Tertiary - PhD,Rural,Male,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Tertiary - PhD,Urban,Female,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+English,Tertiary - PhD,Urban,Male,0,0,0,0,1,1,2,3,1,2,1,1,0,0,1,0,0,0,0,0
+English,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Other (specify),Rural,Male,0,0,0,0,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+English,Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+English,Other (specify),Urban,Male,0,0,0,3,1,1,1,0,2,3,0,0,0,0,0,0,0,0,0,0
+French,Never attended,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Never attended,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Never attended,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Never attended,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Nursery,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Nursery,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Nursery,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Nursery,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Kindergarten,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Kindergarten,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Kindergarten,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Kindergarten,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Primary,Rural,Female,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Primary,Rural,Male,1,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Primary,Urban,Female,4,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Primary,Urban,Male,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,JSS/JHS,Rural,Female,0,0,2,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+French,JSS/JHS,Rural,Male,0,0,7,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,JSS/JHS,Urban,Female,1,5,5,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,JSS/JHS,Urban,Male,0,3,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Middle,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Middle,Rural,Male,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+French,Middle,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Middle,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,SSS/SHS,Rural,Female,0,0,3,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,SSS/SHS,Rural,Male,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,SSS/SHS,Urban,Female,0,0,14,6,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,SSS/SHS,Urban,Male,0,0,8,18,1,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+French,Secondary,Rural,Female,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Secondary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+French,Secondary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Secondary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Voc/technical/commercial,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Voc/technical/commercial,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Voc/technical/commercial,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Voc/technical/commercial,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Post middle/secondary Certificate,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Post middle/secondary Certificate,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Post middle/secondary Certificate,Urban,Male,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Post middle/secondary Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Post middle/secondary Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Post middle/secondary Diploma,Urban,Female,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Post middle/secondary Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary/HND,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary/HND,Rural,Male,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary/HND,Urban,Female,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary/HND,Urban,Male,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary - Bachelor's Degree,Rural,Male,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary - Bachelor's Degree,Urban,Female,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary - Bachelor's Degree,Urban,Male,0,0,1,2,1,3,2,0,0,0,2,0,0,0,0,0,0,0,0,0
+French,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,9,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+French,Tertiary - Master's Degree,Urban,Male,0,0,0,1,1,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary - PhD,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary - PhD,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Tertiary - PhD,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+French,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Other (specify),Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+French,Other (specify),Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Never attended,Rural,Female,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Never attended,Rural,Male,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Arabic,Never attended,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Never attended,Urban,Male,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0
+Arabic,Nursery,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Nursery,Rural,Male,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Nursery,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Nursery,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Kindergarten,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Kindergarten,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Kindergarten,Urban,Female,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Kindergarten,Urban,Male,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Primary,Rural,Female,14,7,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Primary,Rural,Male,12,17,2,2,1,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0
+Arabic,Primary,Urban,Female,143,49,2,7,3,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Primary,Urban,Male,150,72,6,11,5,15,15,8,9,6,5,3,2,2,2,2,0,0,0,0
+Arabic,JSS/JHS,Rural,Female,0,2,14,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Arabic,JSS/JHS,Rural,Male,0,5,22,5,5,5,11,6,6,0,1,0,0,0,0,0,0,0,0,0
+Arabic,JSS/JHS,Urban,Female,4,29,79,14,13,7,3,1,1,0,0,0,0,0,0,0,0,0,0,0
+Arabic,JSS/JHS,Urban,Male,3,30,112,34,19,23,25,11,11,3,4,0,0,0,0,0,0,0,0,0
+Arabic,Middle,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Middle,Rural,Male,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Arabic,Middle,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Middle,Urban,Male,0,0,0,0,0,0,0,0,0,2,3,3,3,2,0,0,0,0,0,0
+Arabic,SSS/SHS,Rural,Female,0,0,8,9,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,SSS/SHS,Rural,Male,0,0,15,19,9,7,6,4,2,1,0,0,0,0,0,0,0,0,0,0
+Arabic,SSS/SHS,Urban,Female,0,1,75,55,23,10,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,SSS/SHS,Urban,Male,0,0,71,95,45,43,36,32,20,3,0,0,0,0,0,0,0,0,0,0
+Arabic,Secondary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Secondary,Rural,Male,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0
+Arabic,Secondary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Secondary,Urban,Male,0,0,0,0,0,0,2,3,1,7,3,2,3,1,2,0,2,0,0,0
+Arabic,Voc/technical/commercial,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Voc/technical/commercial,Rural,Male,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Voc/technical/commercial,Urban,Female,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Voc/technical/commercial,Urban,Male,0,0,0,0,3,3,0,1,2,1,0,1,1,0,0,0,0,0,0,0
+Arabic,Post middle/secondary Certificate,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Arabic,Post middle/secondary Certificate,Urban,Female,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Post middle/secondary Certificate,Urban,Male,0,0,0,1,0,2,0,1,0,0,2,1,1,0,0,0,0,0,0,0
+Arabic,Post middle/secondary Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Post middle/secondary Diploma,Rural,Male,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Arabic,Post middle/secondary Diploma,Urban,Female,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Post middle/secondary Diploma,Urban,Male,0,0,0,2,12,6,6,1,1,1,1,0,0,0,1,0,0,0,0,0
+Arabic,Tertiary/HND,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary/HND,Rural,Male,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary/HND,Urban,Female,0,0,1,6,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary/HND,Urban,Male,0,0,3,19,11,12,15,5,4,1,0,1,0,0,0,0,0,0,0,0
+Arabic,Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary - Bachelor's Degree,Rural,Male,0,0,1,0,1,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0
+Arabic,Tertiary - Bachelor's Degree,Urban,Female,0,0,0,6,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary - Bachelor's Degree,Urban,Male,0,0,6,4,15,23,16,18,6,3,3,4,1,0,0,0,0,0,0,0
+Arabic,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,2,6,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,1,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,4,14,15,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary - Master's Degree,Urban,Male,0,0,0,0,1,4,5,6,0,2,2,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary - PhD,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary - PhD,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Tertiary - PhD,Urban,Male,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Other (specify),Rural,Male,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Arabic,Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arabic,Other (specify),Urban,Male,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Russian,Never attended,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Never attended,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Never attended,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Never attended,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Nursery,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Nursery,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Nursery,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Nursery,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Kindergarten,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Kindergarten,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Kindergarten,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Kindergarten,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Primary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Primary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Primary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Primary,Urban,Male,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,JSS/JHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,JSS/JHS,Rural,Male,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,JSS/JHS,Urban,Female,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,JSS/JHS,Urban,Male,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Middle,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Middle,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Middle,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Middle,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,SSS/SHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,SSS/SHS,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,SSS/SHS,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,SSS/SHS,Urban,Male,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Secondary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Secondary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Secondary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Secondary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Voc/technical/commercial,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Voc/technical/commercial,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Voc/technical/commercial,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Voc/technical/commercial,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Post middle/secondary Certificate,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Post middle/secondary Certificate,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Post middle/secondary Certificate,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Post middle/secondary Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Post middle/secondary Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Post middle/secondary Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Post middle/secondary Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary/HND,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary/HND,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary/HND,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary/HND,Urban,Male,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary - Bachelor's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary - Bachelor's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary - Bachelor's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary - Master's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Russian,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary - PhD,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary - PhD,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Tertiary - PhD,Urban,Male,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Russian,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Other (specify),Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russian,Other (specify),Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Never attended,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Never attended,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Never attended,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Never attended,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Nursery,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Nursery,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Nursery,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Nursery,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Kindergarten,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Kindergarten,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Kindergarten,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Kindergarten,Urban,Male,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Primary,Rural,Female,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Primary,Rural,Male,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Primary,Urban,Female,2,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Hausa,Primary,Urban,Male,6,2,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+Hausa,JSS/JHS,Rural,Female,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,JSS/JHS,Rural,Male,0,0,3,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,JSS/JHS,Urban,Female,1,0,3,2,3,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Hausa,JSS/JHS,Urban,Male,0,2,2,4,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Middle,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Middle,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Middle,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Middle,Urban,Male,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Hausa,SSS/SHS,Rural,Female,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,SSS/SHS,Rural,Male,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,SSS/SHS,Urban,Female,0,0,12,12,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,SSS/SHS,Urban,Male,0,0,6,12,4,6,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Secondary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Secondary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Hausa,Secondary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Secondary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Voc/technical/commercial,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Voc/technical/commercial,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Voc/technical/commercial,Urban,Female,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Voc/technical/commercial,Urban,Male,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Post middle/secondary Certificate,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Post middle/secondary Certificate,Urban,Female,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Post middle/secondary Certificate,Urban,Male,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Post middle/secondary Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Post middle/secondary Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Post middle/secondary Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Post middle/secondary Diploma,Urban,Male,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary/HND,Rural,Female,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary/HND,Rural,Male,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary/HND,Urban,Female,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary/HND,Urban,Male,0,0,0,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0
+Hausa,Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary - Bachelor's Degree,Rural,Male,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary - Bachelor's Degree,Urban,Female,0,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary - Bachelor's Degree,Urban,Male,0,0,1,0,2,2,1,4,2,2,1,0,2,0,0,0,0,0,0,0
+Hausa,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,10,7,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary - Master's Degree,Urban,Female,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary - Master's Degree,Urban,Male,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Hausa,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary - PhD,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary - PhD,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Tertiary - PhD,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Other (specify),Rural,Male,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hausa,Other (specify),Urban,Male,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Never attended,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Never attended,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Never attended,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Never attended,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Nursery,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Nursery,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Nursery,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Nursery,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Kindergarten,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Kindergarten,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Kindergarten,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Kindergarten,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Primary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Primary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Primary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Primary,Urban,Male,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,JSS/JHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,JSS/JHS,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,JSS/JHS,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,JSS/JHS,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Middle,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Middle,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Middle,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Middle,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,SSS/SHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,SSS/SHS,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,SSS/SHS,Urban,Female,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,SSS/SHS,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Secondary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Secondary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Secondary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Secondary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Voc/technical/commercial,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Voc/technical/commercial,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Voc/technical/commercial,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Voc/technical/commercial,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Post middle/secondary Certificate,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Post middle/secondary Certificate,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Post middle/secondary Certificate,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Post middle/secondary Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Post middle/secondary Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Post middle/secondary Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Post middle/secondary Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary/HND,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary/HND,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary/HND,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary/HND,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - Bachelor's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - Bachelor's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - Bachelor's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - Master's Degree,Urban,Male,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - PhD,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - PhD,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Tertiary - PhD,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Other (specify),Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spanish,Other (specify),Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Never attended,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Never attended,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Never attended,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Never attended,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Nursery,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Nursery,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Nursery,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Nursery,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Kindergarten,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Kindergarten,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Kindergarten,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Kindergarten,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Primary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Primary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Primary,Urban,Female,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Primary,Urban,Male,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,JSS/JHS,Rural,Female,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,JSS/JHS,Rural,Male,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,JSS/JHS,Urban,Female,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,JSS/JHS,Urban,Male,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Middle,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Middle,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Middle,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Middle,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,SSS/SHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,SSS/SHS,Rural,Male,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,SSS/SHS,Urban,Female,0,0,8,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,SSS/SHS,Urban,Male,0,0,11,10,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Secondary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Secondary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Secondary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Secondary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Voc/technical/commercial,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Voc/technical/commercial,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Voc/technical/commercial,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Voc/technical/commercial,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Post middle/secondary Certificate,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Post middle/secondary Certificate,Urban,Female,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Post middle/secondary Certificate,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Post middle/secondary Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Post middle/secondary Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Post middle/secondary Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Post middle/secondary Diploma,Urban,Male,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary/HND,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary/HND,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary/HND,Urban,Female,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary/HND,Urban,Male,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary - Bachelor's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary - Bachelor's Degree,Urban,Female,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary - Bachelor's Degree,Urban,Male,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,6,7,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,35,25,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary - Master's Degree,Urban,Male,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Other,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary - PhD,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary - PhD,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Tertiary - PhD,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Other (specify),Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other,Other (specify),Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Never attended,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Never attended,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Never attended,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Never attended,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Nursery,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Nursery,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Nursery,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Nursery,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Kindergarten,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Kindergarten,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Kindergarten,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Kindergarten,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Primary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Primary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Primary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Primary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,JSS/JHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,JSS/JHS,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,JSS/JHS,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,JSS/JHS,Urban,Male,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Middle,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Middle,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Middle,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Middle,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,SSS/SHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,SSS/SHS,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,SSS/SHS,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,SSS/SHS,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Secondary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Secondary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Secondary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Secondary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Voc/technical/commercial,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Voc/technical/commercial,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Voc/technical/commercial,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Voc/technical/commercial,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Post middle/secondary Certificate,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Post middle/secondary Certificate,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Post middle/secondary Certificate,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Post middle/secondary Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Post middle/secondary Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Post middle/secondary Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Post middle/secondary Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary/HND,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary/HND,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary/HND,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary/HND,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - Bachelor's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - Bachelor's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - Bachelor's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - Master's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - PhD,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - PhD,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Tertiary - PhD,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Other (specify),Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+German,Other (specify),Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Never attended,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Never attended,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Never attended,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Never attended,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Nursery,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Nursery,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Nursery,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Nursery,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Kindergarten,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Kindergarten,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Kindergarten,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Kindergarten,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Primary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Primary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Primary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Primary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,JSS/JHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,JSS/JHS,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,JSS/JHS,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,JSS/JHS,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Middle,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Middle,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Middle,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Middle,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,SSS/SHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,SSS/SHS,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,SSS/SHS,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,SSS/SHS,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Secondary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Secondary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Secondary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Secondary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Voc/technical/commercial,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Voc/technical/commercial,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Voc/technical/commercial,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Voc/technical/commercial,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Post middle/secondary Certificate,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Post middle/secondary Certificate,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Post middle/secondary Certificate,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Post middle/secondary Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Post middle/secondary Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Post middle/secondary Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Post middle/secondary Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary/HND,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary/HND,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary/HND,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary/HND,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - Bachelor's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - Bachelor's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - Bachelor's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - Master's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - PhD,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - PhD,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Tertiary - PhD,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Other (specify),Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hindi,Other (specify),Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Never attended,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Never attended,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Never attended,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Never attended,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Nursery,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Nursery,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Nursery,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Nursery,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Kindergarten,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Kindergarten,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Kindergarten,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Kindergarten,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Primary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Primary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Primary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Primary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,JSS/JHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,JSS/JHS,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,JSS/JHS,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,JSS/JHS,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Middle,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Middle,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Middle,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Middle,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,SSS/SHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,SSS/SHS,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,SSS/SHS,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,SSS/SHS,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Secondary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Secondary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Secondary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Secondary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Voc/technical/commercial,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Voc/technical/commercial,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Voc/technical/commercial,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Voc/technical/commercial,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Post middle/secondary Certificate,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Post middle/secondary Certificate,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Post middle/secondary Certificate,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Post middle/secondary Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Post middle/secondary Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Post middle/secondary Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Post middle/secondary Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary/HND,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary/HND,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary/HND,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary/HND,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - Bachelor's Degree,Rural,Male,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - Bachelor's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - Bachelor's Degree,Urban,Male,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - Master's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - PhD,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - PhD,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Tertiary - PhD,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Other (specify),Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chinese,Other (specify),Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Never attended,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Never attended,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Never attended,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Never attended,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Nursery,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Nursery,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Nursery,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Nursery,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Kindergarten,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Kindergarten,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Kindergarten,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Kindergarten,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Primary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Primary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Primary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Primary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,JSS/JHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,JSS/JHS,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,JSS/JHS,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,JSS/JHS,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Middle,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Middle,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Middle,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Middle,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,SSS/SHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,SSS/SHS,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,SSS/SHS,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,SSS/SHS,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Secondary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Secondary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Secondary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Secondary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Voc/technical/commercial,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Voc/technical/commercial,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Voc/technical/commercial,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Voc/technical/commercial,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Post middle/secondary Certificate,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Post middle/secondary Certificate,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Post middle/secondary Certificate,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Post middle/secondary Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Post middle/secondary Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Post middle/secondary Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Post middle/secondary Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary/HND,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary/HND,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary/HND,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary/HND,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - Bachelor's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - Bachelor's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - Bachelor's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - Master's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - PhD,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - PhD,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Tertiary - PhD,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Other (specify),Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swahili,Other (specify),Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Never attended,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Never attended,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Never attended,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Never attended,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Nursery,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Nursery,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Nursery,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Nursery,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Kindergarten,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Kindergarten,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Kindergarten,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Kindergarten,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Primary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Primary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Primary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Primary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,JSS/JHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,JSS/JHS,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,JSS/JHS,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,JSS/JHS,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Middle,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Middle,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Middle,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Middle,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,SSS/SHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,SSS/SHS,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,SSS/SHS,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,SSS/SHS,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Secondary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Secondary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Secondary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Secondary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Voc/technical/commercial,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Voc/technical/commercial,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Voc/technical/commercial,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Voc/technical/commercial,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Post middle/secondary Certificate,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Post middle/secondary Certificate,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Post middle/secondary Certificate,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Post middle/secondary Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Post middle/secondary Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Post middle/secondary Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Post middle/secondary Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary/HND,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary/HND,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary/HND,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary/HND,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - Bachelor's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - Bachelor's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - Bachelor's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - Master's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - PhD,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - PhD,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Tertiary - PhD,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Other (specify),Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Japanese,Other (specify),Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
