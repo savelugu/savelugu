@@ -5,3 +5,5 @@ networkx
 streamlit_option_menu
 matplotlib
 seaborn
+streamlit-carousel
+
