@@ -1,0 +1,273 @@
+Hearing,Education,Locality,Sex,5-9,10-14,15-17,18-19,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65-69,70-74,75-79,80-84,85-89,90-94,95-99,100+
+No difficulty,Never attended,Rural,Male,1114,684,378,239,779,799,917,730,838,563,510,287,333,179,200,130,103,43,18,3,3
+No difficulty,Never attended,Rural,Female,1239,821,400,349,1427,1413,1516,1221,1107,697,544,285,346,147,207,132,160,34,15,1,4
+No difficulty,Never attended,Urban,Male,757,371,324,219,687,728,1054,968,1086,864,720,343,417,238,274,161,145,46,17,3,2
+No difficulty,Never attended,Urban,Female,965,511,329,290,1470,1956,2385,1903,1854,1094,888,434,556,323,401,259,291,94,35,2,5
+No difficulty,Nursery,Rural,Male,134,1,0,0,1,0,3,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+No difficulty,Nursery,Rural,Female,115,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Nursery,Urban,Male,254,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Nursery,Urban,Female,245,1,1,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0
+No difficulty,Kindergarten,Rural,Male,568,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Kindergarten,Rural,Female,496,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Kindergarten,Urban,Male,1171,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Kindergarten,Urban,Female,1057,0,0,1,2,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Primary,Rural,Male,2021,1864,89,71,133,114,68,66,38,22,16,8,6,4,1,2,3,0,0,0,0
+No difficulty,Primary,Rural,Female,1679,1422,67,50,153,86,56,25,12,4,6,0,1,1,0,0,0,0,0,0,0
+No difficulty,Primary,Urban,Male,3749,3231,129,102,191,125,133,90,70,41,29,20,16,11,5,3,2,0,2,0,0
+No difficulty,Primary,Urban,Female,3467,2786,94,88,187,164,110,66,34,17,14,5,3,3,5,1,1,0,0,0,0
+No difficulty,JSS/JHS,Rural,Male,0,334,772,212,262,166,148,93,53,27,16,2,0,0,0,0,0,0,0,0,0
+No difficulty,JSS/JHS,Rural,Female,0,234,448,168,197,137,76,26,8,5,3,0,0,0,0,0,0,0,0,0,0
+No difficulty,JSS/JHS,Urban,Male,0,732,1452,410,433,276,285,172,109,72,22,13,0,0,0,0,0,0,0,0,0
+No difficulty,JSS/JHS,Urban,Female,0,671,1192,361,437,319,182,66,40,14,3,4,0,0,0,0,0,0,0,0,0
+No difficulty,Middle,Rural,Male,0,0,0,0,0,0,0,0,0,5,5,7,5,4,2,0,1,0,0,0,0
+No difficulty,Middle,Rural,Female,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+No difficulty,Middle,Urban,Male,0,0,0,0,0,0,0,0,0,6,20,19,19,18,15,6,4,1,0,0,0
+No difficulty,Middle,Urban,Female,0,0,0,0,0,0,0,0,0,2,3,10,9,2,2,0,1,0,0,0,0
+No difficulty,SSS/SHS,Rural,Male,0,4,143,207,499,301,158,64,45,30,3,0,0,0,0,0,0,0,0,0,0
+No difficulty,SSS/SHS,Rural,Female,0,3,107,124,281,118,33,11,4,4,1,0,0,0,0,0,0,0,0,0,0
+No difficulty,SSS/SHS,Urban,Male,0,10,537,899,1947,582,386,234,172,113,15,0,0,0,0,0,0,0,0,0,0
+No difficulty,SSS/SHS,Urban,Female,0,5,500,739,1453,499,197,71,37,13,2,0,0,0,0,0,0,0,0,0,0
+No difficulty,Secondary,Rural,Male,0,0,1,3,3,4,2,1,4,4,10,4,7,6,3,0,0,0,0,0,0
+No difficulty,Secondary,Rural,Female,0,0,0,1,3,4,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Secondary,Urban,Male,0,3,0,3,15,10,20,15,20,15,39,22,18,16,6,5,2,2,0,0,0
+No difficulty,Secondary,Urban,Female,0,0,0,3,15,9,10,3,6,8,6,5,0,1,2,0,2,1,0,0,0
+No difficulty,Voc/technical/commercial,Rural,Male,0,0,0,0,7,14,7,6,3,2,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Voc/technical/commercial,Rural,Female,0,0,0,1,2,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Voc/technical/commercial,Urban,Male,0,0,0,3,4,67,18,5,8,5,1,2,2,2,0,0,0,0,0,0,0
+No difficulty,Voc/technical/commercial,Urban,Female,0,0,0,0,4,35,11,6,0,0,1,0,1,0,0,0,0,0,0,0,0
+No difficulty,Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,1,1,2,1,0,1,0,1,1,0,0,1,0,0,0,0
+No difficulty,Post middle/secondary Certificate,Rural,Female,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Post middle/secondary Certificate,Urban,Male,0,0,0,1,13,15,17,8,4,3,1,7,3,5,2,1,0,0,0,0,0
+No difficulty,Post middle/secondary Certificate,Urban,Female,0,0,0,4,6,8,16,1,3,3,1,2,3,0,0,0,0,0,0,0,0
+No difficulty,Post middle/secondary Diploma,Rural,Male,0,0,1,0,13,12,17,5,3,1,1,1,1,1,1,1,0,0,0,0,0
+No difficulty,Post middle/secondary Diploma,Rural,Female,0,0,0,0,4,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Post middle/secondary Diploma,Urban,Male,0,0,0,0,27,91,76,38,21,8,5,6,5,4,2,1,0,0,0,0,0
+No difficulty,Post middle/secondary Diploma,Urban,Female,0,0,0,16,35,39,29,9,4,2,3,5,2,0,0,2,0,0,0,0,0
+No difficulty,Tertiary/HND,Rural,Male,0,0,0,1,96,39,25,6,3,0,0,0,1,1,0,0,0,0,0,0,0
+No difficulty,Tertiary/HND,Rural,Female,0,0,0,16,37,17,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Tertiary/HND,Urban,Male,0,0,2,15,201,124,112,83,37,17,17,4,2,3,1,1,0,0,0,0,0
+No difficulty,Tertiary/HND,Urban,Female,0,0,0,29,124,53,41,17,5,2,1,0,2,0,0,0,0,0,0,0,0
+No difficulty,Tertiary - Bachelor's Degree,Rural,Male,0,0,0,45,36,28,31,20,12,4,4,1,1,6,1,0,0,0,0,0,0
+No difficulty,Tertiary - Bachelor's Degree,Rural,Female,0,0,0,22,6,8,4,2,3,1,0,0,0,1,0,0,0,0,0,0,0
+No difficulty,Tertiary - Bachelor's Degree,Urban,Male,0,0,1,70,67,144,216,114,111,44,25,13,16,11,2,2,0,0,0,0,0
+No difficulty,Tertiary - Bachelor's Degree,Urban,Female,0,0,0,7,39,52,64,29,5,4,7,3,0,0,0,0,0,0,0,0,0
+No difficulty,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,26,33,22,2,2,1,2,0,0,0,1,0,1,0,0,0,0
+No difficulty,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,3,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,0,291,238,126,41,24,10,7,8,9,2,2,0,0,0,0,0,0
+No difficulty,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,0,100,128,51,16,4,3,1,5,1,1,0,0,0,0,0,0,0
+No difficulty,Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,1,3,4,1,0,1,0,0,0,0,0,0,0,0,0,0
+No difficulty,Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Tertiary - Master's Degree,Urban,Male,0,0,0,0,4,8,22,26,24,14,8,5,4,3,0,0,0,0,0,0,0
+No difficulty,Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,1,2,8,0,0,1,2,0,0,0,0,0,0,0,0,0
+No difficulty,Tertiary - PhD,Rural,Male,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Tertiary - PhD,Urban,Male,0,0,0,0,0,1,1,2,3,1,2,1,1,0,0,1,0,0,0,0,0
+No difficulty,Tertiary - PhD,Urban,Female,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Other (specify),Rural,Male,0,0,0,0,0,0,3,2,0,1,0,1,0,0,0,0,0,0,0,0,0
+No difficulty,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No difficulty,Other (specify),Urban,Male,0,0,0,0,3,1,2,1,0,2,3,0,0,0,0,0,0,0,0,0,0
+No difficulty,Other (specify),Urban,Female,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Never attended,Rural,Male,12,2,2,2,4,4,3,2,11,5,16,9,10,11,15,14,17,13,6,2,0
+"Yes, some difficulty",Never attended,Rural,Female,6,4,3,2,8,11,16,16,15,17,22,20,22,9,22,30,22,10,6,1,2
+"Yes, some difficulty",Never attended,Urban,Male,21,4,5,7,18,10,14,16,21,21,19,13,20,10,27,19,18,14,8,0,4
+"Yes, some difficulty",Never attended,Urban,Female,13,15,5,4,26,30,49,26,52,45,32,26,37,20,50,35,32,20,4,6,5
+"Yes, some difficulty",Nursery,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Nursery,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Nursery,Urban,Male,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Nursery,Urban,Female,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Kindergarten,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Kindergarten,Rural,Female,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Kindergarten,Urban,Male,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Kindergarten,Urban,Female,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Primary,Rural,Male,11,9,2,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+"Yes, some difficulty",Primary,Rural,Female,8,8,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Primary,Urban,Male,41,33,1,1,2,1,4,0,4,0,0,0,0,0,0,0,0,0,1,0,0
+"Yes, some difficulty",Primary,Urban,Female,39,51,0,2,1,2,0,0,2,0,0,0,1,0,1,0,0,0,1,0,0
+"Yes, some difficulty",JSS/JHS,Rural,Male,0,2,2,1,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",JSS/JHS,Rural,Female,0,2,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",JSS/JHS,Urban,Male,0,8,12,2,6,6,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",JSS/JHS,Urban,Female,0,6,16,3,9,2,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Middle,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Yes, some difficulty",Middle,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Middle,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0
+"Yes, some difficulty",Middle,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+"Yes, some difficulty",SSS/SHS,Rural,Male,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",SSS/SHS,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",SSS/SHS,Urban,Male,0,0,3,10,9,4,5,2,2,2,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",SSS/SHS,Urban,Female,0,0,9,18,6,6,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Secondary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Secondary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Secondary,Urban,Male,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+"Yes, some difficulty",Secondary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Voc/technical/commercial,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Voc/technical/commercial,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Voc/technical/commercial,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Voc/technical/commercial,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Post middle/secondary Certificate,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Post middle/secondary Certificate,Urban,Male,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Post middle/secondary Certificate,Urban,Female,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Post middle/secondary Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Post middle/secondary Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Post middle/secondary Diploma,Urban,Male,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Post middle/secondary Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary/HND,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary/HND,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary/HND,Urban,Male,0,0,0,0,3,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary/HND,Urban,Female,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - Bachelor's Degree,Rural,Male,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - Bachelor's Degree,Urban,Male,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - Bachelor's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - Master's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - PhD,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - PhD,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Tertiary - PhD,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Other (specify),Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Other (specify),Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, some difficulty",Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Never attended,Rural,Male,2,2,0,0,1,0,1,0,2,0,1,1,2,0,1,2,9,1,1,2,0
+"Yes, a lot of difficulty",Never attended,Rural,Female,0,0,1,0,2,3,2,2,4,2,3,0,5,1,5,7,5,7,4,0,0
+"Yes, a lot of difficulty",Never attended,Urban,Male,2,1,1,0,3,0,1,1,4,3,1,4,3,0,1,2,2,0,1,0,0
+"Yes, a lot of difficulty",Never attended,Urban,Female,2,1,0,0,3,0,1,2,4,6,2,2,10,1,5,9,12,4,1,0,0
+"Yes, a lot of difficulty",Nursery,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Nursery,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Nursery,Urban,Male,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Nursery,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Kindergarten,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Kindergarten,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Kindergarten,Urban,Male,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Kindergarten,Urban,Female,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Primary,Rural,Male,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Yes, a lot of difficulty",Primary,Rural,Female,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Primary,Urban,Male,15,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Primary,Urban,Female,8,29,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",JSS/JHS,Rural,Male,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",JSS/JHS,Rural,Female,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",JSS/JHS,Urban,Male,0,1,14,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",JSS/JHS,Urban,Female,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Middle,Rural,Male,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Middle,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Middle,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Middle,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",SSS/SHS,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",SSS/SHS,Rural,Female,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",SSS/SHS,Urban,Male,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",SSS/SHS,Urban,Female,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Secondary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Secondary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Secondary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Secondary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Voc/technical/commercial,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Voc/technical/commercial,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Voc/technical/commercial,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Voc/technical/commercial,Urban,Female,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Post middle/secondary Certificate,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Post middle/secondary Certificate,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Post middle/secondary Certificate,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Post middle/secondary Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Post middle/secondary Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Post middle/secondary Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Post middle/secondary Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary/HND,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary/HND,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary/HND,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary/HND,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - Bachelor's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - Bachelor's Degree,Urban,Male,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - Bachelor's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - Master's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - PhD,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - PhD,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Tertiary - PhD,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Other (specify),Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Other (specify),Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yes, a lot of difficulty",Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Never attended,Rural,Male,0,2,0,0,0,0,2,0,0,0,2,1,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Never attended,Rural,Female,0,2,0,2,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+Cannot hear at all,Never attended,Urban,Male,0,0,0,0,0,0,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+Cannot hear at all,Never attended,Urban,Female,0,1,0,1,1,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Nursery,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Nursery,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Nursery,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Nursery,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Kindergarten,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Kindergarten,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Kindergarten,Urban,Male,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Kindergarten,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Primary,Rural,Male,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Primary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Primary,Urban,Male,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Primary,Urban,Female,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,JSS/JHS,Rural,Male,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,JSS/JHS,Rural,Female,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,JSS/JHS,Urban,Male,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,JSS/JHS,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Middle,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Middle,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Middle,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Middle,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,SSS/SHS,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,SSS/SHS,Rural,Female,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,SSS/SHS,Urban,Male,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,SSS/SHS,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Secondary,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Secondary,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Secondary,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Secondary,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Voc/technical/commercial,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Voc/technical/commercial,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Voc/technical/commercial,Urban,Male,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Voc/technical/commercial,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Post middle/secondary Certificate,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Post middle/secondary Certificate,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Post middle/secondary Certificate,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Post middle/secondary Certificate,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Post middle/secondary Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Post middle/secondary Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Post middle/secondary Diploma,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Post middle/secondary Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary/HND,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary/HND,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary/HND,Urban,Male,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary/HND,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - Bachelor's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - Bachelor's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - Bachelor's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - Bachelor's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - Post graduate Certificate/Diploma,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - Post graduate Certificate/Diploma,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - Post graduate Certificate/Diploma,Urban,Male,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - Post graduate Certificate/Diploma,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - Master's Degree,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - Master's Degree,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - Master's Degree,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - Master's Degree,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - PhD,Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - PhD,Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - PhD,Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Tertiary - PhD,Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Other (specify),Rural,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Other (specify),Rural,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Other (specify),Urban,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cannot hear at all,Other (specify),Urban,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -10,46 +10,280 @@ import altair as alt
 
 def app():
     
-    st.title("📄 Multidimensional Poverty Fact Sheet - Savelugu Municipal")
+    st.header("📄 Multidimensional Poverty Fact Sheet - Savelugu Municipal")
+    
+    css_animation = """
+    <style>
+    @keyframes bump {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-10px); }
+    }
 
+    .bumping-text {
+        display: inline-block;
+        animation: bump 1s infinite;
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: #00ccff;
+        text-align: center;
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+
+    /* Updated Glow Card Style */
+    .metric-glow {
+        padding: 1rem;
+        margin: 0.5rem;
+        border-radius: 12px;
+        background: #111;
+        color: white;
+        box-shadow: 0 0 15px rgba(0, 153, 255, 0.6);
+        transition: 0.3s ease-in-out;
+        min-height: 180px; /* ✅ Controls uniform height */
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .metric-glow:hover {
+        box-shadow: 0 0 25px rgba(0, 153, 255, 1);
+        transform: scale(1.02);
+    }
+    </style>
+    """
+    st.markdown(css_animation, unsafe_allow_html=True)
+
+
+        # --- Intro Card ---
     st.markdown("""
-    This fact sheet summarizes the **multidimensional poverty statistics** for **Savelugu Municipal**,  
-    based on the **2021 Population and Housing Census (PHC)**.  
+    <div class="metric-glow">
+        <h4>📊 Overview</h4>
+        <p>This fact sheet summarizes the <strong>multidimensional poverty statistics</strong> for <strong>Savelugu Municipal</strong>, based on the <strong>2021 Population and Housing Census (PHC)</strong>.</p>
+    </div>
+    """, unsafe_allow_html=True)
+    col1, col2 =st.columns(2)
+    
+    with col1:
+        # --- Incidence ---
+        st.markdown("""
+        <div class="metric-glow">
+            <h4>🧍‍♀️ Incidence</h4>
+            <p><em>Who is poor?</em></p>
+        </div>
+        """, unsafe_allow_html=True)
+    with col2:
+            # --- Intensity ---
+            st.markdown("""
+            <div class="metric-glow">
+                <h4>🔥 Intensity</h4>
+                <p><em>How poor are the poor?</em></p>
+            </div>
+            """, unsafe_allow_html=True)
+    
+    col1, col2 =st.columns(2)
+    with col1:
+        # --- Contribution to Poverty ---
+        st.markdown("""
+        <div class="metric-glow">
+            <h4>📌 Contribution to Poverty</h4>
+            <p><em>How is poverty experienced?</em></p>
+        </div>
+        """, unsafe_allow_html=True)
+    with col2:
+        # --- Deprivation in 4 Dimensions ---
+        st.markdown("""
+        <div class="metric-glow">
+            <h4>🌍 Deprivation in 4 Dimensions</h4>
+            <p><em>World Standard?</em></p>
+        </div>
+        """, unsafe_allow_html=True)
+    col1, col2 =st.columns(2)    
+    with col1:
+        # --- 13 Indicators ---
+        st.markdown("""
+        <div class="metric-glow">
+            <h4>📉 Deprivation in 13 Indicators</h4>
+            <p><em>What are people in the district lacking?</em></p>
+        </div>
+        """, unsafe_allow_html=True)
+    with col2:
+        # --- External Link ---
+        st.markdown("""
+        <div class="metric-glow">
+            <h4>🔗 Learn More</h4>
+            <p>For more on multidimensional poverty and the methodology, visit:</p>
+            <p><a href="https://statsghana.gov.gh/MPI-Primer.pdf" target="_blank">MPI Primer (PDF)</a></p>
+        </div>
+        """, unsafe_allow_html=True)
 
-    It highlights:
-    - **Incidence** (*Who is poor?*)
-    - **Intensity** (*How poor are the poor?*)
-    - **Deprivation in 13 indicators** (*What are people in the district lacking?*)
-    - **Contribution to poverty** (*How is poverty experienced?*)
+    # Horizontal divider
+    st.markdown("---")
 
-    🔗 For more on multidimensional poverty and the methodology, visit:  
-    [https://statsghana.gov.gh/MPI-Primer.pdf](https://statsghana.gov.gh/MPI-Primer.pdf)
-    """)
 
     st.markdown("---")
 
-    st.subheader("📊 Key Statistics for Savelugu Municipal")
+    st.header("📊 Key Statistics for Savelugu Municipal")
 
+    # Inject CSS
+    css_animation = """
+    <style>
+    @keyframes bump {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-10px); }
+    }
+
+    .bumping-text {
+        display: inline-block;
+        animation: bump 1s infinite;
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: #00ccff;
+        text-align: center;
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+
+    .metric-glow {
+        padding: 1rem;
+        margin: 0.5rem;
+        border-radius: 12px;
+        background: #111;
+        color: white;
+        box-shadow: 0 0 15px rgba(0, 153, 255, 0.6);
+        transition: 0.3s ease-in-out;
+        min-height: 180px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .metric-glow:hover {
+        box-shadow: 0 0 25px rgba(0, 153, 255, 1);
+        transform: scale(1.02);
+    }
+
+    /* Circle style for values */
+    .circle-value {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        background: #00ccff;
+        color: #000;
+        font-size: 1.4rem;
+        font-weight: bold;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 10px 0;
+        box-shadow: 0 0 10px rgba(0, 153, 255, 0.7);
+        align-self: center;
+    }
+    </style>
+    """
+    st.markdown(css_animation, unsafe_allow_html=True)
+
+    # --- Statistic Cards with Circles ---
+    col1, col2 = st.columns(2)
+    with col1:
+        st.markdown("""
+        <div class="metric-glow">
+            <h4>📉 Multidimensional Poverty</h4>
+            <div class="circle-value">41.1%</div>
+            <p>of the population live in <strong>multidimensional poverty</strong>.</p>
+        </div>
+        """, unsafe_allow_html=True)
+
+    with col2:
+        st.markdown("""
+        <div class="metric-glow">
+            <h4>📊 Poverty Intensity</h4>
+            <div class="circle-value">45.5%</div>
+            <p>The <strong>average intensity</strong> of poverty.</p>
+        </div>
+        """, unsafe_allow_html=True)
+
+    col1, col2 = st.columns(2)
+    with col1:
+        st.markdown("""
+        <div class="metric-glow">
+            <h4>📌 MPI Value</h4>
+            <div class="circle-value">0.187</div>
+            <p>The <strong>Multidimensional Poverty Index</strong> value.</p>
+        </div>
+        """, unsafe_allow_html=True)
+
+    with col2:
+        st.markdown("""
+        <div class="metric-glow">
+            <h4>🏅 National Ranking</h4>
+            <div class="circle-value">221st</div>
+            <p>out of 261 districts<br><small>(lower rank = less poverty)</small></p>
+        </div>
+        """, unsafe_allow_html=True)
+
+    # Last card full width
     st.markdown("""
-    - **41.1%** of the population live in **multidimensional poverty**.
-    - The **average intensity** of poverty is **45.5%**.
-    - Therefore, the **Multidimensional Poverty Index (MPI)** is estimated at **0.187**.
-    - **Ranking:**  
-    - **221st out of 261** districts nationally  
-    - **5th out of 16** districts in the **Northern Region**  
-    *(A lower rank means less poverty)*
+    <div class="metric-glow">
+        <h4>📍 Regional Ranking</h4>
+        <div class="circle-value">5th</div>
+        <p>out of 16 districts in the <strong>Northern Region</strong></p>
+    </div>
+    """, unsafe_allow_html=True)
 
-    """)
+    # Divider
+    st.markdown("---")
+
+
+
 
     st.subheader("🚫 Areas of Highest Deprivation")
 
-    st.markdown("""
-    - **Improved toilet facilities:** **94.3%** of the population lack access  
-    - **Housing (material quality):** **62.6%** deprived  
-    - **Health insurance coverage:** **59.3%** of people are uninsured
+# Reuse or inject CSS for red glow and circle value styling
+   
+    # --- Display Cards with Circles ---
+    col1, col2 = st.columns(2)
 
-    📌 In **9 out of 13 indicators**, Savelugu Municipal had **higher deprivation** than the national averages.
-    """)
+    with col1:
+        st.markdown("""
+        <div class="metric-glow">
+            <h4>🚽 Toilet Facilities</h4>
+            <div class="circle-value">94.3%</div>
+            <p>of the population lack access to <strong>improved toilet facilities</strong>.</p>
+        </div>
+        """, unsafe_allow_html=True)
+
+    with col2:
+        st.markdown("""
+        <div class="metric-glow">
+            <h4>🏠 Housing Quality</h4>
+            <div class="circle-value">62.6%</div>
+            <p>of households are deprived in terms of <strong>housing material quality</strong>.</p>
+        </div>
+        """, unsafe_allow_html=True)
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.markdown("""
+        <div class="metric-glow">
+            <h4>🏥 Health Insurance</h4>
+            <div class="circle-value">59.3%</div>
+            <p>of people <strong>lack health insurance coverage</strong>.</p>
+        </div>
+        """, unsafe_allow_html=True)
+
+    with col2:
+        st.markdown("""
+        <div class="metric-glow">
+            <h4>📊 High Deprivation</h4>
+            <div class="circle-value">9 / 13</div>
+            <p>Savelugu Municipal had <strong>higher deprivation</strong> than the national average in <strong>9 of 13 indicators</strong>.</p>
+        </div>
+        """, unsafe_allow_html=True)
+
+    # Divider
+    st.markdown("---")
+
     
     # 8. Multidimensional Poverty Index (MPI)
     st.markdown("### 8. Multidimensional Poverty Index (MPI)")
@@ -138,61 +372,50 @@ def app():
         
     st.markdown("### Key Deprivation Indicators")
 
-    # CSS Styling for Cards
-    st.markdown("""
-        <style>
-            .info-card {
-                background-color: #1e1e1e;
-                padding: 18px;
-                border-radius: 12px;
-                color: white;
-                text-align: center;
-                box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
-                font-size: 14px;
-            }
-            .info-card-title {
-                font-weight: bold;
-                color: #87CEFA;  /* Light Blue */
-                margin-bottom: 6px;
-            }
-        </style>
-    """, unsafe_allow_html=True)
-
-    # Create 2 rows of 2 cards each
+        # Row 1
     row1_col1, row1_col2 = st.columns(2)
-    row2_col1, row2_col2 = st.columns(2)
 
     with row1_col1:
         st.markdown("""
-            <div class="info-card">
-                <div class="info-card-title">Living Standards</div>
-                62.6% deprived (housing material)
-            </div>
+        <div class="info-card">
+            <div class="info-card-title">🏠 Living Standards</div>
+            <div class="circle-value">62.6%</div>
+            <p>deprived in <strong>housing material quality</strong></p>
+        </div>
         """, unsafe_allow_html=True)
 
     with row1_col2:
         st.markdown("""
-            <div class="info-card">
-                <div class="info-card-title">Sanitation</div>
-                94.3% lack improved toilets
-            </div>
+        <div class="info-card">
+            <div class="info-card-title">🚽 Sanitation</div>
+            <div class="circle-value">94.3%</div>
+            <p>lack access to <strong>improved toilet facilities</strong></p>
+        </div>
         """, unsafe_allow_html=True)
+
+    # Row 2
+    row2_col1, row2_col2 = st.columns(2)
 
     with row2_col1:
         st.markdown("""
-            <div class="info-card">
-                <div class="info-card-title">Health Insurance</div>
-                59.3% not insured
-            </div>
+        <div class="info-card">
+            <div class="info-card-title">🏥 Health Insurance</div>
+            <div class="circle-value">59.3%</div>
+            <p>of residents are <strong>not insured</strong></p>
+        </div>
         """, unsafe_allow_html=True)
 
     with row2_col2:
         st.markdown("""
-            <div class="info-card">
-                <div class="info-card-title">Education</div>
-                Over 40% adults have no formal schooling
-            </div>
+        <div class="info-card">
+            <div class="info-card-title">📚 Education</div>
+            <div class="circle-value">40%+</div>
+            <p>of adults have <strong>no formal schooling</strong></p>
+        </div>
         """, unsafe_allow_html=True)
+
+    # Divider
+    st.markdown("---")
 
 
     st.subheader("📊 Poverty vs Key Infrastructure Indicators")
@@ -251,11 +474,12 @@ def app():
                     x="Community_Name", 
                     y="Total_Population", 
                     title="Top 15 Most Populous Communities in Savelugu",
+                    color_discrete_sequence=px.colors.sequential.RdBu,
                     labels={"Total_Population": "Population"},
                     color="Total_Population")
 
     st.plotly_chart(fig_pop)
-    # --- CSS Animation for the Header ---
+        # --- CSS Animation for the Header ---
     css_animation = """
         <style>
         @keyframes bump {
@@ -266,41 +490,42 @@ def app():
         .bumping-text {
             display: inline-block;
             animation: bump 1s infinite;
-            font-size: 42px;
-            color: #15FFFF;
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #00ccff;
             text-align: center;
             width: 100%;
+            margin-bottom: 2rem;
         }
-        
-        /* Glow effect for metric cards */
-    .metric-glow {
-        padding: 1rem;
-        margin: 0.5rem;
-        border-radius: 12px;
-        background: #111;
-        box-shadow: 0 0 15px rgba(0, 153, 255, 0.6);
-        transition: 0.3s ease-in-out;
-    }
 
-    .metric-glow:hover {
-        box-shadow: 0 0 25px rgba(0, 153, 255, 1);
-        transform: scale(1.02);
-    }
+        /* Glow card style */
+        .metric-glow {
+            padding: 1rem;
+            margin: 0.5rem;
+            border-radius: 12px;
+            background: #111;
+            box-shadow: 0 0 15px rgba(0, 153, 255, 0.6);
+            color: white;
+            min-height: 100px;
+            text-align: center;
+        }
 
-    /* Center and style headings */
-    .bumping-text {
-        color: #00ccff;
-        text-align: center;
-        font-size: 2.5rem;
-        font-weight: bold;
-        margin-bottom: 2rem;
-    }
+        .metric-value {
+            font-size: 1.8rem;
+            font-weight: bold;
+            color: #00ccff;
+        }
+
+        .metric-label {
+            font-size: 1rem;
+            opacity: 0.85;
+        }
         </style>
     """
     st.markdown(css_animation, unsafe_allow_html=True)
     st.markdown("<h1 class='bumping-text'>Savelugu Community Dashboard</h1>", unsafe_allow_html=True)
 
-    # --- Metrics ---
+    # --- Compute Metrics ---
     total_communities = df['Community_Name'].nunique()
     total_population = df['Total_Population'].sum()
     total_males = df['Male_Population'].sum()
@@ -309,43 +534,28 @@ def app():
     head_male = df['Head_Male'].sum()
     head_female = df['Head_Female'].sum()
 
+    # --- Display Metrics as Styled Cards ---
+    def render_metric(label, value):
+        return f"""
+        <div class="metric-glow">
+            <div class="metric-value">{value:,}</div>
+            <div class="metric-label">{label}</div>
+        </div>
+        """
+
+    # First row
     col1, col2, col3, col4 = st.columns(4)
-    with col1:
-        st.markdown('<div class="metric-glow">', unsafe_allow_html=True)
-        st.metric("Total Communities", total_communities)
-        st.markdown('</div>', unsafe_allow_html=True)
+    col1.markdown(render_metric("Total Communities", total_communities), unsafe_allow_html=True)
+    col2.markdown(render_metric("Total Population", total_population), unsafe_allow_html=True)
+    col3.markdown(render_metric("Male Population", total_males), unsafe_allow_html=True)
+    col4.markdown(render_metric("Female Population", total_females), unsafe_allow_html=True)
 
-    with col2:
-        st.markdown('<div class="metric-glow">', unsafe_allow_html=True)
-        st.metric("Total Population", total_population)
-        st.markdown('</div>', unsafe_allow_html=True)
-
-    with col3:
-        st.markdown('<div class="metric-glow">', unsafe_allow_html=True)
-        st.metric("Male Population", total_males)
-        st.markdown('</div>', unsafe_allow_html=True)
-
-    with col4:
-        st.markdown('<div class="metric-glow">', unsafe_allow_html=True)
-        st.metric("Female Population", total_females)
-        st.markdown('</div>', unsafe_allow_html=True)
-
+    # Second row
     col5, col6, col7 = st.columns(3)
-    with col5:
-        st.markdown('<div class="metric-glow">', unsafe_allow_html=True)
-        st.metric("Total Households", total_households)
-        st.markdown('</div>', unsafe_allow_html=True)
-
-    with col6:
-        st.markdown('<div class="metric-glow">', unsafe_allow_html=True)
-        st.metric("Male Household Heads", head_male)
-        st.markdown('</div>', unsafe_allow_html=True)
-
-    with col7:
-        st.markdown('<div class="metric-glow">', unsafe_allow_html=True)
-        st.metric("Female Household Heads", head_female)
-        st.markdown('</div>', unsafe_allow_html=True)
-    # --- Optional: Show full dataset ---
+    col5.markdown(render_metric("Total Households", total_households), unsafe_allow_html=True)
+    col6.markdown(render_metric("Male Household Heads", head_male), unsafe_allow_html=True)
+    col7.markdown(render_metric("Female Household Heads", head_female), unsafe_allow_html=True)
+# --- Optional: Show full dataset ---
     with st.expander("📊 Show Raw Data"):
         st.dataframe(df)
 
@@ -495,7 +705,7 @@ def app():
         text="Poverty Rate (%)",
         orientation="h",
         title=title,
-        color_discrete_sequence=px.colors.qualitative.Set3
+        color_discrete_sequence=px.colors.sequential.RdBu
     )
 
     fig.update_traces(texttemplate='%{text:.1f}%', textposition='outside')
@@ -659,6 +869,7 @@ def app():
         orientation="h",
         color="Highlight",
         text="MPI",
+        color_discrete_sequence=px.colors.sequential.RdBu,
         color_discrete_map=bar_color_map,
         hover_data={
             "MPI": True,
@@ -1358,6 +1569,51 @@ def app():
             <span class="emoji">🎯</span> <strong>Target MPI indicators</strong> for focused and measurable poverty reduction
         </div>
         """, unsafe_allow_html=True)
+    
+    import streamlit.components.v1 as components
+
+    st.title("🌍 Spinning 3D Globe")
+
+    globe_html = """
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://unpkg.com/three@0.139.2/build/three.min.js"></script>
+        <script src="https://unpkg.com/globe.gl"></script>
+        <style>
+        html, body {
+            margin: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        #globeViz {
+            width: 100%;
+            height: 100%;
+        }
+        </style>
+    </head>
+    <body>
+        <div id="globeViz"></div>
+        <script>
+        const Globe = window.Globe;
+        const world = Globe()
+            (document.getElementById('globeViz'))
+            .globeImageUrl('//unpkg.com/three-globe/example/img/earth-dark.jpg')
+            .backgroundImageUrl('//unpkg.com/three-globe/example/img/night-sky.png')
+            .showAtmosphere(true)
+            .atmosphereColor('lightskyblue')
+            .atmosphereAltitude(0.25)
+            .pointOfView({ lat: 0, lng: 0, altitude: 3 }, 0);
+
+        // Auto-rotate
+        world.controls().autoRotate = true;
+        world.controls().autoRotateSpeed = 1.5;
+        </script>
+    </body>
+    </html>
+    """
+
+    components.html(globe_html, height=600)
 
 
 

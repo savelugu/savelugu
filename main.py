@@ -2,7 +2,8 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import os
 import base64
-import structures, mpi, sanitation, economic, population, savelugu, housing, fertility, education
+import streamlit.components.v1 as components
+import structures, mpi, sanitation, economic, population, savelugu, housing, fertility, education, difficulties
 
 # Page configuration
 st.set_page_config(
@@ -12,6 +13,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+
 # Load and encode image
 def load_image(image_path):
     with open(image_path, "rb") as image_file:
@@ -20,6 +22,131 @@ def load_image(image_path):
 # Image paths
 logo_path = "./Images/coat.png"
 cropped_logo = load_image(logo_path)
+
+   # --- CSS Animation for the Header and Glowing Cards ---
+css_animation = """
+<style>
+@keyframes bump {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+}
+
+/* Bouncing, glowing heading */
+.bumping-text {
+    display: inline-block;
+    animation: bump 1s infinite;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #00ccff;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 2rem;
+    white-space: nowrap;
+}
+
+/* Glow effect for metric cards */
+.metric-glow {
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border-radius: 12px;
+    background: #111;
+    color: white;
+    box-shadow: 0 0 15px rgba(0, 153, 255, 0.6);
+    transition: 0.3s ease-in-out;
+}
+
+.metric-glow:hover {
+    box-shadow: 0 0 25px rgba(0, 153, 255, 1);
+    transform: scale(1.02);
+}
+</style>
+"""
+
+# Inject CSS
+st.markdown(css_animation, unsafe_allow_html=True)
+# Savelugu coordinates
+# Savelugu coordinates# Savelugu coordinates
+# Savelugu coordinates
+savelugu_coords = {"lat": 9.6245, "lng": -0.8305}
+
+# CSS for column layout and animation
+st.markdown(f"""
+<style>
+@keyframes bump {{
+    0%, 100% {{ transform: translateY(0); }}
+    50% {{ transform: translateY(-10px); }}
+}}
+
+.header-container {{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+    gap: 1rem;
+}}
+
+.bumping-text {{
+    animation: bump 1.5s infinite;
+    font-size: 2.3rem;
+    font-weight: bold;
+    color: #00ccff;
+    margin: 0;
+    text-align: center;
+}}
+
+.globe-box {{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 0 15px rgba(0, 204, 255, 0.4);
+}}
+</style>
+""", unsafe_allow_html=True)
+
+# HTML structure with globe above text
+st.markdown(f"""
+<div class="header-container">
+    <div class="globe-box">
+        <iframe srcdoc="
+        <html>
+          <head>
+            <script src='https://unpkg.com/three@0.139.2/build/three.min.js'></script>
+            <script src='https://unpkg.com/globe.gl'></script>
+            <style>
+              html, body {{ margin: 0; padding: 0; overflow: hidden; width: 100%; height: 100%; }}
+              #globeViz {{ width: 100%; height: 100%; }}
+            </style>
+          </head>
+          <body>
+            <div id='globeViz'></div>
+            <script>
+              const world = Globe()
+                (document.getElementById('globeViz'))
+                .globeImageUrl('//unpkg.com/three-globe/example/img/earth-dark.jpg')
+                .backgroundImageUrl('//unpkg.com/three-globe/example/img/night-sky.png')
+                .showAtmosphere(true)
+                .atmosphereColor('lightskyblue')
+                .atmosphereAltitude(0.5)
+                .pointOfView({{ lat: {savelugu_coords['lat']}, lng: {savelugu_coords['lng']}, altitude: 1 }}, 0);
+              world.controls().autoRotate = true;
+              world.controls().autoRotateSpeed = 1.5;
+              world
+                .pointsData([{{ lat: {savelugu_coords['lat']}, lng: {savelugu_coords['lng']}, size: 0.25 }}])
+                .pointColor(() => 'red')
+                .pointAltitude(() => 0.05)
+                .pointLabel(() => 'Savelugu');
+            </script>
+          </body>
+        </html>" width="100%" height="100%" style="border:none;"></iframe>
+    </div>
+    <div class="bumping-text">Savelugu Municipal Demographic Dashboard</div>
+</div>
+""", unsafe_allow_html=True)
+
+
+
 
 # Sidebar with glowing logo and styled nav
 with st.sidebar:
@@ -66,7 +193,7 @@ with st.sidebar:
         menu_title="Navigation",
         options=[
             "Savelugu Municipal", "Structures", "Savelugu MPI",
-            "Water & Sanitation", "Economic Activities", "Population","Housing","Fertility","Education"
+            "Water & Sanitation", "Economic Activities", "Population","Housing","Fertility","Education","Difficulties in Performing Activities"
         ],
         icons=[
             "building", "columns-gap", "graph-up-arrow",
@@ -140,3 +267,5 @@ elif app == "Fertility":
     fertility.app()
 elif app == "Education":
     education.app()
+elif app == "Difficulties in Performing Activities":
+    difficulties.app()

@@ -1,0 +1,275 @@
+"Population (5 years and older) by Severity, Locality, Education, Geographic_Area, Sex and Age"
+
+"Severity","Locality","Education","Geographic_Area","Sex","5-9","10-14","15-17","18-19","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69","70-74","75-79","80-84","85-89","90-94","95-99","100+"
+"Cannot do at all in at least one domain","Rural","Never attended","Savelugu Municipal","Male",1,0,0,0,0,1,4,0,3,0,4,2,0,0,3,0,1,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Never attended","Savelugu Municipal","Female",1,1,0,1,1,1,2,3,2,1,1,1,0,3,5,2,1,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Nursery","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Nursery","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Kindergarten","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Kindergarten","Savelugu Municipal","Female",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Primary","Savelugu Municipal","Male",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Primary","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","JSS/JHS","Savelugu Municipal","Male",0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","JSS/JHS","Savelugu Municipal","Female",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Middle","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Middle","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","SSS/SHS","Savelugu Municipal","Male",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","SSS/SHS","Savelugu Municipal","Female",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Secondary","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Secondary","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Voc/technical/commercial","Savelugu Municipal","Male",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Voc/technical/commercial","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Post middle/secondary Certificate","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Post middle/secondary Certificate","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Post middle/secondary Diploma","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Post middle/secondary Diploma","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Tertiary/HND","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Tertiary/HND","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Tertiary - Bachelor's Degree","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Tertiary - Bachelor's Degree","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Tertiary - Master's Degree","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Tertiary - Master's Degree","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Tertiary - PhD","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Tertiary - PhD","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Other (specify)","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Rural","Other (specify)","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Never attended","Savelugu Municipal","Male",1,0,0,0,1,3,3,7,5,2,4,4,2,3,0,0,0,0,0,1,0
+"Cannot do at all in at least one domain","Urban","Never attended","Savelugu Municipal","Female",3,1,0,1,2,2,3,2,1,1,2,2,2,2,5,0,2,1,2,0,0
+"Cannot do at all in at least one domain","Urban","Nursery","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Nursery","Savelugu Municipal","Female",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Kindergarten","Savelugu Municipal","Male",6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Kindergarten","Savelugu Municipal","Female",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Primary","Savelugu Municipal","Male",9,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Primary","Savelugu Municipal","Female",8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","JSS/JHS","Savelugu Municipal","Male",0,1,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","JSS/JHS","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Middle","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Middle","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","SSS/SHS","Savelugu Municipal","Male",0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","SSS/SHS","Savelugu Municipal","Female",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Secondary","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Secondary","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Voc/technical/commercial","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Voc/technical/commercial","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Post middle/secondary Certificate","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Post middle/secondary Certificate","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Post middle/secondary Diploma","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Post middle/secondary Diploma","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Tertiary/HND","Savelugu Municipal","Male",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Tertiary/HND","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Tertiary - Bachelor's Degree","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Tertiary - Bachelor's Degree","Savelugu Municipal","Female",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Male",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Tertiary - Master's Degree","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Tertiary - Master's Degree","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Tertiary - PhD","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Tertiary - PhD","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Other (specify)","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cannot do at all in at least one domain","Urban","Other (specify)","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Never attended","Savelugu Municipal","Male",1085,666,368,230,767,780,887,703,794,523,463,253,279,147,158,100,76,30,16,2,0
+"No difficulty","Rural","Never attended","Savelugu Municipal","Female",1211,802,384,341,1396,1374,1466,1160,1041,642,490,251,305,124,149,100,97,22,11,1,3
+"No difficulty","Rural","Nursery","Savelugu Municipal","Male",126,1,0,0,1,0,3,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Nursery","Savelugu Municipal","Female",110,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Kindergarten","Savelugu Municipal","Male",542,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Kindergarten","Savelugu Municipal","Female",477,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Primary","Savelugu Municipal","Male",1960,1820,85,69,125,109,65,59,36,21,15,5,6,4,1,1,3,0,0,0,0
+"No difficulty","Rural","Primary","Savelugu Municipal","Female",1635,1396,66,49,151,83,54,24,12,4,5,0,1,1,0,0,0,0,0,0,0
+"No difficulty","Rural","JSS/JHS","Savelugu Municipal","Male",0,327,759,208,255,161,140,90,45,27,15,2,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","JSS/JHS","Savelugu Municipal","Female",0,229,442,167,194,137,74,25,7,4,3,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Middle","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,4,5,7,3,4,1,0,1,0,0,0,0
+"No difficulty","Rural","Middle","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+"No difficulty","Rural","SSS/SHS","Savelugu Municipal","Male",0,3,140,205,491,293,153,62,43,30,3,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","SSS/SHS","Savelugu Municipal","Female",0,3,106,122,272,115,31,11,4,4,1,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Secondary","Savelugu Municipal","Male",0,0,1,3,3,4,2,1,4,4,9,3,6,5,3,0,0,0,0,0,0
+"No difficulty","Rural","Secondary","Savelugu Municipal","Female",0,0,0,1,3,3,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Voc/technical/commercial","Savelugu Municipal","Male",0,0,0,0,7,13,7,5,3,2,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Voc/technical/commercial","Savelugu Municipal","Female",0,0,0,1,2,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Post middle/secondary Certificate","Savelugu Municipal","Male",0,0,0,0,0,1,1,2,1,0,1,0,1,1,0,0,0,0,0,0,0
+"No difficulty","Rural","Post middle/secondary Certificate","Savelugu Municipal","Female",0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Post middle/secondary Diploma","Savelugu Municipal","Male",0,0,1,0,13,12,17,5,3,1,1,1,1,1,1,1,0,0,0,0,0
+"No difficulty","Rural","Post middle/secondary Diploma","Savelugu Municipal","Female",0,0,0,0,4,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Tertiary/HND","Savelugu Municipal","Male",0,0,0,1,95,39,24,6,3,0,0,0,1,1,0,0,0,0,0,0,0
+"No difficulty","Rural","Tertiary/HND","Savelugu Municipal","Female",0,0,0,16,37,17,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Tertiary - Bachelor's Degree","Savelugu Municipal","Male",0,0,0,45,36,28,31,20,12,4,3,1,1,6,1,0,0,0,0,0,0
+"No difficulty","Rural","Tertiary - Bachelor's Degree","Savelugu Municipal","Female",0,0,0,22,6,7,4,2,3,1,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Male",0,0,0,0,26,33,21,2,2,1,2,0,0,0,1,0,1,0,0,0,0
+"No difficulty","Rural","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Female",0,0,0,0,3,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Tertiary - Master's Degree","Savelugu Municipal","Male",0,0,0,0,0,1,3,4,1,0,1,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Tertiary - Master's Degree","Savelugu Municipal","Female",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Tertiary - PhD","Savelugu Municipal","Male",0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Tertiary - PhD","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Other (specify)","Savelugu Municipal","Male",0,0,0,0,0,0,3,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+"No difficulty","Rural","Other (specify)","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Urban","Never attended","Savelugu Municipal","Male",729,353,312,215,658,701,1015,925,1035,805,648,300,368,209,226,125,91,34,14,1,2
+"No difficulty","Urban","Never attended","Savelugu Municipal","Female",933,487,314,280,1431,1904,2308,1814,1736,1013,796,372,464,252,294,200,214,62,21,0,4
+"No difficulty","Urban","Nursery","Savelugu Municipal","Male",236,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Urban","Nursery","Savelugu Municipal","Female",231,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Urban","Kindergarten","Savelugu Municipal","Male",1132,1,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Urban","Kindergarten","Savelugu Municipal","Female",1039,0,0,1,2,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Urban","Primary","Savelugu Municipal","Male",3652,3172,123,99,184,116,130,88,64,39,26,17,13,8,5,2,1,0,1,0,0
+"No difficulty","Urban","Primary","Savelugu Municipal","Female",3390,2726,91,85,181,155,105,64,30,14,12,4,3,3,5,0,1,0,0,0,0
+"No difficulty","Urban","JSS/JHS","Savelugu Municipal","Male",0,722,1422,401,424,269,270,164,105,68,20,11,0,0,0,0,0,0,0,0,0
+"No difficulty","Urban","JSS/JHS","Savelugu Municipal","Female",0,656,1169,356,430,311,179,63,39,14,3,4,0,0,0,0,0,0,0,0,0
+"No difficulty","Urban","Middle","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,6,18,18,14,10,14,3,2,1,0,0,0
+"No difficulty","Urban","Middle","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,2,3,8,5,1,1,0,1,0,0,0,0
+"No difficulty","Urban","SSS/SHS","Savelugu Municipal","Male",0,10,520,864,1874,570,374,226,162,104,15,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Urban","SSS/SHS","Savelugu Municipal","Female",0,4,468,678,1361,494,190,70,35,12,2,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Urban","Secondary","Savelugu Municipal","Male",0,3,0,3,15,10,20,14,18,14,38,19,16,13,6,3,2,1,0,0,0
+"No difficulty","Urban","Secondary","Savelugu Municipal","Female",0,0,0,3,15,9,10,2,6,8,5,4,0,1,1,0,2,0,0,0,0
+"No difficulty","Urban","Voc/technical/commercial","Savelugu Municipal","Male",0,0,0,3,4,67,18,5,8,5,1,1,2,2,0,0,0,0,0,0,0
+"No difficulty","Urban","Voc/technical/commercial","Savelugu Municipal","Female",0,0,0,0,4,33,10,6,0,0,1,0,1,0,0,0,0,0,0,0,0
+"No difficulty","Urban","Post middle/secondary Certificate","Savelugu Municipal","Male",0,0,0,1,13,14,17,8,4,3,1,6,3,4,2,1,0,0,0,0,0
+"No difficulty","Urban","Post middle/secondary Certificate","Savelugu Municipal","Female",0,0,0,4,6,8,16,1,3,2,0,1,3,0,0,0,0,0,0,0,0
+"No difficulty","Urban","Post middle/secondary Diploma","Savelugu Municipal","Male",0,0,0,0,27,89,75,37,19,8,5,5,4,4,1,1,0,0,0,0,0
+"No difficulty","Urban","Post middle/secondary Diploma","Savelugu Municipal","Female",0,0,0,16,34,39,29,9,3,2,3,5,1,0,0,2,0,0,0,0,0
+"No difficulty","Urban","Tertiary/HND","Savelugu Municipal","Male",0,0,2,15,193,121,108,83,36,16,17,3,1,3,1,1,0,0,0,0,0
+"No difficulty","Urban","Tertiary/HND","Savelugu Municipal","Female",0,0,0,26,119,52,41,17,5,2,1,0,1,0,0,0,0,0,0,0,0
+"No difficulty","Urban","Tertiary - Bachelor's Degree","Savelugu Municipal","Male",0,0,1,70,66,143,216,112,108,43,23,12,14,9,2,1,0,0,0,0,0
+"No difficulty","Urban","Tertiary - Bachelor's Degree","Savelugu Municipal","Female",0,0,0,7,39,52,63,26,5,4,5,2,0,0,0,0,0,0,0,0,0
+"No difficulty","Urban","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Male",0,0,0,0,274,231,122,39,23,10,7,7,8,1,2,0,0,0,0,0,0
+"No difficulty","Urban","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Female",0,0,0,0,95,122,50,15,4,3,1,3,1,1,0,0,0,0,0,0,0
+"No difficulty","Urban","Tertiary - Master's Degree","Savelugu Municipal","Male",0,0,0,0,4,8,21,24,24,14,8,5,4,3,0,0,0,0,0,0,0
+"No difficulty","Urban","Tertiary - Master's Degree","Savelugu Municipal","Female",0,0,0,0,0,1,2,7,0,0,0,2,0,0,0,0,0,0,0,0,0
+"No difficulty","Urban","Tertiary - PhD","Savelugu Municipal","Male",0,0,0,0,0,1,1,2,3,1,2,1,1,0,0,0,0,0,0,0,0
+"No difficulty","Urban","Tertiary - PhD","Savelugu Municipal","Female",0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Urban","Other (specify)","Savelugu Municipal","Male",0,0,0,0,3,1,2,1,0,2,3,0,0,0,0,0,0,0,0,0,0
+"No difficulty","Urban","Other (specify)","Savelugu Municipal","Female",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Never attended","Savelugu Municipal","Male",38,17,12,11,15,19,29,27,48,41,55,40,58,39,50,42,43,25,8,3,3
+"Some difficulty in at least one domain","Rural","Never attended","Savelugu Municipal","Female",31,21,17,7,38,50,64,67,80,69,73,51,66,29,73,56,77,25,11,1,3
+"Some difficulty in at least one domain","Rural","Nursery","Savelugu Municipal","Male",8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Nursery","Savelugu Municipal","Female",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Kindergarten","Savelugu Municipal","Male",25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Kindergarten","Savelugu Municipal","Female",23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Primary","Savelugu Municipal","Male",71,51,5,1,8,3,2,7,2,2,1,3,1,1,0,1,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Primary","Savelugu Municipal","Female",54,32,4,2,1,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","JSS/JHS","Savelugu Municipal","Male",0,8,15,4,7,4,8,6,9,0,1,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","JSS/JHS","Savelugu Municipal","Female",0,7,6,1,6,0,2,1,1,2,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Middle","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,1,0,0,2,1,1,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Middle","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","SSS/SHS","Savelugu Municipal","Male",0,1,4,2,8,8,4,2,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","SSS/SHS","Savelugu Municipal","Female",0,0,1,2,9,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Secondary","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Secondary","Savelugu Municipal","Female",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Voc/technical/commercial","Savelugu Municipal","Male",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Voc/technical/commercial","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Post middle/secondary Certificate","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Post middle/secondary Certificate","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Post middle/secondary Diploma","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Post middle/secondary Diploma","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Tertiary/HND","Savelugu Municipal","Male",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Tertiary/HND","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Tertiary - Bachelor's Degree","Savelugu Municipal","Male",0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Tertiary - Bachelor's Degree","Savelugu Municipal","Female",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Male",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Tertiary - Master's Degree","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Tertiary - Master's Degree","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Tertiary - PhD","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Tertiary - PhD","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Other (specify)","Savelugu Municipal","Male",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Rural","Other (specify)","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Never attended","Savelugu Municipal","Male",42,18,15,10,46,32,51,49,68,72,79,50,59,34,72,52,67,24,12,0,4
+"Some difficulty in at least one domain","Urban","Never attended","Savelugu Municipal","Female",39,37,18,13,60,79,115,111,157,120,112,80,125,78,145,89,104,49,15,7,6
+"Some difficulty in at least one domain","Urban","Nursery","Savelugu Municipal","Male",25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Nursery","Savelugu Municipal","Female",15,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Kindergarten","Savelugu Municipal","Male",39,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Kindergarten","Savelugu Municipal","Female",17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Primary","Savelugu Municipal","Male",129,90,6,4,8,10,7,2,8,1,3,3,3,3,0,1,1,0,2,0,0
+"Some difficulty in at least one domain","Urban","Primary","Savelugu Municipal","Female",107,109,3,5,8,11,4,2,5,3,2,1,1,0,1,0,0,0,1,0,0
+"Some difficulty in at least one domain","Urban","JSS/JHS","Savelugu Municipal","Male",0,17,41,9,15,12,14,9,5,4,2,1,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","JSS/JHS","Savelugu Municipal","Female",0,21,38,8,16,9,6,3,1,0,1,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Middle","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,1,1,5,9,2,2,2,0,0,0,0
+"Some difficulty in at least one domain","Urban","Middle","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,3,4,1,1,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","SSS/SHS","Savelugu Municipal","Male",0,0,20,43,76,15,14,9,11,11,1,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","SSS/SHS","Savelugu Municipal","Female",0,1,41,74,95,11,9,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Secondary","Savelugu Municipal","Male",0,0,0,0,0,0,0,2,2,1,1,2,3,3,0,2,1,1,0,0,0
+"Some difficulty in at least one domain","Urban","Secondary","Savelugu Municipal","Female",0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Voc/technical/commercial","Savelugu Municipal","Male",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Voc/technical/commercial","Savelugu Municipal","Female",0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Post middle/secondary Certificate","Savelugu Municipal","Male",0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Post middle/secondary Certificate","Savelugu Municipal","Female",0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Post middle/secondary Diploma","Savelugu Municipal","Male",0,0,0,0,0,2,1,1,2,0,0,1,0,0,1,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Post middle/secondary Diploma","Savelugu Municipal","Female",0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Tertiary/HND","Savelugu Municipal","Male",0,0,0,0,11,4,5,0,1,2,0,1,1,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Tertiary/HND","Savelugu Municipal","Female",0,0,0,3,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Tertiary - Bachelor's Degree","Savelugu Municipal","Male",0,0,0,0,2,2,1,2,3,1,3,1,3,1,0,1,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Tertiary - Bachelor's Degree","Savelugu Municipal","Female",0,0,0,0,0,0,1,2,0,0,2,1,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Male",0,0,0,0,19,14,3,2,1,0,0,1,1,1,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Female",0,0,0,0,8,6,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Tertiary - Master's Degree","Savelugu Municipal","Male",0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Tertiary - Master's Degree","Savelugu Municipal","Female",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Tertiary - PhD","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Tertiary - PhD","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Other (specify)","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Some difficulty in at least one domain","Urban","Other (specify)","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Never attended","Savelugu Municipal","Male",4,7,0,0,2,3,3,2,6,4,7,3,8,4,5,4,9,2,1,2,0
+"A lot of difficulty in at least one domain","Rural","Never attended","Savelugu Municipal","Female",2,3,3,4,3,3,3,10,4,4,5,2,3,1,7,11,12,4,3,0,0
+"A lot of difficulty in at least one domain","Rural","Nursery","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Nursery","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Kindergarten","Savelugu Municipal","Male",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Kindergarten","Savelugu Municipal","Female",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Primary","Savelugu Municipal","Male",2,3,1,1,1,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Primary","Savelugu Municipal","Female",0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","JSS/JHS","Savelugu Municipal","Male",0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","JSS/JHS","Savelugu Municipal","Female",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Middle","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Middle","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","SSS/SHS","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","SSS/SHS","Savelugu Municipal","Female",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Secondary","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Secondary","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Voc/technical/commercial","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Voc/technical/commercial","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Post middle/secondary Certificate","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Post middle/secondary Certificate","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Post middle/secondary Diploma","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Post middle/secondary Diploma","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Tertiary/HND","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Tertiary/HND","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Tertiary - Bachelor's Degree","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Tertiary - Bachelor's Degree","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Tertiary - Master's Degree","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Tertiary - Master's Degree","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Tertiary - PhD","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Tertiary - PhD","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Other (specify)","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Rural","Other (specify)","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Never attended","Savelugu Municipal","Male",8,5,3,1,3,2,2,4,5,9,9,6,11,3,4,5,7,2,0,1,0
+"A lot of difficulty in at least one domain","Urban","Never attended","Savelugu Municipal","Female",5,3,2,1,7,3,10,5,16,12,13,8,12,12,12,14,15,6,2,1,0
+"A lot of difficulty in at least one domain","Urban","Nursery","Savelugu Municipal","Male",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Nursery","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Kindergarten","Savelugu Municipal","Male",6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Kindergarten","Savelugu Municipal","Female",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Primary","Savelugu Municipal","Male",18,40,1,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Primary","Savelugu Municipal","Female",10,30,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","JSS/JHS","Savelugu Municipal","Male",0,2,15,5,0,1,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","JSS/JHS","Savelugu Municipal","Female",0,0,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Middle","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Middle","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","SSS/SHS","Savelugu Municipal","Male",0,0,0,5,4,2,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","SSS/SHS","Savelugu Municipal","Female",0,0,1,5,4,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Secondary","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Secondary","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"A lot of difficulty in at least one domain","Urban","Voc/technical/commercial","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Voc/technical/commercial","Savelugu Municipal","Female",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Post middle/secondary Certificate","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Post middle/secondary Certificate","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Post middle/secondary Diploma","Savelugu Municipal","Male",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Post middle/secondary Diploma","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Tertiary/HND","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Tertiary/HND","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Tertiary - Bachelor's Degree","Savelugu Municipal","Male",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Tertiary - Bachelor's Degree","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Male",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Tertiary - Post graduate Certificate/Diploma","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Tertiary - Master's Degree","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Tertiary - Master's Degree","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Tertiary - PhD","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Tertiary - PhD","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Other (specify)","Savelugu Municipal","Male",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A lot of difficulty in at least one domain","Urban","Other (specify)","Savelugu Municipal","Female",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

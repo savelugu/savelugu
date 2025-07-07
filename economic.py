@@ -39,12 +39,35 @@ def app():
     df = pd.DataFrame(data)  # Assuming `data` is defined as you've posted
 
     # ------------------------------
+    st.markdown("""
+        <style>
+        /* Selected multiselect tags */
+        [data-baseweb="tag"] {
+            background-color: #1f77b4 !important;
+            color: white !important;
+            font-weight: 600;
+            border-radius: 6px !important;
+        }
+
+        /* Optional: Multiselect border */
+        .stMultiSelect > div {
+            border: 2px solid #1f77b4 !important;
+            border-radius: 8px !important;
+        }
+
+        /* Optional: Selectbox border */
+        .stSelectbox > div {
+            border: 2px solid #1f77b4 !important;
+            border-radius: 8px !important;
+        }
+        </style>
+    """, unsafe_allow_html=True)
     # Sidebar Filters
-    st.sidebar.header("📊 Filter Options")
-    econ_filter = st.sidebar.multiselect("Economic Status", df["Econ"].unique(), default=df["Econ"].unique())
-    area_filter = st.sidebar.multiselect("Area", df["Area"].unique(), default=df["Area"].unique())
-    gender_filter = st.sidebar.multiselect("Gender", df["Gender"].unique(), default=df["Gender"].unique())
-    age_filter = st.sidebar.multiselect("Age Group", df["Age"].unique(), default=df["Age"].unique())
+    st.header("📊 Filter Options")
+    econ_filter = st.multiselect("Economic Status", df["Econ"].unique(), default=df["Econ"].unique())
+    area_filter = st.multiselect("Area", df["Area"].unique(), default=df["Area"].unique())
+    gender_filter = st.multiselect("Gender", df["Gender"].unique(), default=df["Gender"].unique())
+    age_filter = st.multiselect("Age Group", df["Age"].unique(), default=df["Age"].unique())
 
     # ------------------------------
     # Filtered Data
@@ -107,14 +130,14 @@ def app():
     ]
 
     df = pd.DataFrame(data)
-
+    
     # Sidebar filters
-    st.sidebar.header("🔎 Filter Options")
-    industry = st.sidebar.multiselect("Select Industry", df["Industry"].unique(), default=df["Industry"].unique(), key="industry_filter")
-    education = st.sidebar.multiselect("Select Education Level", df["Education"].unique(), default=df["Education"].unique(), key="education_filter")
-    area = st.sidebar.multiselect("Select Area", df["Area"].unique(), default=df["Area"].unique(), key="area_filter")
-    gender = st.sidebar.multiselect("Select Gender", df["Gender"].unique(), default=df["Gender"].unique(), key="gender_filter")
-    age = st.sidebar.multiselect("Select Age Group", df["Age"].unique(), default=df["Age"].unique(), key="age_filter")
+    st.header("🔎 Filter Options")
+    industry = st.multiselect("Select Industry", df["Industry"].unique(), default=df["Industry"].unique(), key="industry_filter")
+    education = st.multiselect("Select Education Level", df["Education"].unique(), default=df["Education"].unique(), key="education_filter")
+    area = st.multiselect("Select Area", df["Area"].unique(), default=df["Area"].unique(), key="area_filter")
+    gender = st.multiselect("Select Gender", df["Gender"].unique(), default=df["Gender"].unique(), key="gender_filter")
+    age = st.multiselect("Select Age Group", df["Age"].unique(), default=df["Age"].unique(), key="age_filter")
 
 
     # Filter data

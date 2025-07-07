@@ -1145,6 +1145,30 @@ def app():
 
     # Open the filter container
     st.markdown('<div class="filter-container">', unsafe_allow_html=True)
+    
+    st.markdown("""
+    <style>
+    /* Selected multiselect tags */
+    [data-baseweb="tag"] {
+        background-color: #1f77b4 !important;
+        color: white !important;
+        font-weight: 600;
+        border-radius: 6px !important;
+    }
+
+    /* Optional: Multiselect border */
+    .stMultiSelect > div {
+        border: 2px solid #1f77b4 !important;
+        border-radius: 8px !important;
+    }
+
+    /* Optional: Selectbox border */
+    .stSelectbox > div {
+        border: 2px solid #1f77b4 !important;
+        border-radius: 8px !important;
+    }
+    </style>
+""", unsafe_allow_html=True)
 
 
     st.subheader("✅ Filters")
@@ -1152,7 +1176,7 @@ def app():
     locality_filter = st.selectbox("Filter by Locality", options=["All"] + sorted(df["Locality"].unique().tolist()))
     edu_filter = st.selectbox("Filter by Education", options=["All"] + sorted(df["Education"].unique().tolist()))
     
-    show_pct = st.sidebar.checkbox("Show Percentages Instead of Counts", value=False)
+    show_pct = st.checkbox("Show Percentages Instead of Counts", value=False)
     
     
 
@@ -1410,29 +1434,39 @@ def app():
 
     st.title("🏥 Health‑Insurance Demographics Dashboard")
 
-    # ---------- FILTERS ---------- #
-    with st.sidebar:
-        st.header("🔍 Filters")
-        st.caption("Use the selectors to filter the visuals in real‑time")
+    # ---------- FILTERS IN MAIN BODY ---------- #
+    st.markdown("## 🔍 Filters")
+    st.caption("Use the selectors below to filter the visuals in real‑time")
 
+    # Optional: Place filters in columns for compact layout
+    col1, col2 = st.columns(2)
+    col3, col4 = st.columns(2)
+
+    with col1:
         ins_filter = st.multiselect(
             "Health Insurance status",
             df_long["Health_Insurance"].unique(),
             default=df_long["Health_Insurance"].unique(),
             key="ins_filter",
         )
+
+    with col2:
         edu_filter = st.multiselect(
             "Education level",
             df_long["Education"].unique(),
             default=df_long["Education"].unique(),
             key="edu_filter",
         )
+
+    with col3:
         loc_filter = st.multiselect(
             "Locality",
             df_long["Locality"].unique(),
             default=df_long["Locality"].unique(),
             key="loc_filter",
         )
+
+    with col4:
         sex_filter = st.multiselect(
             "Sex",
             df_long["Sex"].unique(),
