@@ -137,6 +137,7 @@ def app():
             tooltip=["Type_of_Structure", "Count"]
         ).properties(width=350)
         st.altair_chart(chart)
+        
 
 if __name__ == "__main__":
     app()

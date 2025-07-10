@@ -354,9 +354,9 @@ def app():
         "lon": -0.8306
     }
 
-    # Create map view
+    # Create map view with dark theme
     st.pydeck_chart(pdk.Deck(
-        map_style='mapbox://styles/mapbox/light-v9',
+        map_style='mapbox://styles/mapbox/dark-v10',  # Changed from light-v9 to dark-v10
         initial_view_state=pdk.ViewState(
             latitude=savelugu_coords["lat"],
             longitude=savelugu_coords["lon"],
@@ -457,6 +457,20 @@ def app():
         line-height: 1.6;
         text-align: justify;
     }
+    .circle {
+        display: inline-block;
+        width: 48px;
+        height: 48px;
+        line-height: 48px;
+        margin-right: 8px;
+        border-radius: 50%;
+        background: linear-gradient(135deg, #0d0887, #f0f921);
+        color: #000;
+        font-weight: bold;
+        text-align: center;
+        font-size: 14px;
+        box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+    }
     </style>
 
     <div class="card-grid">
@@ -464,47 +478,45 @@ def app():
     <div class="card">
         <div class="card-title">4. Demographic Profile</div>
         <div class="card-body">
-        • <b>Rapid population growth</b>: From 92,717 in 2010 to 122,888 in 2021 (≈ 2.6% p.a.)<br>
-        • <b>Youthful population</b>: 54% are under 20 years<br>
-        • <b>Slightly more females</b> (50.9%) — sex ratio 96.6<br>
-        • <b>Urbanisation</b>: 63%, driven by Savelugu township expansion
+        • <b>Rapid growth</b>: <span class="circle">2.6%</span> p.a. (2010: 92,717 → 2021: 122,888)<br>
+        • <b>Youthful</b>: <span class="circle">54%</span> under age 20<br>
+        • <b>Females</b>: <span class="circle">50.9%</span> (sex ratio: 96.6)<br>
+        • <b>Urban</b>: <span class="circle">63%</span> urbanized (Savelugu expansion)
         </div>
     </div>
 
     <div class="card">
         <div class="card-title">5. Households & Housing</div>
         <div class="card-body">
-        • <b>Avg. household size</b>: 5.2 vs 3.6 national<br>
-        • <b>Housing deprivation</b>: 62.6% in poor housing<br>
-        • <b>Toilets</b>: 94.3% lack improved toilets<br>
-        • <b>Urban infrastructure</b>: Slightly better electricity & water access
+        • Avg. household size: <span class="circle">5.2</span> vs <span class="circle">3.6</span> national<br>
+        • Poor housing: <span class="circle">62.6%</span><br>
+        • No toilets: <span class="circle">94.3%</span> without improved facilities<br>
+        • Electricity & water: Moderate coverage
         </div>
     </div>
 
     <div class="card">
         <div class="card-title">6. Education & Literacy</div>
         <div class="card-body">
-        • <b>60,689 persons aged 6+</b> cannot read or write<br>
-        • <b>57% of the illiterate are female</b><br>
-        • 5th highest illiteracy count in Northern Region
+        • Illiterate (6+ yrs): <span class="circle">60K+</span><br>
+        • Female illiterate share: <span class="circle">57%</span><br>
+        • Region rank: <b>5th</b> highest illiteracy in Northern Region
         </div>
     </div>
 
     <div class="card">
         <div class="card-title">7. Economic Activity</div>
         <div class="card-body">
-        • <b>Agriculture</b> employs ≈70% (maize, rice, soy, livestock)<br>
-        • <b>Trade & transport</b> growing along the N10 corridor<br>
-        • <b>Youth unemployment</b> is high (16–18%)
+        • Agriculture: <span class="circle">70%</span> engaged<br>
+        • Youth unemployment: <span class="circle">16%</span>–<span class="circle">18%</span><br>
+        • Growth in trade & transport (N10 corridor)
         </div>
     </div>
 
     </div>
     """, unsafe_allow_html=True)
-    
-    
 
-
+    
     
 if __name__ == "__main__":
     app()

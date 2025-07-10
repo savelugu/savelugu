@@ -816,6 +816,7 @@ def app():
                 names="Locality",
                 values="Population",
                 title="Proportion of Solid Waste by Locality",
+                color_discrete_sequence=px.colors.sequential.Plasma,
                 color="Locality",
                 color_discrete_map={"Rural": "#2ca02c", "Urban": "#1f77b4"}
             )
@@ -1002,6 +1003,7 @@ def app():
             names='Water Source',
             values='Total',
             title='Proportion of Water Sources Used Across Communities',
+            color_discrete_sequence=px.colors.sequential.Plasma,
             hole=0.4  # This makes it a doughnut chart
         )
 
@@ -1225,7 +1227,8 @@ def app():
             names='Water Source',
             values='Total',
             hole=0.5,  # Doughnut style
-            title='Water Sources Used Across Communities'
+            title='Water Sources Used Across Communities',
+            color_discrete_sequence=px.colors.sequential.RdBu
         )
 
         fig_doughnut.update_traces(

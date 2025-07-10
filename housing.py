@@ -231,7 +231,8 @@ def app():
                     df[df["Locality"] == "Rural"],
                     names="Bathing_Facility",
                     values="Savelugu Municipal",
-                    title="Rural Facility Distribution"
+                    title="Rural Facility Distribution",
+                    color_discrete_sequence=px.colors.qualitative.Set3,
                 )
                 st.plotly_chart(fig_rural_pie, use_container_width=True)
 
@@ -240,7 +241,8 @@ def app():
                     df[df["Locality"] == "Urban"],
                     names="Bathing_Facility",
                     values="Savelugu Municipal",
-                    title="Urban Facility Distribution"
+                    title="Urban Facility Distribution",
+                    color_discrete_sequence=px.colors.qualitative.Set3,
                 )
                 st.plotly_chart(fig_urban_pie, use_container_width=True)
 
@@ -291,7 +293,8 @@ def app():
                     df_coking[df_coking["Locality"] == "Rural"],
                     names="Cooking_Space",
                     values="Savelugu Municipal",
-                    title="Rural Cooking Spaces"
+                    title="Rural Cooking Spaces",
+                    color_discrete_sequence=px.colors.sequential.Plasma
                 )
                 st.plotly_chart(fig_rural_pie, use_container_width=True)
 
@@ -300,7 +303,8 @@ def app():
                     df_coking[df_coking["Locality"] == "Urban"],
                     names="Cooking_Space",
                     values="Savelugu Municipal",
-                    title="Urban Cooking Spaces"
+                    title="Urban Cooking Spaces",
+                    color_discrete_sequence=px.colors.sequential.Plasma
                 )
                 st.plotly_chart(fig_urban_pie, use_container_width=True)
 
@@ -366,7 +370,8 @@ def app():
                     df_fuel[df_fuel["Locality"] == "Rural"],
                     names="Fuel",
                     values="Savelugu Municipal",
-                    title="Rural Cooking Fuel Usage"
+                    title="Rural Cooking Fuel Usage",
+                    color_discrete_sequence=px.colors.sequential.Plasma
                 )
                 st.plotly_chart(fig_rural, use_container_width=True)
             with col2:
@@ -374,7 +379,8 @@ def app():
                     df_fuel[df_fuel["Locality"] == "Urban"],
                     names="Fuel",
                     values="Savelugu Municipal",
-                    title="Urban Cooking Fuel Usage"
+                    title="Urban Cooking Fuel Usage",
+                    color_discrete_sequence=px.colors.sequential.Plasma
                 )
                 st.plotly_chart(fig_urban, use_container_width=True)
 
@@ -439,7 +445,8 @@ def app():
                     df_light[df_light["Locality"] == "Rural"],
                     names="Light",
                     values="Savelugu Municipal",
-                    title="Rural Lighting Sources"
+                    title="Rural Lighting Sources",
+                    color_discrete_sequence=px.colors.sequential.Plasma
                 )
                 st.plotly_chart(fig_rural, use_container_width=True)
             with col2:
@@ -447,7 +454,8 @@ def app():
                     df_light[df_light["Locality"] == "Urban"],
                     names="Light",
                     values="Savelugu Municipal",
-                    title="Urban Lighting Sources"
+                    title="Urban Lighting Sources",
+                    color_discrete_sequence=px.colors.sequential.Plasma
                 )
                 st.plotly_chart(fig_urban, use_container_width=True)
                 
@@ -509,7 +517,7 @@ def app():
             values="Savelugu Municipal",
             names="Restype",
             hole=0.4,
-            color_discrete_sequence=px.colors.qualitative.Set3
+            color_discrete_sequence=px.colors.sequential.Plasma
             )
 
             fig_rural.update_traces(textposition='inside', textinfo='percent+label', pull=[0.02]*len(rural_restype))
@@ -528,7 +536,7 @@ def app():
             values="Savelugu Municipal",
             names="Restype",
             hole=0.4,
-            color_discrete_sequence=px.colors.sequential.Turbo
+            color_discrete_sequence=px.colors.qualitative.Set3,
             )
 
                 
@@ -734,23 +742,84 @@ def app():
         # Percentage using Earth/Mud
         mud_row = floor_material_wide[floor_material_wide["Floor_Material"].str.contains("Earth|Mud", case=False)]
         mud_pct = (mud_row["Total"].values[0] / total * 100) if not mud_row.empty else 0
+        
+        st.markdown(f"""
+        <style>
+        .circle-container {{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 24px;
+            margin-top: 1rem;
+        }}
 
-        # === DISPLAY METRIC CARDS ===
-        col1, col2, col3 = st.columns(3)
-        with col1:
-            st.metric("🏡 Rural Floor Dwellings", f"{total_rural:,}")
-        with col2:
-            st.metric("🏙️ Urban Floor Dwellings", f"{total_urban:,}")
-        with col3:
-            st.metric("🏆 Most Common Floor", most_common)
+        .metric-card {{
+            background-color: #1a1a1a;
+            border-radius: 16px;
+            padding: 16px 12px;
+            box-shadow: 0 0 10px rgba(255,255,255,0.1);
+            width: 200px;
+            text-align: center;
+            color: white;
+            font-family: 'Segoe UI', sans-serif;
+        }}
 
-        col4, col5 = st.columns(2)
-        with col4:
-            st.metric("🧱 Cement/Concrete", f"{cement_pct:.1f}%", help="Usage across all dwellings")
-        with col5:
-            st.metric("🪨 Earth/Mud", f"{mud_pct:.1f}%", help="Usage across all dwellings")
+        .metric-circle {{
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin: 0 auto 10px;
+            background: radial-gradient(circle at top left, #0d0887, #6a00a8, #b12a90);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.1rem;
+            font-weight: bold;
+            box-shadow: 0 0 14px rgba(255, 255, 255, 0.3);
+            animation: plasmaRdBuGlow 5s ease-in-out infinite;
+        }}
 
-        st.markdown("---")
+        .metric-label {{
+            font-size: 0.8rem;
+            color: #f0f0f0;
+        }}
+
+        @keyframes plasmaRdBuGlow {{
+            0%   {{ box-shadow: 0 0 6px #0d0887; }}
+            20%  {{ box-shadow: 0 0 10px #6a00a8; }}
+            40%  {{ box-shadow: 0 0 12px #f89441; }}
+            60%  {{ box-shadow: 0 0 14px #ef8a62; }}
+            80%  {{ box-shadow: 0 0 12px #b2182b; }}
+            100% {{ box-shadow: 0 0 8px #0d0887; }}
+        }}
+        </style>
+
+        <div class="circle-container">
+            <div class="metric-card">
+                <div class="metric-circle">{total_rural:,}</div>
+                <div class="metric-label">🏡 Rural Dwellings</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-circle">{total_urban:,}</div>
+                <div class="metric-label">🏙️ Urban Dwellings</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-circle">{most_common}</div>
+                <div class="metric-label">🏆 Most Common</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-circle">{cement_pct:.1f}%</div>
+                <div class="metric-label">🧱 Cement</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-circle">{mud_pct:.1f}%</div>
+                <div class="metric-label">🪨 Earth/Mud</div>
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+
+
+
 
         # === CHART ===
         st.title("🪵 Floor Materials by Locality – Radar View")
@@ -822,22 +891,80 @@ def app():
         thatch_row = roof_material_wide[roof_material_wide["Roof_Material"].str.contains("Thatch|Palm", case=False)]
         thatch_pct = (thatch_row["Total"].values[0] / total * 100) if not thatch_row.empty else 0
 
-        # --- Display Metrics as Cards ---
-        col1, col2, col3 = st.columns(3)
-        with col1:
-            st.metric("🏚️ Rural Roof Dwellings", f"{total_rural:,}")
-        with col2:
-            st.metric("🏙️ Urban Roof Dwellings", f"{total_urban:,}")
-        with col3:
-            st.metric("🏆 Most Common Roof", most_common)
+        st.markdown(f"""
+        <style>
+        .card-grid {{
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
+            margin-top: 1rem;
+        }}
 
-        col4, col5 = st.columns(2)
-        with col4:
-            st.metric("🧱 Metal Sheet/Slate", f"{metal_pct:.1f}%", help="Usage across all dwellings")
-        with col5:
-            st.metric("🌴 Thatch/Palm/Raffia", f"{thatch_pct:.1f}%", help="Usage across all dwellings")
+        .metric-card {{
+            background-color: #1c1c1c;
+            color: #fff;
+            border-radius: 16px;
+            padding: 20px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+            font-family: 'Segoe UI', sans-serif;
+            text-align: center;
+        }}
 
-        st.markdown("---")
+        .metric-title {{
+            font-size: 0.95rem;
+            font-weight: 600;
+            margin-bottom: 12px;
+            color: #f0f921;
+        }}
+
+        .circle {{
+            width: 100px;
+            height: 100px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background: radial-gradient(circle at top left, #0d0887, #6a00a8, #b12a90);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+            font-weight: bold;
+            animation: pulseGlow 4s infinite ease-in-out;
+            box-shadow: 0 0 10px rgba(240, 249, 33, 0.5);
+        }}
+
+        @keyframes pulseGlow {{
+            0% {{ box-shadow: 0 0 6px #0d0887; }}
+            25% {{ box-shadow: 0 0 10px #6a00a8; }}
+            50% {{ box-shadow: 0 0 14px #b12a90; }}
+            75% {{ box-shadow: 0 0 10px #f89441; }}
+            100% {{ box-shadow: 0 0 6px #f0f921; }}
+        }}
+        </style>
+
+        <div class="card-grid">
+            <div class="metric-card">
+                <div class="metric-title">🏚️ Rural Roof Dwellings</div>
+                <div class="circle">{total_rural:,}</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-title">🏙️ Urban Roof Dwellings</div>
+                <div class="circle">{total_urban:,}</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-title">🏆 Most Common Roof</div>
+                <div class="circle">{most_common}</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-title">🧱 Metal/Slate Usage</div>
+                <div class="circle">{metal_pct:.1f}%</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-title">🌴 Thatch/Palm Usage</div>
+                <div class="circle">{thatch_pct:.1f}%</div>
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+
 
         # --- Melt for chart
         df_melted = roof_material_wide.melt(id_vars="Roof_Material", value_vars=["Rural", "Urban"],

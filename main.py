@@ -3,6 +3,8 @@ from streamlit_option_menu import option_menu
 import os
 import base64
 import streamlit.components.v1 as components
+import requests
+from datetime import datetime
 import structures, mpi, sanitation, economic, population, savelugu, housing, fertility, education, difficulties
 
 # Page configuration

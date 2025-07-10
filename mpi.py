@@ -1614,7 +1614,7 @@ def app():
     """
 
     components.html(globe_html, height=600)
-
+    
 
 
 if __name__ == "__main__":

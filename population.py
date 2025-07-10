@@ -179,7 +179,7 @@ def app():
         names="Category",
         values="Number of Persons",
         title="Urbanization Distribution",
-        color_discrete_sequence=px.colors.qualitative.Pastel,
+        color_discrete_sequence=px.colors.sequential.RdBu,
         hole=0.4
     )
     st.plotly_chart(urban_pie, use_container_width=True)
@@ -211,7 +211,7 @@ def app():
         names="Ethnic Group",
         values="Number of Persons",
         title="Ethnic Group Share",
-        color_discrete_sequence=px.colors.qualitative.Set3,
+        color_discrete_sequence=px.colors.sequential.Plasma,
         hole =0.4
     )
     st.plotly_chart(ethnic_pie, use_container_width=True)
@@ -401,7 +401,7 @@ def app():
         x="Count",
         title="Health Insurance Funnel (Filtered)",
         color="Coverage",
-        color_discrete_sequence=px.colors.sequential.Burg
+        color_discrete_sequence=px.colors.sequential.RdBu,
     )
     st.plotly_chart(fig_funnel, use_container_width=True)
 
@@ -416,6 +416,7 @@ def app():
         barmode="group",
         facet_col="Gender",
         title="Coverage Breakdown (Filtered)",
+        color_discrete_sequence=px.colors.sequential.Plasma,
         text="Count"
     )
     st.plotly_chart(fig_grouped, use_container_width=True)
@@ -427,6 +428,7 @@ def app():
         path=["Gender", "Area", "Coverage"],
         values="Count",
         title="Sunburst of Health Insurance Coverage",
+        color_discrete_sequence=px.colors.sequential.RdBu,
     )
 
     fig_sunburst.update_layout(
@@ -450,12 +452,16 @@ def app():
 
     # Bar Chart: Top 15 Communities by Total Population
     top_communities = df.sort_values("Total_Population", ascending=False).head(15)
-    fig_pop = px.bar(top_communities, 
-                    x="Community_Name", 
-                    y="Total_Population", 
-                    title="Top 15 Most Populous Communities in Savelugu",
-                    labels={"Total_Population": "Population"},
-                    color="Total_Population")
+
+    fig_pop = px.bar(
+        top_communities,
+        x="Community_Name",
+        y="Total_Population",
+        title="Top 15 Most Populous Communities in Savelugu",
+        labels={"Total_Population": "Population"},
+        color="Total_Population",  # continuous color
+        color_continuous_scale=px.colors.sequential.Plasma  # use this instead
+    )
 
     st.plotly_chart(fig_pop)
         # Title
@@ -704,6 +710,7 @@ def app():
             color="Sex",
             barmode="group",
             title="Population Distribution by Age Group",
+            color_discrete_sequence=px.colors.sequential.RdBu,
             labels={"Age_Group": "Age Group", "Population": "Number of People"},
             height=500
         )
@@ -1197,7 +1204,8 @@ def app():
 
     # Pie chart by Sex
     pie_data = filtered_df.groupby("Sex")["Total"].sum().reset_index()
-    fig_pie = px.pie(pie_data, names="Sex", values="Total", title="Population Distribution by Sex")
+    fig_pie = px.pie(pie_data, names="Sex", values="Total", title="Population Distribution by Sex",
+                     color_discrete_sequence=px.colors.sequential.Plasma)
     st.plotly_chart(fig_pie, use_container_width=True)
 
     # Bar chart by Education
@@ -1373,7 +1381,7 @@ def app():
             values="Count",
             hole=0.5,
             title="Gender Composition (Doughnut)",
-            color_discrete_sequence=custom_colors
+            color_discrete_sequence=px.colors.sequential.RdBu
         )
 
         # Customize layout: modern, minimal look
@@ -1506,7 +1514,7 @@ def app():
             names="Health_Insurance",
             values="Population",
             hole=0.45,
-            color_discrete_sequence=px.colors.qualitative.Set2,
+            color_discrete_sequence=px.colors.sequential.Plasma,
             template='plotly_dark'
         )
 
