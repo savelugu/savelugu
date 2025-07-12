@@ -405,6 +405,22 @@ def app():
         font-weight: bold;
         color: #f1f1f1;
     }
+    
+    
+    .circle {
+        display: inline-block;
+        width: 48px;
+        height: 48px;
+        line-height: 48px;
+        margin-right: 8px;
+        border-radius: 50%;
+        background: linear-gradient(135deg, #0d0887, #f0f921);
+        color: #000;
+        font-weight: bold;
+        text-align: center;
+        font-size: 14px;
+        box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+    }
     </style>
 
     <div class="card-container">

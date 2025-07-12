@@ -42,6 +42,21 @@ def app():
         font-weight: bold;
         color: #f1f1f1;
     }
+    
+     .circle {
+        display: inline-block;
+        width: 48px;
+        height: 48px;
+        line-height: 48px;
+        margin-right: 8px;
+        border-radius: 50%;
+        background: linear-gradient(135deg, #0d0887, #f0f921);
+        color: #000;
+        font-weight: bold;
+        text-align: center;
+        font-size: 14px;
+        box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+    }
     </style>
 
     <div class="card-container">
@@ -71,7 +86,7 @@ def app():
     <style>
     .card-grid {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: repeat(2, 1fr);
         gap: 20px;
         margin-top: 20px;
     }
@@ -94,6 +109,20 @@ def app():
         line-height: 1.6;
         text-align: justify;
     }
+    .circle {
+        display: inline-block;
+        width: 48px;
+        height: 48px;
+        line-height: 48px;
+        margin-right: 8px;
+        border-radius: 50%;
+        background: linear-gradient(135deg, #0d0887, #f0f921);
+        color: #000;
+        font-weight: bold;
+        text-align: center;
+        font-size: 14px;
+        box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+    }
     </style>
 
     <div class="card-grid">
@@ -101,43 +130,46 @@ def app():
     <div class="card">
         <div class="card-title">4. Demographic Profile</div>
         <div class="card-body">
-        • <b>Rapid population growth</b>: From 92,717 in 2010 to 122,888 in 2021 (≈ 2.6% p.a.)<br>
-        • <b>Youthful population</b>: 54% are under 20 years<br>
-        • <b>Slightly more females</b> (50.9%) — sex ratio 96.6<br>
-        • <b>Urbanisation</b>: 63%, driven by Savelugu township expansion
+            • <b>Rapid population growth</b>: From 92,717 in 2010 to 122,888 in 2021 (≈ 2.6% p.a.)<br>
+            • Youthful population: <span class="circle">54%</span> are under 20 years<br>
+            • Slightly more females: <span class="circle">50.9%</span> — sex ratio <span class="circle">96.6</span><br>
+            • Urbanisation: <span class="circle">63%</span>, driven by Savelugu township expansion
         </div>
     </div>
 
     <div class="card">
         <div class="card-title">5. Households & Housing</div>
         <div class="card-body">
-        • <b>Avg. household size</b>: 5.2 vs 3.6 national<br>
-        • <b>Housing deprivation</b>: 62.6% in poor housing<br>
-        • <b>Toilets</b>: 94.3% lack improved toilets<br>
-        • <b>Urban infrastructure</b>: Slightly better electricity & water access
+            • Avg. household size: <span class="circle">5.2</span> vs <span class="circle">3.6</span> national<br>
+            • Housing deprivation: <span class="circle">62.6%</span> in poor housing<br>
+            • Toilet: <span class="circle">94.3%</span> lack improved toilets<br>
+            • <b>Urban infrastructure</b>: Slightly better electricity & water access
         </div>
     </div>
 
     <div class="card">
         <div class="card-title">6. Education & Literacy</div>
         <div class="card-body">
-        • <b>60,689 persons aged 6+</b> cannot read or write<br>
-        • <b>57% of the illiterate are female</b><br>
-        • 5th highest illiteracy count in Northern Region
+            • <b>60,689 persons aged 6+</b> cannot read or write<br>
+            • <span class="circle">57%</span> of the illiterate are female<br>
+            • 5th highest illiteracy count in Northern Region
         </div>
     </div>
 
     <div class="card">
         <div class="card-title">7. Economic Activity</div>
         <div class="card-body">
-        • <b>Agriculture</b> employs ≈70% (maize, rice, soy, livestock)<br>
-        • <b>Trade & transport</b> growing along the N10 corridor<br>
-        • <b>Youth unemployment</b> is high (16–18%)
+            • <b>Agriculture</b> employs <span class="circle">≈70%</span><br>
+            (maize, rice, soy, livestock)<br><br>
+            • <b>Trade & transport</b> growing along the N10 corridor<br>
+            • <b>Youth unemployment</b> is high (16–18%)
         </div>
     </div>
 
+
     </div>
     """, unsafe_allow_html=True)
+
 
 
 

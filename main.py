@@ -92,7 +92,7 @@ st.markdown(f"""
     animation: bump 1.5s infinite;
     font-size: 2.3rem;
     font-weight: bold;
-    color: #00ccff;
+    color: #00FFFF;
     margin: 0;
     text-align: center;
 }}
@@ -147,6 +147,50 @@ st.markdown(f"""
 </div>
 """, unsafe_allow_html=True)
 
+        # Define CSS for the continuous sliding animation with 3D text effect
+css_animation = """
+    <style>
+    @keyframes slide {
+        0% { transform: translateX(100%); }
+        100% { transform: translateX(-100%); }
+    }
+
+    .sliding-text-container {
+        text-align: center;
+        font-weight: bold;
+        margin-top: 20px;
+        overflow: hidden; /* Ensures the text is hidden before it slides in */
+        white-space: nowrap; /* Prevents text from wrapping to the next line */
+    }
+
+    .sliding-text {
+        display: inline-block;
+        animation: slide 20s linear infinite;
+        font-size: 36px;
+        text-align: center;
+        color: #00FFFF;
+        text-shadow: 1px 1px 0 #000, 2px 2px 0 #000, 3px 3px 0 #000,
+                    4px 4px 0 #000, 5px 5px 0 #000, 6px 6px 0 #000,
+                    7px 7px 0 #000, 8px 8px 0 #000, 9px 9px 0 #000;
+    }
+    </style>
+    """
+
+    # Insert the CSS into the Streamlit app
+st.markdown(css_animation, unsafe_allow_html=True)
+
+    # Insert the HTML for the animated text
+html_content = """
+    <div class='sliding-text-container'>
+        <div class='sliding-text'>Visit Savelugu Municipal</div>
+    </div>
+    """
+
+st.markdown(html_content, unsafe_allow_html=True)
+
+
+
+
 
 
 
@@ -181,7 +225,7 @@ with st.sidebar:
     </style>
 
     <div class="custom-box">
-        <img src="data:image/png;base64,{cropped_logo}" alt="Logo" style="width: 90px; margin-bottom: 10px;" />
+        <img src="data:image/png;base64,{cropped_logo}" alt="Logo" style="width: 100px; margin-bottom: 10px;" />
         <h2>Savelugu Report</h2>
         <p>Municipal Dashboard</p>
     </div>
@@ -189,6 +233,35 @@ with st.sidebar:
     unsafe_allow_html=True
 )
     st.markdown("<div style='margin-bottom: 25px;'></div>", unsafe_allow_html=True)
+    
+    # SVG content for the flowing water effect
+    svg_content = """
+        <svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+        <path d="M0 50 Q 50 90 100 50 T 200 50 T 300 50 T 400 50 T 500 50 V 100 H 0 Z" fill="#00FFFF">
+            <animate
+            repeatCount="indefinite"
+            attributeName="d"
+            dur="5s"
+            values="M0 50 Q 50 90 100 50 T 200 50 T 300 50 T 400 50 T 500 50 V 100 H 0 Z;
+                    M0 50 Q 50 10 100 50 T 200 50 T 300 50 T 400 50 T 500 50 V 100 H 0 Z;
+                    M0 50 Q 50 90 100 50 T 200 50 T 300 50 T 400 50 T 500 50 V 100 H 0 Z" />
+        </path>
+        </svg>
+        """
+
+    # Combine CSS and HTML content
+    html_content = f"""
+        <div class='bumping-text-container'>
+            <div class='bumping-text'></div>
+        </div>
+        <div style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
+            {svg_content}
+        </div>
+        """
+
+        # Add the CSS and HTML to the sidebar
+    st.markdown(css_animation, unsafe_allow_html=True)
+    st.markdown(html_content, unsafe_allow_html=True)
 
 
     app = option_menu(
@@ -199,7 +272,7 @@ with st.sidebar:
         ],
         icons=[
             "building", "columns-gap", "graph-up-arrow",
-            "droplet-half", "bar-chart-steps", "people-fill","people-fill","people-fill","people-fill"
+            "droplet-half", "bar-chart-steps", "people-fill","people-fill","people-fill","people-fill", "speedometer2"
         ],
         menu_icon="list",
         default_index=0,
@@ -271,3 +344,5 @@ elif app == "Education":
     education.app()
 elif app == "Difficulties in Performing Activities":
     difficulties.app()
+    
+st.markdown("<h5 style='text-align: center; color: #15FFFF'>Created with ❤️ by Shaz Data Consult</h5>", unsafe_allow_html=True)
