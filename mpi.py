@@ -613,8 +613,8 @@ def app():
     st.divider()
 
     # Sidebar Filter for Poverty Breakdown Charts
-    st.sidebar.markdown("### 📂 Filter Poverty Data")
-    selected_chart = st.sidebar.selectbox(
+    st.markdown("### 📂 Filter Poverty Data")
+    selected_chart = st.selectbox(
         "Select Poverty Breakdown:",
         (
             "By Sex of Head of Household",
