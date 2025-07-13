@@ -1457,8 +1457,8 @@ def app():
     communities["Category"] = communities["Poverty (%)"].apply(classify)
 
     # --- Sidebar Filter: Select categories to highlight ---
-    st.sidebar.markdown("### 📊 Highlight by Poverty Level")
-    selected_categories = st.sidebar.multiselect(
+    st.markdown("### 📊 Highlight by Poverty Level")
+    selected_categories = st.multiselect(
         "Select Category:",
         options=communities["Category"].unique(),
         default=communities["Category"].unique()
