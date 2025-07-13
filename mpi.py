@@ -613,6 +613,7 @@ def app():
     st.divider()
 
     
+    # ✅ Clean, working version
     st.markdown("### 📂 Filter Poverty Data")
     selected_chart = st.selectbox(
         "Select Poverty Breakdown:",
@@ -624,6 +625,8 @@ def app():
             "By Economic Sector"
         )
     )
+
+
 
     # Chart: Multidimensional Poverty Breakdown
     if selected_chart == "By Sex of Head of Household":
