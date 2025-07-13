@@ -31,12 +31,6 @@ def app():
     # Define your logo and animation paths
     logo_path = "./Images/combo.gif"
     cropped = "./Images/coat.png"
-    animation_home_path = "./Animations/home.json"
-    animation_employee_path = "./Animations/employee.json"
-    image_path = "./Images/login.png"
-    logo_base64 = load_image(logo_path)
-    cropped_logo =load_image(cropped)
-    logo_base64 = load_image(logo_path)
     # Define a function to create a capacity-building training plan
 
     
