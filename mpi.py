@@ -612,7 +612,7 @@ def app():
 
     st.divider()
 
-    # Sidebar Filter for Poverty Breakdown Charts
+    
     st.markdown("### 📂 Filter Poverty Data")
     selected_chart = st.selectbox(
         "Select Poverty Breakdown:",
@@ -816,9 +816,9 @@ def app():
         tooltip=tooltip
     ))
 
-    # --- Sidebar Toggle ---
-    dark_mode = st.sidebar.toggle("🌙 Use Dark Mode?")
-    st.sidebar.write("🔍 Compare MPI values across Northern Region districts")
+    # ---  Toggle ---
+    dark_mode = st.toggle("🌙 Use Dark Mode?")
+    st.write("🔍 Compare MPI values across Northern Region districts")
 
     # --- Sample Data ---
     mpi_data = pd.DataFrame({
