@@ -22,7 +22,7 @@ def load_image(image_path):
         return base64.b64encode(image_file.read()).decode()
 
 # Image paths
-logo_path = "./Images/coat.png"
+logo_path = "./Images/ai.png"
 cropped_logo = load_image(logo_path)
 
    # --- CSS Animation for the Header and Glowing Cards ---
@@ -64,89 +64,49 @@ css_animation = """
 </style>
 """
 
-# Inject CSS
-st.markdown(css_animation, unsafe_allow_html=True)
-# Savelugu coordinates
-# Savelugu coordinates# Savelugu coordinates
-# Savelugu coordinates
-savelugu_coords = {"lat": 9.6245, "lng": -0.8305}
 
-# CSS for column layout and animation
-st.markdown(f"""
+st.title("🤖 Savelugu Municipal Assembly Dashboard")
+
+st.markdown("""
 <style>
-@keyframes bump {{
-    0%, 100% {{ transform: translateY(0); }}
-    50% {{ transform: translateY(-10px); }}
-}}
+body {
+  background-color: #0a0a0a;
+  margin: 0;
+}
 
-.header-container {{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 2rem;
-    gap: 1rem;
-}}
+/* Center the content horizontally */
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
 
-.bumping-text {{
-    animation: bump 1.5s infinite;
-    font-size: 2.3rem;
-    font-weight: bold;
-    color: #00FFFF;
-    margin: 0;
-    text-align: center;
-}}
-
-.globe-box {{
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    overflow: hidden;
-    box-shadow: 0 0 15px rgba(0, 204, 255, 0.4);
-}}
+.circular-frame {
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 6px solid #00FFFF;
+  box-shadow: 0 0 30px #00FFFF, 0 0 60px #0ff;
+  background: #000;
+}
+.circular-frame iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
 </style>
-""", unsafe_allow_html=True)
 
-# HTML structure with globe above text
-st.markdown(f"""
-<div class="header-container">
-    <div class="globe-box">
-        <iframe srcdoc="
-        <html>
-          <head>
-            <script src='https://unpkg.com/three@0.139.2/build/three.min.js'></script>
-            <script src='https://unpkg.com/globe.gl'></script>
-            <style>
-              html, body {{ margin: 0; padding: 0; overflow: hidden; width: 100%; height: 100%; }}
-              #globeViz {{ width: 100%; height: 100%; }}
-            </style>
-          </head>
-          <body>
-            <div id='globeViz'></div>
-            <script>
-              const world = Globe()
-                (document.getElementById('globeViz'))
-                .globeImageUrl('//unpkg.com/three-globe/example/img/earth-dark.jpg')
-                .backgroundImageUrl('//unpkg.com/three-globe/example/img/night-sky.png')
-                .showAtmosphere(true)
-                .atmosphereColor('lightskyblue')
-                .atmosphereAltitude(0.5)
-                .pointOfView({{ lat: {savelugu_coords['lat']}, lng: {savelugu_coords['lng']}, altitude: 1 }}, 0);
-              world.controls().autoRotate = true;
-              world.controls().autoRotateSpeed = 1.5;
-              world
-                .pointsData([{{ lat: {savelugu_coords['lat']}, lng: {savelugu_coords['lng']}, size: 0.25 }}])
-                .pointColor(() => 'red')
-                .pointAltitude(() => 0.05)
-                .pointLabel(() => 'Savelugu');
-            </script>
-          </body>
-        </html>" width="100%" height="100%" style="border:none;"></iframe>
-    </div>
-    <div class="bumping-text">Savelugu Municipal Demographic Dashboard</div>
+<div class="center-container">
+  <div class="circular-frame">
+    <iframe title="Wireframe Human Head"
+      src="https://sketchfab.com/models/6bb795e00ba34bfe9eb27bc7517019de/embed?autostart=1&autospin=0.8&ui_theme=dark"
+      allowfullscreen mozallowfullscreen webkitallowfullscreen>
+    </iframe>
+  </div>
 </div>
 """, unsafe_allow_html=True)
-
         # Define CSS for the continuous sliding animation with 3D text effect
 css_animation = """
     <style>
@@ -225,9 +185,9 @@ with st.sidebar:
     </style>
 
     <div class="custom-box">
-        <img src="data:image/png;base64,{cropped_logo}" alt="Logo" style="width: 100px; margin-bottom: 10px;" />
+        <img src="data:image/png;base64,{cropped_logo}" alt="Logo" style="width: 170px; margin-bottom: 10px;" />
         <h2>Savelugu Report</h2>
-        <p>Municipal Dashboard</p>
+        <p></p>
     </div>
     """,
     unsafe_allow_html=True
