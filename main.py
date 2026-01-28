@@ -98,15 +98,7 @@ body {
 }
 </style>
 
-<div class="center-container">
-  <div class="circular-frame">
-    <iframe title="Wireframe Human Head"
-      src="https://sketchfab.com/models/6bb795e00ba34bfe9eb27bc7517019de/embed?autostart=1&autospin=0.8&ui_theme=dark"
-      allowfullscreen mozallowfullscreen webkitallowfullscreen>
-    </iframe>
-  </div>
-</div>
-""", unsafe_allow_html=True)
+
         # Define CSS for the continuous sliding animation with 3D text effect
 css_animation = """
     <style>
