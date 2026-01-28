@@ -328,7 +328,7 @@ def app():
     </div>
     """, unsafe_allow_html=True)
 
-     st.subheader("📍 Map of Savelugu in Ghana")
+    st.subheader("📍 Map of Savelugu in Ghana")
 
         savelugu_coords = {
             "lat": 9.6241,
