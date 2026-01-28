@@ -11,19 +11,7 @@ def app():
 
     st.header("📊 Savelugu Municipal Demographics and Development Overview")
     
-    items = [
-        {"title": "Multi Dimensional Poverty Index", "img": "./Images/hand.jpg", "text": "How Poor and Intensity of Poor"},
-        {"title": "Population of Savelugu", "img": "./Images/hand.jpg", "text": "Population and it's Segregation"},
-        {"title": "Housing in Savelugu", "img": "./Images/hand.jpg", "text": "Dwelling and Space"},
-        {"title": "Education in Savelugu", "img": "./Images/hand.jpg", "text": "Education and Literacy"},
-        {"title": "Water and Sanitaion", "img": "./Images/hand.jpg", "text": "Water and Sanitation"},
-        {"title": "Fertility  Savelugu", "img": "./Images/hand.jpg", "text": "Fertility and Mortality"},
-        {"title": "Structures in Savelugu", "img": "./Images/hand.jpg", "text": "Types and Completion Status of Structures"},
-        {"title": "Economic Activities in Savelugu", "img": "./Images/hand.jpg", "text": "Various Economic Activities"},
-        {"title": "Difficulties in Performing Activities in Savelugu", "img": "./Images/hand.jpg", "text": "Categories of Disabilities"},
-    ]
-
-    carousel(items)  # <-- remove height=300
+   
 
     def load_image(image_path):
         with open(image_path, "rb") as image_file:
