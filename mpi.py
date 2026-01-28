@@ -1575,48 +1575,7 @@ def app():
     
     import streamlit.components.v1 as components
 
-    st.title("🌍 Spinning 3D Globe")
-
-    globe_html = """
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <script src="https://unpkg.com/three@0.139.2/build/three.min.js"></script>
-        <script src="https://unpkg.com/globe.gl"></script>
-        <style>
-        html, body {
-            margin: 0;
-            height: 100%;
-            overflow: hidden;
-        }
-        #globeViz {
-            width: 100%;
-            height: 100%;
-        }
-        </style>
-    </head>
-    <body>
-        <div id="globeViz"></div>
-        <script>
-        const Globe = window.Globe;
-        const world = Globe()
-            (document.getElementById('globeViz'))
-            .globeImageUrl('//unpkg.com/three-globe/example/img/earth-dark.jpg')
-            .backgroundImageUrl('//unpkg.com/three-globe/example/img/night-sky.png')
-            .showAtmosphere(true)
-            .atmosphereColor('lightskyblue')
-            .atmosphereAltitude(0.25)
-            .pointOfView({ lat: 0, lng: 0, altitude: 3 }, 0);
-
-        // Auto-rotate
-        world.controls().autoRotate = true;
-        world.controls().autoRotateSpeed = 1.5;
-        </script>
-    </body>
-    </html>
-    """
-
-    components.html(globe_html, height=600)
+    
     
 
 
