@@ -328,33 +328,7 @@ def app():
     </div>
     """, unsafe_allow_html=True)
 
-    st.subheader("📍 Map of Savelugu in Ghana")
-
-        savelugu_coords = {
-            "lat": 9.6241,
-            "lon": -0.8306
-        }
-    
-        st.pydeck_chart(pdk.Deck(
-            map_style=None,  # ✅ No Mapbox token required
-            initial_view_state=pdk.ViewState(
-                latitude=savelugu_coords["lat"],
-                longitude=savelugu_coords["lon"],
-                zoom=8,
-                pitch=0,
-            ),
-            layers=[
-                pdk.Layer(
-                    "ScatterplotLayer",
-                    data=[savelugu_coords],
-                    get_position='[lon, lat]',
-                    get_color='[21, 255, 255, 180]',  # cyan glow
-                    get_radius=15000,
-                    pickable=True,
-                )
-            ],
-        ))
-
+   
     st.markdown("### 3. Key Development Metrics")
 
     st.markdown("""
