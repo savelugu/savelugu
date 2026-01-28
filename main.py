@@ -22,7 +22,7 @@ def load_image(image_path):
         return base64.b64encode(image_file.read()).decode()
 
 # Image paths
-logo_path = "./Images/ai.png"
+logo_path = "./Images/coat.png"
 cropped_logo = load_image(logo_path)
 
    # --- CSS Animation for the Header and Glowing Cards ---
@@ -65,38 +65,18 @@ css_animation = """
 """
 
 
-st.title("🤖 Savelugu Municipal Assembly Dashboard")
-
 st.markdown("""
-<style>
-body {
-  background-color: #0a0a0a;
-  margin: 0;
-}
+<h1 style="
+    text-align: center;
+    color: #15FFFF;
+    font-size: 48px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+">
+    🤖 Savelugu Municipal Assembly Dashboard
+</h1>
+""", unsafe_allow_html=True)
 
-/* Center the content horizontally */
-.center-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 90vh;
-}
-
-.circular-frame {
-  width: 350px;
-  height: 350px;
-  border-radius: 50%;
-  overflow: hidden;
-  border: 6px solid #00FFFF;
-  box-shadow: 0 0 30px #00FFFF, 0 0 60px #0ff;
-  background: #000;
-}
-.circular-frame iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-</style>
 
 
         # Define CSS for the continuous sliding animation with 3D text effect
@@ -146,7 +126,6 @@ st.markdown(html_content, unsafe_allow_html=True)
 
 
 
-# Sidebar with glowing logo and styled nav
 # Enhanced Professional Sidebar with Modern Design
 with st.sidebar:
     st.markdown(
@@ -386,4 +365,4 @@ elif app == "Education":
 elif app == "Difficulties in Performing Activities":
     difficulties.app()
     
-st.markdown("<h5 style='text-align: center; color: #15FFFF'>Created with ❤️ by Shaz Data Consult</h5>", unsafe_allow_html=True)
+st.markdown("<h5 style='text-align: center; color: #15FFFF'>Created with ❤️ by Statistics Department</h5>", unsafe_allow_html=True)
