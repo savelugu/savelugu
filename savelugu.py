@@ -5,7 +5,7 @@ import pydeck as pdk
 import base64
 import plotly.graph_objects as go
 import networkx as nx
-from streamlit_carousel import carousel
+
 
 def app():
 
