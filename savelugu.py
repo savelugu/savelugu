@@ -328,21 +328,19 @@ def app():
     </div>
     """, unsafe_allow_html=True)
 
-    st.subheader("📍 Map of Savelugu in Ghana")
+     st.subheader("📍 Map of Savelugu in Ghana")
 
-    # Coordinates of Savelugu
     savelugu_coords = {
         "lat": 9.6241,
         "lon": -0.8306
     }
 
-    # Create map view with dark theme
     st.pydeck_chart(pdk.Deck(
-        map_style='mapbox://styles/mapbox/dark-v10',  # Changed from light-v9 to dark-v10
+        map_style=None,  # ✅ No Mapbox token required
         initial_view_state=pdk.ViewState(
             latitude=savelugu_coords["lat"],
             longitude=savelugu_coords["lon"],
-            zoom=7,
+            zoom=8,
             pitch=0,
         ),
         layers=[
@@ -350,8 +348,9 @@ def app():
                 "ScatterplotLayer",
                 data=[savelugu_coords],
                 get_position='[lon, lat]',
-                get_color='[255, 0, 0, 160]',
-                get_radius=10000,
+                get_color='[21, 255, 255, 180]',  # cyan glow
+                get_radius=15000,
+                pickable=True,
             )
         ],
     ))
