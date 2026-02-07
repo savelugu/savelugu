@@ -5,7 +5,7 @@ import base64
 import streamlit.components.v1 as components
 import requests
 from datetime import datetime
-import structures, mpi, sanitation, economic, population, savelugu, housing, fertility, education, difficulties,electricity,agriculture,improved_sanitation
+import structures, mpi, sanitation, economic, population, savelugu, housing, fertility, education, difficulties,electricity,agriculture,improved_sanitation,births
 
 # Page configuration
 st.set_page_config(
@@ -269,13 +269,13 @@ with st.sidebar:
             "Savelugu Municipal", "Structures", "Savelugu MPI",
             "Water & Sanitation", "Economic Activities", "Population",
             "Housing", "Fertility", "Education", 
-            "Difficulties in Performing Activities","Electricity Consumption","Agriculture Metrics","Improved Sanitation"
+            "Difficulties in Performing Activities","Electricity Consumption","Agriculture Metrics","Improved Sanitation","Registered Births"
         ],
         icons=[
             "building", "columns-gap", "graph-up-arrow",
             "droplet-half", "bar-chart-steps", "people",
             "house-door", "heart-pulse", "book",
-            "activity","building","building","building"
+            "activity","building","building","building","building"
         ],
         menu_icon="",
         default_index=0,
@@ -369,6 +369,8 @@ elif app == "Electricity Consumption":
 elif app == "Agriculture Metrics": 
     agriculture.app()
 elif app == "Improved Sanitation": 
-    improved_sanitation.app()   
+    improved_sanitation.app()
+elif app == "Registered Births": 
+    births.app() 
     
 st.markdown("<h5 style='text-align: center; color: #15FFFF'>Created with ❤️ by Statistics Department</h5>", unsafe_allow_html=True)
