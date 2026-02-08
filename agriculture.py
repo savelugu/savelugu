@@ -28,18 +28,11 @@ def backtest(series, model_fn, min_train=6):
         train = series.iloc[:i]
         test = series.iloc[i:i + 1]
         forecast = model_fn(train, 1)
-
-        # Ensure forecast is array-like
         forecast = np.array(forecast)
         if len(forecast) == 0 or len(test) == 0:
             continue
-
         errors.append(abs(test.values[0] - forecast[0]))
-
-    if errors:
-        return np.mean(errors)
-    else:
-        return np.nan
+    return np.mean(errors) if errors else np.nan
 
 def select_best_model(series):
     models = {
@@ -48,7 +41,6 @@ def select_best_model(series):
         "Auto ARIMA": auto_arima_model
     }
     scores = {name: backtest(series, fn) for name, fn in models.items()}
-    # Remove models with NaN backtest
     scores = {k: v for k, v in scores.items() if not np.isnan(v)}
     if not scores:
         return None, None, {}
@@ -56,8 +48,7 @@ def select_best_model(series):
     return best_name, models[best_name], scores
 
 def generate_forecast(series, model_fn, steps):
-    forecast = model_fn(series, steps)
-    forecast = np.array(forecast)  # Ensure array-like
+    forecast = np.array(model_fn(series, steps))
     sigma = series.diff().dropna().std()
     lower = forecast - 1.96 * sigma
     upper = forecast + 1.96 * sigma
@@ -147,48 +138,84 @@ def app():
     if enable_forecast:
         horizon = st.slider("Forecast horizon (years)", 1, 5, 3)
         forecast_df = filtered_df.dropna()
+        auto_forecast_indicators = ["Population in Agriculture", "Number of Farmers", "Livestock Reared"]
 
-        if forecast_df["Disaggregation"].nunique() != 1:
-            st.warning("Select exactly ONE disaggregation to forecast.")
-        else:
-            series = forecast_df.sort_values("Year").set_index("Year")["Value"]
+        if indicator in auto_forecast_indicators:
+            # Forecast all disaggregations separately
+            for disagg in forecast_df["Disaggregation"].unique():
+                series = forecast_df[forecast_df["Disaggregation"] == disagg].sort_values("Year").set_index("Year")["Value"]
 
-            if len(series) < 6:
-                st.error("Not enough data for forecasting.")
-            else:
+                if len(series) < 6:
+                    st.error(f"Not enough data to forecast {disagg}.")
+                    continue
+
                 best_name, best_fn, scores = select_best_model(series)
-
                 if best_name is None:
-                    st.warning("Unable to select a forecasting model (insufficient data).")
+                    st.warning(f"Unable to select a model for {disagg}.")
+                    continue
+
+                st.success(f"Forecast for **{disagg}** (Model: {best_name})")
+                st.markdown("**Backtest MAE:**")
+                st.json(scores)
+
+                forecast, lower, upper = generate_forecast(series, best_fn, horizon)
+                future_years = list(range(series.index.max() + 1, series.index.max() + horizon + 1))
+                result = pd.DataFrame({
+                    "Year": future_years,
+                    "Forecast": forecast,
+                    "Lower CI": lower,
+                    "Upper CI": upper
+                })
+                st.dataframe(result, use_container_width=True)
+
+                fig_f = px.line(title=f"{disagg}: Observed vs Forecast")
+                fig_f.add_scatter(x=list(series.index), y=series.values, mode="lines+markers", name="Observed")
+                fig_f.add_scatter(x=future_years, y=forecast, mode="lines+markers", name="Forecast")
+                fig_f.add_scatter(x=future_years, y=lower, mode="lines", name="Lower CI", line=dict(dash="dot"))
+                fig_f.add_scatter(x=future_years, y=upper, mode="lines", name="Upper CI", line=dict(dash="dot"))
+                st.plotly_chart(fig_f, use_container_width=True)
+
+                st.info("⚠️ Forecasts are exploratory and intended for planning and policy analysis.")
+
+        else:
+            # Other indicators: single disaggregation only
+            if forecast_df["Disaggregation"].nunique() != 1:
+                st.warning("Select exactly ONE disaggregation to forecast.")
+            else:
+                series = forecast_df.sort_values("Year").set_index("Year")["Value"]
+
+                if len(series) < 6:
+                    st.error("Not enough data for forecasting.")
                 else:
-                    st.success(f"Selected model: **{best_name}**")
-                    st.markdown("### Backtest MAE")
-                    st.json(scores)
+                    best_name, best_fn, scores = select_best_model(series)
+                    if best_name is None:
+                        st.warning("Unable to select a forecasting model (insufficient data).")
+                    else:
+                        st.success(f"Selected model: **{best_name}**")
+                        st.markdown("### Backtest MAE")
+                        st.json(scores)
 
-                    forecast, lower, upper = generate_forecast(series, best_fn, horizon)
-                    future_years = list(range(series.index.max() + 1, series.index.max() + horizon + 1))
-                    result = pd.DataFrame({
-                        "Year": future_years,
-                        "Forecast": forecast,
-                        "Lower CI": lower,
-                        "Upper CI": upper
-                    })
-                    st.dataframe(result, use_container_width=True)
+                        forecast, lower, upper = generate_forecast(series, best_fn, horizon)
+                        future_years = list(range(series.index.max() + 1, series.index.max() + horizon + 1))
+                        result = pd.DataFrame({
+                            "Year": future_years,
+                            "Forecast": forecast,
+                            "Lower CI": lower,
+                            "Upper CI": upper
+                        })
+                        st.dataframe(result, use_container_width=True)
 
-                    fig_f = px.line(title="Observed vs Forecast")
-                    fig_f.add_scatter(x=list(series.index), y=series.values, mode="lines+markers", name="Observed")
-                    fig_f.add_scatter(x=future_years, y=forecast, mode="lines+markers", name="Forecast")
-                    fig_f.add_scatter(x=future_years, y=lower, mode="lines", name="Lower CI", line=dict(dash="dot"))
-                    fig_f.add_scatter(x=future_years, y=upper, mode="lines", name="Upper CI", line=dict(dash="dot"))
-                    st.plotly_chart(fig_f, use_container_width=True)
+                        fig_f = px.line(title="Observed vs Forecast")
+                        fig_f.add_scatter(x=list(series.index), y=series.values, mode="lines+markers", name="Observed")
+                        fig_f.add_scatter(x=future_years, y=forecast, mode="lines+markers", name="Forecast")
+                        fig_f.add_scatter(x=future_years, y=lower, mode="lines", name="Lower CI", line=dict(dash="dot"))
+                        fig_f.add_scatter(x=future_years, y=upper, mode="lines", name="Upper CI", line=dict(dash="dot"))
+                        st.plotly_chart(fig_f, use_container_width=True)
 
-                    st.info(
-                        "⚠️ Forecasts are exploratory and intended for "
-                        "planning and policy analysis."
-                    )
+                        st.info("⚠️ Forecasts are exploratory and intended for planning and policy analysis.")
 
     # -----------------------------
-    # TABLE
+    # DATA TABLE
     # -----------------------------
     st.subheader("📋 Data Table")
     table_df = filtered_df.pivot_table(
@@ -201,9 +228,8 @@ def app():
     st.markdown("---")
     st.caption("🌾 Agriculture Indicators Dashboard | Production Version")
 
-
 # =====================================================
-# RUN
+# RUN APP
 # =====================================================
 if __name__ == "__main__":
     app()
