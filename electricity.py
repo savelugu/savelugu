@@ -15,12 +15,14 @@ def naive_drift(series, steps):
 
 def ets_model(series, steps):
     model = ExponentialSmoothing(series, trend="add", seasonal=None).fit()
-    return model.forecast(steps)
+    forecast = model.forecast(steps)
+    return forecast.values if isinstance(forecast, pd.Series) else np.array(forecast)
 
 def auto_arima_model(series, steps):
     model = pm.auto_arima(series, seasonal=False, stepwise=True,
                           suppress_warnings=True, error_action="ignore")
-    return model.predict(n_periods=steps)
+    forecast = model.predict(n_periods=steps)
+    return np.array(forecast)
 
 def backtest(series, model_fn, min_train=6):
     errors = []
@@ -28,9 +30,9 @@ def backtest(series, model_fn, min_train=6):
         train = series.iloc[:i]
         test = series.iloc[i:i + 1]
         forecast = model_fn(train, 1)
-        forecast = np.array(forecast)
-        if len(forecast) == 0 or len(test) == 0:
+        if forecast is None or len(forecast) == 0:
             continue
+        forecast = np.array(forecast)
         errors.append(abs(test.values[0] - forecast[0]))
     return np.mean(errors) if errors else np.nan
 
@@ -44,10 +46,19 @@ def select_best_model(series):
     return best_name, models[best_name], scores
 
 def generate_forecast(series, model_fn, steps):
-    forecast = np.array(model_fn(series, steps))
+    forecast = model_fn(series, steps)
+    
+    if forecast is None:
+        forecast = np.zeros(steps)
+    elif isinstance(forecast, pd.Series):
+        forecast = forecast.values
+    else:
+        forecast = np.array(forecast)
+
     sigma = series.diff().dropna().std()
     lower = forecast - 1.96 * sigma
     upper = forecast + 1.96 * sigma
+
     return forecast, lower, upper
 
 # =====================================================
@@ -122,14 +133,11 @@ def app():
         forecast_df = filtered_df.dropna()
 
         if indicator in auto_forecast_indicators:
-            # Multi-disaggregation forecast
             for disagg in forecast_df["Disaggregation"].unique():
                 series = forecast_df[forecast_df["Disaggregation"] == disagg].sort_values("Year").set_index("Year")["Value"]
-
                 if len(series) < 6:
                     st.error(f"Not enough data to forecast {disagg}.")
                     continue
-
                 best_name, best_fn, scores = select_best_model(series)
                 if best_name is None:
                     st.warning(f"Unable to select a model for {disagg}.")
@@ -152,14 +160,11 @@ def app():
                 st.plotly_chart(fig_f, use_container_width=True)
 
                 st.info("⚠️ Forecasts are exploratory and intended for planning and policy analysis.")
-
         else:
-            # Single-disaggregation forecast
             if forecast_df["Disaggregation"].nunique() != 1:
                 st.warning("Select exactly ONE disaggregation for forecasting.")
             else:
                 series = forecast_df.sort_values("Year").set_index("Year")["Value"]
-
                 if len(series) < 6:
                     st.error("Not enough data for forecasting.")
                 else:
