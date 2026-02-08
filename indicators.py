@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+import numpy as np
 from math import ceil
 
 def app():
@@ -54,7 +55,6 @@ def app():
         
         # Data for the table
         mpi_data = [
-            # Dimension, Indicator, Deprivation Cut-off Definition, Indicator Weight, Dimension Weight
             ["Living Standards", "Cooking fuel", "Deprived if household uses solid fuels and cooking is not done outside the house or in the open/ or cooking is undertaken in enclosed spaces", "1/28", "1/4"],
             ["Living Standards", "Water", "Deprived if a household's drinking water is from an unclean source (tanker supply/vendor provided; unprotected well; unprotected spring; river/stream; dugout/pond/lake/dam/canal; other) or a round trip distance to collect water takes 30 minutes or more", "1/28", "1/4"],
             ["Living Standards", "Assets", "Deprived if household does not have more than one small asset (radio, TV, telephone, bike, motorbike, refrigerator, or computer) and does not own a car", "1/28", "1/4"],
@@ -260,7 +260,7 @@ def app():
     with tab3:
         st.header("📈 MPI Visualizations")
         
-        # Create sample data for visualization
+        # Create sample data for visualization - FIXED: Using np.random
         sample_households = pd.DataFrame({
             'Household': [f'HH{i:02d}' for i in range(1, 21)],
             'MPI_Score': np.random.uniform(0, 0.5, 20),
