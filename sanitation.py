@@ -1,1295 +1,41 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import pydeck as pdk
+import base64
 import plotly.graph_objects as go
+import networkx as nx
+import altair as alt
 import matplotlib.pyplot as plt
 import seaborn as sns
-from plotly.subplots import make_subplots
 
 def app():
     
-    st.title("🧼 Savelugu Municipal Sanitation Insights Dashboard")
-    
-    # Sidebar with enhanced navigation
-    st.sidebar.markdown("### 📊 Navigation Panel")
-    section = st.sidebar.radio(
-        "Select Dashboard Section:",
-        ["Sanitation & Hygiene", "Water Services", "Waste Management", "Community Water Coverage", "Summary Metrics"]
+    st.title("🧼 Savelugu Municipal Sanitation Insights")
+
+    # Sidebar chart selector
+    st.sidebar.markdown("### 📊 Select Chart to Display")
+    chart_option = st.sidebar.selectbox(
+        "Choose a visualization:",
+        (
+            "Defecation Points",
+            "Water Sources for Other Domestic Use",
+            "Toilet Facilities Overview",
+            "Main Source of Drinking Water",
+            "Improved and Unimproved Water Services",
+            "Storage of Solid Waste",
+            "Time Taken to Source Drinking Water",
+            "Toilet Facility Breakdown",
+            "Levels of Toilet Service",
+            "Toilet Facility by Type",
+            "Solid Waste Storage Methods"
+        )
     )
-    
-    if section == "Sanitation & Hygiene":
-        st.sidebar.markdown("### 🚽 Sanitation Charts")
-        chart_option = st.sidebar.selectbox(
-            "Choose visualization:",
-            [
-                "Defecation Points",
-                "Toilet Facilities Overview",
-                "Toilet Facility Breakdown",
-                "Levels of Toilet Service",
-                "Toilet Facility by Type"
-            ]
-        )
-        
-    elif section == "Water Services":
-        st.sidebar.markdown("### 💧 Water Service Charts")
-        chart_option = st.sidebar.selectbox(
-            "Choose visualization:",
-            [
-                "Main Source of Drinking Water",
-                "Improved and Unimproved Water Services",
-                "Time Taken to Source Drinking Water"
-            ]
-        )
-        
-    elif section == "Waste Management":
-        st.sidebar.markdown("### 🗑️ Waste Management Charts")
-        chart_option = st.sidebar.selectbox(
-            "Choose visualization:",
-            [
-                "Storage of Solid Waste",
-                "Solid Waste Storage Methods"
-            ]
-        )
-        
-    elif section == "Summary Metrics":
-        st.header("📊 Key Performance Indicators")
-        
-        col1, col2, col3, col4 = st.columns(4)
-        
-        with col1:
-            st.metric(
-                label="🚽 Population with Unsafe Sanitation",
-                value="28,922",
-                delta="-12% target needed",
-                delta_color="inverse"
-            )
-            
-        with col2:
-            st.metric(
-                label="💧 Population with Unimproved Water",
-                value="4,196",
-                delta="15% improvement needed",
-                delta_color="inverse"
-            )
-            
-        with col3:
-            st.metric(
-                label="🗑️ Unsafe Waste Disposal",
-                value="24,000+",
-                delta="High Risk",
-                delta_color="off"
-            )
-            
-        with col4:
-            st.metric(
-                label="🏘️ Rural Water Coverage",
-                value="68%",
-                delta="+5% from baseline",
-                delta_color="normal"
-            )
-        
-        # Summary insights
-        st.markdown("---")
-        col1, col2 = st.columns(2)
-        
-        with col1:
-            st.subheader("🎯 Priority Areas")
-            st.markdown("""
-            1. **Sanitation Crisis**: 28,922 people practice unsafe defecation
-            2. **Water Access**: 4,196 use unimproved water sources
-            3. **Waste Management**: 24,000+ use unsafe disposal methods
-            4. **Rural Disparity**: Water coverage gaps in rural communities
-            """)
-            
-        with col2:
-            st.subheader("📈 Recommendations")
-            st.markdown("""
-            1. **Immediate**: Scale up sanitation infrastructure in urban areas
-            2. **Short-term**: Improve water source protection
-            3. **Medium-term**: Expand waste collection services
-            4. **Long-term**: Integrate WASH in urban planning
-            """)
-        
-        st.markdown("---")
-        
-        # Create summary chart
-        st.subheader("📊 WASH Status Overview")
-        
-        summary_data = {
-            "Category": ["Safe Sanitation", "Improved Water", "Proper Waste Disposal", "Household Toilets"],
-            "Coverage (%)": [35, 85, 40, 28],
-            "Population Served": [14500, 42100, 20000, 12000],
-            "Gap": [28922, 4196, 24000, 19555]
-        }
-        
-        df_summary = pd.DataFrame(summary_data)
-        
-        fig = go.Figure(data=[
-            go.Bar(name='Coverage %', x=df_summary['Category'], y=df_summary['Coverage (%)'], 
-                   text=df_summary['Coverage (%)'], textposition='auto', marker_color='#2E86AB'),
-            go.Bar(name='Gap (People)', x=df_summary['Category'], y=df_summary['Gap']/1000, 
-                   text=df_summary['Gap'], textposition='auto', marker_color='#A23B72',
-                   yaxis='y2')
-        ])
-        
-        fig.update_layout(
-            title='WASH Service Coverage vs. Population Gap',
-            yaxis=dict(title='Coverage (%)', range=[0, 100]),
-            yaxis2=dict(title='Gap (Thousands of People)', overlaying='y', side='right'),
-            barmode='group',
-            plot_bgcolor='#1E1E1E',
-            paper_bgcolor='#1E1E1E',
-            font_color='white',
-            height=500
-        )
-        
-        st.plotly_chart(fig, use_container_width=True)
-        return
-        
-    elif section == "Community Water Coverage":
-        # Load and clean the dataset
-        watercoverage = pd.read_csv("CoverageStatistics.csv")
-        
-        # Rename columns for readability
-        watercoverage = watercoverage.rename(columns={
-            "No of communities": "No_Comm",
-            "Below 75": "Pop_Under_75",
-            "75 -\n299": "Pop_75_299",
-            "300 -\n1999": "Pop_300_1999",
-            "2000 - 4999 \n": "Pop_2000_4999",
-            "Over 5000": "Pop_Over_5000",
-            "RURAL Population Served\n": "Rural_Served",
-            "RURAL Coverage\n": "Rural_Coverage"
-        })
-        
-        # Ensure numeric types
-        numeric_columns = [
-            'Population', 'Rural_Served', 'Rural_Coverage', 'BH', 'HDW', 'SCPS',
-            'LMS', 'STPS', 'RHS', 'GWCL', 'Pop_Under_75', 'Pop_75_299',
-            'Pop_300_1999', 'Pop_2000_4999', 'Pop_Over_5000'
-        ]
-        
-        for col in numeric_columns:
-            watercoverage[col] = pd.to_numeric(watercoverage[col], errors='coerce')
-        
-        # Streamlit Title
-        st.title("🚰 Community Water Coverage Analysis - Savelugu Constituency (2024)")
-        
-        # Quick stats
-        col1, col2, col3, col4 = st.columns(4)
-        with col1:
-            st.metric("Total Communities", len(watercoverage))
-        with col2:
-            st.metric("Total Population", f"{watercoverage['Population'].sum():,}")
-        with col3:
-            avg_coverage = watercoverage['Rural_Coverage'].mean()
-            st.metric("Avg Rural Coverage", f"{avg_coverage:.1f}%")
-        with col4:
-            st.metric("Water Source Types", 7)
-        
-        st.dataframe(watercoverage, use_container_width=True)
-        
-        st.markdown("""
-        <style>
-        .stTabs [data-baseweb="tab-list"] {
-            gap: 8px;
-        }
-        .stTabs [data-baseweb="tab"] {
-            background-color: #1e1e1e;
-            padding: 10px 16px;
-            border-radius: 8px;
-            border: 1px solid #333;
-            color: #eee;
-            font-weight: 600;
-            transition: all 0.2s ease-in-out;
-        }
-        .stTabs [aria-selected="true"] {
-            background-color: #00f2ff !important;
-            color: #000 !important;
-            font-weight: bold;
-            box-shadow: 0 0 8px #00f2ff;
-        }
-        </style>
-        """, unsafe_allow_html=True)
-        
-        # Create tabs
-        tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10 = st.tabs([
-            "💧 Boreholes Analysis",
-            "🚰 Water Sources Distribution",
-            "📊 Population Structure",
-            "👥 Population by Category",
-            "🏘️ Top Communities",
-            "🌊 Service Coverage",
-            "📈 Coverage Distribution",
-            "🧮 Source Utilization",
-            "🔍 Boreholes vs Coverage",
-            "📊 Correlation Analysis"
-        ])
-        
-        # --- TAB 1: Boreholes Analysis ---
-        with tab1:
-            st.subheader("💧 Borehole Distribution Analysis")
-            
-            col1, col2 = st.columns(2)
-            
-            with col1:
-                # Boreholes by community
-                bh_df = watercoverage[watercoverage['BH'] > 0].sort_values('BH', ascending=False)
-                fig_bh = px.bar(
-                    bh_df.head(15),
-                    x='Communities',
-                    y='BH',
-                    title='Top 15 Communities by Number of Boreholes',
-                    labels={'BH': 'Number of Boreholes'},
-                    color='BH',
-                    color_continuous_scale='Viridis'
-                )
-                fig_bh.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white'
-                )
-                st.plotly_chart(fig_bh, use_container_width=True)
-            
-            with col2:
-                # Boreholes vs Population scatter
-                fig_scatter = px.scatter(
-                    watercoverage,
-                    x='Population',
-                    y='BH',
-                    size='Rural_Coverage',
-                    color='Rural_Coverage',
-                    hover_name='Communities',
-                    title='Boreholes vs Population Size',
-                    labels={'BH': 'Boreholes', 'Population': 'Total Population'},
-                    color_continuous_scale='Plasma'
-                )
-                fig_scatter.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white'
-                )
-                st.plotly_chart(fig_scatter, use_container_width=True)
-            
-            # Insights
-            st.markdown("""
-            <div style="background-color:#1e1e1e; padding:20px; border-radius:10px; margin-top:20px;">
-                <h4 style="color:#f5c518;">💡 Borehole Analysis Insights</h4>
-                <p style="color:white; font-size:16px;">
-                🔍 <strong>Key Findings:</strong><br>
-                1. Borehole distribution shows significant variation across communities<br>
-                2. Some high-population communities have fewer boreholes, indicating potential gaps<br>
-                3. No strong correlation between population size and number of boreholes<br>
-                4. Communities with 0 boreholes rely on other water sources<br>
-                </p>
-            </div>
-            """, unsafe_allow_html=True)
-        
-        # --- TAB 2: Water Sources Distribution ---
-        with tab2:
-            st.subheader("🚰 Water Sources Distribution Analysis")
-            
-            col1, col2 = st.columns([2, 1])
-            
-            with col1:
-                # Doughnut chart
-                source_columns = ['BH', 'HDW', 'SCPS', 'LMS', 'STPS', 'RHS', 'GWCL']
-                source_sums = watercoverage[source_columns].sum().reset_index()
-                source_sums.columns = ['Water Source', 'Total']
-                
-                # Calculate percentages
-                source_sums['Percentage'] = (source_sums['Total'] / source_sums['Total'].sum() * 100).round(1)
-                
-                fig_doughnut = px.pie(
-                    source_sums,
-                    names='Water Source',
-                    values='Total',
-                    hole=0.5,
-                    title='Water Source Distribution Across All Communities',
-                    color_discrete_sequence=px.colors.sequential.RdBu
-                )
-                
-                fig_doughnut.update_traces(
-                    textinfo='percent+label',
-                    textposition='inside',
-                    marker=dict(line=dict(color='white', width=2))
-                )
-                
-                fig_doughnut.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white',
-                    showlegend=True,
-                    legend=dict(
-                        orientation="h",
-                        yanchor="bottom",
-                        y=1.02,
-                        xanchor="right",
-                        x=1
-                    )
-                )
-                
-                st.plotly_chart(fig_doughnut, use_container_width=True)
-            
-            with col2:
-                # Source definitions
-                st.markdown("""
-                <div style="background-color:#1e1e1e; padding:15px; border-radius:10px;">
-                    <h5 style="color:#00f2ff;">Water Source Definitions</h5>
-                    <p style="color:white; font-size:12px; margin-bottom:5px;">
-                    <strong>BH</strong>: Boreholes<br>
-                    <strong>HDW</strong>: Hand-dug Wells<br>
-                    <strong>SCPS</strong>: Small Community Piped Systems<br>
-                    <strong>LMS</strong>: Limited Mechanized Systems<br>
-                    <strong>STPS</strong>: Small Town Piped Systems<br>
-                    <strong>RHS</strong>: Rain Harvesting Systems<br>
-                    <strong>GWCL</strong>: Ghana Water Company Ltd
-                    </p>
-                </div>
-                """, unsafe_allow_html=True)
-                
-                # Summary table
-                st.dataframe(
-                    source_sums.sort_values('Total', ascending=False),
-                    use_container_width=True,
-                    column_config={
-                        "Water Source": st.column_config.TextColumn("Source"),
-                        "Total": st.column_config.NumberColumn("Count"),
-                        "Percentage": st.column_config.ProgressColumn(
-                            "Percentage",
-                            format="%.1f%%",
-                            min_value=0,
-                            max_value=100
-                        )
-                    }
-                )
-            
-            # Source by community type
-            st.subheader("🌍 Water Sources by Community Size")
-            
-            # Categorize communities
-            watercoverage['Size_Category'] = pd.cut(
-                watercoverage['Population'],
-                bins=[0, 299, 1999, 4999, float('inf')],
-                labels=['Small (<300)', 'Medium (300-1999)', 'Large (2000-4999)', 'Very Large (5000+)']
-            )
-            
-            source_by_size = watercoverage.groupby('Size_Category')[source_columns].sum().reset_index()
-            source_by_size_melted = source_by_size.melt(id_vars='Size_Category', var_name='Source', value_name='Count')
-            
-            fig_size = px.bar(
-                source_by_size_melted,
-                x='Size_Category',
-                y='Count',
-                color='Source',
-                title='Water Sources by Community Size Category',
-                barmode='stack'
-            )
-            
-            fig_size.update_layout(
-                plot_bgcolor='#1E1E1E',
-                paper_bgcolor='#1E1E1E',
-                font_color='white',
-                xaxis_title="Community Size Category",
-                yaxis_title="Number of Water Sources"
-            )
-            
-            st.plotly_chart(fig_size, use_container_width=True)
-        
-        # --- TAB 3: Population Structure ---
-        with tab3:
-            st.subheader("📊 Population Distribution Analysis")
-            
-            col1, col2 = st.columns(2)
-            
-            with col1:
-                # Histogram
-                fig_hist = px.histogram(
-                    watercoverage,
-                    x='Population',
-                    nbins=30,
-                    title='Community Population Distribution',
-                    labels={'Population': 'Population'},
-                    color_discrete_sequence=['#636EFA']
-                )
-                fig_hist.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white',
-                    xaxis_title="Population",
-                    yaxis_title="Number of Communities"
-                )
-                st.plotly_chart(fig_hist, use_container_width=True)
-            
-            with col2:
-                # Box plot
-                fig_box = px.box(
-                    watercoverage,
-                    y='Population',
-                    title='Population Distribution Statistics',
-                    points='all'
-                )
-                fig_box.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white',
-                    height=400
-                )
-                st.plotly_chart(fig_box, use_container_width=True)
-            
-            # Population statistics
-            st.subheader("📈 Population Statistics")
-            col1, col2, col3, col4 = st.columns(4)
-            
-            with col1:
-                st.metric("Total Population", f"{watercoverage['Population'].sum():,}")
-            with col2:
-                st.metric("Average Population", f"{watercoverage['Population'].mean():,.0f}")
-            with col3:
-                st.metric("Median Population", f"{watercoverage['Population'].median():,.0f}")
-            with col4:
-                st.metric("Population Range", f"{watercoverage['Population'].min():,.0f} - {watercoverage['Population'].max():,.0f}")
-        
-        # --- TAB 4: Population by Category ---
-        with tab4:
-            st.subheader("👥 Population Distribution by Size Category")
-            
-            # Calculate category totals
-            category_columns = ['Pop_Under_75', 'Pop_75_299', 'Pop_300_1999', 'Pop_2000_4999', 'Pop_Over_5000']
-            category_totals = watercoverage[category_columns].sum()
-            
-            # Create visualization
-            col1, col2 = st.columns([2, 1])
-            
-            with col1:
-                # Stacked bar chart
-                top_20 = watercoverage.sort_values('Population', ascending=False).head(20)
-                
-                fig_stack = px.bar(
-                    top_20,
-                    x='Communities',
-                    y=category_columns,
-                    title='Top 20 Communities: Population by Size Category',
-                    labels={'value': 'Population', 'variable': 'Size Category'},
-                    color_discrete_sequence=px.colors.sequential.Viridis
-                )
-                
-                fig_stack.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white',
-                    barmode='stack',
-                    xaxis_tickangle=-45
-                )
-                
-                st.plotly_chart(fig_stack, use_container_width=True)
-            
-            with col2:
-                # Pie chart of categories
-                category_df = pd.DataFrame({
-                    'Category': ['<75', '75-299', '300-1999', '2000-4999', '5000+'],
-                    'Population': category_totals.values
-                })
-                
-                fig_pie = px.pie(
-                    category_df,
-                    values='Population',
-                    names='Category',
-                    title='Overall Population Distribution',
-                    hole=0.3
-                )
-                
-                fig_pie.update_traces(
-                    textinfo='percent+label',
-                    textposition='inside'
-                )
-                
-                fig_pie.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white',
-                    showlegend=False
-                )
-                
-                st.plotly_chart(fig_pie, use_container_width=True)
-            
-            # Category insights
-            st.markdown("""
-            <div style="background-color:#1e1e1e; padding:20px; border-radius:10px; margin-top:20px;">
-                <h4 style="color:#f5c518;">📊 Population Category Insights</h4>
-                <p style="color:white; font-size:16px;">
-                🔍 <strong>Distribution Analysis:</strong><br>
-                1. <strong>Large communities (2000-4999)</strong> represent the majority of population<br>
-                2. <strong>Very large communities (5000+)</strong> are few but house significant populations<br>
-                3. <strong>Small communities (<300)</strong> are numerous but house fewer people<br>
-                4. Service planning must account for this varied distribution
-                </p>
-            </div>
-            """, unsafe_allow_html=True)
-        
-        # --- TAB 5: Top Communities ---
-        with tab5:
-            st.subheader("🏘️ Community Rankings and Analysis")
-            
-            # Create ranking tabs
-            rank_tab1, rank_tab2, rank_tab3, rank_tab4 = st.tabs([
-                "📈 By Population",
-                "💧 By Water Coverage",
-                "🚰 By Sources Available",
-                "🏆 Overall Score"
-            ])
-            
-            with rank_tab1:
-                # Top by population
-                top_pop = watercoverage.sort_values('Population', ascending=False).head(15)
-                
-                fig_top_pop = px.bar(
-                    top_pop,
-                    x='Communities',
-                    y='Population',
-                    title='Top 15 Most Populous Communities',
-                    color='Population',
-                    color_continuous_scale='Viridis',
-                    text='Population'
-                )
-                
-                fig_top_pop.update_traces(
-                    texttemplate='%{text:,}',
-                    textposition='outside'
-                )
-                
-                fig_top_pop.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white',
-                    xaxis_tickangle=-45
-                )
-                
-                st.plotly_chart(fig_top_pop, use_container_width=True)
-                
-                # Display table
-                st.dataframe(
-                    top_pop[['Communities', 'Population', 'Rural_Coverage', 'BH', 'HDW']],
-                    use_container_width=True
-                )
-            
-            with rank_tab2:
-                # Top by coverage
-                top_cov = watercoverage.sort_values('Rural_Coverage', ascending=False).head(15)
-                
-                fig_top_cov = px.bar(
-                    top_cov,
-                    x='Communities',
-                    y='Rural_Coverage',
-                    title='Top 15 Communities by Rural Water Coverage (%)',
-                    color='Rural_Coverage',
-                    color_continuous_scale='Plasma',
-                    text='Rural_Coverage',
-                    range_y=[0, 100]
-                )
-                
-                fig_top_cov.update_traces(
-                    texttemplate='%{text:.1f}%',
-                    textposition='outside'
-                )
-                
-                fig_top_cov.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white',
-                    xaxis_tickangle=-45
-                )
-                
-                st.plotly_chart(fig_top_cov, use_container_width=True)
-                
-                # Coverage distribution
-                st.subheader("Coverage Distribution")
-                coverage_stats = watercoverage['Rural_Coverage'].describe()
-                
-                col1, col2, col3, col4 = st.columns(4)
-                with col1:
-                    st.metric("Mean Coverage", f"{coverage_stats['mean']:.1f}%")
-                with col2:
-                    st.metric("Median Coverage", f"{coverage_stats['50%']:.1f}%")
-                with col3:
-                    st.metric("Max Coverage", f"{coverage_stats['max']:.1f}%")
-                with col4:
-                    st.metric("Min Coverage", f"{coverage_stats['min']:.1f}%")
-            
-            with rank_tab3:
-                # Calculate total water sources per community
-                watercoverage['Total_Sources'] = watercoverage[source_columns].sum(axis=1)
-                
-                top_sources = watercoverage.sort_values('Total_Sources', ascending=False).head(15)
-                
-                fig_top_sources = px.bar(
-                    top_sources,
-                    x='Communities',
-                    y='Total_Sources',
-                    title='Top 15 Communities by Number of Water Sources',
-                    color='Total_Sources',
-                    color_continuous_scale='Rainbow',
-                    text='Total_Sources'
-                )
-                
-                fig_top_sources.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white',
-                    xaxis_tickangle=-45
-                )
-                
-                st.plotly_chart(fig_top_sources, use_container_width=True)
-            
-            with rank_tab4:
-                # Calculate composite score
-                watercoverage['Score_Normalized'] = (
-                    watercoverage['Rural_Coverage'] / 100 * 0.4 +
-                    (watercoverage['Total_Sources'] / watercoverage['Total_Sources'].max()) * 0.3 +
-                    (watercoverage['Rural_Served'] / watercoverage['Population']) * 0.3
-                ) * 100
-                
-                top_score = watercoverage.sort_values('Score_Normalized', ascending=False).head(15)
-                
-                fig_score = px.bar(
-                    top_score,
-                    x='Communities',
-                    y='Score_Normalized',
-                    title='Top 15 Communities by WASH Service Score',
-                    color='Score_Normalized',
-                    color_continuous_scale='Turbo',
-                    text='Score_Normalized',
-                    range_y=[0, 100]
-                )
-                
-                fig_score.update_traces(
-                    texttemplate='%{text:.1f}',
-                    textposition='outside'
-                )
-                
-                fig_score.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white',
-                    xaxis_tickangle=-45
-                )
-                
-                st.plotly_chart(fig_score, use_container_width=True)
-                
-                # Score explanation
-                st.markdown("""
-                <div style="background-color:#1e1e1e; padding:15px; border-radius:10px; margin-top:20px;">
-                    <h5 style="color:#00f2ff;">📊 Scoring Methodology</h5>
-                    <p style="color:white; font-size:14px;">
-                    <strong>Composite Score =</strong><br>
-                    40% Rural Water Coverage +<br>
-                    30% Water Source Diversity +<br>
-                    30% Population Served Ratio<br>
-                    <br>
-                    Higher scores indicate better overall WASH service provision.
-                    </p>
-                </div>
-                """, unsafe_allow_html=True)
-        
-        # --- TAB 6: Service Coverage ---
-        with tab6:
-            st.subheader("🌊 Water Service Coverage Analysis")
-            
-            col1, col2 = st.columns(2)
-            
-            with col1:
-                # Rural served vs population
-                fig_scatter_served = px.scatter(
-                    watercoverage,
-                    x='Population',
-                    y='Rural_Served',
-                    size='Rural_Coverage',
-                    color='Rural_Coverage',
-                    hover_name='Communities',
-                    title='Population vs Rural Population Served',
-                    labels={
-                        'Population': 'Total Population',
-                        'Rural_Served': 'Rural Population Served',
-                        'Rural_Coverage': 'Coverage (%)'
-                    },
-                    color_continuous_scale='Viridis'
-                )
-                
-                # Add ideal line (y = x)
-                max_val = max(watercoverage['Population'].max(), watercoverage['Rural_Served'].max())
-                fig_scatter_served.add_trace(
-                    go.Scatter(
-                        x=[0, max_val],
-                        y=[0, max_val],
-                        mode='lines',
-                        name='Ideal (100% Coverage)',
-                        line=dict(color='red', dash='dash')
-                    )
-                )
-                
-                fig_scatter_served.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white'
-                )
-                
-                st.plotly_chart(fig_scatter_served, use_container_width=True)
-            
-            with col2:
-                # Coverage vs population served
-                fig_bubble = px.scatter(
-                    watercoverage,
-                    x='Rural_Served',
-                    y='Rural_Coverage',
-                    size='Population',
-                    color='Population',
-                    hover_name='Communities',
-                    title='Coverage % vs Rural Population Served',
-                    labels={
-                        'Rural_Served': 'Rural Population Served',
-                        'Rural_Coverage': 'Coverage (%)',
-                        'Population': 'Total Population'
-                    },
-                    color_continuous_scale='Plasma'
-                )
-                
-                fig_bubble.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white',
-                    yaxis_range=[0, 100]
-                )
-                
-                st.plotly_chart(fig_bubble, use_container_width=True)
-            
-            # Coverage gap analysis
-            st.subheader("📉 Coverage Gap Analysis")
-            
-            watercoverage['Coverage_Gap'] = watercoverage['Population'] - watercoverage['Rural_Served']
-            watercoverage['Gap_Percentage'] = (watercoverage['Coverage_Gap'] / watercoverage['Population']) * 100
-            
-            top_gaps = watercoverage.sort_values('Coverage_Gap', ascending=False).head(10)
-            
-            fig_gap = px.bar(
-                top_gaps,
-                x='Communities',
-                y=['Rural_Served', 'Coverage_Gap'],
-                title='Top 10 Communities with Largest Coverage Gaps',
-                labels={'value': 'Population', 'variable': 'Category'},
-                color_discrete_map={
-                    'Rural_Served': '#00CC96',
-                    'Coverage_Gap': '#EF553B'
-                }
-            )
-            
-            fig_gap.update_layout(
-                plot_bgcolor='#1E1E1E',
-                paper_bgcolor='#1E1E1E',
-                font_color='white',
-                barmode='stack',
-                xaxis_tickangle=-45
-            )
-            
-            st.plotly_chart(fig_gap, use_container_width=True)
-            
-            # Gap statistics
-            total_gap = watercoverage['Coverage_Gap'].sum()
-            avg_gap_pct = watercoverage['Gap_Percentage'].mean()
-            
-            col1, col2, col3 = st.columns(3)
-            with col1:
-                st.metric("Total Coverage Gap", f"{total_gap:,} people")
-            with col2:
-                st.metric("Average Gap %", f"{avg_gap_pct:.1f}%")
-            with col3:
-                communities_with_gap = len(watercoverage[watercoverage['Coverage_Gap'] > 0])
-                st.metric("Communities with Gaps", f"{communities_with_gap}/{len(watercoverage)}")
-        
-        # --- TAB 7: Coverage Distribution ---
-        with tab7:
-            st.subheader("📈 Coverage Distribution Analysis")
-            
-            col1, col2 = st.columns(2)
-            
-            with col1:
-                # Histogram
-                fig_hist_cov = px.histogram(
-                    watercoverage,
-                    x='Rural_Coverage',
-                    nbins=20,
-                    title='Distribution of Rural Coverage Percentages',
-                    labels={'Rural_Coverage': 'Rural Coverage (%)'},
-                    color_discrete_sequence=['#00CC96']
-                )
-                
-                fig_hist_cov.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white',
-                    xaxis_title="Rural Coverage (%)",
-                    yaxis_title="Number of Communities",
-                    xaxis_range=[0, 100]
-                )
-                
-                st.plotly_chart(fig_hist_cov, use_container_width=True)
-            
-            with col2:
-                # Box plot
-                fig_box_cov = px.box(
-                    watercoverage,
-                    y='Rural_Coverage',
-                    title='Rural Coverage Statistics',
-                    points='all'
-                )
-                
-                fig_box_cov.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white',
-                    yaxis_title="Rural Coverage (%)",
-                    yaxis_range=[0, 100],
-                    height=400
-                )
-                
-                st.plotly_chart(fig_box_cov, use_container_width=True)
-            
-            # Coverage categories
-            st.subheader("🏷️ Coverage Category Analysis")
-            
-            # Create coverage categories
-            watercoverage['Coverage_Category'] = pd.cut(
-                watercoverage['Rural_Coverage'],
-                bins=[-1, 0, 50, 80, 100],
-                labels=['No Coverage', 'Low (<50%)', 'Medium (50-80%)', 'High (>80%)']
-            )
-            
-            category_counts = watercoverage['Coverage_Category'].value_counts().sort_index()
-            
-            fig_cat = px.pie(
-                values=category_counts.values,
-                names=category_counts.index,
-                title='Communities by Coverage Category',
-                hole=0.4,
-                color_discrete_sequence=px.colors.sequential.RdBu
-            )
-            
-            fig_cat.update_traces(
-                textinfo='percent+label',
-                textposition='inside'
-            )
-            
-            fig_cat.update_layout(
-                plot_bgcolor='#1E1E1E',
-                paper_bgcolor='#1E1E1E',
-                font_color='white'
-            )
-            
-            st.plotly_chart(fig_cat, use_container_width=True)
-            
-            # Display category table
-            category_summary = pd.DataFrame({
-                'Category': category_counts.index,
-                'Communities': category_counts.values,
-                'Percentage': (category_counts.values / len(watercoverage) * 100).round(1)
-            })
-            
-            st.dataframe(
-                category_summary,
-                use_container_width=True,
-                column_config={
-                    "Category": st.column_config.TextColumn("Coverage Category"),
-                    "Communities": st.column_config.NumberColumn("Number of Communities"),
-                    "Percentage": st.column_config.ProgressColumn(
-                        "Percentage of Total",
-                        format="%.1f%%",
-                        min_value=0,
-                        max_value=100
-                    )
-                }
-            )
-        
-        # --- TAB 8: Source Utilization ---
-        with tab8:
-            st.subheader("🧮 Water Source Utilization Analysis")
-            
-            # Source totals bar chart
-            source_totals = watercoverage[source_columns].sum().reset_index()
-            source_totals.columns = ['Source', 'Total']
-            source_totals = source_totals.sort_values('Total', ascending=True)
-            
-            fig_sources = px.bar(
-                source_totals,
-                x='Total',
-                y='Source',
-                orientation='h',
-                title='Total Count of Each Water Source Type',
-                color='Total',
-                color_continuous_scale='Viridis',
-                text='Total'
-            )
-            
-            fig_sources.update_traces(
-                textposition='outside'
-            )
-            
-            fig_sources.update_layout(
-                plot_bgcolor='#1E1E1E',
-                paper_bgcolor='#1E1E1E',
-                font_color='white',
-                xaxis_title="Total Number",
-                yaxis_title="Water Source Type"
-            )
-            
-            st.plotly_chart(fig_sources, use_container_width=True)
-            
-            # Source combination analysis
-            st.subheader("🔗 Water Source Combinations")
-            
-            # Create binary matrix of sources
-            source_matrix = watercoverage[source_columns].applymap(lambda x: 1 if x > 0 else 0)
-            
-            # Calculate source combinations
-            source_matrix['Combination'] = source_matrix.apply(
-                lambda row: '-'.join([col for col in source_columns if row[col] == 1]), axis=1
-            )
-            
-            combination_counts = source_matrix['Combination'].value_counts().head(10)
-            
-            fig_comb = px.bar(
-                x=combination_counts.values,
-                y=combination_counts.index,
-                orientation='h',
-                title='Top 10 Most Common Water Source Combinations',
-                labels={'x': 'Number of Communities', 'y': 'Source Combination'},
-                color=combination_counts.values,
-                color_continuous_scale='Plasma'
-            )
-            
-            fig_comb.update_layout(
-                plot_bgcolor='#1E1E1E',
-                paper_bgcolor='#1E1E1E',
-                font_color='white',
-                xaxis_title="Number of Communities",
-                yaxis_title="Source Combination"
-            )
-            
-            st.plotly_chart(fig_comb, use_container_width=True)
-            
-            # Source dependency analysis
-            st.subheader("📊 Source Dependency by Community Size")
-            
-            # Calculate average sources per community size
-            avg_sources = watercoverage.groupby('Size_Category')[source_columns].mean().reset_index()
-            avg_sources_melted = avg_sources.melt(
-                id_vars='Size_Category',
-                var_name='Source',
-                value_name='Average'
-            )
-            
-            fig_avg = px.bar(
-                avg_sources_melted,
-                x='Size_Category',
-                y='Average',
-                color='Source',
-                title='Average Number of Water Sources by Community Size',
-                barmode='group'
-            )
-            
-            fig_avg.update_layout(
-                plot_bgcolor='#1E1E1E',
-                paper_bgcolor='#1E1E1E',
-                font_color='white',
-                xaxis_title="Community Size Category",
-                yaxis_title="Average Number of Sources"
-            )
-            
-            st.plotly_chart(fig_avg, use_container_width=True)
-        
-        # --- TAB 9: Boreholes vs Coverage ---
-        with tab9:
-            st.subheader("🔍 Boreholes vs Water Coverage Analysis")
-            
-            col1, col2 = st.columns(2)
-            
-            with col1:
-                # Scatter plot
-                fig_scatter_bh = px.scatter(
-                    watercoverage,
-                    x='BH',
-                    y='Rural_Coverage',
-                    size='Population',
-                    color='Size_Category',
-                    hover_name='Communities',
-                    title='Boreholes vs Rural Coverage (%)',
-                    labels={
-                        'BH': 'Number of Boreholes',
-                        'Rural_Coverage': 'Rural Coverage (%)',
-                        'Size_Category': 'Community Size'
-                    },
-                    color_discrete_sequence=px.colors.qualitative.Set2
-                )
-                
-                fig_scatter_bh.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white',
-                    yaxis_range=[0, 100]
-                )
-                
-                st.plotly_chart(fig_scatter_bh, use_container_width=True)
-            
-            with col2:
-                # Borehole efficiency analysis
-                watercoverage['BH_Efficiency'] = watercoverage['Rural_Served'] / watercoverage['BH'].replace(0, 1)
-                
-                efficient_bh = watercoverage[watercoverage['BH'] > 0].sort_values('BH_Efficiency', ascending=False).head(10)
-                
-                fig_efficiency = px.bar(
-                    efficient_bh,
-                    x='Communities',
-                    y='BH_Efficiency',
-                    title='Top 10 Most Efficient Borehole Utilization',
-                    labels={'BH_Efficiency': 'People Served per Borehole'},
-                    color='BH_Efficiency',
-                    color_continuous_scale='Viridis',
-                    text='BH_Efficiency'
-                )
-                
-                fig_efficiency.update_traces(
-                    texttemplate='%{text:.0f}',
-                    textposition='outside'
-                )
-                
-                fig_efficiency.update_layout(
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white',
-                    xaxis_tickangle=-45
-                )
-                
-                st.plotly_chart(fig_efficiency, use_container_width=True)
-            
-            # Borehole coverage analysis
-            st.subheader("📈 Borehole Coverage Relationship")
-            
-            # Calculate correlation
-            bh_correlation = watercoverage[['BH', 'Rural_Coverage', 'Population']].corr()
-            
-            # Linear regression visualization
-            fig_reg = px.scatter(
-                watercoverage,
-                x='BH',
-                y='Rural_Coverage',
-                trendline="ols",
-                trendline_color_override="red",
-                title='Boreholes vs Coverage with Trend Line',
-                labels={
-                    'BH': 'Number of Boreholes',
-                    'Rural_Coverage': 'Rural Coverage (%)'
-                }
-            )
-            
-            fig_reg.update_layout(
-                plot_bgcolor='#1E1E1E',
-                paper_bgcolor='#1E1E1E',
-                font_color='white',
-                yaxis_range=[0, 100]
-            )
-            
-            st.plotly_chart(fig_reg, use_container_width=True)
-            
-            # Borehole statistics
-            st.subheader("📊 Borehole Statistics")
-            
-            bh_stats = watercoverage[watercoverage['BH'] > 0]['BH'].describe()
-            
-            col1, col2, col3, col4 = st.columns(4)
-            with col1:
-                st.metric("Total Boreholes", f"{watercoverage['BH'].sum():,.0f}")
-            with col2:
-                st.metric("Communities with BH", f"{len(watercoverage[watercoverage['BH'] > 0]):,.0f}")
-            with col3:
-                st.metric("Average BH per Community", f"{bh_stats['mean']:.1f}")
-            with col4:
-                st.metric("Max BH in Community", f"{bh_stats['max']:.0f}")
-        
-        # --- TAB 10: Correlation Analysis ---
-        with tab10:
-            st.subheader("📊 Correlation Analysis")
-            
-            # Select numeric columns for correlation
-            corr_columns = ['Population', 'Rural_Served', 'Rural_Coverage', 'BH', 'HDW', 
-                           'SCPS', 'LMS', 'STPS', 'RHS', 'GWCL']
-            
-            correlation_matrix = watercoverage[corr_columns].corr()
-            
-            # Create heatmap with Matplotlib for better control
-            fig, ax = plt.subplots(figsize=(12, 10))
-            
-            # Use seaborn for heatmap
-            sns.heatmap(
-                correlation_matrix,
-                annot=True,
-                fmt=".2f",
-                cmap="coolwarm",
-                center=0,
-                square=True,
-                linewidths=0.5,
-                linecolor='#333',
-                cbar_kws={"shrink": 0.8},
-                ax=ax
-            )
-            
-            # Set dark background
-            fig.patch.set_facecolor('#111111')
-            ax.set_facecolor('#111111')
-            
-            # Color bar label
-            cbar = ax.collections[0].colorbar
-            cbar.ax.yaxis.set_tick_params(color='white')
-            cbar.outline.set_edgecolor('white')
-            plt.setp(ax.get_yticklabels(), color='white')
-            plt.setp(ax.get_xticklabels(), color='white')
-            
-            ax.set_title('Correlation Matrix of Key Variables', color='white', fontsize=16, pad=20)
-            
-            st.pyplot(fig)
-            
-            # Strong correlations analysis
-            st.subheader("🔍 Strongest Correlations")
-            
-            # Get strongest correlations (excluding self-correlations)
-            corr_pairs = correlation_matrix.unstack()
-            corr_pairs = corr_pairs[corr_pairs != 1].sort_values(ascending=False)
-            
-            top_correlations = pd.DataFrame({
-                'Variable 1': [pair[0] for pair in corr_pairs.head(10).index],
-                'Variable 2': [pair[1] for pair in corr_pairs.head(10).index],
-                'Correlation': corr_pairs.head(10).values.round(3)
-            })
-            
-            st.dataframe(top_correlations, use_container_width=True)
-            
-            # Key insights from correlations
-            st.subheader("💡 Correlation Insights")
-            
-            col1, col2 = st.columns(2)
-            
-            with col1:
-                st.markdown("""
-                <div style="background-color:#1e1e1e; padding:15px; border-radius:10px;">
-                    <h5 style="color:#00f2ff;">Positive Relationships</h5>
-                    <p style="color:white; font-size:14px;">
-                    • Rural_Served vs Population: Strong positive<br>
-                    • Multiple water sources often coexist<br>
-                    • Larger communities have more diverse sources<br>
-                    • Coverage correlates with available infrastructure
-                    </p>
-                </div>
-                """, unsafe_allow_html=True)
-            
-            with col2:
-                st.markdown("""
-                <div style="background-color:#1e1e1e; padding:15px; border-radius:10px;">
-                    <h5 style="color:#f5c518;">Interesting Findings</h5>
-                    <p style="color:white; font-size:14px;">
-                    • Boreholes don't strongly correlate with coverage<br>
-                    • Some sources may be underutilized<br>
-                    • Population size drives service needs<br>
-                    • Infrastructure gaps exist in certain areas
-                    </p>
-                </div>
-                """, unsafe_allow_html=True)
-            
-            # Network visualization of correlations
-            st.subheader("🕸️ Correlation Network")
-            
-            # Create simplified network for top correlations
-            network_data = []
-            for idx, row in top_correlations.iterrows():
-                if abs(row['Correlation']) > 0.5:  # Only strong correlations
-                    network_data.append({
-                        'source': row['Variable 1'],
-                        'target': row['Variable 2'],
-                        'value': abs(row['Correlation']),
-                        'color': 'green' if row['Correlation'] > 0 else 'red'
-                    })
-            
-            if network_data:
-                import plotly.graph_objects as go
-                
-                # Create network visualization
-                fig_network = go.Figure()
-                
-                # Add edges
-                for edge in network_data:
-                    fig_network.add_trace(go.Scatter(
-                        x=[0, 1], y=[0, 1],  # Simplified positioning
-                        mode='lines',
-                        line=dict(width=edge['value']*5, color=edge['color']),
-                        opacity=0.6,
-                        showlegend=False
-                    ))
-                
-                fig_network.update_layout(
-                    title='Strong Correlation Relationships',
-                    plot_bgcolor='#1E1E1E',
-                    paper_bgcolor='#1E1E1E',
-                    font_color='white',
-                    showlegend=False,
-                    xaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
-                    yaxis=dict(showgrid=False, zeroline=False, showticklabels=False)
-                )
-                
-                st.plotly_chart(fig_network, use_container_width=True)
-        
-        # Add comprehensive definitions
-        st.markdown("---")
-        st.subheader("📚 Data Dictionary")
-        
-        definitions = {
-            "Community": "Name of the locality or town",
-            "Population": "Total population of the community",
-            "Rural_Served": "Number of rural people with access to potable water",
-            "Rural_Coverage": "Percentage of rural population with potable water access",
-            "BH": "Number of boreholes in the community",
-            "HDW": "Number of hand-dug wells",
-            "SCPS": "Small Community Piped Systems count",
-            "LMS": "Limited Mechanized Systems count",
-            "STPS": "Small Town Piped Systems count",
-            "RHS": "Rain Harvesting Systems count",
-            "GWCL": "Ghana Water Company Limited connections",
-            "Pop_Under_75": "Population in settlements with less than 75 people",
-            "Pop_75_299": "Population in communities of 75-299 people",
-            "Pop_300_1999": "Population in communities of 300-1999 people",
-            "Pop_2000_4999": "Population in communities of 2000-4999 people",
-            "Pop_Over_5000": "Population in communities over 5000 people"
-        }
-        
-        df_definitions = pd.DataFrame(list(definitions.items()), columns=['Variable', 'Definition'])
-        st.dataframe(df_definitions, use_container_width=True)
-        
-        return
 
-    # Original sanitation charts code remains here...
-    # [Include all the original chart definitions from the previous code here]
-    # Due to character limits, I'm showing the structure for one chart:
-
+    # Define chart: Defecation Points
     if chart_option == "Defecation Points":
         st.title("🚽 Defecation Points by Locality – Savelugu Municipal")
-        # [Original chart code...]
-        
-        # Enhanced metrics display
-        col1, col2, col3 = st.columns(3)
-        
-        unsafe_methods = [
-            "Defaecation point",
-            "In the bush/open field/gutter",
-            "At the beach",
-            "In a polythene bag"
-        ]
-        
-        df = pd.DataFrame({
+        data = {
             "Defecation Point": [
                 "Defaecation point", "Defaecation point",
                 "In the bush/open field/gutter", "In the bush/open field/gutter",
@@ -1299,23 +45,1214 @@ def app():
             ],
             "Locality": ["Rural", "Urban"] * 5,
             "Count": [7263, 7154, 7255, 7055, 2, 76, 1, 2, 5, 21]
-        })
+        }
+        df = pd.DataFrame(data)
+        fig = px.bar(
+            df, x="Count", y="Defecation Point", color="Locality", orientation="h",
+            barmode="group", text="Count",
+            title="Distribution of Defecation Methods by Locality",
+            color_discrete_map={"Rural": "#2ca02c", "Urban": "#1f77b4"}
+        )
+        fig.update_traces(textposition="outside")
+        fig.update_layout(
+            plot_bgcolor="#111111",
+            paper_bgcolor="#111111",
+            font_color="white",
+            xaxis=dict(color="white", title="Population"),
+            yaxis=dict(color="white", title="Defecation Method"),
+            height=750
+        )
+        st.plotly_chart(fig, use_container_width=True)
         
+        # 🧾 Insight Card
+        unsafe_methods = [
+            "Defaecation point",
+            "In the bush/open field/gutter",
+            "At the beach",
+            "In a polythene bag"
+        ]
         total_unsafe = df[df["Defecation Point"].isin(unsafe_methods)]["Count"].sum()
-        rural_unsafe = df[(df["Defecation Point"].isin(unsafe_methods)) & (df["Locality"] == "Rural")]["Count"].sum()
-        urban_unsafe = df[(df["Defecation Point"].isin(unsafe_methods)) & (df["Locality"] == "Urban")]["Count"].sum()
+
+        with st.container():
+            st.markdown(
+                f"""
+                <div style="background-color:#1e1e1e; padding:20px; border-radius:10px; margin-top:20px;">
+                    <h4 style="color:#f5c518;">🧾 Insight</h4>
+                    <p style="color:white; font-size:16px;">
+                        🔍 Over <strong>{total_unsafe:,} people</strong> across both rural and urban areas practice <strong>unsafe defecation methods</strong> 
+                        (e.g., open defecation, defecation in gutters, bags, or beaches).<br>
+                        This raises critical <strong>public health and environmental concerns</strong> in the Savelugu Municipality.
+                    </p>
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
+
+    # Define chart: Storage of Solid Waste
+    elif chart_option == "Storage of Solid Waste":
+        st.title("🗑️ Storage of Solid Waste by Locality – Savelugu Municipal")
+        data = {
+            "Waste Storage": [
+                "Standard Waste Receptacles", "Standard Waste Receptacles",
+                "Covered standard waste bin", "Covered standard waste bin",
+                "Uncovered standard waste bin", "Uncovered standard waste bin",
+                "Improvised Waste Receptacles", "Improvised Waste Receptacles",
+                "Uncovered container", "Uncovered container",
+                "Covered container", "Covered container",
+                "Covered/uncovered basket", "Covered/uncovered basket",
+                "Disposable Waste Receptacles", "Disposable Waste Receptacles",
+                "Polythene bag alone", "Polythene bag alone",
+                "Sack", "Sack",
+                "Other", "Other",
+                "None (No receptacle)", "None (No receptacle)"
+            ],
+            "Locality": ["Rural", "Urban"] * 12,
+            "Population": [
+                655, 1589,
+                31, 527,
+                624, 1062,
+                5607, 11550,
+                4676, 8533,
+                165, 1119,
+                766, 1898,
+                317, 766,
+                132, 314,
+                181, 419,
+                4, 33,
+                1839, 759
+            ]
+        }
+        df = pd.DataFrame(data)
+        fig = px.bar(
+            df, x="Population", y="Waste Storage", color="Locality",
+            facet_col="Locality", orientation="h", text="Population",
+            title="Storage of Solid Waste by Locality – Faceted View",
+            color_discrete_map={"Rural": "#2ca02c", "Urban": "#1f77b4"},
+        )
+        fig.update_traces(textposition="outside")
+        fig.update_layout(
+            plot_bgcolor="#111111",
+            paper_bgcolor="#111111",
+            font_color="white",
+            xaxis=dict(color="white", title="Population"),
+            yaxis=dict(color="white", title="Waste Storage Type"),
+            height=750
+        )
+        st.plotly_chart(fig, use_container_width=True)
         
-        with col1:
-            st.metric("Total Unsafe Practices", f"{total_unsafe:,}", 
-                     help="People using unsafe defecation methods")
-        with col2:
-            st.metric("Rural Unsafe", f"{rural_unsafe:,}", 
-                     help="Rural population with unsafe practices")
-        with col3:
-            st.metric("Urban Unsafe", f"{urban_unsafe:,}", 
-                     help="Urban population with unsafe practices")
+        # 🧾 Insight Card for Solid Waste Storage
+        unsafe_storage = [
+            "Improvised Waste Receptacles",
+            "Uncovered container",
+            "Covered/uncovered basket",
+            "Polythene bag alone",
+            "Sack",
+            "None (No receptacle)"
+        ]
+        total_unsafe = df[df["Waste Storage"].isin(unsafe_storage)]["Population"].sum()
+
+        with st.container():
+            st.markdown(
+                f"""
+                <div style="background-color:#1e1e1e; padding:20px; border-radius:10px; margin-top:20px;">
+                    <h4 style="color:#f5c518;">🧾 Insight</h4>
+                    <p style="color:white; font-size:16px;">
+                        🧹 Over <strong>{total_unsafe:,} people</strong> across Savelugu rely on <strong>unsafe or improvised waste storage methods</strong> 
+                        such as polythene bags, sacks, baskets, or having no receptacles at all.<br>
+                        This increases the risk of <strong>uncontrolled waste disposal, pests, and disease outbreaks</strong>.
+                    </p>
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
+
+    # Define chart: Toilet Facilities Overview
+    elif chart_option == "Toilet Facilities Overview":
+        st.title("🚻 Toilet Facilities by Locality – Savelugu Municipal")
+        data = {
+            "Toilet Facility": [
+                "Household toilet facility", "Household toilet facility",
+                "Improved", "Improved",
+                "Unimproved", "Unimproved",
+                "No Household toilet facility", "No Household toilet facility",
+                "None", "None",
+                "Public toilet", "Public toilet"
+            ],
+            "Locality": [
+                "Rural", "Urban",
+                "Rural", "Urban",
+                "Rural", "Urban",
+                "Rural", "Urban",
+                "Rural", "Urban",
+                "Rural", "Urban"
+            ],
+            "Population": [
+                1012, 2515,
+                987, 2499,
+                25, 16,
+                7406, 12149,
+                7263, 7154,
+                143, 4995
+            ]
+        }
+        df = pd.DataFrame(data)
+        fig = px.bar(
+            df,
+            x="Population",
+            y="Toilet Facility",
+            color="Locality",
+            orientation="h",
+            barmode="group",
+            text="Population",
+            title="Distribution of Toilet Facilities by Locality",
+            color_discrete_map={"Rural": "#2ca02c", "Urban": "#1f77b4"}
+        )
+        fig.update_traces(textposition="outside")
+        fig.update_layout(
+            plot_bgcolor="#111111",
+            paper_bgcolor="#111111",
+            font_color="white",
+            xaxis=dict(title="Population", color="white"),
+            yaxis=dict(title="Toilet Facility", color="white"),
+            height=750
+        )
+        st.plotly_chart(fig, use_container_width=True)
         
-        # [Continue with original chart code...]
+            # 🧾 Insight Card for Toilet Facilities
+        sanitation_challenges = ["No Household toilet facility", "None", "Unimproved"]
+        affected_pop = df[df["Toilet Facility"].isin(sanitation_challenges)]["Population"].sum()
+
+        with st.container():
+            st.markdown(
+                f"""
+                <div style="background-color:#1e1e1e; padding:20px; border-radius:10px; margin-top:20px;">
+                    <h4 style="color:#f5c518;">🧾 Insight</h4>
+                    <p style="color:white; font-size:16px;">
+                        🚻 Over <strong>{affected_pop:,} people</strong> in Savelugu Municipal rely on <strong>unimproved or no household toilet facilities</strong>.<br>
+                        This raises serious public health risks including <strong>open defecation, contamination, and disease transmission</strong>.<br>
+                        Targeted interventions are needed in rural areas where these challenges are more concentrated.
+                    </p>
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
+
+        
+    elif chart_option == "Main Source of Drinking Water":
+        st.title("🚰 Main Source of Drinking Water by Locality – Savelugu Municipal")
+
+        data = {
+            "Main Water Source": [
+                "Improved water sources", "Improved water sources",
+                "Public tap/Stand pipe", "Public tap/Stand pipe",
+                "Borehole/Tube well", "Borehole/Tube well",
+                "Protected spring", "Protected spring",
+                "Pipe-borne inside dwelling", "Pipe-borne inside dwelling",
+                "Rain water", "Rain water",
+                "Protected well", "Protected well",
+                "Bottled water", "Bottled water",
+                "Sachet water", "Sachet water",
+                "Pipe-borne outside dwelling (neighbour)", "Pipe-borne outside dwelling (neighbour)",
+                "Pipe-borne outside dwelling (compound)", "Pipe-borne outside dwelling (compound)",
+                "Unimproved water sources", "Unimproved water sources",
+                "River/Stream", "River/Stream",
+                "Unprotected well", "Unprotected well",
+                "Unprotected spring", "Unprotected spring",
+                "Tanker supplied/Vendor provided", "Tanker supplied/Vendor provided",
+                "Other", "Other",
+                "Dugout/Pond/Lake/Dam/Canal", "Dugout/Pond/Lake/Dam/Canal"
+            ],
+            "Locality": ["Rural", "Urban"] * 18,
+            "Population": [
+                5705, 13181,
+                1242, 7350,
+                3699, 1271,
+                34, 8,
+                115, 1902,
+                52, 166,
+                30, 329,
+                3, 5,
+                20, 195,
+                374, 840,
+                136, 1115,
+                2713, 1483,
+                1735, 383,
+                16, 83,
+                1, 5,
+                1, 495,
+                5, 2,
+                955, 515
+            ]
+        }
+
+        # Safety check
+        assert len(data["Main Water Source"]) == len(data["Locality"]) == len(data["Population"]), "Data length mismatch"
+
+        df = pd.DataFrame(data)
+
+        # Plot bar chart
+        fig = px.bar(
+            df,
+            x="Population",
+            y="Main Water Source",
+            color="Locality",
+            orientation="h",
+            barmode="group",
+            text="Population",
+            title="Distribution of Main Drinking Water Sources by Locality",
+            color_discrete_map={"Rural": "#2ca02c", "Urban": "#1f77b4"}
+        )
+
+        # Apply dark theme
+        fig.update_traces(textposition="outside")
+        fig.update_layout(
+            plot_bgcolor="#111111",
+            paper_bgcolor="#111111",
+            font_color="white",
+            xaxis=dict(title="Population", color="white"),
+            yaxis=dict(title="Water Source", color="white"),
+            height=950
+        )
+
+        st.plotly_chart(fig, use_container_width=True)
+        
+        # 📊 Insight Card for Water Sources
+        unimproved_sources = [
+            "Unimproved water sources", "River/Stream", "Unprotected well",
+            "Unprotected spring", "Tanker supplied/Vendor provided",
+            "Other", "Dugout/Pond/Lake/Dam/Canal"
+        ]
+        at_risk = df[df["Main Water Source"].isin(unimproved_sources)]["Population"].sum()
+
+        with st.container():
+            st.markdown(
+                f"""
+                <div style="background-color:#1e1e1e; padding:20px; border-radius:10px; margin-top:20px;">
+                    <h4 style="color:#f5c518;">💧 Insight</h4>
+                    <p style="color:white; font-size:16px;">
+                        ⚠️ An estimated <strong>{at_risk:,} people</strong> in Savelugu Municipal rely on <strong>unimproved or potentially unsafe drinking water sources</strong>.<br>
+                        This exposes communities—especially in rural areas—to <strong>waterborne diseases</strong> and sanitation challenges.<br>
+                        Prioritizing investments in safe, accessible, and sustainable water infrastructure is critical.
+                    </p>
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
+        
+    elif chart_option == "Levels of Toilet Service":
+        st.title("🚻 Levels of Toilet Service – Savelugu Municipal")
+
+        data = {
+            "Toilet Service": [
+                "Improved Toilet Facilities", "Improved Toilet Facilities",
+                "Basic service (Improved and exclusive use)", "Basic service (Improved and exclusive use)",
+                "Limited service (Improved and shared)", "Limited service (Improved and shared)",
+                "Unimproved", "Unimproved"
+            ],
+            "Locality": [
+                "Rural", "Urban",
+                "Rural", "Urban",
+                "Rural", "Urban",
+                "Rural", "Urban"
+            ],
+            "Population": [
+                987, 2499,
+                351, 1029,
+                636, 1470,
+                25, 16
+            ]
+        }
+
+        # Convert to DataFrame
+        df = pd.DataFrame(data)
+
+        # Create horizontal bar chart
+        fig = px.bar(
+            df,
+            x="Population",
+            y="Toilet Service",
+            color="Locality",
+            orientation="h",
+            facet_col="Locality",
+            text="Population",
+            title="Levels of Toilet Service by Locality – Faceted View",
+            color_discrete_map={"Rural": "#2ca02c", "Urban": "#1f77b4"}
+        )
+
+        # Apply dark theme and layout tweaks
+        fig.update_traces(textposition="outside")
+        fig.update_layout(
+            plot_bgcolor="#111111",
+            paper_bgcolor="#111111",
+            font_color="white",
+            xaxis=dict(title="Population", color="white"),
+            yaxis=dict(title="Toilet Service", color="white"),
+            height=600
+        )
+
+        st.plotly_chart(fig, use_container_width=True)
+        # ✅ Insight Box: Residents without safely managed toilet service
+        risky_services = ["Limited service (Improved and shared)", "Unimproved"]
+        at_risk_df = df[df["Toilet Service"].isin(risky_services)]
+        at_risk_total = at_risk_df["Population"].sum()
+
+        st.markdown(
+            f"""
+            <div style="background-color:#1e1e1e; padding:20px; border-radius:10px; margin-top:20px;">
+                <h4 style="color:#f5c518;">🔍 Sanitation Insight</h4>
+                <p style="color:white; font-size:16px;">
+                    🚨 <strong>{at_risk_total:,}</strong> residents are using either unimproved or shared toilet facilities, which do not meet safely managed sanitation standards.
+                    <br><br>
+                    This highlights the need for targeted investment in private, improved toilet facilities to reduce disease risk and promote dignity.
+                </p>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+        
+    elif chart_option == "Improved and Unimproved Water Services":
+        st.title("💧 Improved and Unimproved Water Services – Savelugu Municipal")
+
+        # Water service distribution data
+        data = {
+            "Water Service Type": [
+                "Improved Drinking Water Source", "Improved Drinking Water Source",
+                "Basic service (within 30 mins round-trip)", "Basic service (within 30 mins round-trip)",
+                "Limited service (more than 30 mins round-trip)", "Limited service (more than 30 mins round-trip)",
+                "Unimproved Drinking Water Source", "Unimproved Drinking Water Source"
+            ],
+            "Locality": [
+                "Rural", "Urban",
+                "Rural", "Urban",
+                "Rural", "Urban",
+                "Rural", "Urban"
+            ],
+            "Population": [
+                5705, 13181,
+                4190, 11189,
+                1515, 1992,
+                2713, 1483
+            ]
+        }
+
+        # Convert to DataFrame
+        df = pd.DataFrame(data)
+
+        # Plot chart
+        fig = px.bar(
+            df,
+            x="Population",
+            y="Water Service Type",
+            color="Locality",
+            orientation="h",
+            barmode="group",
+            text="Population",
+            title="Distribution of Water Services by Locality",
+            color_discrete_map={"Rural": "#2ca02c", "Urban": "#1f77b4"}
+        )
+
+        # Styling (dark theme)
+        fig.update_traces(textposition="outside")
+        fig.update_layout(
+            plot_bgcolor="#111111",
+            paper_bgcolor="#111111",
+            font_color="white",
+            xaxis=dict(title="Population", color="white"),
+            yaxis=dict(title="Water Service Type", color="white"),
+            height=550
+        )
+
+        # Display chart
+        st.plotly_chart(fig, use_container_width=True)
+        # ✅ Smart Insight Box: Population without safely managed water
+        vulnerable_categories = [
+            "Limited service (more than 30 mins round-trip)",
+            "Unimproved Drinking Water Source"
+        ]
+        at_risk_df = df[df["Water Service Type"].isin(vulnerable_categories)]
+        at_risk_total = at_risk_df["Population"].sum()
+
+        st.markdown(
+            f"""
+            <div style="background-color:#1e1e1e; padding:20px; border-radius:10px; margin-top:20px;">
+                <h4 style="color:#30c9e8;">🚱 Water Access Insight</h4>
+                <p style="color:white; font-size:16px;">
+                    ⚠️ <strong>{at_risk_total:,}</strong> residents have limited or unimproved access to drinking water,
+                    which does not meet the global standard for safely managed drinking water services.
+                    <br><br>
+                    💡 This calls for strategic investments in proximity-based water infrastructure and safe source improvement.
+                </p>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+        
+    elif chart_option == "Toilet Facility by Type":
+        st.title("🚻 Toilet Facilities by Type – Savelugu Municipal")
+
+        data = {
+            "Toilet Type": [
+                "No private toilet", "No private toilet",
+                "No toilet facility", "No toilet facility",
+                "Public toilet", "Public toilet",
+                "Private toilet", "Private toilet",
+                "WC seat", "WC seat",
+                "Flush squat bowl", "Flush squat bowl",
+                "Pour flush bowl", "Pour flush bowl",
+                "Urine-diverting dry toilet (UDDT)", "Urine-diverting dry toilet (UDDT)",
+                "Concrete pedestal/slab", "Concrete pedestal/slab",
+                "Wooden pedestal/slab", "Wooden pedestal/slab",
+                "Satopan/Micro flush", "Satopan/Micro flush",
+                "No slab", "No slab",
+                "Other", "Other"
+            ],
+            "Locality": [
+                "Rural", "Urban"
+            ] * 13,
+            "Population": [
+                7406, 12149,
+                7263, 7154,
+                143, 4995,
+                1012, 2515,
+                297, 676,
+                128, 790,
+                48, 392,
+                31, 94,
+                448, 527,
+                32, 13,
+                1, 10,
+                25, 13,
+                2, 0
+            ]
+        }
+
+        # Create DataFrame
+        df = pd.DataFrame(data)
+
+        # Create grouped vertical bar chart
+        fig = px.bar(
+            df,
+            x="Toilet Type",
+            y="Population",
+            color="Locality",
+            barmode="group",
+            text="Population",
+            title="Types of Toilet Facilities by Locality",
+            color_discrete_map={"Rural": "#2ca02c", "Urban": "#1f77b4"}
+        )
+
+        # Style enhancements
+        fig.update_traces(
+            marker_line_width=1.5,
+            marker_line_color="black",
+            textposition="outside"
+        )
+
+        fig.update_layout(
+            plot_bgcolor="#111111",
+            paper_bgcolor="#111111",
+            font_color="white",
+            xaxis=dict(
+                title="Toilet Type",
+                color="white",
+                tickangle=45,
+                tickfont=dict(size=10)
+            ),
+            yaxis=dict(title="Population", color="white"),
+            height=650
+        )
+
+        st.plotly_chart(fig, use_container_width=True)
+        # ✅ Smart Insight: Count of population without private toilet
+        lacking_private = df[df["Toilet Type"].isin(["No private toilet", "No toilet facility", "Public toilet"])]
+        total_without_private = lacking_private["Population"].sum()
+
+        st.markdown(
+            f"""
+            <div style="background-color:#1e1e1e; padding:20px; border-radius:10px; margin-top:20px;">
+                <h4 style="color:#30c9e8;">🚽 Toilet Access Insight</h4>
+                <p style="color:white; font-size:16px;">
+                    ⚠️ <strong>{total_without_private:,}</strong> residents rely on shared, public, or no toilet facilities,
+                    reflecting gaps in private sanitation coverage.
+                    <br><br>
+                    🧼 Improving access to private and hygienic toilets is critical for reducing disease and improving dignity.
+                </p>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+        
+    elif chart_option == "Time Taken to Source Drinking Water":
+        st.title("🎻 Violin Plot: Time to Source Drinking Water – Savelugu Municipal")
+
+        data = {
+            "Time Taken": [
+                "Water on premises", "Water on premises",
+                "Within 30 minutes", "Within 30 minutes",
+                "31 to 60 minutes", "31 to 60 minutes",
+                "61 minutes and above", "61 minutes and above"
+            ],
+            "Locality": [
+                "Rural", "Urban",
+                "Rural", "Urban",
+                "Rural", "Urban",
+                "Rural", "Urban"
+            ],
+            "Population": [
+                293, 3742,
+                5450, 8218,
+                2148, 1859,
+                527, 845
+            ]
+        }
+
+        df_agg = pd.DataFrame(data)
+
+        # Simulate raw data by repeating rows
+        df_expanded = df_agg.loc[df_agg.index.repeat(df_agg["Population"])].reset_index(drop=True)
+
+        # Plot violin chart
+        fig = px.violin(
+            df_expanded,
+            y="Time Taken",
+            x="Locality",
+            color="Locality",
+            box=True,
+            points="all",
+            title="Violin Plot of Time Categories by Locality",
+            color_discrete_map={"Rural": "#2ca02c", "Urban": "#1f77b4"}
+        )
+
+        # Styling
+        fig.update_layout(
+            plot_bgcolor="#111111",
+            paper_bgcolor="#111111",
+            font_color="white",
+            height=700
+        )
+
+        st.plotly_chart(fig, use_container_width=True)
+        
+    elif chart_option == "Toilet Facility Breakdown":
+        st.title("🚽 Toilet Facilities by Locality – Savelugu Municipal")
+
+        data = {
+            "Toilet Facility": [
+                "No toilet facility", "No toilet facility",
+                "Septic tank", "Septic tank",
+                "KVIP/VIP", "KVIP/VIP",
+                "Pit latrine", "Pit latrine",
+                "Enviro Loo", "Enviro Loo",
+                "Bio-digester", "Bio-digester",
+                "Bio gas", "Bio gas",
+                "Bucket/Pan", "Bucket/Pan",
+                "Portable toilet", "Portable toilet",
+                "Sewer", "Sewer",
+                "Public toilet", "Public toilet",
+                "Other", "Other"
+            ],
+            "Locality": ["Rural", "Urban"] * 12,
+            "Population": [
+                7263, 7154,
+                441, 1205,
+                346, 1239,
+                219, 52,
+                1, 0,
+                0, 3,
+                0, 4,
+                0, 3,
+                2, 2,
+                0, 0,
+                143, 4995,
+                3, 7
+            ]
+        }
+
+        # Create DataFrame
+        df = pd.DataFrame(data)
+
+        # Horizontal grouped bar chart
+        fig = px.bar(
+            df,
+            x="Population",
+            y="Toilet Facility",
+            color="Locality",
+            orientation="h",
+            barmode="group",
+            text="Population",
+            title="Distribution of Toilet Facilities by Locality",
+            color_discrete_map={"Rural": "#2ca02c", "Urban": "#1f77b4"}
+        )
+
+        # Dark styling
+        fig.update_traces(textposition="outside")
+        fig.update_layout(
+            plot_bgcolor="#111111",
+            paper_bgcolor="#111111",
+            font_color="white",
+            xaxis=dict(title="Population", color="white"),
+            yaxis=dict(title="Toilet Facility", color="white"),
+            height=700
+        )
+
+        # Render chart
+        st.plotly_chart(fig, use_container_width=True)
+        
+            # Define unimproved/safe concern facilities
+        inadequate_toilet_types = ["No toilet facility", "Bucket/Pan", "Public toilet", "Other"]
+
+        # Calculate total population using inadequate toilet options
+        total_inadequate = df[df["Toilet Facility"].isin(inadequate_toilet_types)]["Population"].sum()
+
+        # Card-style Insight Box
+        st.markdown(
+            f"""
+            <div style="
+                background-color: #1e1e1e;
+                border: 1px solid #444;
+                padding: 20px;
+                border-radius: 12px;
+                margin-top: 20px;
+                box-shadow: 0 0 10px rgba(0,0,0,0.6);
+            ">
+                <h4 style="color: #facc15; margin-bottom: 10px;">🚨 Sanitation Insight</h4>
+                <p style="color: white; font-size: 16px; line-height: 1.6;">
+                    🚽 <strong>Over {total_inadequate:,} residents</strong> across Savelugu still rely on 
+                    <span style="color: #f87171;"><strong>inadequate or unsafe toilet facilities</strong></span> such as public toilets, 
+                    bucket/pan systems, or none at all. This reflects urgent <strong>sanitation and dignity gaps</strong> requiring attention.
+                </p>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+
+        
+    elif chart_option == "Solid Waste Storage Methods":
+        st.title("🗑️ Storage of Solid Waste – Savelugu Municipal")
+
+        # Data
+        data = {
+            "Solid Waste Storage": [
+                "Collected", "Collected",
+                "Other vehicles", "Other vehicles",
+                "Central container", "Central container",
+                "Compaction truck", "Compaction truck",
+                "Push carts/Walk-in attendant/Bicycle/Wheelbarrow", "Push carts/Walk-in attendant/Bicycle/Wheelbarrow",
+                "Tricycle", "Tricycle",
+                "Uncollected", "Uncollected",
+                "Burn", "Burn",
+                "Bury in the ground", "Bury in the ground",
+                "Dumped indiscriminately", "Dumped indiscriminately",
+                "Other", "Other",
+                "Public dump/open space", "Public dump/open space"
+            ],
+            "Locality": ["Rural", "Urban"] * 12,
+            "Population": [
+                30, 3101,
+                0, 37,
+                12, 2603,
+                0, 296,
+                17, 64,
+                1, 101,
+                1962, 2061,
+                818, 1617,
+                554, 210,
+                589, 234,
+                1, 0,
+                6426, 9502
+            ]
+        }
+
+        df = pd.DataFrame(data)
+
+        # Calculate total and percent
+        total_population = df["Population"].sum()
+        df["Percent"] = round(df["Population"] / total_population * 100, 2)
+
+        # Unsafe methods to highlight
+        unsafe_methods = [
+            "Uncollected", "Burn", "Bury in the ground",
+            "Dumped indiscriminately", "Public dump/open space"
+        ]
+        df["IsUnsafe"] = df["Solid Waste Storage"].isin(unsafe_methods)
+
+        # Bar chart
+        fig = px.bar(
+            df,
+            x="Population",
+            y="Solid Waste Storage",
+            color="Locality",
+            orientation="h",
+            barmode="group",
+            text="Population",
+            hover_data=["Percent"],
+            title="Distribution of Solid Waste Storage Methods by Locality",
+            color_discrete_map={"Rural": "#2ca02c", "Urban": "#1f77b4"}
+        )
+
+        # Style bars
+        fig.update_traces(
+            textposition="outside",
+            marker_line_width=1.5,
+            marker_line_color="black"
+        )
+
+        fig.update_layout(
+            plot_bgcolor="#111111",
+            paper_bgcolor="#111111",
+            font_color="white",
+            xaxis=dict(title="Population", color="white"),
+            yaxis=dict(title="Storage Method", color="white"),
+            height=700
+        )
+
+        st.plotly_chart(fig, use_container_width=True)
+
+        # ⏺ Pie chart toggle
+        if st.checkbox("🧁 Show Proportion by Locality as Pie Chart"):
+            pie_df = df.groupby("Locality")["Population"].sum().reset_index()
+            pie_fig = px.pie(
+                pie_df,
+                names="Locality",
+                values="Population",
+                title="Proportion of Solid Waste by Locality",
+                color_discrete_sequence=px.colors.sequential.Plasma,
+                color="Locality",
+                color_discrete_map={"Rural": "#2ca02c", "Urban": "#1f77b4"}
+            )
+            pie_fig.update_layout(
+                plot_bgcolor="#111111",
+                paper_bgcolor="#111111",
+                font_color="white"
+            )
+            st.plotly_chart(pie_fig, use_container_width=True)
+
+                # Define unsafe solid waste methods
+            unsafe_methods = ["Burn", "Bury in the ground", "Dumped indiscriminately", "Public dump/open space"]
+
+            # Calculate total population using unsafe methods
+            total_uncollected = df[df["Solid Waste Storage"].isin(unsafe_methods)]["Population"].sum()
+
+            # Card-style Insight Box with dark theme
+            st.markdown(
+                f"""
+                <div style="
+                    background-color: #1e1e1e;
+                    border: 1px solid #444;
+                    padding: 20px;
+                    border-radius: 12px;
+                    margin-top: 20px;
+                    box-shadow: 0 0 10px rgba(0,0,0,0.6);
+                ">
+                    <h4 style="color: #facc15; margin-bottom: 10px;">🧾 Insight</h4>
+                    <p style="color: white; font-size: 16px; line-height: 1.6;">
+                        🔍 <strong>Over {total_uncollected:,} people</strong> in rural and urban areas still dispose waste using
+                        <span style="color: #f87171;"><strong>unsafe methods</strong></span> such as burning, indiscriminate dumping,
+                        or public dumps. This poses significant <strong>environmental</strong> and <strong>public health risks</strong>.
+                    </p>
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
+            
+    # Load and clean the dataset
+    watercoverage = pd.read_csv("CoverageStatistics.csv")
+
+    # Rename columns for readability
+    watercoverage = watercoverage.rename(columns={
+        "No of communities": "No_Comm",
+        "Below 75": "Pop_Under_75",
+        "75 -\n299": "Pop_75_299",
+        "300 -\n1999": "Pop_300_1999",
+        "2000 - 4999 \n": "Pop_2000_4999",
+        "Over 5000": "Pop_Over_5000",
+        "RURAL Population Served\n": "Rural_Served",
+        "RURAL Coverage\n": "Rural_Coverage"
+    })
+
+    # Ensure numeric types for all analysis columns
+    numeric_columns = [
+        'Population', 'Rural_Served', 'Rural_Coverage', 'BH', 'HDW', 'SCPS',
+        'LMS', 'STPS', 'RHS', 'GWCL', 'Pop_Under_75', 'Pop_75_299',
+        'Pop_300_1999', 'Pop_2000_4999', 'Pop_Over_5000'
+    ]
+
+    for col in numeric_columns:
+        watercoverage[col] = pd.to_numeric(watercoverage[col], errors='coerce')
+
+    # Streamlit Title
+    st.title("🚰 Community Water Coverage - Savelugu Constituency (2024)")
+    st.dataframe(watercoverage, use_container_width=True)
+    
+    st.markdown("""
+    <style>
+    /* General tab container */
+    [data-baseweb="tab"] {
+        background-color: #1e1e1e;
+        padding: 10px 16px;
+        margin-right: 8px;
+        border-radius: 8px;
+        border: 1px solid #333;
+        color: #eee;
+        font-weight: 600;
+        font-size: 15px;
+        transition: all 0.2s ease-in-out;
+    }
+
+    /* Hover effect */
+    [data-baseweb="tab"]:hover {
+        background-color: #333;
+        color: #00f2ff;
+        cursor: pointer;
+    }
+
+    /* Selected tab */
+    [aria-selected="true"][data-baseweb="tab"] {
+        background-color: #00f2ff !important;
+        color: #000 !important;
+        font-weight: bold;
+        box-shadow: 0 0 8px #00f2ff;
+    }
+
+    /* Ensure text stays inside */
+    [data-baseweb="tab"] > div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    </style>
+""", unsafe_allow_html=True)
+    st.markdown("""
+    <style>
+    /* Base style for each tab */
+    [data-baseweb="tab"] {
+        background-color: #1f1f1f;
+        padding: 10px 20px;
+        margin-right: 10px;
+        border-radius: 25px; /* pill shape */
+        border: 1px solid #444;
+        color: #eee;
+        font-weight: 500;
+        font-size: 15px;
+        transition: all 0.3s ease;
+    }
+
+    /* Hover effect */
+    [data-baseweb="tab"]:hover {
+        background-color: #333;
+        color: #00f2ff;
+        cursor: pointer;
+    }
+
+    /* Active/selected tab */
+    [aria-selected="true"][data-baseweb="tab"] {
+        background-color: #00f2ff !important;
+        color: #000 !important;
+        font-weight: 700;
+        box-shadow: 0 0 10px #00f2ff;
+    }
+
+    /* Ensure the label text stays inside and aligned */
+    [data-baseweb="tab"] > div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
+
+
+    # Tabs 1–10
+    tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10 = st.tabs([
+        "💧 Boreholes",
+        "🚰 Water Sources Summary",
+        "📊 Population Histogram",
+        "👥 Population Size by Category",
+        "🏘️ Top 10 Populous",
+        "🌊 Top Rural Population Served",
+        "📈 Rural Coverage Distribution",
+        "🧮 Water Source Usage",
+        "🔍 Boreholes vs Coverage",
+        "📊 Correlation Heatmap"
+    ])
+
+    # --- TAB 1: Boreholes ---
+    with tab1:
+        st.subheader("💧 Boreholes by Community")
+        bh_df = watercoverage[watercoverage['BH'] > 0]
+        fig_bh = px.bar(
+            bh_df.sort_values('BH', ascending=False),
+            x='Communities',
+            y='BH',
+            labels={'BH': 'Number of Boreholes'},
+            color='BH',
+            height=500
+        )
+        st.plotly_chart(fig_bh, use_container_width=True)
+
+    # --- TAB 2: Water Source Pie ---
+    with tab2:
+        st.subheader("🚰 Proportion of Water Sources (Doughnut Chart)")
+        source_columns = ['BH', 'HDW', 'SCPS', 'LMS', 'STPS', 'RHS', 'GWCL']
+        source_sums = watercoverage[source_columns].sum().reset_index()
+        source_sums.columns = ['Water Source', 'Total']
+
+        fig_doughnut = px.pie(
+            source_sums,
+            names='Water Source',
+            values='Total',
+            title='Proportion of Water Sources Used Across Communities',
+            color_discrete_sequence=px.colors.sequential.Plasma,
+            hole=0.4  # This makes it a doughnut chart
+        )
+
+        fig_doughnut.update_traces(textinfo='percent+label')
+        fig_doughnut.update_layout(showlegend=True)
+
+        st.plotly_chart(fig_doughnut, use_container_width=True)
+
+
+    # --- TAB 3: Population Histogram ---
+    with tab3:
+        st.subheader("📊 Community Population Distribution")
+        fig_hist = px.histogram(
+            watercoverage,
+            x='Population',
+            nbins=30,
+            labels={'Population': 'Population'},
+            color_discrete_sequence=['#636EFA']
+        )
+        st.plotly_chart(fig_hist, use_container_width=True)
+
+    # --- TAB 4: Population by Size ---
+    with tab4:
+        st.subheader("👥 Population Size Categories")
+        pop_size_df = watercoverage[['Communities', 'Pop_75_299', 'Pop_300_1999', 'Pop_2000_4999', 'Pop_Over_5000']]
+        fig_stack = px.bar(
+            pop_size_df,
+            x='Communities',
+            y=['Pop_75_299', 'Pop_300_1999', 'Pop_2000_4999', 'Pop_Over_5000'],
+            labels={'value': 'Population', 'variable': 'Size Category'},
+            title='Population Size Categories by Community'
+        )
+        st.plotly_chart(fig_stack, use_container_width=True)
+
+    # --- TAB 5: Top 10 Populous Communities ---
+    with tab5:
+        st.subheader("🏘️ Top 10 Most Populous Communities")
+        top_communities = watercoverage.sort_values(by='Population', ascending=False).head(10)
+        st.dataframe(top_communities[['Communities', 'Population']], use_container_width=True)
+
+    # --- TAB 6: Top 10 Communities by Rural Served ---
+    with tab6:
+        st.subheader("🌊 Top 10 Communities by Rural Population Served")
+        top_served = watercoverage.sort_values(by='Rural_Served', ascending=False).head(10)
+        fig_top_served = px.bar(
+            top_served,
+            x='Communities',
+            y='Rural_Served',
+            title='Top 10 Communities by Rural Population Served',
+            labels={'Rural_Served': 'Rural Population Served'},
+            color='Rural_Served',
+            hover_data=['Population', 'Rural_Coverage']
+        )
+        st.plotly_chart(fig_top_served, use_container_width=True)
+
+    # --- TAB 7: Rural Coverage Histogram ---
+    with tab7:
+        st.subheader("📈 Rural Coverage (%) Distribution")
+        fig_coverage_dist = px.histogram(
+            watercoverage,
+            x='Rural_Coverage',
+            nbins=20,
+            title='Distribution of Rural Coverage Percentages',
+            labels={'Rural_Coverage': 'Rural Coverage (%)'},
+            color_discrete_sequence=['#00cc96']
+        )
+        st.plotly_chart(fig_coverage_dist, use_container_width=True)
+
+    # --- TAB 8: Water Source Totals ---
+    with tab8:
+        st.subheader("🧮 Total Count of Each Water Source Type")
+        water_types = ['BH', 'HDW', 'SCPS', 'LMS', 'STPS', 'RHS', 'GWCL']
+        totals_df = watercoverage[water_types].sum().reset_index()
+        totals_df.columns = ['Source', 'Total']
+        fig_sources = px.bar(
+            totals_df,
+            x='Source',
+            y='Total',
+            title='Total Count of Each Water Source Type',
+            color='Total'
+        )
+        st.plotly_chart(fig_sources, use_container_width=True)
+        
+    scatter_df = watercoverage.dropna(subset=['Population', 'BH', 'Rural_Coverage'])
+
+    # --- TAB 9: Boreholes vs Rural Coverage Scatter ---
+    with tab9:
+        st.subheader("🔍 Boreholes vs Rural Coverage (%)")
+        fig_scatter = px.scatter(
+        scatter_df,
+        x='BH',
+        y='Rural_Coverage',
+        size='Population',
+        hover_name='Communities',
+        title='Boreholes vs Rural Coverage (%)',
+        labels={'BH': 'Number of Boreholes', 'Rural_Coverage': 'Rural Coverage (%)'},
+        color='Rural_Coverage',
+        color_continuous_scale='Viridis'
+        )
+
+        st.plotly_chart(fig_scatter, use_container_width=True)
+
+    # --- TAB 10: Correlation Heatmap ---
+    # --- TAB 10: Correlation Heatmap ---
+    # --- TAB 10: Correlation Heatmap ---
+    with tab10:
+        st.subheader("📊 Correlation Heatmap (Dark Theme)")
+
+        import matplotlib.pyplot as plt
+        import seaborn as sns
+
+        # Set dark background theme
+        plt.style.use('dark_background')
+        sns.set_theme(style="darkgrid")
+
+        # Select numeric columns
+        numeric_df = watercoverage.select_dtypes(include='number')
+
+        # Create figure and dark theme settings
+        fig, ax = plt.subplots(figsize=(12, 8))
+        fig.patch.set_facecolor('#111')  # Background of the entire figure
+        ax.set_facecolor('#111')         # Background of the heatmap itself
+
+        # Draw heatmap
+        sns.heatmap(
+            numeric_df.corr(),
+            annot=True,
+            cmap='viridis',        # or 'rocket_r', 'coolwarm', 'plasma', 'magma'
+            fmt=".2f",
+            ax=ax,
+            cbar=True,
+            linewidths=0.5,
+            linecolor='#333'
+        )
+
+        # Optional: Make tick labels bright
+        ax.tick_params(axis='both', colors='white')
+        st.pyplot(fig)
+
+
+
+    st.markdown("""
+<style>
+    .definitions-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 1.5em;
+        font-family: 'Segoe UI', sans-serif;
+        font-size: 0.95rem;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 0 8px rgba(255, 255, 255, 0.05);
+    }
+
+    .definitions-table thead {
+        background-color: #222;
+        color: #fff;
+    }
+
+    .definitions-table th, .definitions-table td {
+        padding: 0.75em 1em;
+        text-align: left;
+        border-bottom: 1px solid #333;
+    }
+
+    .definitions-table tbody tr:nth-child(even) {
+        background-color: #111;
+    }
+
+    .definitions-table tbody tr:hover {
+        background-color: #1a1a1a;
+    }
+
+    .definitions-table td {
+        color: #eee;
+    }
+
+    .definitions-table b {
+        color: #fff;
+    }
+</style>
+
+<table class="definitions-table">
+<thead>
+<tr>
+    <th>Column Name</th>
+    <th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><b>Community</b></td><td>Name of the locality or town</td></tr>
+<tr><td><b>Total Population</b></td><td>Entire population of that community</td></tr>
+<tr><td><b>Pop. 75-299</b></td><td>People in settlements with 75–299 people</td></tr>
+<tr><td><b>Pop. 300-1999</b></td><td>People in medium-size communities (300–1999)</td></tr>
+<tr><td><b>Pop. 2000-4999</b></td><td>People in large communities (2000–4999)</td></tr>
+<tr><td><b>Pop. 5000+</b></td><td>People in major towns or urban centers</td></tr>
+<tr><td><b>Rural Population</b></td><td>Number of people classified as rural in that community</td></tr>
+<tr><td><b>Population Served</b></td><td>Number of rural people with access to potable water</td></tr>
+<tr><td><b>Rural Coverage (%)</b></td><td>Percentage of rural population with potable water</td></tr>
+<tr><td><b>Population Group Served</b></td><td>Specific group of rural people served</td></tr>
+<tr><td><b>No. of Communities</b></td><td>Total communities counted in the dataset</td></tr>
+<tr><td><b>BH</b></td><td>Boreholes available in the community</td></tr>
+<tr><td><b>HDW</b></td><td>Hand-dug wells count</td></tr>
+<tr><td><b>SCPS</b></td><td>Small community piped systems</td></tr>
+<tr><td><b>LMS</b></td><td>Limited mechanized systems</td></tr>
+<tr><td><b>STPS</b></td><td>Small town piped systems</td></tr>
+<tr><td><b>RHS</b></td><td>Rain harvesting systems</td></tr>
+<tr><td><b>GWCL</b></td><td>Ghana Water Company Limited connection (urban piped supply)</td></tr>
+</tbody>
+</table>
+""", unsafe_allow_html=True)
+    with tab2:
+        st.subheader("🚰 Proportion of Water Sources")
+
+        source_columns = ['BH', 'HDW', 'SCPS', 'LMS', 'STPS', 'RHS', 'GWCL']
+        source_sums = watercoverage[source_columns].sum().reset_index()
+        source_sums.columns = ['Water Source', 'Total']
+
+        fig_doughnut = px.pie(
+            source_sums,
+            names='Water Source',
+            values='Total',
+            hole=0.5,  # Doughnut style
+            title='Water Sources Used Across Communities',
+            color_discrete_sequence=px.colors.sequential.RdBu
+        )
+
+        fig_doughnut.update_traces(
+            textinfo='percent+label',
+            marker=dict(
+                line=dict(color='white', width=2),  # border for "depth" feel
+                colors=[
+                    '#1f77b4', '#ff7f0e', '#2ca02c',
+                    '#d62728', '#9467bd', '#8c564b', '#e377c2'
+                ]
+            )
+        )
+
+        fig_doughnut.update_layout(
+            showlegend=True,
+            paper_bgcolor='black',
+            plot_bgcolor='black',
+            font=dict(color='white'),
+            title_font=dict(size=20)
+        )
+
+        st.plotly_chart(fig_doughnut, use_container_width=True)
+
+
 
 if __name__ == "__main__":
-    app()
+    app()            
