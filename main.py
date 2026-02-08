@@ -275,7 +275,7 @@ with st.sidebar:
             "building", "columns-gap", "graph-up-arrow",
             "droplet-half", "bar-chart-steps", "people",
             "house-door", "heart-pulse", "book",
-            "activity","building","building","building","baby"
+            "activity","building","building","building","baby-fill"  
         ],
         menu_icon="",
         default_index=0,
